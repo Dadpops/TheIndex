@@ -1,0 +1,1025 @@
+{
+  "primary": {
+    "slug": "youngblood",
+    "name": "Youngblood",
+    "entity_type": "team",
+    "role": "hero",
+    "publisher_slug": "image",
+    "real_name": null,
+    "first_appearance": "Youngblood #1 (1992)",
+    "logo_url": null,
+    "cover_image_url": null,
+    "short_bio": "Youngblood is a government-sanctioned superteam operating as celebrity public servants, blending superheroics with corporate sponsorship and media spectacle. Launched as one of Image Comics' founding titles, the team is split into home and away divisions tackling domestic and international threats.",
+    "eras": [
+      {
+        "slug": "image-foundations",
+        "title": "Image Foundations",
+        "start_year": 1992,
+        "end_year": 1996,
+        "order_index": 1,
+        "summary": "The team debuts as a flagship Image launch, defining the early-90s aesthetic of splashy action and government-backed super-celebrity. Two divisions, home and away, share the spotlight across high-energy adventures.",
+        "arcs": [
+          {
+            "slug": "youngblood-genesis",
+            "title": "Youngblood Genesis",
+            "logline": "A government super-team is assembled and thrust into the public eye as media-managed celebrity heroes.",
+            "summary": "The opening saga introduces the roster as a federally sanctioned squad designed as much for press conferences as for combat. Shaft leads the home team while a separate away division handles covert international action, establishing the dual structure that defines the franchise.\n\nThe early issues lean into spectacle, with full-page splashes and roster-wide brawls against organized threats. Beneath the gloss, the book gestures at the friction between heroism and the machinery of government oversight and corporate sponsorship.\n\nThis era cemented the team as a tentpole of the newly formed Image Comics, riding a wave of speculator enthusiasm and bold, kinetic artwork.",
+            "spoiler": null,
+            "arc_type": "origin",
+            "start_year": 1992,
+            "end_year": 1992,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "Youngblood #1-5",
+                "format": "single_issues",
+                "issue_range": "#1-5",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "darkthornn-incursion",
+            "title": "The Darkthornn Incursion",
+            "logline": "An otherworldly warlord tests the team's away division on hostile foreign soil.",
+            "summary": "With the home team occupied stateside, the away division confronts a brutal extradimensional threat that pushes their resources to the limit. The conflict raises the stakes from street-level spectacle to world-threatening warfare.\n\nThe arc deepens the supporting cast and showcases the team's harder-edged operatives. It also begins to question who truly directs Youngblood's missions and to what end.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 1993,
+            "end_year": 1993,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "Youngblood #6-8",
+                "format": "single_issues",
+                "issue_range": "#6-8",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "modern-revivals",
+        "title": "Modern Revivals",
+        "start_year": 1998,
+        "end_year": 2018,
+        "order_index": 2,
+        "summary": "Across multiple relaunches, the team is reimagined with sharper satire about celebrity, surveillance, and the cost of fame. New creative teams interrogate what it means to be a sanctioned hero in a media-saturated age.",
+        "arcs": [
+          {
+            "slug": "judgment-day-fallout",
+            "title": "Judgment Day Fallout",
+            "logline": "A line-wide reckoning forces the team to answer for the consequences of celebrity heroism.",
+            "summary": "In the wake of a publishing-wide event, the team's status quo is shaken and its members confront accountability for past actions. The story reframes the squad less as triumphant icons and more as flawed public figures.\n\nThe arc trades pure spectacle for character work, examining loyalty, betrayal, and the burden of being watched. It sets the table for darker, more introspective revivals to come.",
+            "spoiler": null,
+            "arc_type": "crossover",
+            "start_year": 1998,
+            "end_year": 1998,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "Youngblood: Judgment Day Tie-Ins",
+                "format": "trade",
+                "issue_range": null,
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "focus-tested-heroes",
+            "title": "Focus-Tested Heroes",
+            "logline": "A new generation of recruits navigates fame, sponsorship, and the surveillance state.",
+            "summary": "A modern relaunch introduces fresh members managed by a slick corporate apparatus that treats heroism as a brand. The satire sharpens, skewering influencer culture and the commodification of public service.\n\nLegacy members clash with newcomers over what Youngblood should stand for. The arc balances knowing humor with genuine stakes, updating the concept for a connected, image-obsessed era.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 2017,
+            "end_year": 2018,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "Youngblood: Reborn",
+                "format": "trade",
+                "issue_range": "#1-6",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "start_here": [
+      {
+        "order_index": 1,
+        "label": "Absolute Beginner",
+        "reason": "Start at the very beginning to meet the roster and the celebrity-hero premise as Image fans first did in 1992.",
+        "arc_slug": "youngblood-genesis"
+      },
+      {
+        "order_index": 2,
+        "label": "Classic Fan",
+        "reason": "A high-stakes early showcase for the away division and the franchise's harder edge.",
+        "arc_slug": "darkthornn-incursion"
+      },
+      {
+        "order_index": 3,
+        "label": "Modern Era",
+        "reason": "The contemporary relaunch sharpens the satire of fame and sponsorship for new readers.",
+        "arc_slug": "focus-tested-heroes"
+      }
+    ],
+    "relationships": [
+      {
+        "related_slug": "shaft",
+        "relationship": "ally",
+        "summary": "Shaft is the field leader of the home team and the franchise's signature archer.",
+        "notes": "He coordinates the squad's most public missions and embodies its celebrity-hero ethos."
+      },
+      {
+        "related_slug": "badrock",
+        "relationship": "ally",
+        "summary": "Badrock is the team's rock-bodied powerhouse and youthful heart.",
+        "notes": "His teenage perspective grounds the team amid the spectacle of fame."
+      },
+      {
+        "related_slug": "diehard",
+        "relationship": "ally",
+        "summary": "Diehard is a veteran cyborg soldier who anchors the team's experience.",
+        "notes": "He carries decades of conflict and serves as a tactical conscience for younger members."
+      },
+      {
+        "related_slug": "vogue",
+        "relationship": "ally",
+        "summary": "Vogue is a striking combatant blending model-grade poise with lethal skill.",
+        "notes": "She thrives in the media glare while remaining a dangerous frontline operative."
+      },
+      {
+        "related_slug": "overtkill",
+        "relationship": "enemy",
+        "summary": "Overtkill is a cybernetic killing machine repeatedly pitted against the team.",
+        "notes": "His relentless assaults test the squad's coordination and firepower."
+      },
+      {
+        "related_slug": "darkthornn",
+        "relationship": "enemy",
+        "summary": "Darkthornn is an extradimensional warlord menacing the away division.",
+        "notes": "His incursions escalate the team's missions to world-threatening scale."
+      },
+      {
+        "related_slug": "giga",
+        "relationship": "enemy",
+        "summary": "Giga is a towering threat whose raw scale overwhelms conventional response.",
+        "notes": "Containing Giga forces the team to coordinate both divisions at once."
+      },
+      {
+        "related_slug": "the-disciples",
+        "relationship": "enemy",
+        "summary": "The Disciples are a fanatical organization opposing the team's sanctioned heroics.",
+        "notes": "Their ideological crusade makes them recurring adversaries across eras."
+      }
+    ],
+    "media": [
+      {
+        "media_type": "video_game",
+        "title": "Youngblood (Sega CD prototype era)",
+        "release_year": null,
+        "watch_order": null,
+        "platform": "Sega CD",
+        "notes": "An early-90s licensed game tied to the franchise's peak popularity."
+      },
+      {
+        "media_type": "animated_series",
+        "title": "Youngblood (proposed animated adaptation)",
+        "release_year": null,
+        "watch_order": null,
+        "platform": null,
+        "notes": "A long-discussed animated treatment reflecting the team's media-friendly concept."
+      },
+      {
+        "media_type": "film",
+        "title": "Youngblood (developmental feature)",
+        "release_year": null,
+        "watch_order": null,
+        "platform": null,
+        "notes": "A live-action feature has been in development across multiple rights eras."
+      }
+    ],
+    "team_members": [
+      {
+        "character_slug": "shaft",
+        "era_slug": "image-foundations",
+        "role": "leader",
+        "notes": "Field leader of the home team and the team's marquee marksman."
+      },
+      {
+        "character_slug": "badrock",
+        "era_slug": "image-foundations",
+        "role": "member",
+        "notes": "Teenage powerhouse providing brute strength and heart."
+      },
+      {
+        "character_slug": "diehard",
+        "era_slug": "image-foundations",
+        "role": "founder",
+        "notes": "Veteran cyborg soldier and one of the team's foundational operatives."
+      },
+      {
+        "character_slug": "vogue",
+        "era_slug": "image-foundations",
+        "role": "member",
+        "notes": "Model-turned-combatant excelling under the media spotlight."
+      },
+      {
+        "character_slug": "chapel",
+        "era_slug": "image-foundations",
+        "role": "member",
+        "notes": "Lethal special-operations marksman assigned to the away division."
+      },
+      {
+        "character_slug": "sentinel",
+        "era_slug": "modern-revivals",
+        "role": "member",
+        "notes": "Armored operative bridging classic and modern incarnations of the team."
+      }
+    ]
+  },
+  "supporting": [
+    {
+      "slug": "shaft",
+      "name": "Shaft",
+      "entity_type": "character",
+      "role": "hero",
+      "publisher_slug": "image",
+      "real_name": "Jeff Terrell",
+      "first_appearance": "Youngblood #1 (1992)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Shaft is the bow-wielding field leader of Youngblood's home team and the franchise's signature hero. A disciplined marksman, he balances genuine heroism against the demands of celebrity and government oversight.",
+      "eras": [
+        {
+          "slug": "shaft-foundations",
+          "title": "Founding Leader",
+          "start_year": 1992,
+          "end_year": 1996,
+          "order_index": 1,
+          "summary": "Shaft anchors the original team as its public face and tactical leader.",
+          "arcs": [
+            {
+              "slug": "shaft-takes-aim",
+              "title": "Takes Aim",
+              "logline": "A celebrated archer steps up to lead a government-backed superteam in the spotlight.",
+              "summary": "Shaft establishes himself as the steady center of a flashy, media-managed squad. His leadership is tested by both external threats and the pressures of fame.\n\nThe arc defines his blend of professionalism and idealism, setting the tone for the franchise.",
+              "spoiler": null,
+              "arc_type": "origin",
+              "start_year": 1992,
+              "end_year": 1992,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Youngblood #1-3",
+                  "format": "single_issues",
+                  "issue_range": "#1-3",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Absolute Beginner",
+          "reason": "Meet the team's leader at the franchise's origin.",
+          "arc_slug": "shaft-takes-aim"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "youngblood",
+          "relationship": "ally",
+          "summary": "Shaft leads Youngblood's home team.",
+          "notes": "He is the squad's public face and tactical commander."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "video_game",
+          "title": "Youngblood (Sega CD prototype era)",
+          "release_year": null,
+          "watch_order": null,
+          "platform": "Sega CD",
+          "notes": "Featured as a playable team leader."
+        },
+        {
+          "media_type": "film",
+          "title": "Youngblood (developmental feature)",
+          "release_year": null,
+          "watch_order": null,
+          "platform": null,
+          "notes": "Central to proposed adaptations."
+        }
+      ]
+    },
+    {
+      "slug": "badrock",
+      "name": "Badrock",
+      "entity_type": "character",
+      "role": "hero",
+      "publisher_slug": "image",
+      "real_name": "Thomas John McCall",
+      "first_appearance": "Youngblood #1 (1992)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Badrock is a teenager transformed into a massive rock-bodied powerhouse after a freak accident. His youthful enthusiasm and immense strength make him one of Youngblood's most popular members.",
+      "eras": [
+        {
+          "slug": "badrock-foundations",
+          "title": "Rock Solid",
+          "start_year": 1992,
+          "end_year": 1996,
+          "order_index": 1,
+          "summary": "Badrock brings raw power and a kid's perspective to the team.",
+          "arcs": [
+            {
+              "slug": "badrock-breakthrough",
+              "title": "Breakthrough",
+              "logline": "A transformed teen learns to be a hero while navigating a body of living stone.",
+              "summary": "Badrock joins the team and quickly becomes its heart, balancing classroom anxieties with world-saving missions. His arc explores growing up in the glare of celebrity heroics.\n\nHis strength frequently turns the tide in the team's biggest battles.",
+              "spoiler": null,
+              "arc_type": "origin",
+              "start_year": 1992,
+              "end_year": 1993,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Youngblood #1-4",
+                  "format": "single_issues",
+                  "issue_range": "#1-4",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Absolute Beginner",
+          "reason": "See the team's powerhouse find his footing.",
+          "arc_slug": "badrock-breakthrough"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "youngblood",
+          "relationship": "ally",
+          "summary": "Badrock is a core member of Youngblood.",
+          "notes": "He provides muscle and emotional grounding for the squad."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "video_game",
+          "title": "Youngblood (Sega CD prototype era)",
+          "release_year": null,
+          "watch_order": null,
+          "platform": "Sega CD",
+          "notes": "A fan-favorite playable bruiser."
+        },
+        {
+          "media_type": "animated_series",
+          "title": "Youngblood (proposed animated adaptation)",
+          "release_year": null,
+          "watch_order": null,
+          "platform": null,
+          "notes": "Highlighted as a marketable character."
+        }
+      ]
+    },
+    {
+      "slug": "diehard",
+      "name": "Diehard",
+      "entity_type": "character",
+      "role": "hero",
+      "publisher_slug": "image",
+      "real_name": null,
+      "first_appearance": "Youngblood #1 (1992)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Diehard is a battle-hardened cyborg soldier whose consciousness has served across decades of conflict. As a foundational member, he provides the team with experience, tactical depth, and a measure of conscience.",
+      "eras": [
+        {
+          "slug": "diehard-foundations",
+          "title": "Old Soldier",
+          "start_year": 1992,
+          "end_year": 1996,
+          "order_index": 1,
+          "summary": "Diehard anchors the team with hard-won military wisdom.",
+          "arcs": [
+            {
+              "slug": "diehard-long-war",
+              "title": "The Long War",
+              "logline": "A veteran cyborg brings decades of combat experience to a team of upstarts.",
+              "summary": "Diehard serves as the seasoned counterweight to younger, flashier members. His arc reckons with what it means to keep fighting across generations.\n\nHe often voices the moral cost of the team's sanctioned missions.",
+              "spoiler": null,
+              "arc_type": "origin",
+              "start_year": 1992,
+              "end_year": 1994,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Youngblood #1-6",
+                  "format": "single_issues",
+                  "issue_range": "#1-6",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "youngblood",
+          "relationship": "ally",
+          "summary": "Diehard is a founding member of Youngblood.",
+          "notes": "He offers tactical leadership and a veteran's perspective."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "video_game",
+          "title": "Youngblood (Sega CD prototype era)",
+          "release_year": null,
+          "watch_order": null,
+          "platform": "Sega CD",
+          "notes": "Appears as a heavy-hitting veteran."
+        },
+        {
+          "media_type": "film",
+          "title": "Youngblood (developmental feature)",
+          "release_year": null,
+          "watch_order": null,
+          "platform": null,
+          "notes": "Cited in proposed ensemble casts."
+        }
+      ]
+    },
+    {
+      "slug": "vogue",
+      "name": "Vogue",
+      "entity_type": "character",
+      "role": "hero",
+      "publisher_slug": "image",
+      "real_name": null,
+      "first_appearance": "Youngblood #1 (1992)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Vogue is a glamorous and lethal combatant who embodies the team's fusion of celebrity and combat prowess. She thrives under the media spotlight while remaining a formidable frontline operative.",
+      "eras": [
+        {
+          "slug": "vogue-foundations",
+          "title": "Spotlight Operative",
+          "start_year": 1992,
+          "end_year": 1996,
+          "order_index": 1,
+          "summary": "Vogue blends model-grade poise with frontline ferocity.",
+          "arcs": [
+            {
+              "slug": "vogue-on-the-runway",
+              "title": "On the Runway",
+              "logline": "A glamorous fighter proves she's as dangerous as she is photogenic.",
+              "summary": "Vogue navigates the team's celebrity culture while establishing herself as a genuine threat in combat. Her arc plays with the tension between image and substance.\n\nShe becomes a fixture of the team's public persona.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 1992,
+              "end_year": 1993,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Youngblood #1-5",
+                  "format": "single_issues",
+                  "issue_range": "#1-5",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Absolute Beginner",
+          "reason": "Discover one of the team's standout operatives.",
+          "arc_slug": "vogue-on-the-runway"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "youngblood",
+          "relationship": "ally",
+          "summary": "Vogue is a core member of Youngblood.",
+          "notes": "She is central to the team's media image and frontline strength."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "video_game",
+          "title": "Youngblood (Sega CD prototype era)",
+          "release_year": null,
+          "watch_order": null,
+          "platform": "Sega CD",
+          "notes": "A playable agile fighter."
+        },
+        {
+          "media_type": "animated_series",
+          "title": "Youngblood (proposed animated adaptation)",
+          "release_year": null,
+          "watch_order": null,
+          "platform": null,
+          "notes": "Featured in promotional concepts."
+        }
+      ]
+    },
+    {
+      "slug": "chapel",
+      "name": "Chapel",
+      "entity_type": "character",
+      "role": "hero",
+      "publisher_slug": "image",
+      "real_name": "Bruce Stinson",
+      "first_appearance": "Youngblood #1 (1992)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Chapel is a lethal special-operations marksman assigned to Youngblood's away division. A grim soldier with a violent past, he brings a darker, more morally complicated edge to the team.",
+      "eras": [
+        {
+          "slug": "chapel-foundations",
+          "title": "Away Division",
+          "start_year": 1992,
+          "end_year": 1996,
+          "order_index": 1,
+          "summary": "Chapel handles the team's hardest covert assignments.",
+          "arcs": [
+            {
+              "slug": "chapel-clean-kill",
+              "title": "Clean Kill",
+              "logline": "A special-ops soldier wrestles with his violent calling on covert missions.",
+              "summary": "Chapel operates in the shadows of the team's public heroics, taking on assignments others won't. His arc grapples with guilt and redemption.\n\nHis grim professionalism contrasts sharply with the team's celebrity sheen.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 1992,
+              "end_year": 1994,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Youngblood #1-8",
+                  "format": "single_issues",
+                  "issue_range": "#1-8",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "youngblood",
+          "relationship": "ally",
+          "summary": "Chapel serves on Youngblood's away division.",
+          "notes": "He executes the team's most dangerous covert operations."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "video_game",
+          "title": "Youngblood (Sega CD prototype era)",
+          "release_year": null,
+          "watch_order": null,
+          "platform": "Sega CD",
+          "notes": "A grim covert specialist."
+        },
+        {
+          "media_type": "film",
+          "title": "Youngblood (developmental feature)",
+          "release_year": null,
+          "watch_order": null,
+          "platform": null,
+          "notes": "Noted as a fan-favorite for adaptation."
+        }
+      ]
+    },
+    {
+      "slug": "sentinel",
+      "name": "Sentinel",
+      "entity_type": "character",
+      "role": "hero",
+      "publisher_slug": "image",
+      "real_name": null,
+      "first_appearance": "Youngblood (vol. 2) #1 (1995)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Sentinel is an armored operative who bridges the classic and modern incarnations of the team. Disciplined and tech-driven, he represents Youngblood's evolution into newer eras.",
+      "eras": [
+        {
+          "slug": "sentinel-modern",
+          "title": "New Guard",
+          "start_year": 1995,
+          "end_year": 2018,
+          "order_index": 1,
+          "summary": "Sentinel carries the team forward through its modern relaunches.",
+          "arcs": [
+            {
+              "slug": "sentinel-standing-watch",
+              "title": "Standing Watch",
+              "logline": "An armored newcomer steps in to modernize the team's defensive line.",
+              "summary": "Sentinel joins as the team reinvents itself for a new era, bringing advanced tech and a steady temperament. His arc bridges legacy members and fresh recruits.\n\nHe embodies the franchise's push toward sharper, more contemporary storytelling.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 1995,
+              "end_year": 1996,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Youngblood vol. 2 #1-3",
+                  "format": "single_issues",
+                  "issue_range": "#1-3",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "youngblood",
+          "relationship": "ally",
+          "summary": "Sentinel is a member of Youngblood across modern eras.",
+          "notes": "He bridges the team's classic and contemporary rosters."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "video_game",
+          "title": "Youngblood (Sega CD prototype era)",
+          "release_year": null,
+          "watch_order": null,
+          "platform": "Sega CD",
+          "notes": "Appears as a defensive specialist."
+        },
+        {
+          "media_type": "animated_series",
+          "title": "Youngblood (proposed animated adaptation)",
+          "release_year": null,
+          "watch_order": null,
+          "platform": null,
+          "notes": "Considered for modern adaptations."
+        }
+      ]
+    },
+    {
+      "slug": "overtkill",
+      "name": "Overtkill",
+      "entity_type": "character",
+      "role": "villain",
+      "publisher_slug": "image",
+      "real_name": null,
+      "first_appearance": "Spawn #6 (1992)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Overtkill is a cybernetic killing machine engineered for relentless destruction. A recurring threat in the Image universe, his sheer firepower makes him a brutal adversary for sanctioned hero teams.",
+      "eras": [
+        {
+          "slug": "overtkill-rampage",
+          "title": "Engineered Killer",
+          "start_year": 1992,
+          "end_year": 1996,
+          "order_index": 1,
+          "summary": "Overtkill cuts a path of destruction across the Image universe.",
+          "arcs": [
+            {
+              "slug": "overtkill-unleashed",
+              "title": "Unleashed",
+              "logline": "A cybernetic juggernaut is loosed against the city's heroes.",
+              "summary": "Overtkill emerges as an unstoppable engineered weapon, testing any team that stands in his way. His attacks demand overwhelming coordinated force.\n\nHe becomes a benchmark threat for measuring a team's firepower.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 1992,
+              "end_year": 1993,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Spawn #6-7",
+                  "format": "single_issues",
+                  "issue_range": "#6-7",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "youngblood",
+          "relationship": "enemy",
+          "summary": "Overtkill is a recurring foe of Youngblood.",
+          "notes": "His raw firepower forces the team to fight at full strength."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "video_game",
+          "title": "Spawn (1990s tie-in)",
+          "release_year": null,
+          "watch_order": null,
+          "platform": null,
+          "notes": "Appears as a heavyweight enemy."
+        },
+        {
+          "media_type": "animated_series",
+          "title": "Todd McFarlane's Spawn",
+          "release_year": 1997,
+          "watch_order": null,
+          "platform": "HBO",
+          "notes": "Cybernetic enforcer in the animated series milieu."
+        }
+      ]
+    },
+    {
+      "slug": "darkthornn",
+      "name": "Darkthornn",
+      "entity_type": "character",
+      "role": "villain",
+      "publisher_slug": "image",
+      "real_name": null,
+      "first_appearance": "Youngblood #6 (1993)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Darkthornn is an extradimensional warlord whose incursions threaten entire worlds. He pits his alien armies against the team's away division in escalating conflicts.",
+      "eras": [
+        {
+          "slug": "darkthornn-conquest",
+          "title": "Warlord's Conquest",
+          "start_year": 1993,
+          "end_year": 1996,
+          "order_index": 1,
+          "summary": "Darkthornn wages war from beyond known space.",
+          "arcs": [
+            {
+              "slug": "darkthornn-invasion",
+              "title": "Invasion",
+              "logline": "An alien warlord launches a campaign against Earth's sanctioned heroes.",
+              "summary": "Darkthornn brings world-threatening warfare to the team's doorstep, forcing them into a desperate defense. His campaign raises the franchise's stakes dramatically.\n\nHe stands as a defining cosmic-scale antagonist for the away division.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 1993,
+              "end_year": 1994,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Youngblood #6-8",
+                  "format": "single_issues",
+                  "issue_range": "#6-8",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "youngblood",
+          "relationship": "enemy",
+          "summary": "Darkthornn is a recurring enemy of Youngblood.",
+          "notes": "His incursions escalate the team's missions to cosmic scale."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "video_game",
+          "title": "Youngblood (Sega CD prototype era)",
+          "release_year": null,
+          "watch_order": null,
+          "platform": "Sega CD",
+          "notes": "Featured as a boss-level antagonist."
+        },
+        {
+          "media_type": "film",
+          "title": "Youngblood (developmental feature)",
+          "release_year": null,
+          "watch_order": null,
+          "platform": null,
+          "notes": "Cited as a potential major villain."
+        }
+      ]
+    },
+    {
+      "slug": "giga",
+      "name": "Giga",
+      "entity_type": "character",
+      "role": "villain",
+      "publisher_slug": "image",
+      "real_name": null,
+      "first_appearance": "Youngblood #4 (1992)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Giga is a colossal threat whose sheer scale overwhelms conventional defenses. Containing the creature demands the full combined might of the team's divisions.",
+      "eras": [
+        {
+          "slug": "giga-rampage",
+          "title": "Colossal Threat",
+          "start_year": 1992,
+          "end_year": 1996,
+          "order_index": 1,
+          "summary": "Giga's scale dwarfs ordinary opposition.",
+          "arcs": [
+            {
+              "slug": "giga-rising",
+              "title": "Rising",
+              "logline": "A towering menace forces the team to unite both divisions to survive.",
+              "summary": "Giga's appearance turns a routine mission into a desperate containment effort. The creature's scale pushes the team beyond its usual tactics.\n\nThe confrontation becomes a showcase of full-roster cooperation.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 1992,
+              "end_year": 1993,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Youngblood #4-5",
+                  "format": "single_issues",
+                  "issue_range": "#4-5",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "youngblood",
+          "relationship": "enemy",
+          "summary": "Giga is a recurring threat to Youngblood.",
+          "notes": "Its scale forces the team to coordinate both divisions."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "video_game",
+          "title": "Youngblood (Sega CD prototype era)",
+          "release_year": null,
+          "watch_order": null,
+          "platform": "Sega CD",
+          "notes": "A giant boss encounter."
+        },
+        {
+          "media_type": "animated_series",
+          "title": "Youngblood (proposed animated adaptation)",
+          "release_year": null,
+          "watch_order": null,
+          "platform": null,
+          "notes": "Concept villain for a screen treatment."
+        }
+      ]
+    },
+    {
+      "slug": "the-disciples",
+      "name": "The Disciples",
+      "entity_type": "team",
+      "role": "villain",
+      "publisher_slug": "image",
+      "real_name": null,
+      "first_appearance": "Youngblood #2 (1992)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "The Disciples are a fanatical organization opposed to government-sanctioned heroics. Driven by ideology, they wage a sustained campaign against the team across multiple eras.",
+      "eras": [
+        {
+          "slug": "disciples-crusade",
+          "title": "The Crusade",
+          "start_year": 1992,
+          "end_year": 1996,
+          "order_index": 1,
+          "summary": "The Disciples pursue an ideological war against sanctioned heroes.",
+          "arcs": [
+            {
+              "slug": "disciples-uprising",
+              "title": "Uprising",
+              "logline": "A zealous organization rises to oppose government-backed superheroes.",
+              "summary": "The Disciples emerge as a coordinated force convinced that sanctioned heroes are a threat to be eliminated. Their crusade puts them at odds with the team again and again.\n\nTheir conviction makes them dangerous, recurring adversaries.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 1992,
+              "end_year": 1994,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Youngblood #2-5",
+                  "format": "single_issues",
+                  "issue_range": "#2-5",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "youngblood",
+          "relationship": "enemy",
+          "summary": "The Disciples are recurring enemies of Youngblood.",
+          "notes": "Their ideological crusade keeps them in conflict with the team."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "video_game",
+          "title": "Youngblood (Sega CD prototype era)",
+          "release_year": null,
+          "watch_order": null,
+          "platform": "Sega CD",
+          "notes": "Appear as recurring enemy forces."
+        },
+        {
+          "media_type": "film",
+          "title": "Youngblood (developmental feature)",
+          "release_year": null,
+          "watch_order": null,
+          "platform": null,
+          "notes": "Concept antagonists for a potential adaptation."
+        }
+      ]
+    }
+  ]
+}

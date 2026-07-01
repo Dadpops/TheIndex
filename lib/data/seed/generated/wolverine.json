@@ -1,0 +1,748 @@
+{
+  "primary": {
+    "slug": "wolverine",
+    "name": "Wolverine",
+    "entity_type": "character",
+    "publisher_slug": "marvel",
+    "real_name": "Logan / James Howlett",
+    "first_appearance": "The Incredible Hulk #180 (1974)",
+    "logo_url": null,
+    "cover_image_url": null,
+    "short_bio": "A gruff, nigh-immortal mutant with a healing factor, animal-keen senses, and an unbreakable adamantium skeleton tipped with retractable claws. Haunted by a century of buried memories and the savage 'berserker rage' he fights to control, Logan has been a samurai, a soldier, a spy, and one of the X-Men's deadliest and most loyal members. Beneath the snarl is a fiercely protective mentor who repeatedly risks everything for those he loves.",
+    "eras": [
+      {
+        "slug": "first-blood-the-bronze-age",
+        "title": "First Blood: The Bronze Age",
+        "start_year": 1974,
+        "end_year": 1985,
+        "order_index": 1,
+        "summary": "Logan claws his way from a one-off Hulk antagonist into a breakout member of the All-New, All-Different X-Men. This era establishes his costume, his temper, and the first deep explorations of the man behind the mask.",
+        "arcs": [
+          {
+            "slug": "enter-the-wolverine",
+            "title": "Enter the Wolverine",
+            "logline": "A feral Canadian operative is sent to take down the Hulk and instead launches one of comics' great careers.",
+            "summary": "Wolverine debuts as a government-sanctioned agent of the Canadian Department H, dispatched into the wilderness to subdue the rampaging Hulk alongside the monstrous Wendigo. Short, savage, and unpredictable, the new character makes an immediate impression with his bravado and his gleaming claws.\n\nThough conceived as a minor adversary, Logan's distinctive personality and design caught the attention of editors looking to revamp Marvel's mutant team. Within a year he would be recruited into a new international roster of X-Men, trading the Canadian wilds for Professor Xavier's school.\n\nThis arc is the seed of everything: the costume, the claws, the chip on the shoulder, and the mystery of who he really is. It rewards readers who want to see exactly where the legend began.",
+            "spoiler": null,
+            "arc_type": "origin",
+            "start_year": 1974,
+            "end_year": 1974,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "The Incredible Hulk #180-181",
+                "format": "single_issues",
+                "issue_range": "#180-181",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              },
+              {
+                "title": "Incredible Hulk Epic Collection: Crisis on Counter-Earth",
+                "format": "trade",
+                "issue_range": null,
+                "reading_order": 2,
+                "publication_order": 2,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "all-new-all-different-x-men",
+            "title": "Joining the All-New, All-Different X-Men",
+            "logline": "Logan signs on with a new international team of mutants and finds, reluctantly, a family.",
+            "summary": "Recruited to rescue the original X-Men from the living island Krakoa, Wolverine becomes a charter member of the revamped team alongside Storm, Colossus, Nightcrawler, and Banshee. The loner chafes against authority and clashes with team leader Cyclops, but slowly the school becomes the closest thing to a home he has known.\n\nThis run, guided by the influential Claremont era, deepens Logan into a fully realized character. His unrequited feelings for Jean Grey, his rivalry with Scott Summers, and his protective bond with younger teammates all take root here.\n\nIt is the foundation of the modern X-Men mythos and the place where Wolverine transforms from a gimmick into a star.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 1975,
+            "end_year": 1981,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "Giant-Size X-Men #1",
+                "format": "single_issues",
+                "issue_range": "#1",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              },
+              {
+                "title": "X-Men Omnibus Vol. 1 (Claremont/Cockrum/Byrne)",
+                "format": "omnibus",
+                "issue_range": "Uncanny X-Men #94-131",
+                "reading_order": 2,
+                "publication_order": 2,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "honor-and-the-soul-japan",
+            "title": "Honor and the Soul: The Japan Saga",
+            "logline": "In Japan, Logan pursues a lost love and confronts whether a berserker can live by a code of honor.",
+            "summary": "Claremont and Frank Miller's landmark 1982 limited series sends Wolverine to Japan, where his love for Mariko Yashida draws him into a web of clan politics, ninjas, and the deadly Hand. Stripped of his usual allies, Logan must master himself before he can earn the woman he loves.\n\nThe story reframes Wolverine as a tragic, almost samurai figure torn between the animal and the man. Miller's kinetic art and Claremont's introspective narration set a template for nearly every solo Wolverine story that followed.\n\nIt remains the definitive statement of the character's inner conflict and one of the most acclaimed miniseries in Marvel history.",
+            "spoiler": null,
+            "arc_type": "miniseries",
+            "start_year": 1982,
+            "end_year": 1982,
+            "order_index": 3,
+            "reading_entries": [
+              {
+                "title": "Wolverine by Claremont & Miller (1982 Limited Series)",
+                "format": "trade",
+                "issue_range": "Wolverine #1-4",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9780785137245",
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "weapon-x-and-the-search-for-the-past",
+        "title": "Weapon X and the Search for the Past",
+        "start_year": 1986,
+        "end_year": 2000,
+        "order_index": 2,
+        "summary": "Logan finally gets his own ongoing series and the horrifying truth of how adamantium was bonded to his bones. This era turns the mystery of his memory into the engine of his greatest stories.",
+        "arcs": [
+          {
+            "slug": "weapon-x",
+            "title": "Weapon X",
+            "logline": "The brutal experiment that fused adamantium to Logan's skeleton and tried to erase the man inside.",
+            "summary": "Barry Windsor-Smith's harrowing serialized epic reveals the clinical horror of the Weapon X program: a clandestine project that captured Logan, bonded the indestructible metal adamantium to his skeleton, and attempted to reprogram him into a mindless killing machine.\n\nTold largely through cold experiment logs and nightmarish imagery, the story is as much a meditation on cruelty and dehumanization as it is a superhero origin. It cemented the idea that Wolverine's claws were always part of him, and that the metal was a violation.\n\nWeapon X is essential reading and the dark cornerstone of everything fans think they know about how Logan was made.",
+            "spoiler": null,
+            "arc_type": "origin",
+            "start_year": 1991,
+            "end_year": 1991,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "Marvel Comics Presents: Weapon X",
+                "format": "trade",
+                "issue_range": "Marvel Comics Presents #72-84",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9780785137269",
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "fatal-attractions-the-loss",
+            "title": "Fatal Attractions",
+            "logline": "Magneto's wrath leaves Wolverine changed forever, and his secret laid bare.",
+            "summary": "In this X-line crossover, Magneto retaliates against the X-Men in a way that strikes Wolverine at the deepest possible level, forcing a confrontation that has permanent consequences for his body and his sense of self.\n\nThe aftermath leaves Logan more vulnerable and more human than he has ever been, peeling back a layer of the armor that had defined him for years. It is a turning point that ripples through his solo book and the wider X-Men for the rest of the decade.\n\nThe arc pairs spectacle with genuine character stakes, and its closing pages are among the most reprinted in X-Men history.",
+            "spoiler": "Magneto rips the adamantium from Wolverine's skeleton through his skin, and Logan is later revealed to have bone claws.",
+            "arc_type": "crossover",
+            "start_year": 1993,
+            "end_year": 1993,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "X-Men: Fatal Attractions",
+                "format": "trade",
+                "issue_range": null,
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9780785116837",
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "wolverine-enemy-of-the-state-precursor",
+            "title": "The Hunt for Sabretooth",
+            "logline": "Logan's solo series turns a lifelong rivalry into a war of identity and memory.",
+            "summary": "Across his ongoing series, Wolverine repeatedly collides with Sabretooth, the savage killer who seems to know Logan's past better than Logan himself. Each encounter peels back implanted memories, false histories, and the question of whether the two men are brothers, rivals, or something engineered.\n\nLarry Hama's long run leans into Logan's role as a globe-trotting loner caught between his honor and his rage, with Sabretooth as the dark mirror who refuses to die.\n\nThe arc is a masterclass in long-form rivalry and a key chapter in Logan's quest to learn who he truly is.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 1988,
+            "end_year": 1996,
+            "order_index": 3,
+            "reading_entries": [
+              {
+                "title": "Wolverine by Larry Hama & Marc Silvestri Omnibus",
+                "format": "omnibus",
+                "issue_range": "Wolverine #31-90",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "modern-legend",
+        "title": "Modern Legend",
+        "start_year": 2001,
+        "end_year": 2017,
+        "order_index": 3,
+        "summary": "Logan's full origin is finally told, his darkest manipulations come to light, and he faces stories built to give a man who cannot die a definitive ending. This era cements him as a fixture of modern Marvel.",
+        "arcs": [
+          {
+            "slug": "origin",
+            "title": "Origin",
+            "logline": "The closely guarded truth of the boy who would become Wolverine, told at last.",
+            "summary": "After decades of mystery, Marvel reveals Logan's earliest days: a sickly boy named James Howlett on a Canadian estate in the late 1800s, whose life shatters in a single night of violence that triggers his mutant powers for the first time.\n\nThe series traces young James through grief, exile, and the first hardening of the feral survivor he would become, naming the people and traumas that shaped him long before any government lab got hold of him.\n\nOrigin is the canonical starting point of Logan's life story and an emotional anchor for everything that came after.",
+            "spoiler": "James Howlett's bone claws first emerge the night his father is murdered, revealing his mutant nature and forcing him to flee his home.",
+            "arc_type": "origin",
+            "start_year": 2001,
+            "end_year": 2002,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "Wolverine: Origin",
+                "format": "hardcover",
+                "issue_range": "Origin #1-6",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9780785109662",
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "enemy-of-the-state",
+            "title": "Enemy of the State",
+            "logline": "Brainwashed by the Hand, the world's deadliest mutant is turned against everyone he protects.",
+            "summary": "Mark Millar and John Romita Jr. unleash Wolverine as a weapon when the Hand and Hydra capture and reprogram him, sending Marvel's most relentless killer on a rampage through the heroes who once called him a friend.\n\nThe story is a brutal action thriller that asks what it would take to stop Logan if he ever truly came for you, and what it costs the people who love him to try and bring him back.\n\nFast, violent, and cinematic, Enemy of the State is a modern fan-favorite and a showcase for everything that makes Wolverine terrifying.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 2004,
+            "end_year": 2005,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "Wolverine: Enemy of the State (Complete Collection)",
+                "format": "trade",
+                "issue_range": "Wolverine #20-32",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9781302904135",
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "old-man-logan",
+            "title": "Old Man Logan",
+            "logline": "In a future where the villains won, an aged, pacifist Logan is pushed to pick up his claws one last time.",
+            "summary": "Mark Millar and Steve McNiven craft a post-apocalyptic Western in which the supervillains have conquered America and a broken, retired Logan refuses to fight. Needing money to save his family, he agrees to ride cross-country with a blind Hawkeye through a ruined Marvel landscape.\n\nThe road trip becomes a journey toward a buried trauma that explains why Logan swore off violence, building to a reckoning that is equal parts grief and vengeance.\n\nInstantly iconic, Old Man Logan spawned its own ongoing series and heavily inspired the tone of later Wolverine films.",
+            "spoiler": null,
+            "arc_type": "elseworlds",
+            "start_year": 2008,
+            "end_year": 2009,
+            "order_index": 3,
+            "reading_entries": [
+              {
+                "title": "Wolverine: Old Man Logan",
+                "format": "hardcover",
+                "issue_range": "Wolverine #66-72, Giant-Size Old Man Logan",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9780785131724",
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "death-of-wolverine",
+            "title": "Death of Wolverine",
+            "logline": "Stripped of his healing factor, Logan faces a hunt he may not walk away from.",
+            "summary": "With his signature healing factor gone, a newly mortal Wolverine becomes the target of a bounty placed by a mysterious enemy. Charles Soule and Steve McNiven follow Logan as he traces the threat to its source, knowing that any wound could now be his last.\n\nThe story strips away the invulnerability that defined the character, forcing both Logan and the reader to sit with stakes that finally feel real. It is a somber, deliberate capstone designed as a definitive ending.\n\nElegiac and beautifully drawn, Death of Wolverine is a fitting bookend to an era of the character.",
+            "spoiler": "Logan dies, encased in solidified adamantium, after destroying the lab that created Weapon X.",
+            "arc_type": "miniseries",
+            "start_year": 2014,
+            "end_year": 2014,
+            "order_index": 4,
+            "reading_entries": [
+              {
+                "title": "Death of Wolverine",
+                "format": "hardcover",
+                "issue_range": "Death of Wolverine #1-4",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9780785190615",
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "start_here": [
+      {
+        "order_index": 1,
+        "label": "Absolute Beginner",
+        "reason": "Origin tells Logan's life story from the very beginning in six self-contained issues, requiring zero prior knowledge of the X-Men.",
+        "arc_slug": "origin"
+      },
+      {
+        "order_index": 2,
+        "label": "Classic Fan",
+        "reason": "The Claremont/Miller Japan saga is the definitive vintage Wolverine: tragic, honor-bound, and the blueprint every later solo story follows.",
+        "arc_slug": "honor-and-the-soul-japan"
+      },
+      {
+        "order_index": 3,
+        "label": "Modern Era",
+        "reason": "Old Man Logan is a self-contained modern classic that captures Logan's grief, rage, and humanity, and inspired the film Logan.",
+        "arc_slug": "old-man-logan"
+      }
+    ],
+    "relationships": [
+      {
+        "related_slug": "x-men",
+        "relationship": "ally",
+        "summary": "The X-Men are the family that turned Logan from a loner into a hero and a mentor.",
+        "notes": "Recruited in Giant-Size X-Men #1 (1975); served as one of the team's most loyal members and later headmaster of the Jean Grey School."
+      },
+      {
+        "related_slug": "avengers",
+        "relationship": "ally",
+        "summary": "Logan joined the Avengers as the team's willing-to-do-the-ugly-things member.",
+        "notes": "Brought onto Brian Michael Bendis's New Avengers in 2010, controversially serving on both the Avengers and X-Men simultaneously."
+      },
+      {
+        "related_slug": "captain-america",
+        "relationship": "ally",
+        "summary": "Two old soldiers who fought in the same war and respect each other across very different moral codes.",
+        "notes": "Their shared WWII history was depicted in stories like the Uncanny X-Men/Captain America team-ups; Cap is one of the few who openly trusts Logan's judgment."
+      },
+      {
+        "related_slug": "spider-man",
+        "relationship": "ally",
+        "summary": "An odd-couple friendship between the wisecracking kid and the grizzled veteran who secretly looks out for him.",
+        "notes": "Frequent partners in stories like 'Astonishing Spider-Man & Wolverine' (2010) by Jason Aaron, where the two are flung through time together."
+      },
+      {
+        "related_slug": "sabretooth",
+        "relationship": "enemy",
+        "summary": "Logan's savage dark mirror, a killer whose history is tangled with his own.",
+        "notes": "A decades-long rivalry running through the Hama Wolverine run; Creed murders Logan's loved ones and repeatedly torments him on his birthday."
+      },
+      {
+        "related_slug": "lady-deathstrike",
+        "relationship": "enemy",
+        "summary": "A vengeful cyborg who blames Logan for the adamantium process and hunts him to reclaim it.",
+        "notes": "Yuriko Oyama believes the adamantium bonding desecrated her father's legacy; she had her own skeleton laced with the metal to kill Wolverine."
+      },
+      {
+        "related_slug": "omega-red",
+        "relationship": "enemy",
+        "summary": "A Soviet super-soldier whose deadly tendrils and life-draining powers make him one of Logan's most lethal foes.",
+        "notes": "Tied to Wolverine's Cold War past via the lost Carbonadium Synthesizer; a central antagonist in the early-'90s Jim Lee X-Men run."
+      },
+      {
+        "related_slug": "mister-sinister",
+        "relationship": "enemy",
+        "summary": "A genetic manipulator who sees Logan as prime material for his experiments.",
+        "notes": "Sinister's obsession with mutant DNA repeatedly puts him at odds with Wolverine and the X-Men, notably across the X-line's cloning and Marauder plots."
+      }
+    ],
+    "media": [
+      {
+        "media_type": "animated_series",
+        "title": "X-Men: The Animated Series",
+        "release_year": 1992,
+        "watch_order": 1,
+        "platform": "Disney+",
+        "notes": "The definitive '90s portrayal of Wolverine for a generation; led directly to the 2024 revival X-Men '97.",
+        "where_to_watch": "Disney+"
+      },
+      {
+        "media_type": "live_action",
+        "title": "X-Men",
+        "release_year": 2000,
+        "watch_order": 2,
+        "platform": "Disney+ / Hulu",
+        "notes": "Hugh Jackman's breakout debut as Wolverine, the role he would define for nearly two decades.",
+        "where_to_watch": "Disney+"
+      },
+      {
+        "media_type": "film",
+        "title": "Logan",
+        "release_year": 2017,
+        "watch_order": 3,
+        "platform": "Disney+",
+        "notes": "An R-rated, elegiac send-off loosely inspired by Old Man Logan; widely regarded as one of the best superhero films ever made.",
+        "where_to_watch": "Disney+"
+      },
+      {
+        "media_type": "video_game",
+        "title": "X-Men Origins: Wolverine",
+        "release_year": 2009,
+        "watch_order": null,
+        "platform": "PlayStation 3 / Xbox 360 / PC",
+        "notes": "A brutal action game praised for its visceral, regenerating-damage combat that captured Logan's healing factor.",
+        "where_to_watch": null
+      }
+    ]
+  },
+  "supporting": [
+    {
+      "slug": "sabretooth",
+      "name": "Sabretooth",
+      "entity_type": "character",
+      "publisher_slug": "marvel",
+      "real_name": "Victor Creed",
+      "first_appearance": "Iron Fist #14 (1977)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Victor Creed is a feral mutant killer who shares Wolverine's healing factor, heightened senses, and savage instincts, but none of his restraint. A merciless assassin whose past is entangled with Logan's, Sabretooth is the dark reflection of what Wolverine could have become.",
+      "eras": [
+        {
+          "slug": "the-savage-rival",
+          "title": "The Savage Rival",
+          "start_year": 1977,
+          "end_year": 2010,
+          "order_index": 1,
+          "summary": "From a generic martial-arts villain into Wolverine's defining nemesis, Creed becomes the predator who haunts Logan's life and memories.",
+          "arcs": [
+            {
+              "slug": "mutant-massacre",
+              "title": "Mutant Massacre",
+              "logline": "Sabretooth joins a death squad in a slaughter that scars the X-Men forever.",
+              "summary": "As a member of Mister Sinister's Marauders, Sabretooth takes part in the brutal massacre of the underground Morlock community, establishing him as a genuine monster rather than a mere brawler.\n\nThe crossover raises the character's profile across the X-line and seeds his future role as Wolverine's most personal enemy. Creed's glee in the carnage makes the threat unforgettable.\n\nIt is the moment Sabretooth graduates into the upper tier of X-Men villains.",
+              "spoiler": null,
+              "arc_type": "crossover",
+              "start_year": 1986,
+              "end_year": 1987,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "X-Men: Mutant Massacre Omnibus",
+                  "format": "omnibus",
+                  "issue_range": null,
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Best Introduction",
+          "reason": "Mutant Massacre shows exactly how dangerous Sabretooth is and why his shadow falls so heavily over Wolverine.",
+          "arc_slug": "mutant-massacre"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "wolverine",
+          "relationship": "enemy",
+          "summary": "Sabretooth is Wolverine's savage opposite and most personal nemesis.",
+          "notes": "Their blood feud spans decades; Creed delights in killing the people Logan loves and claims a shared, manipulated past."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "live_action",
+          "title": "X-Men Origins: Wolverine",
+          "release_year": 2009,
+          "watch_order": 1,
+          "platform": "Disney+",
+          "notes": "Liev Schreiber plays Victor Creed as Logan's half-brother in a featured antagonist role.",
+          "where_to_watch": "Disney+"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "X-Men: The Animated Series",
+          "release_year": 1992,
+          "watch_order": 2,
+          "platform": "Disney+",
+          "notes": "A recurring villain and member of Magneto's and Apocalypse's forces across the series.",
+          "where_to_watch": "Disney+"
+        },
+        {
+          "media_type": "video_game",
+          "title": "Marvel vs. Capcom 2",
+          "release_year": 2000,
+          "watch_order": null,
+          "platform": "Arcade / Dreamcast",
+          "notes": "A playable fighter showcasing his ferocity and speed.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "omega-red",
+      "name": "Omega Red",
+      "entity_type": "character",
+      "publisher_slug": "marvel",
+      "real_name": "Arkady Rossovich",
+      "first_appearance": "X-Men #4 (1992)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Arkady Rossovich is a Russian serial killer transformed into a Soviet super-soldier with retractable carbonadium tentacles and a 'death spore' that drains the life from those around him. To survive, he must siphon energy from others, making him a relentless and deadly foe of Wolverine and the X-Men.",
+      "eras": [
+        {
+          "slug": "cold-war-weapon",
+          "title": "Cold War Weapon",
+          "start_year": 1992,
+          "end_year": 1995,
+          "order_index": 1,
+          "summary": "Introduced in the blockbuster Jim Lee era, Omega Red ties Wolverine's hidden past to a Soviet super-soldier program.",
+          "arcs": [
+            {
+              "slug": "the-carbonadium-synthesizer",
+              "title": "The Carbonadium Synthesizer",
+              "logline": "A dying Soviet killer hunts the device that can save his life, and the secret links it to Wolverine.",
+              "summary": "Omega Red resurfaces seeking the Carbonadium Synthesizer, a device that can stabilize his deteriorating body, and his search drags Wolverine's buried Cold War history into the light.\n\nThe storyline, set during the hugely popular early-'90s X-Men run, pits Logan against a foe whose tendrils and life-draining powers push him to his limits. It also deepens the mystery of Wolverine's espionage past.\n\nIt remains the defining Omega Red arc and a highlight of the era.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 1992,
+              "end_year": 1993,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "X-Men by Jim Lee Omnibus Vol. 1",
+                  "format": "omnibus",
+                  "issue_range": "X-Men #1-11",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "wolverine",
+          "relationship": "enemy",
+          "summary": "Omega Red is a Soviet super-soldier whose deadly powers and shared past make him one of Logan's fiercest enemies.",
+          "notes": "Their connection runs through the Carbonadium Synthesizer and Wolverine's Cold War-era covert missions."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "animated_series",
+          "title": "X-Men: The Animated Series",
+          "release_year": 1992,
+          "watch_order": 1,
+          "platform": "Disney+",
+          "notes": "A memorable recurring villain whose tentacles and accent made him a fan favorite.",
+          "where_to_watch": "Disney+"
+        },
+        {
+          "media_type": "video_game",
+          "title": "X-Men: Mutant Apocalypse",
+          "release_year": 1994,
+          "watch_order": null,
+          "platform": "Super Nintendo",
+          "notes": "Appears as a challenging boss encounter.",
+          "where_to_watch": null
+        },
+        {
+          "media_type": "video_game",
+          "title": "Marvel vs. Capcom 3",
+          "release_year": 2011,
+          "watch_order": null,
+          "platform": "PlayStation 3 / Xbox 360",
+          "notes": "Featured as a playable fighter built around his draining tentacles.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "lady-deathstrike",
+      "name": "Lady Deathstrike",
+      "entity_type": "character",
+      "publisher_slug": "marvel",
+      "real_name": "Yuriko Oyama",
+      "first_appearance": "Daredevil #197 (1983)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Yuriko Oyama is a cybernetically enhanced warrior driven by a twisted sense of honor and a vendetta against Wolverine. Believing the adamantium process stole her father's legacy, she had her own skeleton bonded with the metal and her fingers turned into deadly blades to claim it back.",
+      "eras": [
+        {
+          "slug": "the-adamantium-vendetta",
+          "title": "The Adamantium Vendetta",
+          "start_year": 1983,
+          "end_year": 2005,
+          "order_index": 1,
+          "summary": "From a Daredevil antagonist into a cyborg avenger, Yuriko reinvents herself specifically to destroy Wolverine.",
+          "arcs": [
+            {
+              "slug": "born-of-the-blade",
+              "title": "Reborn as Deathstrike",
+              "logline": "A grieving daughter remakes her body into a weapon to take Logan's adamantium.",
+              "summary": "Consumed by the belief that Wolverine stole the adamantium bonding process that defined her father's work, Yuriko Oyama submits to cybernetic enhancement and emerges as Lady Deathstrike, her skeleton laced with adamantium and her hands turned to blades.\n\nHer crusade brings her into direct, brutal conflict with Wolverine, matching his claws with her own. The transformation makes her one of Logan's most personal and persistent foes.\n\nThe arc establishes the obsessive code of honor and vengeance that drives her ever after.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 1984,
+              "end_year": 1985,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Alpha Flight / Wolverine Classic Collection",
+                  "format": "trade",
+                  "issue_range": null,
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "wolverine",
+          "relationship": "enemy",
+          "summary": "Lady Deathstrike is a cyborg warrior obsessed with reclaiming the adamantium she believes Logan stole.",
+          "notes": "She remade her body with adamantium and blades specifically to match and kill Wolverine, blaming him for desecrating her father's legacy."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "live_action",
+          "title": "X2: X-Men United",
+          "release_year": 2003,
+          "watch_order": 1,
+          "platform": "Disney+",
+          "notes": "Kelly Hu plays a brainwashed Deathstrike in an iconic adamantium-claw duel with Wolverine.",
+          "where_to_watch": "Disney+"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "Wolverine and the X-Men",
+          "release_year": 2008,
+          "watch_order": 2,
+          "platform": "Disney+",
+          "notes": "Appears as part of the Inner Circle and a recurring threat.",
+          "where_to_watch": "Disney+"
+        },
+        {
+          "media_type": "video_game",
+          "title": "X-Men Legends II: Rise of Apocalypse",
+          "release_year": 2005,
+          "watch_order": null,
+          "platform": "PlayStation 2 / Xbox / GameCube",
+          "notes": "Featured as a boss enemy.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "mister-sinister",
+      "name": "Mister Sinister",
+      "entity_type": "character",
+      "publisher_slug": "marvel",
+      "real_name": "Nathaniel Essex",
+      "first_appearance": "The Uncanny X-Men #221 (1987)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Nathaniel Essex is a Victorian-era geneticist who made himself functionally immortal and became one of the X-Men's most insidious foes. Obsessed with mutant evolution and the perfect genetic specimen, Sinister manipulates events from the shadows, leaving cloned pawns and ruined lives in his wake.",
+      "eras": [
+        {
+          "slug": "the-geneticists-shadow",
+          "title": "The Geneticist's Shadow",
+          "start_year": 1987,
+          "end_year": 2010,
+          "order_index": 1,
+          "summary": "Introduced as the puppet-master behind the Marauders, Sinister becomes the X-Men's premier schemer and a recurring thorn in Wolverine's side.",
+          "arcs": [
+            {
+              "slug": "inferno-schemes",
+              "title": "Inferno",
+              "logline": "Sinister's decades of genetic manipulation erupt into a demonic invasion of New York.",
+              "summary": "The Inferno crossover exposes the depth of Mister Sinister's manipulations, revealing how his obsession with a specific mutant bloodline has shaped the X-Men's tragedies for years.\n\nAs demons overrun Manhattan, the heroes finally confront Sinister directly, putting a face to the architect of so much of their suffering. Wolverine is among those drawn into the chaos.\n\nThe arc cements Sinister as a long-game mastermind whose schemes underpin much of X-Men history.",
+              "spoiler": null,
+              "arc_type": "crossover",
+              "start_year": 1988,
+              "end_year": 1989,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "X-Men: Inferno Omnibus",
+                  "format": "omnibus",
+                  "issue_range": null,
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "wolverine",
+          "relationship": "enemy",
+          "summary": "Mister Sinister is a genetic manipulator whose obsession with mutant DNA repeatedly sets him against Logan and the X-Men.",
+          "notes": "His Marauders carried out the Mutant Massacre and his cloning schemes have ensnared Wolverine and his allies for decades."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "animated_series",
+          "title": "X-Men '97",
+          "release_year": 2024,
+          "watch_order": 1,
+          "platform": "Disney+",
+          "notes": "A central villain in the acclaimed revival series.",
+          "where_to_watch": "Disney+"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "X-Men: The Animated Series",
+          "release_year": 1992,
+          "watch_order": 2,
+          "platform": "Disney+",
+          "notes": "Appears as a recurring antagonist tied to the Morlocks and cloning plots.",
+          "where_to_watch": "Disney+"
+        },
+        {
+          "media_type": "video_game",
+          "title": "X-Men Legends",
+          "release_year": 2004,
+          "watch_order": null,
+          "platform": "PlayStation 2 / Xbox / GameCube",
+          "notes": "Featured among the game's roster of classic X-Men villains.",
+          "where_to_watch": null
+        }
+      ]
+    }
+  ]
+}

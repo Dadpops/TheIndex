@@ -1,0 +1,759 @@
+{
+  "primary": {
+    "slug": "thor",
+    "name": "Thor",
+    "entity_type": "character",
+    "publisher_slug": "marvel",
+    "real_name": "Thor Odinson",
+    "first_appearance": "Journey into Mystery #83 (1962)",
+    "logo_url": null,
+    "cover_image_url": null,
+    "short_bio": "Thor Odinson is the Asgardian God of Thunder, heir to the throne of Asgard and wielder of the enchanted hammer Mjolnir. Cast down to Earth by his father Odin to learn humility, he becomes one of its mightiest defenders and a founding member of the Avengers. Torn between two worlds, Thor balances his divine birthright against a hard-won love for humanity.",
+    "eras": [
+      {
+        "slug": "silver-age-foundations",
+        "title": "Silver Age Foundations",
+        "start_year": 1962,
+        "end_year": 1970,
+        "order_index": 1,
+        "summary": "Thor debuts in the pages of Journey into Mystery, blending Norse myth with Cold War-era superheroics. Stan Lee and Jack Kirby build out Asgard, Odin, Loki, and the cosmic scope that would define the character for decades.",
+        "arcs": [
+          {
+            "slug": "the-coming-of-thor",
+            "title": "The Coming of Thor",
+            "logline": "A frail doctor stranded in Norway discovers an ancient walking stick that transforms him into the Mighty Thor.",
+            "summary": "Dr. Donald Blake, vacationing in Norway, stumbles into a hidden cave while fleeing an alien scouting party. There he finds a gnarled wooden cane, and when he strikes it against a rock in frustration, he is transformed into Thor, God of Thunder, the cane becoming the enchanted hammer Mjolnir.\n\nThese earliest tales establish the core rules of Thor's world: the sixty-second limit before Mjolnir returns to cane form, the hammer's weather-summoning powers, and Blake's secret double life. Many of the conflicts are grounded in early-1960s anxieties, pitting the Thunder God against communist invaders, monsters, and mad scientists.\n\nOver these formative issues, Stan Lee and Jack Kirby gradually expand the mythology, introducing Odin, the realm of Asgard, and the trickster Loki, whose schemes would become the engine of countless future stories. The seeds of the grand cosmic saga are planted here.",
+            "spoiler": null,
+            "arc_type": "origin",
+            "start_year": 1962,
+            "end_year": 1963,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "Mighty Thor Omnibus Vol. 1",
+                "format": "omnibus",
+                "issue_range": "Journey into Mystery #83-120",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9780785158455",
+                "purchase_url": null
+              },
+              {
+                "title": "Marvel Masterworks: The Mighty Thor Vol. 1",
+                "format": "trade",
+                "issue_range": "Journey into Mystery #83-100",
+                "reading_order": 2,
+                "publication_order": 2,
+                "reading_order_note": null,
+                "isbn": "9780785191193",
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "tales-of-asgard",
+            "title": "Tales of Asgard",
+            "logline": "Backup sagas chronicle the young Thor, the founding of Asgard, and the legends behind the Nine Realms.",
+            "summary": "Running as backup features in Journey into Mystery, the Tales of Asgard stories let Kirby cut loose on pure Norse-inspired mythmaking. They recount Thor's youth, his rivalry and bond with Loki, and his quest to prove himself worthy of Mjolnir.\n\nThe sagas introduce the Warriors Three, Sif, Heimdall, Balder, and the vast geography of the Nine Realms. Free from the constraints of contemporary Earth, these tales build the operatic, larger-than-life tone that would come to define Thor's mythos.\n\nThough brief, they are among the most influential pages Kirby ever drew, laying groundwork that creators would mine for generations and that the modern films would draw upon heavily.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 1963,
+            "end_year": 1966,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "Tales of Asgard",
+                "format": "trade",
+                "issue_range": "Journey into Mystery #97-145 (backups)",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9780785137771",
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "kirby-cosmic-epics",
+        "title": "Kirby's Cosmic Epics",
+        "start_year": 1966,
+        "end_year": 1985,
+        "order_index": 2,
+        "summary": "Thor's adventures grow grander in scale, sending the Thunder God against world-ending threats and into the deepest reaches of the cosmos. This era cements Thor as Marvel's premier mythic-cosmic hero.",
+        "arcs": [
+          {
+            "slug": "the-galactus-saga-thor",
+            "title": "To Wake the Mangog",
+            "logline": "An ancient living embodiment of a billion souls' hatred awakens to destroy Asgard and slay the gods.",
+            "summary": "Lee and Kirby unleash one of their most fearsome creations: Mangog, a monster embodying the combined fury of a billion-being race Odin once defeated. Driven by pure vengeance, Mangog marches on Asgard intent on drawing the Odinsword and ending all existence.\n\nWith Odin fallen into the Odinsleep, Thor and the defenders of Asgard wage a desperate holding action against an enemy that grows stronger the more it is opposed. The story is a showcase for Kirby's bombastic, apocalyptic visuals and Lee's grandiose dialogue.\n\nThe Mangog saga distilled the high-stakes, mythic register that distinguished Thor from Marvel's street-level heroes, and the villain would return to menace Asgard again and again.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 1967,
+            "end_year": 1968,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "Mighty Thor Omnibus Vol. 2",
+                "format": "omnibus",
+                "issue_range": "Thor #121-152",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9780785185673",
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "ego-prime-and-the-recorder",
+            "title": "The Search for Odin",
+            "logline": "Thor ventures into deep space among living planets and cosmic beings to recover his missing father.",
+            "summary": "When Odin vanishes, Thor sets out across the cosmos in search of the All-Father, encountering living planets, alien empires, and strange new beings along the way. The quest pushes Thor's adventures fully into the cosmic arena that Kirby loved.\n\nThese stories blend Norse myth with science fiction, treating gods and galaxies as part of the same vast tapestry. Thor proves himself not just a warrior but a worthy heir, ready to shoulder the responsibilities of the throne.\n\nThe era's cosmic ambition would echo through later runs by Walt Simonson and Jason Aaron, establishing Thor's place among the stars as firmly as among the Nine Realms.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 1968,
+            "end_year": 1971,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "Mighty Thor Omnibus Vol. 3",
+                "format": "omnibus",
+                "issue_range": "Thor #153-194",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9781302915711",
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "simonson-renaissance",
+        "title": "The Simonson Renaissance",
+        "start_year": 1983,
+        "end_year": 1987,
+        "order_index": 3,
+        "summary": "Writer-artist Walter Simonson takes the reins for a celebrated run that redefines Thor for the modern age. Bold design, mythic grandeur, and unforgettable new threats make it the gold standard for Thor storytelling.",
+        "arcs": [
+          {
+            "slug": "the-ballad-of-beta-ray-bill",
+            "title": "The Ballad of Beta Ray Bill",
+            "logline": "An alien champion proves worthy to lift Mjolnir, forcing Thor to question what makes a hero truly worthy.",
+            "summary": "Walter Simonson opens his legendary run with a thunderclap: a horse-faced alien named Beta Ray Bill, the last defender of a refugee fleet, lifts Mjolnir and is transformed into a being equal to Thor himself. It is a stunning rebuke to the assumption that worthiness belongs to Asgard alone.\n\nThor and Bill clash, then forge a bond of mutual respect, with Odin ultimately forging a new hammer, Stormbreaker, so that both warriors may stand as champions. The story is a masterclass in introducing a new character who instantly feels iconic.\n\nSimonson's electric art and percussive lettering, including the famous DOOM of Mjolnir striking, announced a creative revolution. Beta Ray Bill remains one of the most beloved characters to emerge from Thor's corner of the Marvel Universe.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 1983,
+            "end_year": 1983,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "Thor by Walter Simonson Omnibus",
+                "format": "omnibus",
+                "issue_range": "Thor #337-382",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9781302927547",
+                "purchase_url": null
+              },
+              {
+                "title": "Thor by Walter Simonson Vol. 1",
+                "format": "trade",
+                "issue_range": "Thor #337-348",
+                "reading_order": 2,
+                "publication_order": 2,
+                "reading_order_note": null,
+                "isbn": "9780785152347",
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "the-surtur-saga",
+            "title": "The Surtur Saga",
+            "logline": "The fire demon Surtur forges a doomsday sword to ignite Ragnarok and burn all the Nine Realms to ash.",
+            "summary": "Simonson builds toward an apocalyptic climax as Surtur, the colossal fire demon of Muspelheim, completes the Twilight Sword and prepares to bring about Ragnarok, the foretold doom of the gods. His coming is heralded across multiple realms in a slow-building dread.\n\nThe saga culminates in a desperate defense of Asgard, with Thor, Odin, Loki, and the warriors of Asgard standing together against an enemy who would unmake creation itself. Simonson stages the conflict with operatic scale and emotional weight.\n\nWidely regarded as the high point of Simonson's run, the Surtur Saga is the definitive Ragnarok story and a touchstone for every cosmic Thor epic that followed, including its echoes in the films.",
+            "spoiler": null,
+            "arc_type": "crossover",
+            "start_year": 1984,
+            "end_year": 1985,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "Thor by Walter Simonson Vol. 2",
+                "format": "trade",
+                "issue_range": "Thor #349-355",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9780785152545",
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "modern-thunder",
+        "title": "Modern Thunder",
+        "start_year": 2007,
+        "end_year": 2025,
+        "order_index": 4,
+        "summary": "A new generation of creators reinvents Thor for the twenty-first century, from J. Michael Straczynski's relaunch to Jason Aaron's sprawling, decade-long epic that redefined the character's mythology and cast.",
+        "arcs": [
+          {
+            "slug": "the-god-butcher",
+            "title": "The God Butcher",
+            "logline": "A being who slaughters gods across all of time hunts Thor in three different eras at once.",
+            "summary": "Jason Aaron and Esad Ribic open their acclaimed run with Gorr the God Butcher, a creature driven by faith-shattering grief to murder every god in the universe. The story unfolds across three timelines: young, reckless Thor; the present-day Avenger; and a far-future king, the last god in Asgard.\n\nAs Thor follows a trail of divine corpses, he is forced to confront the question at the heart of his existence: are gods worthy of the worship they demand? Gorr's nihilistic crusade gives Thor one of his most philosophically resonant villains.\n\nRibic's painterly, cosmic art and Aaron's mythic ambition launched a run that would span nearly a decade and redefine the modern Thor. The arc later served as primary inspiration for a major film.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 2012,
+            "end_year": 2013,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "Thor: God of Thunder Vol. 1 - The God Butcher",
+                "format": "trade",
+                "issue_range": "Thor: God of Thunder #1-5",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9780785166986",
+                "purchase_url": null
+              },
+              {
+                "title": "Thor by Jason Aaron Omnibus Vol. 1",
+                "format": "omnibus",
+                "issue_range": "Thor: God of Thunder #1-25 and more",
+                "reading_order": 2,
+                "publication_order": 2,
+                "reading_order_note": null,
+                "isbn": "9781302930455",
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "the-unworthy-thor",
+            "title": "The Unworthy Thor",
+            "logline": "Stripped of his worthiness and unable to lift Mjolnir, the fallen Odinson searches for redemption.",
+            "summary": "After a whispered secret leaves him unable to wield Mjolnir, the Odinson loses both his hammer and the name of Thor, becoming a wandering, diminished figure clutching the axe Jarnbjorn. He grapples with what it means to have been judged unworthy.\n\nMeanwhile, a new wielder takes up Mjolnir and the mantle of Thor, sparking one of the most discussed status quo shifts in the character's history. The Odinson's quest to understand his fall and earn back his place drives some of Aaron's most introspective storytelling.\n\nThis arc reframes worthiness as the central theme of modern Thor, examining heroism, identity, and redemption. It sets the stage for the climactic War of the Realms saga that would close out Aaron's epic.",
+            "spoiler": "The new wielder of Mjolnir is eventually revealed to be Jane Foster, who becomes the Mighty Thor while secretly battling cancer.",
+            "arc_type": "flagship",
+            "start_year": 2014,
+            "end_year": 2017,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "The Unworthy Thor",
+                "format": "trade",
+                "issue_range": "The Unworthy Thor #1-5",
+                "reading_order": 2,
+                "publication_order": 1,
+                "reading_order_note": "Reads best after Jane Foster's Mighty Thor run, though published as a parallel limited series.",
+                "isbn": "9781302906146",
+                "purchase_url": null
+              },
+              {
+                "title": "Mighty Thor by Jason Aaron Vol. 1",
+                "format": "trade",
+                "issue_range": "Mighty Thor #1-5",
+                "reading_order": 1,
+                "publication_order": 2,
+                "reading_order_note": null,
+                "isbn": "9781302901134",
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "the-war-of-the-realms",
+            "title": "The War of the Realms",
+            "logline": "The dark elf Malekith unites the armies of the Nine Realms in a war to conquer them all, with Earth the final battlefield.",
+            "summary": "The culmination of Jason Aaron's years-long saga, War of the Realms sees Malekith the Accursed forge a coalition of frost giants, fire demons, and dark forces to overrun realm after realm. When his armies finally invade Midgard, all of Earth's heroes are drawn into the conflict.\n\nThor stands at the center of the storm, reckoning with his lineage, his failures, and his destiny as he rallies gods and mortals alike against impossible odds. The event pays off plot threads seeded across dozens of issues.\n\nA sprawling crossover that touches the entire Marvel Universe, War of the Realms is the grand finale to one of the most ambitious Thor runs ever published, blending intimate character work with universe-spanning spectacle.",
+            "spoiler": null,
+            "arc_type": "crossover",
+            "start_year": 2019,
+            "end_year": 2019,
+            "order_index": 3,
+            "reading_entries": [
+              {
+                "title": "War of the Realms",
+                "format": "trade",
+                "issue_range": "War of the Realms #1-6",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9781302914233",
+                "purchase_url": null
+              },
+              {
+                "title": "War of the Realms Omnibus",
+                "format": "omnibus",
+                "issue_range": "War of the Realms #1-6 and tie-ins",
+                "reading_order": 2,
+                "publication_order": 2,
+                "reading_order_note": null,
+                "isbn": "9781302924126",
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "start_here": [
+      {
+        "order_index": 1,
+        "label": "Absolute Beginner",
+        "reason": "The God Butcher is a self-contained, gorgeously drawn modern epic that needs no prior reading and showcases everything that makes Thor compelling.",
+        "arc_slug": "the-god-butcher"
+      },
+      {
+        "order_index": 2,
+        "label": "Classic Fan",
+        "reason": "The Ballad of Beta Ray Bill kicks off Walter Simonson's legendary run, the most beloved Thor era and a perfect entry into the character's mythic Silver and Bronze Age roots.",
+        "arc_slug": "the-ballad-of-beta-ray-bill"
+      },
+      {
+        "order_index": 3,
+        "label": "Modern Era",
+        "reason": "War of the Realms is the explosive payoff to the modern Thor saga, ideal for readers who want the current status quo and a universe-spanning event.",
+        "arc_slug": "the-war-of-the-realms"
+      }
+    ],
+    "relationships": [
+      {
+        "related_slug": "iron-man",
+        "relationship": "ally",
+        "summary": "A founding fellow Avenger whose science-minded pragmatism often clashes with Thor's mythic worldview.",
+        "notes": "Both helped found the Avengers in Avengers #1 (1963); their differing philosophies came to a head during the superhero Civil War, when Tony's cloning of Thor strained their friendship."
+      },
+      {
+        "related_slug": "captain-america",
+        "relationship": "ally",
+        "summary": "A brother-in-arms and fellow founding Avenger whom Thor deeply respects for his moral conviction.",
+        "notes": "Thor has long honored Steve Rogers' worthiness; famously, Captain America briefly lifted Mjolnir during the original Fear Itself event and again in later stories."
+      },
+      {
+        "related_slug": "avengers",
+        "relationship": "ally",
+        "summary": "Thor is a founding member of Earth's Mightiest Heroes and one of its heaviest hitters, fighting alongside the team across countless threats.",
+        "notes": "He joined in Avengers #1 (1963) and has served across countless rosters, including the cosmic-facing teams during the modern era."
+      },
+      {
+        "related_slug": "wolverine",
+        "relationship": "ally",
+        "summary": "A fellow Avenger and battlefield comrade whose gruff pragmatism contrasts with Thor's nobility but earns his respect.",
+        "notes": "The two served together on the New Avengers and Avengers rosters during Brian Michael Bendis's run and fought side by side across numerous events."
+      },
+      {
+        "related_slug": "loki",
+        "relationship": "enemy",
+        "summary": "Thor's adopted brother and the trickster god whose schemes set the Thunder God's earliest adventures in motion.",
+        "notes": "Loki's plot to discredit Thor inadvertently led to the formation of the Avengers in Avengers #1 (1963); their rivalry is the oldest in Thor's mythos."
+      },
+      {
+        "related_slug": "hela",
+        "relationship": "enemy",
+        "summary": "The Asgardian goddess of death who repeatedly seeks dominion over Thor's soul and the realm of the dead.",
+        "notes": "Hela has cursed Thor with unbreakable bones and immortality to deny him a warrior's death, a recurring torment across the Silver and Bronze Age runs."
+      },
+      {
+        "related_slug": "malekith",
+        "relationship": "enemy",
+        "summary": "The malevolent dark elf whose cruelty and ambition culminate in an all-out War of the Realms.",
+        "notes": "Malekith served as the central antagonist of Jason Aaron's run, escalating from schemer to warlord who united the Nine Realms against Thor in War of the Realms (2019)."
+      },
+      {
+        "related_slug": "surtur",
+        "relationship": "enemy",
+        "summary": "The colossal fire demon of Muspelheim sworn to bring about Ragnarok and the destruction of Asgard.",
+        "notes": "Surtur's forging of the Twilight Sword drove Walter Simonson's apocalyptic Surtur Saga (Thor #349-353), the definitive Ragnarok confrontation."
+      }
+    ],
+    "media": [
+      {
+        "media_type": "film",
+        "title": "Thor",
+        "release_year": 2011,
+        "watch_order": 1,
+        "platform": "Disney+",
+        "notes": "Kenneth Branagh's film introduces the MCU's Thor, drawing heavily on the banishment-and-humility origin.",
+        "where_to_watch": "Disney+"
+      },
+      {
+        "media_type": "film",
+        "title": "Thor: Ragnarok",
+        "release_year": 2017,
+        "watch_order": 2,
+        "platform": "Disney+",
+        "notes": "Taika Waititi's comedic reinvention pits Thor against Hela and Surtur, loosely echoing the Ragnarok and Planet Hulk sagas.",
+        "where_to_watch": "Disney+"
+      },
+      {
+        "media_type": "film",
+        "title": "Thor: Love and Thunder",
+        "release_year": 2022,
+        "watch_order": 3,
+        "platform": "Disney+",
+        "notes": "Adapts elements of Jason Aaron's God Butcher and Mighty Thor arcs, featuring Gorr and a hammer-wielding Jane Foster.",
+        "where_to_watch": "Disney+"
+      },
+      {
+        "media_type": "animated_series",
+        "title": "The Avengers: Earth's Mightiest Heroes",
+        "release_year": 2010,
+        "watch_order": null,
+        "platform": "Disney+",
+        "notes": "Thor features prominently as a founding Avenger across this acclaimed animated series.",
+        "where_to_watch": "Disney+"
+      },
+      {
+        "media_type": "video_game",
+        "title": "Marvel's Avengers",
+        "release_year": 2020,
+        "watch_order": null,
+        "platform": "PlayStation, Xbox, PC",
+        "notes": "Thor is a playable hero with a full Mjolnir-driven combat moveset.",
+        "where_to_watch": null
+      }
+    ]
+  },
+  "supporting": [
+    {
+      "slug": "loki",
+      "name": "Loki",
+      "entity_type": "character",
+      "publisher_slug": "marvel",
+      "real_name": "Loki Laufeyson",
+      "first_appearance": "Journey into Mystery #85 (1962)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Loki Laufeyson is the Asgardian God of Mischief, a frost-giant foundling raised by Odin alongside Thor. A master of magic, illusion, and manipulation, he is Thor's oldest adversary, though his loyalties have shifted across the centuries from outright villainy to reluctant anti-heroism.",
+      "eras": [
+        {
+          "slug": "loki-classic-mischief",
+          "title": "Classic Mischief",
+          "start_year": 1962,
+          "end_year": 1985,
+          "order_index": 1,
+          "summary": "Loki establishes himself as Thor's eternal nemesis and the trickster whose schemes ripple across the entire Marvel Universe.",
+          "arcs": [
+            {
+              "slug": "loki-the-avengers-gambit",
+              "title": "A Trickster's Gambit",
+              "logline": "Loki's plot to destroy Thor accidentally assembles Earth's Mightiest Heroes.",
+              "summary": "Seeking revenge on his brother, Loki manipulates the Hulk into a rampage, hoping to lure Thor into a trap. Instead, the scheme draws together Iron Man, Ant-Man, the Wasp, and Thor, who unite to stop him.\n\nThe plan backfires spectacularly, leading directly to the founding of the Avengers. It is the perfect distillation of Loki: a brilliant scheme undone by his own ambition.\n\nThe story cemented Loki as the trickster whose meddling shapes Marvel history, a role he has played ever since.",
+              "spoiler": null,
+              "arc_type": "origin",
+              "start_year": 1963,
+              "end_year": 1963,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Avengers Omnibus Vol. 1",
+                  "format": "omnibus",
+                  "issue_range": "Avengers #1-30",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": "9780785185673",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Absolute Beginner",
+          "reason": "A Trickster's Gambit shows Loki at his scheming best and ties directly into the birth of the Avengers.",
+          "arc_slug": "loki-the-avengers-gambit"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "thor",
+          "relationship": "enemy",
+          "summary": "Loki is Thor's adopted brother and oldest nemesis, forever scheming to claim the throne of Asgard.",
+          "notes": "Their rivalry began in Journey into Mystery #85 (1962) and has defined both characters across comics and film."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "film",
+          "title": "The Avengers",
+          "release_year": 2012,
+          "watch_order": 1,
+          "platform": "Disney+",
+          "notes": "Loki serves as the central villain, leading the Chitauri invasion of New York.",
+          "where_to_watch": "Disney+"
+        },
+        {
+          "media_type": "live_action",
+          "title": "Loki",
+          "release_year": 2021,
+          "watch_order": 2,
+          "platform": "Disney+",
+          "notes": "A solo streaming series exploring Loki's encounter with the Time Variance Authority.",
+          "where_to_watch": "Disney+"
+        }
+      ]
+    },
+    {
+      "slug": "hela",
+      "name": "Hela",
+      "entity_type": "character",
+      "publisher_slug": "marvel",
+      "real_name": "Hela",
+      "first_appearance": "Journey into Mystery #102 (1964)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Hela is the Asgardian goddess of death, ruler of the realms of Hel and Niffleheim. Cold, regal, and implacable, she covets dominion over the souls of the dead, and her clashes with Thor often hinge on her desire to claim him or deny him a warrior's afterlife.",
+      "eras": [
+        {
+          "slug": "hela-queen-of-the-dead",
+          "title": "Queen of the Dead",
+          "start_year": 1964,
+          "end_year": 1990,
+          "order_index": 1,
+          "summary": "Hela emerges as one of Asgard's most formidable threats, a death goddess whose ambitions reach beyond her gloomy realms.",
+          "arcs": [
+            {
+              "slug": "hela-the-curse-of-hela",
+              "title": "The Curse of Hela",
+              "logline": "Hela curses Thor with brittle bones and unbreakable life to rob him of an honorable death.",
+              "summary": "When Hela seeks to claim Thor's soul, the Thunder God resists, and the death goddess retaliates with a cruel curse: making his bones brittle as glass while denying him the release of death itself.\n\nForced to fight on as a fragile, encased warrior, Thor must find a way to break the curse and confront the queen of the dead in her own domain. The arc is a showcase for Hela's chilling cruelty.\n\nIt remains one of the defining Hela stories, illustrating how her power over death makes her uniquely terrifying among Thor's foes.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 1984,
+              "end_year": 1985,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Thor by Walter Simonson Vol. 3",
+                  "format": "trade",
+                  "issue_range": "Thor #356-362",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": "9780785152552",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Classic Fan",
+          "reason": "The Curse of Hela captures the death goddess at her most malevolent during the celebrated Simonson era.",
+          "arc_slug": "hela-the-curse-of-hela"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "thor",
+          "relationship": "enemy",
+          "summary": "Hela repeatedly seeks to claim Thor's soul and deny him an honorable death, making her one of his deadliest foes.",
+          "notes": "Her infamous curse of brittle bones in Walter Simonson's run is among the cruelest fates ever inflicted on the Thunder God."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "film",
+          "title": "Thor: Ragnarok",
+          "release_year": 2017,
+          "watch_order": 1,
+          "platform": "Disney+",
+          "notes": "Hela appears as the Goddess of Death and primary antagonist, seizing the throne of Asgard.",
+          "where_to_watch": "Disney+"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "The Avengers: Earth's Mightiest Heroes",
+          "release_year": 2010,
+          "watch_order": null,
+          "platform": "Disney+",
+          "notes": "Hela features in Asgard-centric episodes as a death-goddess threat.",
+          "where_to_watch": "Disney+"
+        }
+      ]
+    },
+    {
+      "slug": "malekith",
+      "name": "Malekith the Accursed",
+      "entity_type": "character",
+      "publisher_slug": "marvel",
+      "real_name": "Malekith",
+      "first_appearance": "Thor #344 (1984)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Malekith the Accursed is the cruel and capricious ruler of the dark elves of Svartalfheim. A sadistic schemer with a talent for manipulation and dark sorcery, he rose from petty villainy to become the warlord who ignited the War of the Realms against Thor and all of Asgard.",
+      "eras": [
+        {
+          "slug": "malekith-dark-elf-schemer",
+          "title": "The Dark Elf Schemer",
+          "start_year": 1984,
+          "end_year": 1985,
+          "order_index": 1,
+          "summary": "Introduced during the Simonson run, Malekith establishes himself as a uniquely cruel and unpredictable threat from Svartalfheim.",
+          "arcs": [
+            {
+              "slug": "malekith-the-casket-of-ancient-winters",
+              "title": "The Casket of Ancient Winters",
+              "logline": "Malekith schemes to unleash an artifact of eternal winter upon the Nine Realms.",
+              "summary": "Walter Simonson introduces Malekith as a dark elf bent on retrieving the Casket of Ancient Winters, a relic capable of plunging the realms into endless cold. His cruelty and unpredictability immediately set him apart.\n\nThor must thwart the scheme while contending with Surtur's looming threat, weaving Malekith into the tapestry of the era's grand sagas. The arc establishes the dark elf as a memorable, malevolent foe.\n\nDecades later, this introduction would be expanded into Malekith's central role in the modern Thor mythology.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 1984,
+              "end_year": 1985,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Thor by Walter Simonson Vol. 2",
+                  "format": "trade",
+                  "issue_range": "Thor #344-353",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": "9780785152545",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Classic Fan",
+          "reason": "The Casket of Ancient Winters introduces Malekith during the iconic Simonson run, the perfect place to meet the dark elf.",
+          "arc_slug": "malekith-the-casket-of-ancient-winters"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "thor",
+          "relationship": "enemy",
+          "summary": "Malekith's ambitions repeatedly bring him into conflict with Thor, culminating in an all-consuming war for the Nine Realms.",
+          "notes": "He served as the central antagonist of Jason Aaron's run, escalating into the warlord of War of the Realms (2019)."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "film",
+          "title": "Thor: The Dark World",
+          "release_year": 2013,
+          "watch_order": 1,
+          "platform": "Disney+",
+          "notes": "Malekith appears as the dark elf antagonist seeking to use the Aether to plunge the universe into darkness.",
+          "where_to_watch": "Disney+"
+        },
+        {
+          "media_type": "video_game",
+          "title": "Marvel: Avengers Alliance",
+          "release_year": 2012,
+          "watch_order": null,
+          "platform": "Browser, Mobile",
+          "notes": "Malekith appears as a dark-elf boss tied to Asgardian story content.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "surtur",
+      "name": "Surtur",
+      "entity_type": "character",
+      "publisher_slug": "marvel",
+      "real_name": "Surtur",
+      "first_appearance": "Journey into Mystery #97 (1963)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Surtur is the colossal fire demon of Muspelheim, a primordial force of destruction destined to bring about Ragnarok. Towering and near-omnipotent, he wields the flaming Twilight Sword and exists to burn the Nine Realms to cinders, making him among the most apocalyptic threats Thor and Asgard have ever faced.",
+      "eras": [
+        {
+          "slug": "surtur-herald-of-ragnarok",
+          "title": "Herald of Ragnarok",
+          "start_year": 1963,
+          "end_year": 1985,
+          "order_index": 1,
+          "summary": "Introduced as a looming doom in the Silver Age, Surtur reaches his fullest realization as the engine of apocalypse in the Simonson era.",
+          "arcs": [
+            {
+              "slug": "surtur-doom-of-the-gods",
+              "title": "Doom of the Gods",
+              "logline": "Surtur forges the Twilight Sword and marches on Asgard to ignite Ragnarok.",
+              "summary": "After centuries of imprisonment, Surtur completes the Twilight Sword and sets out to fulfill the prophecy of Ragnarok, the fiery doom of the gods. His coming is felt across the Nine Realms as an unstoppable apocalypse.\n\nThor, Odin, and the defenders of Asgard must unite in a desperate last stand against a foe whose power dwarfs even the All-Father's. Walter Simonson stages the conflict on a truly cosmic, operatic scale.\n\nThe story is the definitive Surtur tale and one of the greatest Thor epics ever told, establishing the fire demon as the ultimate harbinger of the end times.",
+              "spoiler": null,
+              "arc_type": "crossover",
+              "start_year": 1984,
+              "end_year": 1985,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Thor by Walter Simonson Vol. 2",
+                  "format": "trade",
+                  "issue_range": "Thor #349-353",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": "9780785152545",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Classic Fan",
+          "reason": "Doom of the Gods is the definitive Surtur story and the climax of the legendary Simonson run.",
+          "arc_slug": "surtur-doom-of-the-gods"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "thor",
+          "relationship": "enemy",
+          "summary": "Surtur exists to destroy Asgard and bring about Ragnarok, forcing Thor into apocalyptic last stands.",
+          "notes": "His forging of the Twilight Sword drove the climactic Surtur Saga in Walter Simonson's run."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "film",
+          "title": "Thor: Ragnarok",
+          "release_year": 2017,
+          "watch_order": 1,
+          "platform": "Disney+",
+          "notes": "Surtur appears as the fire demon whose prophecy of Ragnarok is central to the film's climax.",
+          "where_to_watch": "Disney+"
+        },
+        {
+          "media_type": "video_game",
+          "title": "LEGO Marvel Super Heroes",
+          "release_year": 2013,
+          "watch_order": null,
+          "platform": "Multi-platform",
+          "notes": "Surtur appears among the roster of Marvel villains in this action-adventure game.",
+          "where_to_watch": null
+        }
+      ]
+    }
+  ]
+}

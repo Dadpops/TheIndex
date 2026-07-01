@@ -1,0 +1,865 @@
+{
+  "primary": {
+    "slug": "buffy-summers",
+    "name": "Buffy Summers",
+    "entity_type": "character",
+    "role": "hero",
+    "publisher_slug": "boom",
+    "real_name": "Buffy Anne Summers",
+    "first_appearance": "Buffy the Vampire Slayer #1 (BOOM! Studios, 2019)",
+    "logo_url": null,
+    "cover_image_url": null,
+    "short_bio": "Buffy Summers is the Chosen One, a teenage girl gifted with supernatural strength and reflexes to battle the vampires, demons, and forces of darkness that converge on Sunnydale. In BOOM! Studios' reimagining she balances the burdens of being the Slayer with the ordinary chaos of high school, leaning on her friends to survive both.",
+    "eras": [
+      {
+        "slug": "sunnydale-awakening",
+        "title": "Sunnydale Awakening",
+        "start_year": 2019,
+        "end_year": 2020,
+        "order_index": 1,
+        "summary": "BOOM!'s modern relaunch reintroduces Buffy as a present-day teen newly arrived in Sunnydale, discovering her calling and assembling the Scooby Gang. The early arcs reset the mythology while honoring its core dynamics.",
+        "arcs": [
+          {
+            "slug": "high-school-is-hell",
+            "title": "High School Is Hell",
+            "logline": "A new girl in town learns that her town sits atop a literal mouth of hell.",
+            "summary": "Buffy Summers transfers to Sunnydale High hoping for a fresh start, only to discover that the school sits directly over a Hellmouth that draws every kind of monster to its doors. Guided by the watchful librarian Rupert Giles, she reluctantly accepts that she is the Slayer, the one girl in all the world chosen to stand against the darkness.\n\nAs she finds her footing, Buffy gathers an unlikely circle of friends. The bookish Willow Rosenberg and the wisecracking Xander Harris stumble into her secret and refuse to walk away, forming the nucleus of what will become her chosen family.\n\nThe arc establishes the rhythm of Buffy's double life: cramming for tests by day, patrolling cemeteries by night, and keeping her two worlds from colliding. It reframes the original premise for a new generation while staying true to its heart.",
+            "spoiler": null,
+            "arc_type": "origin",
+            "start_year": 2019,
+            "end_year": 2019,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "Buffy the Vampire Slayer Vol. 1: High School Is Hell",
+                "format": "trade",
+                "issue_range": "#1-4",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "a-hellmouth-rising",
+            "title": "A Hellmouth Rising",
+            "logline": "An ancient vampire stirs beneath Sunnydale, testing the new Slayer's resolve.",
+            "summary": "With the Scooby Gang now established, Buffy faces her first true existential threat as a centuries-old vampire moves to crack open the Hellmouth and remake the world in shadow. The stakes escalate from monster-of-the-week patrols to a campaign against a patient, ancient enemy.\n\nBuffy must learn to lead rather than simply fight, coordinating Willow's burgeoning talents, Xander's loyalty, and Giles's hard-won lore. The pressure exposes how isolating the Slayer's calling can be, even surrounded by friends.\n\nThe arc deepens the mythology of Sunnydale and seeds the larger conflicts that will define Buffy's tenure as the town's protector.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 2019,
+            "end_year": 2020,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "Buffy the Vampire Slayer Vol. 2: A Hellmouth Rising",
+                "format": "trade",
+                "issue_range": "#5-8",
+                "reading_order": 2,
+                "publication_order": 2,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "the-vampyr-saga",
+        "title": "The Vampyr Saga",
+        "start_year": 2020,
+        "end_year": 2022,
+        "order_index": 2,
+        "summary": "The series expands into sprawling crossover territory, pulling Buffy into multiverse-spanning conflicts and reshaping the status quo of the Slayer line. Friendships are tested and the mythology grows far beyond Sunnydale.",
+        "arcs": [
+          {
+            "slug": "ring-of-fire",
+            "title": "Ring of Fire",
+            "logline": "A demonic conspiracy forces the Scoobies to fight on multiple fronts at once.",
+            "summary": "An escalating demonic plot threatens to tear Sunnydale apart from within, splitting the Scooby Gang across separate battlegrounds. Buffy must trust her friends to hold lines she cannot reach herself, learning that being the Chosen One does not mean fighting alone.\n\nAlliances shift as morally grey figures circle the conflict, some offering help with hidden costs. Buffy is forced to weigh expedience against principle in ways that will shape who she becomes.\n\nThe arc raises the emotional and tactical stakes of the relaunch, cementing the ensemble as a true team while testing the limits of Buffy's trust.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 2020,
+            "end_year": 2021,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "Buffy the Vampire Slayer Vol. 3: From Beneath You",
+                "format": "trade",
+                "issue_range": "#9-12",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "hellmouth-crossover",
+            "title": "Hellmouth",
+            "logline": "Two Slayers and a city full of monsters collide when the Hellmouth tears wide open.",
+            "summary": "The Hellmouth event erupts when the barrier between worlds collapses, flooding Sunnydale with demons and drawing in allies and enemies from across the BOOM! Buffyverse. Buffy joins forces with other champions to seal the breach before it consumes everything.\n\nThis crossover braids multiple titles together, forcing characters who would never cooperate into uneasy alliances. The scale dwarfs anything Buffy has faced, demanding sacrifice from the entire ensemble.\n\nThe arc is the relaunch's first major line-wide event, a proving ground that redefines the boundaries of the new continuity.",
+            "spoiler": null,
+            "arc_type": "crossover",
+            "start_year": 2021,
+            "end_year": 2022,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "Buffy the Vampire Slayer / Angel: Hellmouth",
+                "format": "trade",
+                "issue_range": "#1-5",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": "Collects the crossover miniseries; read after the main-series arcs leading into it.",
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "start_here": [
+      {
+        "order_index": 1,
+        "label": "Absolute Beginner",
+        "reason": "The origin arc reintroduces Buffy, the Hellmouth, and the Scooby Gang with no prior knowledge required.",
+        "arc_slug": "high-school-is-hell"
+      },
+      {
+        "order_index": 2,
+        "label": "Classic Fan",
+        "reason": "An ancient-vampire threat captures the original show's monster-of-the-week-to-apocalypse rhythm fans love.",
+        "arc_slug": "a-hellmouth-rising"
+      },
+      {
+        "order_index": 3,
+        "label": "Modern Era",
+        "reason": "The Hellmouth crossover shows the relaunch at its most ambitious, weaving the whole BOOM! Buffyverse together.",
+        "arc_slug": "hellmouth-crossover"
+      }
+    ],
+    "relationships": [
+      {
+        "related_slug": "willow-rosenberg",
+        "relationship": "ally",
+        "summary": "Buffy's closest friend and the gang's resident witch, whose magic becomes indispensable to the fight.",
+        "notes": "Willow stumbles onto Buffy's secret early and chooses loyalty, growing from shy student into a powerful spellcaster at Buffy's side."
+      },
+      {
+        "related_slug": "xander-harris",
+        "relationship": "ally",
+        "summary": "The everyman heart of the Scooby Gang, fighting beside Buffy without powers of his own.",
+        "notes": "Xander's humor and unwavering loyalty anchor the group even when the supernatural stakes leave him outmatched."
+      },
+      {
+        "related_slug": "rupert-giles",
+        "relationship": "ally",
+        "summary": "Buffy's Watcher and mentor, the Sunnydale High librarian who trains and guides her.",
+        "notes": "Giles supplies the lore and discipline Buffy needs, serving as a steadying father figure throughout her calling."
+      },
+      {
+        "related_slug": "angel",
+        "relationship": "ally",
+        "summary": "A brooding vampire cursed with a soul who fights alongside Buffy despite his nature.",
+        "notes": "Angel's romance and uneasy partnership with Buffy complicate every battle, his soul forever at war with his demon."
+      },
+      {
+        "related_slug": "the-master",
+        "relationship": "enemy",
+        "summary": "An ancient vampire lord seeking to crack open the Hellmouth and end the world.",
+        "notes": "The Master embodies the first great threat of Buffy's tenure, an old and patient evil bound beneath Sunnydale."
+      },
+      {
+        "related_slug": "drusilla",
+        "relationship": "enemy",
+        "summary": "A deranged, prophetic vampire whose madness makes her unpredictable and dangerous.",
+        "notes": "Driven insane long ago, Drusilla wields visions and cruelty in equal measure as she menaces Buffy and her friends."
+      },
+      {
+        "related_slug": "spike",
+        "relationship": "enemy",
+        "summary": "A swaggering, violent vampire who relishes the hunt and the challenge a Slayer presents.",
+        "notes": "Spike begins as a lethal antagonist drawn to Sunnydale by the thrill of killing Slayers, his loyalties always in flux."
+      },
+      {
+        "related_slug": "the-anointed-one",
+        "relationship": "enemy",
+        "summary": "A child vampire of prophecy who serves as a sinister figurehead for the forces of darkness.",
+        "notes": "Small and unassuming, the Anointed One commands fear and ritual among Sunnydale's vampires as a herald of doom."
+      }
+    ],
+    "media": [
+      {
+        "media_type": "live_action",
+        "title": "Buffy the Vampire Slayer",
+        "release_year": 1997,
+        "watch_order": 1,
+        "platform": "The WB / UPN",
+        "notes": "The landmark television series that defined the character before the comics.",
+        "where_to_watch": "Hulu"
+      },
+      {
+        "media_type": "film",
+        "title": "Buffy the Vampire Slayer",
+        "release_year": 1992,
+        "watch_order": 2,
+        "platform": "20th Century Fox",
+        "notes": "The original feature film that introduced Buffy to audiences.",
+        "where_to_watch": null
+      },
+      {
+        "media_type": "video_game",
+        "title": "Buffy the Vampire Slayer",
+        "release_year": 2002,
+        "watch_order": 3,
+        "platform": "Xbox",
+        "notes": "An action game letting players patrol Sunnydale as the Slayer.",
+        "where_to_watch": null
+      }
+    ]
+  },
+  "supporting": [
+    {
+      "slug": "willow-rosenberg",
+      "name": "Willow Rosenberg",
+      "entity_type": "character",
+      "role": "hero",
+      "publisher_slug": "boom",
+      "real_name": "Willow Rosenberg",
+      "first_appearance": "Buffy the Vampire Slayer #1 (BOOM! Studios, 2019)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Willow Rosenberg is the brilliant, soft-spoken student who becomes Buffy's best friend and the Scooby Gang's witch. Her formidable intellect and growing command of magic make her one of Buffy's most vital allies.",
+      "eras": [
+        {
+          "slug": "willow-awakening",
+          "title": "Finding the Magic",
+          "start_year": 2019,
+          "end_year": 2021,
+          "order_index": 1,
+          "summary": "Willow grows from a shy bookworm into a confident practitioner of magic over the course of the relaunch.",
+          "arcs": [
+            {
+              "slug": "willow-discovers-craft",
+              "title": "The Craft",
+              "logline": "A studious teen finds that her real gift lies beyond the classroom.",
+              "summary": "Drawn into Buffy's secret world, Willow begins channeling her relentless curiosity into the study of magic. What starts as research becomes genuine power as she tests the limits of what she can do.\n\nHer journey balances wonder with risk, as the same talents that protect her friends threaten to overwhelm her. Willow's arc is one of self-discovery and the responsibilities that come with strength.",
+              "spoiler": null,
+              "arc_type": "origin",
+              "start_year": 2019,
+              "end_year": 2021,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Buffy the Vampire Slayer Vol. 1: High School Is Hell",
+                  "format": "trade",
+                  "issue_range": "#1-4",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Absolute Beginner",
+          "reason": "Willow's introduction shows how an ordinary student becomes the gang's magical backbone.",
+          "arc_slug": "willow-discovers-craft"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "buffy-summers",
+          "relationship": "ally",
+          "summary": "Buffy's best friend and the Scooby Gang's witch, loyal through every crisis.",
+          "notes": "Willow's magic and intellect repeatedly turn the tide in Buffy's battles against the darkness."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "live_action",
+          "title": "Buffy the Vampire Slayer",
+          "release_year": 1997,
+          "watch_order": 1,
+          "platform": "The WB / UPN",
+          "notes": "Willow is a central member of the ensemble across all seven seasons.",
+          "where_to_watch": "Hulu"
+        },
+        {
+          "media_type": "video_game",
+          "title": "Buffy the Vampire Slayer: Chaos Bleeds",
+          "release_year": 2003,
+          "watch_order": 2,
+          "platform": "PlayStation 2",
+          "notes": "Willow appears as a playable character.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "xander-harris",
+      "name": "Xander Harris",
+      "entity_type": "character",
+      "role": "hero",
+      "publisher_slug": "boom",
+      "real_name": "Alexander LaVelle Harris",
+      "first_appearance": "Buffy the Vampire Slayer #1 (BOOM! Studios, 2019)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Xander Harris is the loyal, quick-witted everyman of the Scooby Gang, fighting the supernatural with courage rather than superpowers. His humor and heart hold the group together through its darkest nights.",
+      "eras": [
+        {
+          "slug": "xander-awakening",
+          "title": "The Heart of the Gang",
+          "start_year": 2019,
+          "end_year": 2021,
+          "order_index": 1,
+          "summary": "Xander earns his place in the fight through sheer loyalty, proving an ordinary person can matter against extraordinary odds.",
+          "arcs": [
+            {
+              "slug": "xander-joins-the-fight",
+              "title": "No Powers, All Heart",
+              "logline": "An ordinary kid decides he won't sit out the war for his town.",
+              "summary": "When Xander learns the truth about Buffy and the monsters of Sunnydale, he refuses to be left behind. Lacking powers, he leans on wit, nerve, and stubborn loyalty to stand beside his friends.\n\nHis arc explores the value of the human in a world of the superhuman, showing that courage is its own kind of power. Xander becomes the emotional anchor the gang cannot do without.",
+              "spoiler": null,
+              "arc_type": "origin",
+              "start_year": 2019,
+              "end_year": 2021,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Buffy the Vampire Slayer Vol. 1: High School Is Hell",
+                  "format": "trade",
+                  "issue_range": "#1-4",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Absolute Beginner",
+          "reason": "Xander's introduction captures the gang's everyman spirit and grounded humor.",
+          "arc_slug": "xander-joins-the-fight"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "buffy-summers",
+          "relationship": "ally",
+          "summary": "A founding Scooby and Buffy's steadfast friend, fighting without powers of his own.",
+          "notes": "Xander's loyalty and humor keep the gang together even when the supernatural stakes leave him outgunned."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "live_action",
+          "title": "Buffy the Vampire Slayer",
+          "release_year": 1997,
+          "watch_order": 1,
+          "platform": "The WB / UPN",
+          "notes": "Xander is a core member of the Scooby Gang throughout the series.",
+          "where_to_watch": "Hulu"
+        },
+        {
+          "media_type": "video_game",
+          "title": "Buffy the Vampire Slayer: Chaos Bleeds",
+          "release_year": 2003,
+          "watch_order": 2,
+          "platform": "PlayStation 2",
+          "notes": "Xander features among the playable cast.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "rupert-giles",
+      "name": "Rupert Giles",
+      "entity_type": "character",
+      "role": "hero",
+      "publisher_slug": "boom",
+      "real_name": "Rupert Giles",
+      "first_appearance": "Buffy the Vampire Slayer #1 (BOOM! Studios, 2019)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Rupert Giles is Buffy's Watcher and the Sunnydale High librarian, a scholar of the occult who trains and guides the Slayer. His vast knowledge and quiet authority make him the gang's indispensable mentor.",
+      "eras": [
+        {
+          "slug": "giles-awakening",
+          "title": "The Watcher",
+          "start_year": 2019,
+          "end_year": 2021,
+          "order_index": 1,
+          "summary": "Giles takes up his charge to train Buffy, balancing duty to the Watchers' Council against genuine care for his Slayer.",
+          "arcs": [
+            {
+              "slug": "giles-takes-his-charge",
+              "title": "Duty and Devotion",
+              "logline": "A reserved librarian must shape a reluctant girl into the world's last defense.",
+              "summary": "Giles arrives in Sunnydale to fulfill the role he was raised for: guiding the Slayer. He brings centuries of accumulated lore and the rigid expectations of the Watchers' Council, only to find Buffy challenging both.\n\nAs the threats mount, Giles learns to temper duty with compassion, becoming less a handler and more a father figure. His arc is about the cost and reward of devotion to a calling and to a person.",
+              "spoiler": null,
+              "arc_type": "origin",
+              "start_year": 2019,
+              "end_year": 2021,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Buffy the Vampire Slayer Vol. 1: High School Is Hell",
+                  "format": "trade",
+                  "issue_range": "#1-4",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Absolute Beginner",
+          "reason": "Giles's introduction establishes the Watcher mythology and his mentorship of Buffy.",
+          "arc_slug": "giles-takes-his-charge"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "buffy-summers",
+          "relationship": "ally",
+          "summary": "Buffy's Watcher and mentor, supplying the lore and discipline her calling demands.",
+          "notes": "Giles trains and steadies Buffy, serving as a father figure throughout her tenure as Slayer."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "live_action",
+          "title": "Buffy the Vampire Slayer",
+          "release_year": 1997,
+          "watch_order": 1,
+          "platform": "The WB / UPN",
+          "notes": "Giles serves as Buffy's Watcher across the series.",
+          "where_to_watch": "Hulu"
+        },
+        {
+          "media_type": "video_game",
+          "title": "Buffy the Vampire Slayer",
+          "release_year": 2002,
+          "watch_order": 2,
+          "platform": "Xbox",
+          "notes": "Giles supports Buffy with guidance throughout the game.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "angel",
+      "name": "Angel",
+      "entity_type": "character",
+      "role": "antihero",
+      "publisher_slug": "boom",
+      "real_name": "Liam / Angelus",
+      "first_appearance": "Buffy the Vampire Slayer #1 (BOOM! Studios, 2019)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Angel is a vampire cursed with the return of his human soul, doomed to remember every atrocity committed as the demon Angelus. He fights alongside Buffy in atonement, his love for her always shadowed by the monster within.",
+      "eras": [
+        {
+          "slug": "angel-awakening",
+          "title": "The Souled Vampire",
+          "start_year": 2019,
+          "end_year": 2022,
+          "order_index": 1,
+          "summary": "Angel walks a tightrope between his demonic nature and his quest for redemption, drawn ever closer to Buffy.",
+          "arcs": [
+            {
+              "slug": "angel-seeks-redemption",
+              "title": "A Soul in the Dark",
+              "logline": "A vampire haunted by his sins seeks to do good in a town full of evil.",
+              "summary": "Angel moves through Sunnydale as a mysterious ally, offering Buffy cryptic warnings while hiding the truth of his nature. Burdened by a restored soul, he is tormented by memories of the carnage he once caused.\n\nHis path crosses Buffy's again and again, their bond complicating every battle. Angel's arc wrestles with whether a monster can ever truly atone, and at what cost to those he loves.",
+              "spoiler": null,
+              "arc_type": "origin",
+              "start_year": 2019,
+              "end_year": 2022,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Buffy the Vampire Slayer / Angel: Hellmouth",
+                  "format": "trade",
+                  "issue_range": "#1-5",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Modern Era",
+          "reason": "The Hellmouth crossover showcases Angel's uneasy alliance with Buffy at full scale.",
+          "arc_slug": "angel-seeks-redemption"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "buffy-summers",
+          "relationship": "ally",
+          "summary": "A soul-cursed vampire who fights beside Buffy despite his nature, bound to her by love.",
+          "notes": "Angel's romance and partnership with Buffy complicate every battle, his soul forever at war with his demon."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "live_action",
+          "title": "Angel",
+          "release_year": 1999,
+          "watch_order": 1,
+          "platform": "The WB",
+          "notes": "The spin-off series following Angel's quest for redemption in Los Angeles.",
+          "where_to_watch": "Hulu"
+        },
+        {
+          "media_type": "live_action",
+          "title": "Buffy the Vampire Slayer",
+          "release_year": 1997,
+          "watch_order": 2,
+          "platform": "The WB / UPN",
+          "notes": "Angel debuts as a recurring ally and love interest.",
+          "where_to_watch": "Hulu"
+        }
+      ]
+    },
+    {
+      "slug": "the-master",
+      "name": "The Master",
+      "entity_type": "character",
+      "role": "villain",
+      "publisher_slug": "boom",
+      "real_name": "Heinrich Joseph Nest",
+      "first_appearance": "Buffy the Vampire Slayer #1 (BOOM! Studios, 2019)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "The Master is an ancient and powerful vampire lord, so old his body has warped into something monstrous. Bound beneath Sunnydale, he schemes to crack open the Hellmouth and plunge the world into eternal darkness.",
+      "eras": [
+        {
+          "slug": "master-awakening",
+          "title": "The Old One",
+          "start_year": 2019,
+          "end_year": 2020,
+          "order_index": 1,
+          "summary": "The Master orchestrates his rise from beneath Sunnydale, marshaling vampires to free him and end the world.",
+          "arcs": [
+            {
+              "slug": "master-rises",
+              "title": "Beneath the Hellmouth",
+              "logline": "An ancient evil pulls strings from below to break its prison and the world.",
+              "summary": "Trapped beneath Sunnydale by a botched ritual, the Master commands his followers from the shadows, patient and pitiless. He works to align the prophecies and forces needed to free himself.\n\nHis presence is the first great test of Buffy's tenure, a looming dread that colors every early battle. The Master embodies an old, implacable evil that does not bargain.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 2019,
+              "end_year": 2020,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Buffy the Vampire Slayer Vol. 2: A Hellmouth Rising",
+                  "format": "trade",
+                  "issue_range": "#5-8",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "buffy-summers",
+          "relationship": "enemy",
+          "summary": "An ancient vampire lord seeking to crack open the Hellmouth and end Buffy's world.",
+          "notes": "The Master is the first great threat of Buffy's calling, an old and patient evil bound beneath Sunnydale."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "live_action",
+          "title": "Buffy the Vampire Slayer",
+          "release_year": 1997,
+          "watch_order": 1,
+          "platform": "The WB / UPN",
+          "notes": "The Master is the primary antagonist of the first season.",
+          "where_to_watch": "Hulu"
+        },
+        {
+          "media_type": "video_game",
+          "title": "Buffy the Vampire Slayer",
+          "release_year": 2002,
+          "watch_order": 2,
+          "platform": "Xbox",
+          "notes": "The Master features in the game's vampire mythology.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "drusilla",
+      "name": "Drusilla",
+      "entity_type": "character",
+      "role": "villain",
+      "publisher_slug": "boom",
+      "real_name": "Drusilla",
+      "first_appearance": "Buffy the Vampire Slayer #1 (BOOM! Studios, 2019)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Drusilla is a hauntingly insane vampire whose prophetic visions and childlike cruelty make her wildly unpredictable. Driven mad before she was turned, she menaces Sunnydale with both power and unhinged menace.",
+      "eras": [
+        {
+          "slug": "drusilla-awakening",
+          "title": "The Mad Seer",
+          "start_year": 2019,
+          "end_year": 2021,
+          "order_index": 1,
+          "summary": "Drusilla arrives in Sunnydale trailing visions and violence, an erratic but lethal threat to Buffy and her friends.",
+          "arcs": [
+            {
+              "slug": "drusilla-arrives",
+              "title": "Visions of Ruin",
+              "logline": "A mad vampire's prophecies guide her toward the Slayer she means to destroy.",
+              "summary": "Drusilla drifts into Sunnydale guided by visions only she can see, leaving wreckage in her wake. Her madness makes her impossible to predict and dangerous to confront.\n\nShe weaves through the lives of the gang's enemies, her loyalties as unstable as her mind. Drusilla's arc adds a current of dreamlike dread to the relaunch's roster of villains.",
+              "spoiler": null,
+              "arc_type": "miniseries",
+              "start_year": 2019,
+              "end_year": 2021,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Buffy the Vampire Slayer Vol. 3: From Beneath You",
+                  "format": "trade",
+                  "issue_range": "#9-12",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "buffy-summers",
+          "relationship": "enemy",
+          "summary": "A deranged, prophetic vampire whose madness makes her an unpredictable threat to Buffy.",
+          "notes": "Driven insane long ago, Drusilla wields visions and cruelty as she menaces Buffy and her friends."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "live_action",
+          "title": "Buffy the Vampire Slayer",
+          "release_year": 1997,
+          "watch_order": 1,
+          "platform": "The WB / UPN",
+          "notes": "Drusilla is a recurring antagonist, notably in the second season.",
+          "where_to_watch": "Hulu"
+        },
+        {
+          "media_type": "live_action",
+          "title": "Angel",
+          "release_year": 1999,
+          "watch_order": 2,
+          "platform": "The WB",
+          "notes": "Drusilla appears in the spin-off series.",
+          "where_to_watch": "Hulu"
+        }
+      ]
+    },
+    {
+      "slug": "spike",
+      "name": "Spike",
+      "entity_type": "character",
+      "role": "antihero",
+      "publisher_slug": "boom",
+      "real_name": "William the Bloody",
+      "first_appearance": "Buffy the Vampire Slayer #1 (BOOM! Studios, 2019)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Spike is a brash, punk-rock vampire who revels in violence and the legend of killing Slayers. Charismatic and unpredictable, his shifting loyalties make him as likely to fight beside Buffy as against her.",
+      "eras": [
+        {
+          "slug": "spike-awakening",
+          "title": "Slayer of Slayers",
+          "start_year": 2019,
+          "end_year": 2022,
+          "order_index": 1,
+          "summary": "Spike storms into Sunnydale chasing the thrill of killing a Slayer, his motives and allegiances forever in flux.",
+          "arcs": [
+            {
+              "slug": "spike-comes-to-town",
+              "title": "The Big Bad",
+              "logline": "A notorious vampire rolls into town hunting the reputation a Slayer can give him.",
+              "summary": "Spike arrives in Sunnydale drawn by the challenge Buffy represents, eager to add a third Slayer to his kill count. Reckless and theatrical, he upends the local balance of power.\n\nYet his bravado masks a more complicated nature, and his alliances shift with his appetites. Spike's arc keeps readers guessing whether he is a deadly foe or an unlikely asset.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 2019,
+              "end_year": 2022,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Buffy the Vampire Slayer Vol. 3: From Beneath You",
+                  "format": "trade",
+                  "issue_range": "#9-12",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "buffy-summers",
+          "relationship": "enemy",
+          "summary": "A swaggering vampire drawn to Sunnydale by the thrill of killing a Slayer.",
+          "notes": "Spike begins as a lethal antagonist relishing the hunt, his loyalties toward Buffy always in flux."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "live_action",
+          "title": "Buffy the Vampire Slayer",
+          "release_year": 1997,
+          "watch_order": 1,
+          "platform": "The WB / UPN",
+          "notes": "Spike evolves from villain to complex antihero across the series.",
+          "where_to_watch": "Hulu"
+        },
+        {
+          "media_type": "live_action",
+          "title": "Angel",
+          "release_year": 1999,
+          "watch_order": 2,
+          "platform": "The WB",
+          "notes": "Spike joins the cast of the spin-off in its final season.",
+          "where_to_watch": "Hulu"
+        }
+      ]
+    },
+    {
+      "slug": "the-anointed-one",
+      "name": "The Anointed One",
+      "entity_type": "character",
+      "role": "villain",
+      "publisher_slug": "boom",
+      "real_name": "Colin",
+      "first_appearance": "Buffy the Vampire Slayer #1 (BOOM! Studios, 2019)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "The Anointed One is a child vampire of dark prophecy, deceptively innocent in appearance and chillingly cold in purpose. He serves as a herald and figurehead for Sunnydale's vampire forces.",
+      "eras": [
+        {
+          "slug": "anointed-awakening",
+          "title": "The Prophesied Child",
+          "start_year": 2019,
+          "end_year": 2020,
+          "order_index": 1,
+          "summary": "The Anointed One emerges as a quiet, sinister power among Sunnydale's vampires, fulfilling an ancient prophecy.",
+          "arcs": [
+            {
+              "slug": "anointed-emerges",
+              "title": "A Child of Prophecy",
+              "logline": "An unassuming child becomes the dark herald the vampires have awaited.",
+              "summary": "Foretold by prophecy, the Anointed One rises among the vampires of Sunnydale as a figure of ritual and fear. His small stature belies the cold authority he commands.\n\nHe operates as a herald for greater evils, a symbol that draws the darkness together. The arc gives the relaunch a creeping, ceremonial menace beneath its louder threats.",
+              "spoiler": null,
+              "arc_type": "tie-in",
+              "start_year": 2019,
+              "end_year": 2020,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Buffy the Vampire Slayer Vol. 2: A Hellmouth Rising",
+                  "format": "trade",
+                  "issue_range": "#5-8",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "buffy-summers",
+          "relationship": "enemy",
+          "summary": "A child vampire of prophecy who serves as a sinister figurehead against Buffy.",
+          "notes": "The Anointed One commands fear and ritual among Sunnydale's vampires as a herald of doom."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "live_action",
+          "title": "Buffy the Vampire Slayer",
+          "release_year": 1997,
+          "watch_order": 1,
+          "platform": "The WB / UPN",
+          "notes": "The Anointed One appears in the first and second seasons.",
+          "where_to_watch": "Hulu"
+        },
+        {
+          "media_type": "video_game",
+          "title": "Buffy the Vampire Slayer",
+          "release_year": 2002,
+          "watch_order": 2,
+          "platform": "Xbox",
+          "notes": "Part of the vampire hierarchy referenced in the game.",
+          "where_to_watch": null
+        }
+      ]
+    }
+  ]
+}

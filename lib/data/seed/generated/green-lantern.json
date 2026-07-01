@@ -1,0 +1,778 @@
+{
+  "primary": {
+    "slug": "green-lantern",
+    "name": "Green Lantern",
+    "entity_type": "character",
+    "publisher_slug": "dc",
+    "real_name": "Hal Jordan",
+    "first_appearance": "Showcase #22 (1959)",
+    "logo_url": null,
+    "cover_image_url": null,
+    "short_bio": "Test pilot Hal Jordan is chosen by a dying alien to wield a power ring that can forge anything his willpower imagines, making him Earth's greatest member of the intergalactic Green Lantern Corps. Fearless to a fault, he patrols Sector 2814 and stands among the founders of the Justice League. His greatest battles are as often against his own doubts as against the cosmic tyrants who covet his ring.",
+    "eras": [
+      {
+        "slug": "silver-age-genesis",
+        "title": "Silver Age Genesis",
+        "start_year": 1959,
+        "end_year": 1969,
+        "order_index": 1,
+        "summary": "John Broome and Gil Kane reinvent Green Lantern as a science-fiction hero, introducing Hal Jordan, the Guardians of the Universe, and the Green Lantern Corps. The era establishes the cosmic mythology and Hal's signature rogues.",
+        "arcs": [
+          {
+            "slug": "the-power-ring-of-abin-sur",
+            "title": "The Power Ring of Abin Sur",
+            "logline": "A dying alien's ring seeks out the most fearless human on Earth.",
+            "summary": "When the Green Lantern Abin Sur crash-lands on Earth, his power ring scans the planet for a worthy successor and selects Hal Jordan, a test pilot at Ferris Aircraft whose nerve has made him a legend among his peers. Abin Sur passes on the ring and the lantern battery before he dies, and Hal must learn the rules of a weapon limited only by his own willpower and imagination.\n\nThe debut establishes the core mythology: the emerald energy, the recharge oath, and the looming presence of the Guardians of the Universe on the planet Oa. Hal balances a secret double life with his romance with his boss, Carol Ferris, who is both his employer and the object of his affection.\n\nThese opening Showcase stories defined the Silver Age template, fusing aviation adventure with cosmic science fiction. They set Hal apart from his Golden Age predecessor Alan Scott and reframed Green Lantern as a member of a galaxy-spanning police force rather than a lone mystic.",
+            "spoiler": null,
+            "arc_type": "origin",
+            "start_year": 1959,
+            "end_year": 1960,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "Showcase Presents: Green Lantern Vol. 1",
+                "format": "trade",
+                "issue_range": "Showcase #22-24, Green Lantern #1-17",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9781401207595",
+                "purchase_url": null
+              },
+              {
+                "title": "Green Lantern: The Silver Age Omnibus Vol. 1",
+                "format": "omnibus",
+                "issue_range": "Showcase #22-24, Green Lantern #1-21",
+                "reading_order": 2,
+                "publication_order": 2,
+                "reading_order_note": null,
+                "isbn": "9781401274085",
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "the-shark-and-the-mind-monster",
+            "title": "Rise of the Mind-Monsters",
+            "logline": "A telepath and an evolved predator test whether a power ring can fight what it cannot punch.",
+            "summary": "As Hal settles into his role, his rogues' gallery takes shape. A criminal named Hector Hammond is exposed to a meteor that vaults him millions of years up the evolutionary ladder, leaving him immobile but armed with staggering psychic power and an immortal, hungry mind. He becomes obsessed with Hal's ring and with Carol Ferris.\n\nHal also confronts the Shark, an evolved tiger shark transformed into a humanoid predator who feeds on fear, and learns that willpower must be precise as well as strong. These stories push Green Lantern beyond simple slugfests into battles of intellect and nerve.\n\nThe era cements the central theme that would define the character for decades: the ring is only as strong as the will and courage of the man wearing it, and his deadliest foes attack that resolve directly.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 1961,
+            "end_year": 1964,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "Showcase Presents: Green Lantern Vol. 2",
+                "format": "trade",
+                "issue_range": "Green Lantern #18-38",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9781401213831",
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "the-fall-of-sinestro",
+            "title": "The Fall of Sinestro",
+            "logline": "The greatest Green Lantern who ever lived becomes Hal's deadliest mirror.",
+            "summary": "The Guardians reveal that Sinestro of Korugar was once a celebrated Green Lantern, the finest of the Corps, until his desire for order curdled into tyranny over his own homeworld. Stripped of his ring and banished to the antimatter universe of Qward, he returns wielding a yellow power ring fueled by fear, the one weakness built into the emerald energy.\n\nHal faces an opponent who knows every trick of the ring because he helped write the book on it. Their clashes elevate Sinestro into Green Lantern's archenemy, a dark reflection of everything Hal could become if discipline turned to domination.\n\nThis introduction lays the groundwork for the fear-versus-will mythology that later writers would expand into the emotional spectrum, making Sinestro one of the most important villains in DC's cosmic canon.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 1961,
+            "end_year": 1965,
+            "order_index": 3,
+            "reading_entries": [
+              {
+                "title": "Green Lantern: The Silver Age Omnibus Vol. 1",
+                "format": "omnibus",
+                "issue_range": "Green Lantern #7, #9, #11, #15, #18",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9781401274085",
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "bronze-age-conscience",
+        "title": "Bronze Age Conscience",
+        "start_year": 1970,
+        "end_year": 1986,
+        "order_index": 2,
+        "summary": "Denny O'Neil and Neal Adams ground the cosmic hero in social reality, pairing Hal with Green Arrow for a landmark road trip across a troubled America. The era questions the limits of authority and gives Hal a partner who challenges his every assumption.",
+        "arcs": [
+          {
+            "slug": "hard-traveling-heroes",
+            "title": "Hard-Traveling Heroes",
+            "logline": "A cosmic cop and a street-level radical cross America asking who the law really serves.",
+            "summary": "Denny O'Neil and Neal Adams team Hal Jordan with the leftist archer Green Arrow for a journey across a divided United States. Confronted by a Black man who asks why he protects orange and purple aliens but ignores suffering at home, Hal is forced to question the unblinking loyalty he has given the Guardians.\n\nThe pair, sometimes accompanied by a Guardian who walks among humans, tackle racism, pollution, political corruption, and addiction in stories that brought relevance crashing into superhero comics. The friction between Hal's by-the-book idealism and Oliver Queen's furious populism gives the run its electric charge.\n\nWidely regarded as one of the most influential runs in comics history, Hard-Traveling Heroes redefined what mainstream superhero storytelling could address and permanently deepened Hal Jordan as a man wrestling with his own certainties.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 1970,
+            "end_year": 1972,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "Green Lantern/Green Arrow Vol. 1",
+                "format": "trade",
+                "issue_range": "Green Lantern #76-87",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9781401202286",
+                "purchase_url": null
+              },
+              {
+                "title": "Green Lantern/Green Arrow Hardcover",
+                "format": "hardcover",
+                "issue_range": "Green Lantern #76-89, #100-122",
+                "reading_order": 2,
+                "publication_order": 2,
+                "reading_order_note": null,
+                "isbn": "9781401298401",
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "the-cost-of-the-oath",
+            "title": "The Cost of the Oath",
+            "logline": "Saving worlds keeps costing Hal everything he loves at home.",
+            "summary": "Following the relevance era, Hal struggles to reconcile his duty to Sector 2814 with his life on Earth. He drifts between jobs and abandons, then resumes, his role as a Green Lantern, repeatedly forced to choose between Carol Ferris and the demands of the ring.\n\nStories pit him against returning foes and new cosmic threats while emphasizing the personal toll of being a guardian of an entire space sector. The Guardians' inscrutable policies and occasional cruelty drive a wedge between Hal and the masters he once trusted without question.\n\nThis stretch sets up the disillusionment that later writers would mine, portraying a hero whose greatness is inseparable from sacrifice and whose loyalty to the Corps is increasingly tested.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 1976,
+            "end_year": 1985,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "Green Lantern: Sector 2814 Vol. 1",
+                "format": "trade",
+                "issue_range": "Green Lantern #172-183",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9781401240080",
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "modern-age-redemption",
+        "title": "Modern Age Fall and Redemption",
+        "start_year": 1994,
+        "end_year": 2013,
+        "order_index": 3,
+        "summary": "Hal's darkest chapter sees him consumed by tragedy and corruption before Geoff Johns engineers a celebrated resurrection that restores him as the heart of the Green Lantern Corps. The era builds the emotional spectrum and stages cosmic wars on a scale never before seen.",
+        "arcs": [
+          {
+            "slug": "emerald-twilight",
+            "title": "Emerald Twilight",
+            "logline": "Grief drives the greatest Green Lantern to tear the Corps apart from within.",
+            "summary": "After the destruction of his hometown of Coast City, a shattered Hal Jordan uses his ring to recreate the dead, defying the Guardians' edicts. When they move to stop him, his grief and a creeping corruption push him into open war against the Corps itself, as he battles ringbearer after ringbearer on the long road to Oa.\n\nHal seizes the central power battery, and a new figure of immense menace is born from his fall. The Guardians, desperate, forge a single last ring and send it to Earth, where it finds a young artist named Kyle Rayner who must carry the legacy forward.\n\nA controversial but pivotal story, Emerald Twilight removed Hal from the role for years and reframed him as a fallen hero, setting up nearly a decade of stories about the cost of his collapse.",
+            "spoiler": "Hal Jordan is corrupted and becomes the villain Parallax after destroying the Corps and killing fellow Lanterns; Kyle Rayner becomes the new Green Lantern.",
+            "arc_type": "flagship",
+            "start_year": 1994,
+            "end_year": 1994,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "Green Lantern: Emerald Twilight / New Dawn",
+                "format": "trade",
+                "issue_range": "Green Lantern #48-55",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9781401267681",
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "green-lantern-rebirth",
+            "title": "Green Lantern: Rebirth",
+            "logline": "The truth behind Hal's fall could redeem the greatest Lantern of them all.",
+            "summary": "Geoff Johns and Ethan Van Sciver reveal that Hal's corruption was not simple weakness but the work of Parallax, an ancient cosmic entity of fear that had nested inside the Green Lantern central battery and exploited his grief. With this revelation, the path opens for Hal's redemption and return.\n\nReunited with allies including Green Arrow, the Justice League, and his fellow Earth Lanterns, Hal battles to reclaim his soul and his ring while confronting the parasite that ruined him. The story restores his heroism without erasing his guilt, threading the needle of a redemption decades of fans had wanted.\n\nRebirth relaunched Green Lantern as a tentpole franchise and laid the conceptual foundation, the fear entity and the will-versus-fear dynamic, for the cosmic epics that followed.",
+            "spoiler": "Hal Jordan is restored as Green Lantern; Parallax is revealed to be a fear entity that had possessed him.",
+            "arc_type": "retcon",
+            "start_year": 2004,
+            "end_year": 2005,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "Green Lantern: Rebirth",
+                "format": "trade",
+                "issue_range": "Green Lantern: Rebirth #1-6",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9781401206154",
+                "purchase_url": null
+              },
+              {
+                "title": "Green Lantern: Rebirth Deluxe Edition",
+                "format": "hardcover",
+                "issue_range": "Green Lantern: Rebirth #1-6",
+                "reading_order": 2,
+                "publication_order": 2,
+                "reading_order_note": null,
+                "isbn": "9781401294120",
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "the-sinestro-corps-war",
+            "title": "The Sinestro Corps War",
+            "logline": "Sinestro builds an army of fear to break the Green Lantern Corps forever.",
+            "summary": "Sinestro unites the universe's most terrifying beings into the Sinestro Corps, arming them with yellow rings powered by fear, and launches an all-out assault on Oa. Allied with the resurrected Parallax, the Anti-Monitor, and a corrupted Superman from another reality, his forces aim to annihilate the Green Lantern Corps and remake the cosmos under fear's rule.\n\nHal Jordan, Kyle Rayner, John Stewart, Guy Gardner, and the entire Corps wage a war that spills from deep space to the streets of Earth. The Guardians are forced to rewrite their own ancient laws, sanctioning lethal force for the first time, a decision with consequences that ripple for years.\n\nThe Sinestro Corps War is regarded as one of the definitive Green Lantern epics and the springboard for Blackest Night, expanding the mythology into a full emotional spectrum of colored Corps.",
+            "spoiler": null,
+            "arc_type": "crossover",
+            "start_year": 2007,
+            "end_year": 2008,
+            "order_index": 3,
+            "reading_entries": [
+              {
+                "title": "Green Lantern: The Sinestro Corps War",
+                "format": "hardcover",
+                "issue_range": "Green Lantern #21-25, Green Lantern Corps #14-19, Sinestro Corps Special #1",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9781401219130",
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "blackest-night",
+            "title": "Blackest Night",
+            "logline": "Death itself rises to extinguish every light in the universe.",
+            "summary": "The prophesied Blackest Night arrives as the entity Nekron raises the dead across the cosmos, fitting fallen heroes and villains with black rings that turn them into Black Lanterns hungry for the living. The full emotional spectrum, will, fear, rage, avarice, hope, compassion, and love, must unite to stop the tide.\n\nHal Jordan stands at the center of an unprecedented alliance of seven Corps, leading Lanterns of every color against an enemy that feeds on emotion and death. Old friends return in horrifying form, and the cost of every loss in Hal's history comes back to haunt him.\n\nBlackest Night was a line-wide event that paid off years of Geoff Johns' world-building, cementing Hal as a unifying leader and the emotional spectrum as a permanent fixture of DC's cosmos.",
+            "spoiler": null,
+            "arc_type": "crossover",
+            "start_year": 2009,
+            "end_year": 2010,
+            "order_index": 4,
+            "reading_entries": [
+              {
+                "title": "Blackest Night",
+                "format": "hardcover",
+                "issue_range": "Blackest Night #0-8",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9781401226657",
+                "purchase_url": null
+              },
+              {
+                "title": "Blackest Night Omnibus",
+                "format": "omnibus",
+                "issue_range": "Blackest Night #0-8 and crossover tie-ins",
+                "reading_order": 2,
+                "publication_order": 2,
+                "reading_order_note": "Omnibus interleaves tie-in miniseries into full reading order rather than collecting them separately.",
+                "isbn": "9781401286156",
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "start_here": [
+      {
+        "order_index": 1,
+        "label": "Absolute Beginner",
+        "reason": "Green Lantern: Rebirth is the cleanest modern entry point. It re-establishes who Hal Jordan is, explains his fall and return in one self-contained story, and requires no prior reading.",
+        "arc_slug": "green-lantern-rebirth"
+      },
+      {
+        "order_index": 2,
+        "label": "Classic Fan",
+        "reason": "Hard-Traveling Heroes is the most acclaimed Silver/Bronze Age run, pairing Hal with Green Arrow for socially conscious adventures that defined the character's depth.",
+        "arc_slug": "hard-traveling-heroes"
+      },
+      {
+        "order_index": 3,
+        "label": "Modern Era",
+        "reason": "The Sinestro Corps War is the definitive modern epic, showcasing the full Corps mythology and Hal's leadership against his archenemy on a cosmic scale.",
+        "arc_slug": "the-sinestro-corps-war"
+      }
+    ],
+    "relationships": [
+      {
+        "related_slug": "justice-league",
+        "relationship": "ally",
+        "summary": "Hal Jordan is a founding member of the Justice League and its resident space-faring powerhouse.",
+        "notes": "Hal joined in the team's earliest adventures (The Brave and the Bold #28, 1960) and has served across countless rosters as the League's cosmic specialist."
+      },
+      {
+        "related_slug": "the-flash",
+        "relationship": "ally",
+        "summary": "Hal and Barry Allen are the closest of friends, the twin pillars of the Silver Age and the heart of the Justice League.",
+        "notes": "Their friendship is a cornerstone of DC lore; Barry was among those who never gave up on Hal and helped welcome him back in Green Lantern: Rebirth."
+      },
+      {
+        "related_slug": "superman",
+        "relationship": "ally",
+        "summary": "Hal stands beside Superman as a fellow founder of the Justice League and trusted teammate.",
+        "notes": "The two have clashed and reconciled many times; Superman supported Hal's reinstatement during Green Lantern: Rebirth despite the carnage of Emerald Twilight."
+      },
+      {
+        "related_slug": "batman",
+        "relationship": "ally",
+        "summary": "Hal and Batman are uneasy allies whose differing temperaments make for a famously prickly partnership.",
+        "notes": "Batman distrusted Hal after Parallax, and the two have repeatedly butted heads over willpower and discipline, including a memorable jaw-breaking exchange in Green Lantern: Rebirth."
+      },
+      {
+        "related_slug": "wonder-woman",
+        "relationship": "ally",
+        "summary": "Hal serves alongside Wonder Woman as a fellow Justice League stalwart.",
+        "notes": "The two have fought side by side through major League crises, including the cosmic events surrounding Blackest Night."
+      },
+      {
+        "related_slug": "sinestro",
+        "relationship": "enemy",
+        "summary": "Sinestro is Hal's archenemy, a former Green Lantern turned master of fear.",
+        "notes": "Introduced in Green Lantern #7 (1961), Sinestro escalated from a yellow-ring renegade to the architect of the Sinestro Corps War, the dark mirror of Hal's own discipline."
+      },
+      {
+        "related_slug": "parallax",
+        "relationship": "enemy",
+        "summary": "Parallax is the cosmic entity of fear that corrupted Hal and turned him against the Corps.",
+        "notes": "Revealed in Green Lantern: Rebirth (2004) as the parasite behind Emerald Twilight, Parallax remains the embodiment of the fear that Hal's will must constantly overcome."
+      },
+      {
+        "related_slug": "atrocitus",
+        "relationship": "enemy",
+        "summary": "Atrocitus is the rage-fueled leader of the Red Lantern Corps and a recurring threat to Hal.",
+        "notes": "Created by Geoff Johns and introduced in the Rage of the Red Lanterns prelude (2008), Atrocitus blames the Guardians and their Lanterns for the slaughter of his people."
+      },
+      {
+        "related_slug": "hector-hammond",
+        "relationship": "enemy",
+        "summary": "Hector Hammond is a psychic megalomaniac obsessed with Hal's ring and with Carol Ferris.",
+        "notes": "Debuting in Green Lantern #5 (1960), the evolved Hammond is one of Hal's earliest and most persistent foes, attacking the mind rather than the body."
+      }
+    ],
+    "media": [
+      {
+        "media_type": "animated_series",
+        "title": "Green Lantern: The Animated Series",
+        "release_year": 2011,
+        "watch_order": 1,
+        "platform": "Cartoon Network",
+        "notes": "CGI series featuring Hal Jordan exploring the frontier of space and battling the Red Lantern Corps.",
+        "where_to_watch": "Max"
+      },
+      {
+        "media_type": "film",
+        "title": "Green Lantern",
+        "release_year": 2011,
+        "watch_order": null,
+        "platform": "Warner Bros.",
+        "notes": "Live-action feature starring Ryan Reynolds as Hal Jordan, featuring Parallax and Hector Hammond as antagonists.",
+        "where_to_watch": "Max"
+      },
+      {
+        "media_type": "live_action",
+        "title": "Justice League",
+        "release_year": 2017,
+        "watch_order": null,
+        "platform": "Warner Bros.",
+        "notes": "Green Lantern Corps appears in flashback during the team's history; a planned HBO Max Green Lantern series later evolved into Lanterns.",
+        "where_to_watch": "Max"
+      },
+      {
+        "media_type": "video_game",
+        "title": "Green Lantern: Rise of the Manhunters",
+        "release_year": 2011,
+        "watch_order": null,
+        "platform": "Multi-platform",
+        "notes": "Action game tie-in to the film, with Hal Jordan constructing weapons from his ring to battle the rogue Manhunters.",
+        "where_to_watch": null
+      }
+    ]
+  },
+  "supporting": [
+    {
+      "slug": "sinestro",
+      "name": "Sinestro",
+      "entity_type": "character",
+      "publisher_slug": "dc",
+      "real_name": "Thaal Sinestro",
+      "first_appearance": "Green Lantern #7 (1961)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Once the greatest Green Lantern of them all, Thaal Sinestro of Korugar believed order was worth any price and became a tyrant over his own people. Stripped of his ring and exiled, he forged a yellow ring of fear and built a Corps in his own image. He is Hal Jordan's archenemy and the dark mirror of everything a Lantern can become.",
+      "eras": [
+        {
+          "slug": "sinestro-renegade",
+          "title": "The Renegade Lantern",
+          "start_year": 1961,
+          "end_year": 2006,
+          "order_index": 1,
+          "summary": "Sinestro's transformation from disgraced Lantern to wielder of the yellow ring of fear, the recurring nemesis of Hal Jordan.",
+          "arcs": [
+            {
+              "slug": "the-yellow-ring",
+              "title": "The Yellow Ring",
+              "logline": "A fallen hero returns from the antimatter universe armed with fear.",
+              "summary": "Banished to the antimatter universe of Qward for his tyranny, Sinestro is gifted a yellow power ring by the Weaponers, exploiting the impurity that renders Green Lanterns vulnerable to the color yellow. He returns to torment Hal Jordan and the Corps that cast him out.\n\nThe story establishes the fear-versus-will dynamic that defines the franchise, casting Sinestro as the discipline of order taken to a monstrous extreme. His knowledge of Corps tactics makes him uniquely dangerous.",
+              "spoiler": null,
+              "arc_type": "origin",
+              "start_year": 1961,
+              "end_year": 1965,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Green Lantern: The Silver Age Omnibus Vol. 1",
+                  "format": "omnibus",
+                  "issue_range": "Green Lantern #7, #9, #11, #15",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": "9781401274085",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "sinestro-corps",
+          "title": "The Sinestro Corps",
+          "start_year": 2007,
+          "end_year": 2012,
+          "order_index": 2,
+          "summary": "Sinestro assembles an army of the universe's most terrifying beings to wage war on the Green Lantern Corps.",
+          "arcs": [
+            {
+              "slug": "sinestro-corps-rising",
+              "title": "Sinestro Corps Rising",
+              "logline": "Fear becomes an army, and Oa burns.",
+              "summary": "Sinestro recruits the most fear-inspiring entities across the cosmos and arms them with yellow rings, forming the Sinestro Corps. Allied with Parallax and the Anti-Monitor, he launches a devastating assault on Oa intended to break the Green Lantern Corps forever.\n\nThe war forces the Guardians to authorize lethal force for the first time, reshaping the Corps and elevating Sinestro into one of DC's premier cosmic villains.",
+              "spoiler": null,
+              "arc_type": "crossover",
+              "start_year": 2007,
+              "end_year": 2008,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Green Lantern: The Sinestro Corps War",
+                  "format": "hardcover",
+                  "issue_range": "Green Lantern #21-25, Green Lantern Corps #14-19",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": "9781401219130",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Best Introduction",
+          "reason": "The Sinestro Corps War is the definitive Sinestro story, showing the full threat of his fear-powered army against the Green Lantern Corps.",
+          "arc_slug": "sinestro-corps-rising"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "green-lantern",
+          "relationship": "enemy",
+          "summary": "Sinestro is Hal Jordan's archenemy and the dark reflection of the Green Lantern ideal.",
+          "notes": "Their rivalry began in Green Lantern #7 (1961) and peaked in the Sinestro Corps War, a generational struggle between will and fear."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "film",
+          "title": "Green Lantern",
+          "release_year": 2011,
+          "watch_order": null,
+          "platform": "Warner Bros.",
+          "notes": "Mark Strong plays Sinestro, a Corps leader whose turn toward fear is set up for a sequel that never came.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "Green Lantern: The Animated Series",
+          "release_year": 2011,
+          "watch_order": null,
+          "platform": "Cartoon Network",
+          "notes": "Sinestro appears as a Green Lantern whose ambitions foreshadow his fall.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "video_game",
+          "title": "Injustice 2",
+          "release_year": 2017,
+          "watch_order": null,
+          "platform": "Multi-platform",
+          "notes": "Sinestro is a playable fighter wielding the yellow ring of fear.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "parallax",
+      "name": "Parallax",
+      "entity_type": "character",
+      "publisher_slug": "dc",
+      "real_name": null,
+      "first_appearance": "Green Lantern #50 (1994)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Parallax is the primordial cosmic embodiment of fear, an entity so ancient it predates much of the emotional spectrum. Imprisoned within the Green Lantern central power battery, it preyed upon Hal Jordan's grief to engineer his fall. It remains the living source of the yellow impurity that once weakened every Green Lantern.",
+      "eras": [
+        {
+          "slug": "parallax-corruption",
+          "title": "The Corruption of a Hero",
+          "start_year": 1994,
+          "end_year": 2005,
+          "order_index": 1,
+          "summary": "The fear entity's manipulation of Hal Jordan and its eventual exposure as the true cause of his fall.",
+          "arcs": [
+            {
+              "slug": "the-fear-entity",
+              "title": "The Fear Entity",
+              "logline": "Grief opens the door for fear to wear a hero's face.",
+              "summary": "After the destruction of Coast City, the entity of fear seizes on Hal Jordan's anguish and drives him to turn against the Green Lantern Corps, adopting the name Parallax. For years the corruption is mistaken for Hal's own madness.\n\nIn Green Lantern: Rebirth, the truth is revealed: Parallax is an ancient parasite that had nested in the central power battery and exploited Hal's loss, recasting his fall as possession rather than simple villainy.",
+              "spoiler": "Parallax is revealed to be a separate fear entity that possessed Hal Jordan rather than a persona he chose.",
+              "arc_type": "retcon",
+              "start_year": 1994,
+              "end_year": 2005,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Green Lantern: Rebirth",
+                  "format": "trade",
+                  "issue_range": "Green Lantern: Rebirth #1-6",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": "9781401206154",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Best Introduction",
+          "reason": "Green Lantern: Rebirth reveals Parallax's true nature and its grip on Hal Jordan, the definitive context for the entity.",
+          "arc_slug": "the-fear-entity"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "green-lantern",
+          "relationship": "enemy",
+          "summary": "Parallax is the fear entity that corrupted Hal Jordan and remains the embodiment of the fear he must overcome.",
+          "notes": "From Emerald Twilight (1994) through Green Lantern: Rebirth (2004), Parallax represents the internal enemy at the heart of Hal's mythology."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "film",
+          "title": "Green Lantern",
+          "release_year": 2011,
+          "watch_order": null,
+          "platform": "Warner Bros.",
+          "notes": "Parallax appears as a planet-sized fear entity and the film's primary antagonist.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "video_game",
+          "title": "Green Lantern: Rise of the Manhunters",
+          "release_year": 2011,
+          "watch_order": null,
+          "platform": "Multi-platform",
+          "notes": "The fear entity looms over the cosmic conflict adapted from the film.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "atrocitus",
+      "name": "Atrocitus",
+      "entity_type": "character",
+      "publisher_slug": "dc",
+      "real_name": "Atros",
+      "first_appearance": "Final Crisis: Rage of the Red Lanterns #1 (2008)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Atrocitus is the founder and leader of the Red Lantern Corps, a being consumed by rage after the Manhunters slaughtered his sector and family. He channels burning blood and incandescent fury through a red power ring forged from his own hatred. He blames the Guardians of the Universe and their Green Lanterns for the deaths he can never forgive.",
+      "eras": [
+        {
+          "slug": "atrocitus-red-rage",
+          "title": "The Red Rage",
+          "start_year": 2008,
+          "end_year": 2013,
+          "order_index": 1,
+          "summary": "Atrocitus founds the Red Lantern Corps and brings the rage end of the emotional spectrum into open war.",
+          "arcs": [
+            {
+              "slug": "rage-of-the-red-lanterns",
+              "title": "Rage of the Red Lanterns",
+              "logline": "Vengeance takes the shape of a Corps powered by blood and fury.",
+              "summary": "Driven by the slaughter of his people, Atrocitus forges the red ring of rage and gathers the universe's most furious beings into the Red Lantern Corps. He targets Sinestro and, by extension, the Green Lantern Corps and the Guardians he holds responsible.\n\nThe arc introduces the rage entity, the Butcher, and expands the emotional spectrum that drives the lead-up to Blackest Night, with Hal Jordan caught in the crossfire of competing Corps.",
+              "spoiler": null,
+              "arc_type": "crossover",
+              "start_year": 2008,
+              "end_year": 2009,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Green Lantern: Rage of the Red Lanterns",
+                  "format": "hardcover",
+                  "issue_range": "Green Lantern #26-28, #36-38, Final Crisis: Rage of the Red Lanterns #1",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": "9781401222123",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Best Introduction",
+          "reason": "Rage of the Red Lanterns introduces Atrocitus, his tragic origin, and the rage-powered Corps he commands.",
+          "arc_slug": "rage-of-the-red-lanterns"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "green-lantern",
+          "relationship": "enemy",
+          "summary": "Atrocitus opposes Hal Jordan as the rage-fueled antithesis of the Green Lantern's will and order.",
+          "notes": "Introduced in 2008, Atrocitus blames the Guardians and their Lanterns for the massacre of his people and clashes with Hal across the War of Light."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "animated_series",
+          "title": "Green Lantern: The Animated Series",
+          "release_year": 2011,
+          "watch_order": null,
+          "platform": "Cartoon Network",
+          "notes": "Atrocitus serves as a primary antagonist leading the Red Lantern Corps against Hal Jordan.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "video_game",
+          "title": "Injustice 2",
+          "release_year": 2017,
+          "watch_order": null,
+          "platform": "Multi-platform",
+          "notes": "Atrocitus appears as a playable Red Lantern alongside his cat companion Dex-Starr.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "hector-hammond",
+      "name": "Hector Hammond",
+      "entity_type": "character",
+      "publisher_slug": "dc",
+      "real_name": "Hector Hammond",
+      "first_appearance": "Green Lantern #5 (1960)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Hector Hammond is a criminal who was exposed to a radioactive meteor that accelerated his evolution by millions of years, granting him immense psychic power at the cost of his mobility. His swollen, immortal mind craves dominion and fixates on both Hal Jordan's power ring and Carol Ferris. He is one of Green Lantern's earliest and most cerebral foes.",
+      "eras": [
+        {
+          "slug": "hammond-evolved-mind",
+          "title": "The Evolved Mind",
+          "start_year": 1960,
+          "end_year": 2011,
+          "order_index": 1,
+          "summary": "Hector Hammond's transformation into a psychic threat who attacks Hal Jordan's mind rather than his body.",
+          "arcs": [
+            {
+              "slug": "the-immortal-mind",
+              "title": "The Immortal Mind",
+              "logline": "A small-time crook evolves into a deathless brain that hungers for power.",
+              "summary": "Hector Hammond is exposed to a strange meteor that vaults him millions of years up the evolutionary scale, leaving him with a grotesquely enlarged head, telepathic and telekinetic power, and effective immortality, but robbing him of the ability to move.\n\nObsessed with Hal Jordan's ring and with Carol Ferris, Hammond becomes a recurring menace whose battles are fought in the mind. He embodies the Silver Age theme that a power ring is useless without the will to wield it.",
+              "spoiler": null,
+              "arc_type": "origin",
+              "start_year": 1960,
+              "end_year": 1964,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Showcase Presents: Green Lantern Vol. 1",
+                  "format": "trade",
+                  "issue_range": "Green Lantern #5, #20, #22",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": "9781401207595",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Best Introduction",
+          "reason": "Showcase Presents collects Hammond's origin and earliest clashes with Hal Jordan, the foundation of the character.",
+          "arc_slug": "the-immortal-mind"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "green-lantern",
+          "relationship": "enemy",
+          "summary": "Hector Hammond is a recurring psychic nemesis obsessed with Hal Jordan's ring and Carol Ferris.",
+          "notes": "Debuting in Green Lantern #5 (1960), Hammond attacks Hal's mind and willpower, making him one of the hero's oldest and most distinctive foes."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "film",
+          "title": "Green Lantern",
+          "release_year": 2011,
+          "watch_order": null,
+          "platform": "Warner Bros.",
+          "notes": "Peter Sarsgaard plays Hector Hammond, whose exposure to Parallax's energy mutates him into a psychic antagonist.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "Justice League Action",
+          "release_year": 2016,
+          "watch_order": null,
+          "platform": "Cartoon Network",
+          "notes": "Hammond appears as a psychic villain matching wits with the League.",
+          "where_to_watch": "Max"
+        }
+      ]
+    }
+  ]
+}

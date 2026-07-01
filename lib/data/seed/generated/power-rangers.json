@@ -1,0 +1,682 @@
+{
+  "primary": {
+    "slug": "power-rangers",
+    "name": "Power Rangers",
+    "entity_type": "team",
+    "role": "hero",
+    "publisher_slug": "boom",
+    "real_name": null,
+    "first_appearance": "Mighty Morphin Power Rangers #1 (BOOM! Studios, 2016)",
+    "logo_url": null,
+    "cover_image_url": null,
+    "short_bio": "A team of teenagers chosen by the sage Zordon to wield the Power Coins and defend Earth from intergalactic evil. Morphing into armored warriors and piloting colossal Zords, the Rangers stand as Angel Grove's last line of defense. BOOM! Studios reimagines their saga with deeper continuity, higher stakes, and threats that span the multiverse.",
+    "eras": [
+      {
+        "slug": "mighty-morphin-era",
+        "title": "The Mighty Morphin Era",
+        "start_year": 2016,
+        "end_year": 2018,
+        "order_index": 1,
+        "summary": "BOOM! Studios relaunches the classic team, picking up in the wake of the Green Ranger's redemption while expanding the mythology of the Morphin Grid. The Rangers confront familiar foes with new gravity and consequence.",
+        "arcs": [
+          {
+            "slug": "ongoing-power",
+            "title": "Ongoing Power",
+            "logline": "The newly reformed Green Ranger struggles to earn his teammates' trust as Rita escalates her assault on Angel Grove.",
+            "summary": "The series opens in the immediate aftermath of Tommy Oliver's turn from villain to ally. Haunted by what Rita made him do under the Green Candle's influence, Tommy fights to prove himself worthy of the Power even as his own coin's stability falters. The other Rangers, particularly Jason, must decide whether trust can be rebuilt.\n\nRita Repulsa, sensing the fracture within the team, probes for weakness. Her schemes grow more psychological than brute-force, targeting the bonds that make the Rangers stronger than any single warrior. Zordon counsels patience while Alpha 5 monitors the degrading Green Coin.\n\nThe arc establishes the emotional throughline of the entire BOOM! run: that the Power is only as strong as the people who carry it, and that redemption is a daily choice rather than a single act.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 2016,
+            "end_year": 2016,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "Mighty Morphin Power Rangers Vol. 1",
+                "format": "trade",
+                "issue_range": "#1-4",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "year-one-deluxe",
+            "title": "Black Dragon Rising",
+            "logline": "An armored menace from Tommy's nightmares manifests in the real world, hunting the Rangers one by one.",
+            "summary": "A monstrous Black Dragon, born from Tommy's guilt and Rita's manipulation, emerges to dismantle the team. The threat forces the Rangers to fight on two fronts: the physical battle in the streets of Angel Grove and the internal battle over whether Tommy is liability or asset.\n\nBilly's intellect and Trini's calm become essential as the team improvises new tactics against an enemy that knows their every move. The Zords are pushed to their limits, and the cost of victory raises the stakes for everything that follows.\n\nThis arc cements the BOOM! era's willingness to take the source material seriously, treating childhood heroes as fully realized people with fears, doubts, and hard-won courage.",
+            "spoiler": null,
+            "arc_type": "origin",
+            "start_year": 2016,
+            "end_year": 2017,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "Mighty Morphin Power Rangers Vol. 2",
+                "format": "trade",
+                "issue_range": "#5-8",
+                "reading_order": 2,
+                "publication_order": 2,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "shattered-grid-era",
+        "title": "The Shattered Grid Era",
+        "start_year": 2018,
+        "end_year": 2020,
+        "order_index": 2,
+        "summary": "A renegade Tommy from an alternate timeline, Lord Drakkon, wages war across every Ranger reality, collapsing the boundaries of the Morphin Grid itself. The flagship crossover event redefines the franchise's scope.",
+        "arcs": [
+          {
+            "slug": "shattered-grid",
+            "title": "Shattered Grid",
+            "logline": "Lord Drakkon tears through the multiverse, and every team of Rangers across time must unite to survive.",
+            "summary": "Lord Drakkon, the Tommy Oliver who never stopped being the Green Ranger and conquered his own world, launches a campaign to dominate all realities. Armed with stolen power and an army, he picks off Ranger teams across eras, threatening to unmake the Morphin Grid entirely.\n\nThe Mighty Morphin team finds itself at the center of a war far larger than Angel Grove. Allies fall, timelines bleed together, and the surviving Rangers must make impossible sacrifices. The event draws on the franchise's entire history, uniting incarnations that never shared a page before.\n\nShattered Grid is the BOOM! run's defining statement: a love letter to thirty years of Power Rangers that also pushes the property into ambitious, multiversal storytelling.",
+            "spoiler": "Several Rangers are killed during Drakkon's campaign before the timeline is restored.",
+            "arc_type": "crossover",
+            "start_year": 2018,
+            "end_year": 2018,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "Mighty Morphin Power Rangers: Shattered Grid",
+                "format": "hardcover",
+                "issue_range": "MMPR #25-30, Go Go Power Rangers #9-12",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": "Read alongside the Go Go Power Rangers tie-in chapters for full context.",
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "beyond-the-grid",
+            "title": "Beyond the Grid",
+            "logline": "Stranded outside the Morphin Grid, a patchwork team of Rangers fights to find a way home.",
+            "summary": "In the wake of Drakkon's war, a small group of Rangers is flung into the empty space beyond the Morphin Grid, cut off from the source of their power. Without the Grid to draw on, they must ration their remaining strength and confront a cosmic entity that feeds on Rangers.\n\nThe arc strips the heroes down to their resourcefulness and resolve, exploring what it means to be a Ranger when the Power itself is fading. New alliances form among Rangers from disparate worlds.\n\nBeyond the Grid serves as the bridge out of Shattered Grid, resetting the board and seeding the conflicts that would carry the BOOM! line into its next chapter.",
+            "spoiler": null,
+            "arc_type": "tie-in",
+            "start_year": 2018,
+            "end_year": 2019,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "Mighty Morphin Power Rangers: Beyond the Grid",
+                "format": "trade",
+                "issue_range": "#31-37",
+                "reading_order": 2,
+                "publication_order": 2,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "start_here": [
+      {
+        "order_index": 1,
+        "label": "Absolute Beginner",
+        "reason": "Starts the BOOM! continuity from the beginning, grounding you in the team dynamic and Tommy's redemption before the stakes escalate.",
+        "arc_slug": "ongoing-power"
+      },
+      {
+        "order_index": 2,
+        "label": "Classic Fan",
+        "reason": "Black Dragon Rising delivers the nostalgic monster-of-the-arc thrills with modern depth, perfect for longtime fans.",
+        "arc_slug": "year-one-deluxe"
+      },
+      {
+        "order_index": 3,
+        "label": "Modern Era",
+        "reason": "Shattered Grid is the ambitious multiversal event that defines the modern comics and showcases the franchise's full scope.",
+        "arc_slug": "shattered-grid"
+      }
+    ],
+    "relationships": [
+      {
+        "related_slug": "tommy-oliver",
+        "relationship": "ally",
+        "summary": "The Green and later White Ranger, Tommy is the team's most storied warrior and eventual leader.",
+        "notes": "Once turned against the Rangers by Rita, Tommy earned his place through repeated sacrifice and became the heart of the team."
+      },
+      {
+        "related_slug": "jason-lee-scott",
+        "relationship": "ally",
+        "summary": "The original Red Ranger and the team's founding leader.",
+        "notes": "Jason's discipline and sense of duty hold the team together through its earliest and hardest battles."
+      },
+      {
+        "related_slug": "kimberly-hart",
+        "relationship": "ally",
+        "summary": "The Pink Ranger, whose agility and compassion balance the team.",
+        "notes": "Kimberly's bond with Tommy and her steady judgment make her a moral anchor for the Rangers."
+      },
+      {
+        "related_slug": "billy-cranston",
+        "relationship": "ally",
+        "summary": "The Blue Ranger and the team's brilliant technologist.",
+        "notes": "Billy's inventions and analytical mind repeatedly turn the tide when raw power is not enough."
+      },
+      {
+        "related_slug": "rita-repulsa",
+        "relationship": "enemy",
+        "summary": "The space witch whose schemes first forced Zordon to summon the Rangers.",
+        "notes": "Rita's relentless monster-making and psychological warfare define the team's earliest existential threats."
+      },
+      {
+        "related_slug": "lord-zedd",
+        "relationship": "enemy",
+        "summary": "The Emperor of Evil, a far colder and more powerful menace than Rita.",
+        "notes": "Zedd's arrival raises the stakes for the Rangers, threatening Angel Grove with conquest rather than mere chaos."
+      },
+      {
+        "related_slug": "goldar",
+        "relationship": "enemy",
+        "summary": "The winged warrior and loyal enforcer of Rita and Zedd.",
+        "notes": "Goldar is the Rangers' most persistent hand-to-hand adversary, returning again and again for vengeance."
+      },
+      {
+        "related_slug": "lord-drakkon",
+        "relationship": "enemy",
+        "summary": "An alternate-timeline Tommy who conquered his world and now wars across the multiverse.",
+        "notes": "Drakkon is the dark mirror of everything the Rangers stand for, weaponizing the Morphin Grid itself against them."
+      }
+    ],
+    "media": [
+      {
+        "media_type": "live_action",
+        "title": "Mighty Morphin Power Rangers",
+        "release_year": 1993,
+        "watch_order": 1,
+        "platform": "Fox Kids",
+        "notes": "The original series that launched the global franchise.",
+        "where_to_watch": "Netflix"
+      },
+      {
+        "media_type": "film",
+        "title": "Power Rangers",
+        "release_year": 2017,
+        "watch_order": 2,
+        "platform": "Lionsgate",
+        "notes": "A modern cinematic reboot of the original team's origin.",
+        "where_to_watch": "Digital rental"
+      },
+      {
+        "media_type": "video_game",
+        "title": "Power Rangers: Battle for the Grid",
+        "release_year": 2019,
+        "watch_order": 3,
+        "platform": "Multi-platform",
+        "notes": "A fighting game featuring Rangers from across the franchise, including Lord Drakkon.",
+        "where_to_watch": null
+      }
+    ],
+    "team_members": [
+      {
+        "character_slug": "tommy-oliver",
+        "era_slug": "mighty-morphin-era",
+        "role": "leader",
+        "notes": "Green and later White Ranger; rose from Rita's pawn to the team's enduring leader."
+      },
+      {
+        "character_slug": "jason-lee-scott",
+        "era_slug": "mighty-morphin-era",
+        "role": "founder",
+        "notes": "Original Red Ranger and founding leader of the team."
+      },
+      {
+        "character_slug": "kimberly-hart",
+        "era_slug": "mighty-morphin-era",
+        "role": "founder",
+        "notes": "Original Pink Ranger, agile and compassionate."
+      },
+      {
+        "character_slug": "billy-cranston",
+        "era_slug": "mighty-morphin-era",
+        "role": "founder",
+        "notes": "Original Blue Ranger and the team's chief technologist."
+      },
+      {
+        "character_slug": "zack-taylor",
+        "era_slug": "mighty-morphin-era",
+        "role": "founder",
+        "notes": "Original Black Ranger, charismatic and quick on his feet."
+      },
+      {
+        "character_slug": "trini-kwan",
+        "era_slug": "mighty-morphin-era",
+        "role": "founder",
+        "notes": "Original Yellow Ranger, calm and disciplined in battle."
+      }
+    ]
+  },
+  "supporting": [
+    {
+      "slug": "jason-lee-scott",
+      "name": "Jason Lee Scott",
+      "entity_type": "character",
+      "role": "hero",
+      "publisher_slug": "boom",
+      "real_name": "Jason Lee Scott",
+      "first_appearance": "Mighty Morphin Power Rangers #1 (BOOM! Studios, 2016)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "The original Red Ranger and founding leader of the Power Rangers. Disciplined, principled, and fiercely loyal, Jason carries the weight of command and the responsibility of welcoming a reformed Tommy into the fold.",
+      "eras": [
+        {
+          "slug": "red-ranger-era",
+          "title": "The Red Ranger",
+          "start_year": 2016,
+          "end_year": 2018,
+          "order_index": 1,
+          "summary": "Jason leads the team through its formative battles, balancing duty with the personal cost of leadership.",
+          "arcs": [
+            {
+              "slug": "burden-of-command",
+              "title": "Burden of Command",
+              "logline": "Jason must decide whether the team can trust the former Green Ranger he once fought.",
+              "summary": "As leader, Jason bears the responsibility of integrating Tommy into a wary team. His insistence on accountability and his willingness to extend trust set the tone for the Rangers' unity.\n\nThe arc explores leadership as sacrifice, showing how Jason's steadiness anchors the team through its earliest crises.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 2016,
+              "end_year": 2017,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Mighty Morphin Power Rangers Vol. 1",
+                  "format": "trade",
+                  "issue_range": "#1-4",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Absolute Beginner",
+          "reason": "Burden of Command introduces Jason's leadership and the trust that binds the team.",
+          "arc_slug": "burden-of-command"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "power-rangers",
+          "relationship": "ally",
+          "summary": "Jason is the founding leader of the Power Rangers.",
+          "notes": "His command and conviction form the backbone of the team."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "live_action",
+          "title": "Mighty Morphin Power Rangers",
+          "release_year": 1993,
+          "watch_order": 1,
+          "platform": "Fox Kids",
+          "notes": "Jason debuts as the original Red Ranger.",
+          "where_to_watch": "Netflix"
+        },
+        {
+          "media_type": "video_game",
+          "title": "Power Rangers: Battle for the Grid",
+          "release_year": 2019,
+          "watch_order": 2,
+          "platform": "Multi-platform",
+          "notes": "Playable as the Red Ranger.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "kimberly-hart",
+      "name": "Kimberly Hart",
+      "entity_type": "character",
+      "role": "hero",
+      "publisher_slug": "boom",
+      "real_name": "Kimberly Ann Hart",
+      "first_appearance": "Mighty Morphin Power Rangers #1 (BOOM! Studios, 2016)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "The original Pink Ranger, an agile gymnast with a sharp wit and a steady moral compass. Kimberly's compassion and judgment make her one of the team's emotional anchors, and her bond with Tommy runs throughout the saga.",
+      "eras": [
+        {
+          "slug": "pink-ranger-era",
+          "title": "The Pink Ranger",
+          "start_year": 2016,
+          "end_year": 2018,
+          "order_index": 1,
+          "summary": "Kimberly grows from spirited teammate into a decisive combatant whose heart holds the team together.",
+          "arcs": [
+            {
+              "slug": "heart-of-the-team",
+              "title": "Heart of the Team",
+              "logline": "Kimberly's faith in second chances tests the team's willingness to forgive.",
+              "summary": "Kimberly is among the first to extend genuine trust to the reformed Tommy, putting her judgment on the line for the good of the team. Her compassion repeatedly proves to be a strategic strength rather than a weakness.\n\nThe arc highlights how empathy and resolve coexist in a true hero, defining Kimberly's place in the Rangers' core.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 2016,
+              "end_year": 2017,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Mighty Morphin Power Rangers Vol. 1",
+                  "format": "trade",
+                  "issue_range": "#1-4",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Absolute Beginner",
+          "reason": "Heart of the Team showcases Kimberly's compassion and its strategic value to the Rangers.",
+          "arc_slug": "heart-of-the-team"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "power-rangers",
+          "relationship": "ally",
+          "summary": "Kimberly is a founding member and emotional anchor of the Power Rangers.",
+          "notes": "Her compassion and judgment hold the team together."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "live_action",
+          "title": "Mighty Morphin Power Rangers",
+          "release_year": 1993,
+          "watch_order": 1,
+          "platform": "Fox Kids",
+          "notes": "Kimberly debuts as the original Pink Ranger.",
+          "where_to_watch": "Netflix"
+        },
+        {
+          "media_type": "film",
+          "title": "Power Rangers",
+          "release_year": 2017,
+          "watch_order": 2,
+          "platform": "Lionsgate",
+          "notes": "Reimagined in the cinematic reboot.",
+          "where_to_watch": "Digital rental"
+        }
+      ]
+    },
+    {
+      "slug": "billy-cranston",
+      "name": "Billy Cranston",
+      "entity_type": "character",
+      "role": "hero",
+      "publisher_slug": "boom",
+      "real_name": "William Cranston",
+      "first_appearance": "Mighty Morphin Power Rangers #1 (BOOM! Studios, 2016)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "The original Blue Ranger and the team's resident genius. Billy's inventions, analytical mind, and quiet courage repeatedly turn the tide when brute force falls short, making him indispensable to the Rangers.",
+      "eras": [
+        {
+          "slug": "blue-ranger-era",
+          "title": "The Blue Ranger",
+          "start_year": 2016,
+          "end_year": 2018,
+          "order_index": 1,
+          "summary": "Billy becomes the team's problem-solver, growing in confidence as he proves intellect can be as heroic as strength.",
+          "arcs": [
+            {
+              "slug": "mind-over-might",
+              "title": "Mind Over Might",
+              "logline": "When the Rangers' power falters, Billy's intellect becomes their only weapon.",
+              "summary": "Billy is forced to improvise solutions when the team faces enemies that cannot be beaten by force alone. His engineering and analysis keep the Rangers one step ahead of Rita's deadliest schemes.\n\nThe arc affirms that the team's brain is every bit as vital as its muscle, and that Billy's quiet bravery matches anyone's.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 2016,
+              "end_year": 2017,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Mighty Morphin Power Rangers Vol. 1",
+                  "format": "trade",
+                  "issue_range": "#1-4",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Absolute Beginner",
+          "reason": "Mind Over Might highlights Billy's intellect as the team's secret weapon.",
+          "arc_slug": "mind-over-might"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "power-rangers",
+          "relationship": "ally",
+          "summary": "Billy is a founding member and the chief technologist of the Power Rangers.",
+          "notes": "His inventions repeatedly save the team when power alone is not enough."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "live_action",
+          "title": "Mighty Morphin Power Rangers",
+          "release_year": 1993,
+          "watch_order": 1,
+          "platform": "Fox Kids",
+          "notes": "Billy debuts as the original Blue Ranger.",
+          "where_to_watch": "Netflix"
+        },
+        {
+          "media_type": "film",
+          "title": "Power Rangers",
+          "release_year": 2017,
+          "watch_order": 2,
+          "platform": "Lionsgate",
+          "notes": "Reimagined in the cinematic reboot.",
+          "where_to_watch": "Digital rental"
+        }
+      ]
+    },
+    {
+      "slug": "zack-taylor",
+      "name": "Zack Taylor",
+      "entity_type": "character",
+      "role": "hero",
+      "publisher_slug": "boom",
+      "real_name": "Zachary Taylor",
+      "first_appearance": "Mighty Morphin Power Rangers #1 (BOOM! Studios, 2016)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "The original Black Ranger, charismatic and light on his feet, who fights with an improvisational style all his own. Zack brings energy and optimism to the team, leavening its hardest moments with humor and heart.",
+      "eras": [
+        {
+          "slug": "black-ranger-era",
+          "title": "The Black Ranger",
+          "start_year": 2016,
+          "end_year": 2018,
+          "order_index": 1,
+          "summary": "Zack proves that style and substance go hand in hand, becoming the team's morale and a fierce frontline fighter.",
+          "arcs": [
+            {
+              "slug": "rhythm-and-resolve",
+              "title": "Rhythm and Resolve",
+              "logline": "Zack's unconventional fighting style and easy charm hide a deep well of courage.",
+              "summary": "Often the team's lightest presence, Zack reveals his depth when the stakes climb. His agility and improvisation make him unpredictable in battle, and his optimism keeps the team grounded.\n\nThe arc gives Zack room to shine as more than comic relief, establishing him as a dependable and brave Ranger.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 2016,
+              "end_year": 2017,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Mighty Morphin Power Rangers Vol. 2",
+                  "format": "trade",
+                  "issue_range": "#5-8",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Absolute Beginner",
+          "reason": "Rhythm and Resolve reveals the courage and depth behind Zack's easygoing charm.",
+          "arc_slug": "rhythm-and-resolve"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "power-rangers",
+          "relationship": "ally",
+          "summary": "Zack is a founding member of the Power Rangers and the team's morale.",
+          "notes": "His optimism and agility keep the team grounded and unpredictable in battle."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "live_action",
+          "title": "Mighty Morphin Power Rangers",
+          "release_year": 1993,
+          "watch_order": 1,
+          "platform": "Fox Kids",
+          "notes": "Zack debuts as the original Black Ranger.",
+          "where_to_watch": "Netflix"
+        },
+        {
+          "media_type": "video_game",
+          "title": "Power Rangers: Battle for the Grid",
+          "release_year": 2019,
+          "watch_order": 2,
+          "platform": "Multi-platform",
+          "notes": "Featured among the franchise's roster.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "trini-kwan",
+      "name": "Trini Kwan",
+      "entity_type": "character",
+      "role": "hero",
+      "publisher_slug": "boom",
+      "real_name": "Trini Kwan",
+      "first_appearance": "Mighty Morphin Power Rangers #1 (BOOM! Studios, 2016)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "The original Yellow Ranger, calm, disciplined, and deeply principled. Trini's composure under pressure and her martial skill make her one of the team's steadiest fighters and a quiet voice of conscience.",
+      "eras": [
+        {
+          "slug": "yellow-ranger-era",
+          "title": "The Yellow Ranger",
+          "start_year": 2016,
+          "end_year": 2018,
+          "order_index": 1,
+          "summary": "Trini's discipline and calm under fire establish her as the team's center of gravity in the fiercest battles.",
+          "arcs": [
+            {
+              "slug": "still-water",
+              "title": "Still Water",
+              "logline": "Trini's calm conceals a warrior who never loses focus, no matter the odds.",
+              "summary": "Where others rush, Trini reads the battlefield. Her discipline and martial skill make her a reliable anchor when the team's emotions run hot, and her quiet conscience often steers the Rangers toward the right call.\n\nThe arc spotlights Trini's understated strength, showing that composure is its own kind of courage.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 2016,
+              "end_year": 2017,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Mighty Morphin Power Rangers Vol. 2",
+                  "format": "trade",
+                  "issue_range": "#5-8",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Absolute Beginner",
+          "reason": "Still Water captures Trini's disciplined composure and quiet heroism.",
+          "arc_slug": "still-water"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "power-rangers",
+          "relationship": "ally",
+          "summary": "Trini is a founding member of the Power Rangers and the team's steadiest fighter.",
+          "notes": "Her calm and discipline make her a center of gravity in battle."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "live_action",
+          "title": "Mighty Morphin Power Rangers",
+          "release_year": 1993,
+          "watch_order": 1,
+          "platform": "Fox Kids",
+          "notes": "Trini debuts as the original Yellow Ranger.",
+          "where_to_watch": "Netflix"
+        },
+        {
+          "media_type": "film",
+          "title": "Power Rangers",
+          "release_year": 2017,
+          "watch_order": 2,
+          "platform": "Lionsgate",
+          "notes": "Reimagined in the cinematic reboot.",
+          "where_to_watch": "Digital rental"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,893 @@
+{
+  "primary": {
+    "slug": "spawn",
+    "name": "Spawn",
+    "entity_type": "character",
+    "role": "antihero",
+    "publisher_slug": "image",
+    "real_name": "Al Simmons",
+    "first_appearance": "Spawn #1 (1992)",
+    "logo_url": null,
+    "cover_image_url": null,
+    "short_bio": "Al Simmons, a murdered government assassin, strikes a bargain with a demon lord to return to the living and is reborn as a Hellspawn bound to a sentient symbiotic costume. Caught between Heaven and Hell, he wages a lonely war in the alleys of New York City while clinging to the last shreds of his humanity.",
+    "eras": [
+      {
+        "slug": "todd-mcfarlane-era",
+        "title": "The McFarlane Foundations",
+        "start_year": 1992,
+        "end_year": 1999,
+        "order_index": 1,
+        "summary": "Todd McFarlane launches Spawn as a founding Image title, establishing Al Simmons' Faustian origin and his grim crusade through the back alleys of New York. The early years build the cosmology of Heaven, Hell, and the Hellspawn caught between them.",
+        "arcs": [
+          {
+            "slug": "questions-of-the-damned",
+            "title": "Questions of the Damned",
+            "logline": "A murdered assassin claws his way back from Hell only to discover the terrible price of his return.",
+            "summary": "Al Simmons wakes in a dark alley with no memory of how he died, his body burned and disfigured beneath a living costume he does not understand. As fragments of his former life surface, he realizes he has been gone for five years and that the woman he loved has moved on without him.\n\nThe early issues follow Spawn as he stumbles through the rules of his new existence, learning that his powers draw on a finite reserve of necroplasm and that every use brings him closer to a reckoning. A clownish, grotesque figure called the Violator appears as a tormentor and supposed guide, taunting Al with hints about the bargain he made.\n\nThis origin arc grounds the series in tragedy rather than triumph, framing Spawn less as a superhero than as a damned soul searching for meaning. It sets the tone for everything that follows.",
+            "spoiler": null,
+            "arc_type": "origin",
+            "start_year": 1992,
+            "end_year": 1992,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "Spawn: Origins Volume 1",
+                "format": "trade",
+                "issue_range": "#1-5",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "the-violator-unleashed",
+            "title": "The Violator Unleashed",
+            "logline": "Hell sends its enforcer to drag the reluctant Hellspawn into the war he was made to fight.",
+            "summary": "The demon Violator escalates his campaign against Spawn, shedding his human disguise to reveal a monstrous true form. Their clashes carry Spawn deeper into the politics of Hell and the role Malebolgia intends for him as a general in the coming war.\n\nAs Spawn resists being weaponized, he begins to test the limits of his abilities and the costume's will. The conflict forces him to choose whether to embrace the power he has been given or fight against the master who granted it.\n\nThe arc cements the Violator as Spawn's signature foe and deepens the central tension between Al's lingering conscience and the infernal purpose stitched into his being.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 1992,
+            "end_year": 1993,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "Spawn: Origins Volume 2",
+                "format": "trade",
+                "issue_range": "#6-10",
+                "reading_order": 2,
+                "publication_order": 2,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "modern-spawn-era",
+        "title": "The Modern Crusade",
+        "start_year": 2000,
+        "end_year": 2024,
+        "order_index": 2,
+        "summary": "Spawn endures past record-setting issue counts, reinventing himself across new mythologies, new hosts, and a sprawling shared universe. The modern era expands the franchise with team books and a darker, more cosmic reach.",
+        "arcs": [
+          {
+            "slug": "endgame",
+            "title": "Endgame",
+            "logline": "Spawn abandons his alleys for a bold new status quo that redefines who and what he is.",
+            "summary": "After years of war, Spawn's story is reset by a sweeping shift that strips away old certainties and reframes his powers and purpose. The arc moves him out of the shadows and toward a larger confrontation with the forces that created him.\n\nNew creative voices reshape the character while honoring his tragic core, introducing questions about identity, control, and what remains of Al Simmons. The stakes broaden from personal vengeance to something approaching apocalypse.\n\nThis run revitalized the long-running series and laid groundwork for the expanded Spawn universe that followed.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 2004,
+            "end_year": 2008,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "Spawn: Endgame Collection",
+                "format": "trade",
+                "issue_range": "#151-164",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "the-scorched-assembled",
+            "title": "The Scorched Assembled",
+            "logline": "Spawn gathers a team of damned and divine warriors to face threats no single Hellspawn can stop.",
+            "summary": "In the expanded Spawn universe, Al Simmons assembles a strike team drawn from across the cosmology, pulling together allies and uneasy partners into a unit built to confront supernatural catastrophe. The team format opens the world beyond Spawn's solitary war.\n\nNew threats test the group's cohesion and force Spawn to lead rather than brood alone. The arc balances large-scale spectacle with the personal grudges that have always defined the character.\n\nIt represents the franchise's push into a connected universe of titles, with Spawn at its center as both founder and reluctant commander.",
+            "spoiler": null,
+            "arc_type": "crossover",
+            "start_year": 2021,
+            "end_year": 2023,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "The Scorched Volume 1",
+                "format": "trade",
+                "issue_range": "#1-8",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "start_here": [
+      {
+        "order_index": 1,
+        "label": "Absolute Beginner",
+        "reason": "The origin arc introduces Al Simmons, his deal with Hell, and the rules of his new existence with no prior knowledge required.",
+        "arc_slug": "questions-of-the-damned"
+      },
+      {
+        "order_index": 2,
+        "label": "Classic Fan",
+        "reason": "The Violator's arrival defines the classic McFarlane-era conflict and Spawn's signature nemesis.",
+        "arc_slug": "the-violator-unleashed"
+      },
+      {
+        "order_index": 3,
+        "label": "Modern Era",
+        "reason": "The Scorched arc shows Spawn as the anchor of a modern connected universe of titles.",
+        "arc_slug": "the-scorched-assembled"
+      }
+    ],
+    "relationships": [
+      {
+        "related_slug": "cogliostro",
+        "relationship": "ally",
+        "summary": "A weathered old Hellspawn who mentors Al in the nature of his powers and the war he was made for.",
+        "notes": "Cogliostro appears early in Spawn's existence as a guide, revealing hard truths about necroplasm and the cost of the bargain."
+      },
+      {
+        "related_slug": "sam-and-twitch",
+        "relationship": "ally",
+        "summary": "Two NYPD homicide detectives whose investigations repeatedly cross paths with Spawn's war on the streets.",
+        "notes": "Sam Burke and Twitch Williams orbit Spawn's world, occasionally aiding him and earning their own spinoff series."
+      },
+      {
+        "related_slug": "terry-fitzgerald",
+        "relationship": "ally",
+        "summary": "Al Simmons' best friend from his former life, now married to the woman Al left behind.",
+        "notes": "Terry's safety becomes a recurring concern, and his unknowing connection to Al's past drives much of the early emotional stakes."
+      },
+      {
+        "related_slug": "nyx",
+        "relationship": "ally",
+        "summary": "A witch with ties to the supernatural underworld who becomes a key ally in Spawn's later crusades.",
+        "notes": "Nyx lends magical expertise and fights alongside Spawn against threats that span Heaven and Hell."
+      },
+      {
+        "related_slug": "violator",
+        "relationship": "enemy",
+        "summary": "A grotesque demon and Hell's enforcer, sent to torment Spawn and bend him to Malebolgia's will.",
+        "notes": "The Violator, often disguised as the clownish Clown, is Spawn's most persistent and personal foe."
+      },
+      {
+        "related_slug": "malebolgia",
+        "relationship": "enemy",
+        "summary": "The demon lord who struck the bargain that made Al into a Hellspawn and commands him from the depths of Hell.",
+        "notes": "Malebolgia is the architect of Spawn's damnation and the ultimate target of his rebellion."
+      },
+      {
+        "related_slug": "jason-wynn",
+        "relationship": "enemy",
+        "summary": "The corrupt government spymaster responsible for ordering Al Simmons' murder.",
+        "notes": "Wynn's betrayal set Spawn's tragedy in motion, making him a human target for Al's earthly vengeance."
+      },
+      {
+        "related_slug": "anti-spawn",
+        "relationship": "enemy",
+        "summary": "A Heaven-aligned counterpart created to destroy the Hellspawn, mirroring Spawn's powers with holy purpose.",
+        "notes": "The Anti-Spawn (Redeemer) embodies the war between Heaven and Hell turned directly against Al."
+      }
+    ],
+    "media": [
+      {
+        "media_type": "animated_series",
+        "title": "Todd McFarlane's Spawn",
+        "release_year": 1997,
+        "watch_order": 1,
+        "platform": "HBO",
+        "notes": "Mature animated series that earned an Emmy and adapted early storylines.",
+        "where_to_watch": null
+      },
+      {
+        "media_type": "film",
+        "title": "Spawn",
+        "release_year": 1997,
+        "watch_order": 2,
+        "platform": "Theatrical",
+        "notes": "Live-action feature starring Michael Jai White as Al Simmons.",
+        "where_to_watch": null
+      },
+      {
+        "media_type": "video_game",
+        "title": "Spawn: In the Demon's Hand",
+        "release_year": 1999,
+        "watch_order": 3,
+        "platform": "Dreamcast",
+        "notes": "Arena combat game featuring Spawn and supporting cast.",
+        "where_to_watch": null
+      }
+    ]
+  },
+  "supporting": [
+    {
+      "slug": "cogliostro",
+      "name": "Cogliostro",
+      "entity_type": "character",
+      "role": "antihero",
+      "publisher_slug": "image",
+      "real_name": "Cain",
+      "first_appearance": "Spawn #4 (1992)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "An ancient, weathered Hellspawn who has long resisted Hell's purpose, Cogliostro lives among the homeless and acts as a reluctant mentor. He teaches newer Hellspawn the truth about their powers and the war they were made to wage.",
+      "eras": [
+        {
+          "slug": "cogliostro-mentor-era",
+          "title": "The Mentor",
+          "start_year": 1992,
+          "end_year": 1999,
+          "order_index": 1,
+          "summary": "Cogliostro emerges as a guide to Al Simmons, doling out hard truths about necroplasm and damnation while concealing his own ancient history.",
+          "arcs": [
+            {
+              "slug": "the-old-hellspawn",
+              "title": "The Old Hellspawn",
+              "logline": "A ragged stranger reveals himself as a Hellspawn who has survived where others fell.",
+              "summary": "Cogliostro approaches Spawn in his earliest, most confused days, offering guidance that is as cryptic as it is essential. He explains the limits of Spawn's power and the trap of the bargain that binds him.\n\nThough his motives are never fully clear, Cogliostro positions himself as one of the few who understands what Al is becoming. His ancient perspective frames the larger cosmology of the series.",
+              "spoiler": null,
+              "arc_type": "origin",
+              "start_year": 1992,
+              "end_year": 1993,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Spawn: Origins Volume 1",
+                  "format": "trade",
+                  "issue_range": "#4-9",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Absolute Beginner",
+          "reason": "Cogliostro's first guidance of Spawn is the clearest introduction to his role.",
+          "arc_slug": "the-old-hellspawn"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "spawn",
+          "relationship": "ally",
+          "summary": "Cogliostro mentors Al Simmons through the early days of his damnation.",
+          "notes": "He reveals the rules of necroplasm and the nature of the Hellspawn bargain."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "animated_series",
+          "title": "Todd McFarlane's Spawn",
+          "release_year": 1997,
+          "watch_order": 1,
+          "platform": "HBO",
+          "notes": "Appears as Spawn's mysterious mentor.",
+          "where_to_watch": null
+        },
+        {
+          "media_type": "film",
+          "title": "Spawn",
+          "release_year": 1997,
+          "watch_order": 2,
+          "platform": "Theatrical",
+          "notes": "Portrayed as a guiding figure to Al Simmons.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "sam-and-twitch",
+      "name": "Sam and Twitch",
+      "entity_type": "character",
+      "role": "hero",
+      "publisher_slug": "image",
+      "real_name": "Sam Burke and Maximilian 'Twitch' Williams",
+      "first_appearance": "Spawn #1 (1992)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Sam Burke and Twitch Williams are NYPD homicide detectives whose dogged investigations keep dragging them into Spawn's supernatural world. The mismatched partners became popular enough to earn their own long-running spinoff series.",
+      "eras": [
+        {
+          "slug": "detectives-era",
+          "title": "The Detectives",
+          "start_year": 1992,
+          "end_year": 2004,
+          "order_index": 1,
+          "summary": "The two detectives work the violent streets where Spawn operates, gradually uncovering the supernatural beneath the city's crimes.",
+          "arcs": [
+            {
+              "slug": "udaku",
+              "title": "Udaku",
+              "logline": "Two detectives chase a case that pulls them past the edge of the natural world.",
+              "summary": "Sam and Twitch pursue a string of killings that resist ordinary explanation, leading them toward the supernatural forces stalking the city. Their grounded police work contrasts with the cosmic stakes around them.\n\nThe arc showcases the partners' chemistry and establishes them as the human lens through which Spawn's world is seen.",
+              "spoiler": null,
+              "arc_type": "miniseries",
+              "start_year": 1999,
+              "end_year": 2000,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Sam and Twitch: Udaku",
+                  "format": "trade",
+                  "issue_range": "#1-9",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Absolute Beginner",
+          "reason": "Udaku is the definitive showcase of the detective duo.",
+          "arc_slug": "udaku"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "spawn",
+          "relationship": "ally",
+          "summary": "The detectives repeatedly cross paths with Spawn, sometimes aiding his war.",
+          "notes": "Their investigations intersect with Spawn's crusade against street-level evil."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "animated_series",
+          "title": "Todd McFarlane's Spawn",
+          "release_year": 1997,
+          "watch_order": 1,
+          "platform": "HBO",
+          "notes": "Featured as recurring detectives.",
+          "where_to_watch": null
+        },
+        {
+          "media_type": "film",
+          "title": "Spawn",
+          "release_year": 1997,
+          "watch_order": 2,
+          "platform": "Theatrical",
+          "notes": "Twitch appears in the live-action adaptation.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "terry-fitzgerald",
+      "name": "Terry Fitzgerald",
+      "entity_type": "character",
+      "role": "hero",
+      "publisher_slug": "image",
+      "real_name": "Terry Fitzgerald",
+      "first_appearance": "Spawn #1 (1992)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Terry Fitzgerald was Al Simmons' closest friend in life and now leads a quiet family life with Al's widow, Wanda. Unaware of his connection to the creature haunting the city, he becomes an emotional anchor for Spawn's lingering humanity.",
+      "eras": [
+        {
+          "slug": "fitzgerald-family-era",
+          "title": "The Life Left Behind",
+          "start_year": 1992,
+          "end_year": 1999,
+          "order_index": 1,
+          "summary": "Terry represents the normal life Al lost, raising a family while danger from Al's past circles ever closer.",
+          "arcs": [
+            {
+              "slug": "the-friend-who-remains",
+              "title": "The Friend Who Remains",
+              "logline": "A grieving best friend builds a new life unaware that his dead friend walks again.",
+              "summary": "Terry moves forward after Al's death, marrying Wanda and starting a family while still carrying the weight of his lost friend. His ordinary domestic struggles ground Spawn's supernatural saga.\n\nWhen his connection to Al's old life puts him in danger, Terry becomes a target that Spawn feels compelled to protect from the shadows.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 1992,
+              "end_year": 1994,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Spawn: Origins Volume 2",
+                  "format": "trade",
+                  "issue_range": "#7-12",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Absolute Beginner",
+          "reason": "This arc establishes Terry's bond with Al and the family at the heart of Spawn's tragedy.",
+          "arc_slug": "the-friend-who-remains"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "spawn",
+          "relationship": "ally",
+          "summary": "Terry was Al Simmons' best friend and remains tied to the life Spawn lost.",
+          "notes": "Spawn watches over Terry and his family even from a distance."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "animated_series",
+          "title": "Todd McFarlane's Spawn",
+          "release_year": 1997,
+          "watch_order": 1,
+          "platform": "HBO",
+          "notes": "Appears as Al's friend and Wanda's husband.",
+          "where_to_watch": null
+        },
+        {
+          "media_type": "film",
+          "title": "Spawn",
+          "release_year": 1997,
+          "watch_order": 2,
+          "platform": "Theatrical",
+          "notes": "Featured in the live-action adaptation.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "nyx",
+      "name": "Nyx",
+      "entity_type": "character",
+      "role": "hero",
+      "publisher_slug": "image",
+      "real_name": "Jessica Priest",
+      "first_appearance": "Spawn #9 (1993)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Nyx is a witch versed in the supernatural underworld who becomes a steadfast ally in Spawn's later crusades. Her command of magic makes her invaluable against threats that span Heaven and Hell.",
+      "eras": [
+        {
+          "slug": "nyx-witch-era",
+          "title": "The Witch's Path",
+          "start_year": 2000,
+          "end_year": 2020,
+          "order_index": 1,
+          "summary": "Nyx steps into Spawn's expanded world as a magical ally, lending arcane power to his battles against demonic and divine foes.",
+          "arcs": [
+            {
+              "slug": "the-witchs-bargain",
+              "title": "The Witch's Bargain",
+              "logline": "A witch wagers her power to stand beside the Hellspawn against forces beyond mortal reach.",
+              "summary": "Nyx enters Spawn's orbit when her own dealings with the supernatural collide with his war. Her magic proves a crucial counter to threats that ordinary force cannot touch.\n\nAs the alliance deepens, she becomes one of the few people Spawn trusts, fighting alongside him against enemies from both Heaven and Hell.",
+              "spoiler": null,
+              "arc_type": "miniseries",
+              "start_year": 2008,
+              "end_year": 2010,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Spawn Modern Collection",
+                  "format": "trade",
+                  "issue_range": "#185-190",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Modern Era",
+          "reason": "This arc introduces Nyx as Spawn's magical ally in the modern run.",
+          "arc_slug": "the-witchs-bargain"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "spawn",
+          "relationship": "ally",
+          "summary": "Nyx lends her magical expertise to Spawn's crusade.",
+          "notes": "She fights alongside Spawn against supernatural threats in the modern era."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "video_game",
+          "title": "Spawn: In the Demon's Hand",
+          "release_year": 1999,
+          "watch_order": 1,
+          "platform": "Dreamcast",
+          "notes": "Supporting cast member in the arena game.",
+          "where_to_watch": null
+        },
+        {
+          "media_type": "animated_series",
+          "title": "Todd McFarlane's Spawn",
+          "release_year": 1997,
+          "watch_order": 2,
+          "platform": "HBO",
+          "notes": "Supernatural figure within Spawn's world.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "violator",
+      "name": "Violator",
+      "entity_type": "character",
+      "role": "villain",
+      "publisher_slug": "image",
+      "real_name": "Phlebiac",
+      "first_appearance": "Spawn #2 (1992)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "The Violator is a monstrous demon who masquerades as a foul-mouthed clown while serving as Hell's enforcer. Tasked with guiding and tormenting Spawn into his role as a Hellspawn general, he is Al's most persistent and personal foe.",
+      "eras": [
+        {
+          "slug": "violator-era",
+          "title": "Hell's Enforcer",
+          "start_year": 1992,
+          "end_year": 1999,
+          "order_index": 1,
+          "summary": "The Violator stalks Spawn from the start, alternately mocking and attacking him as he tries to force Al into Hell's service.",
+          "arcs": [
+            {
+              "slug": "the-clown-revealed",
+              "title": "The Clown Revealed",
+              "logline": "A grotesque jester drops his disguise to become the demon that haunts the Hellspawn.",
+              "summary": "Disguised as the repulsive Clown, the Violator needles Spawn with cruel jokes and half-truths before unleashing his true monstrous form. His role is to ensure Al fulfills the bargain made with Malebolgia.\n\nTheir confrontations establish a rivalry built on hatred and mockery, with the Violator embodying the worst of Hell's contempt for the reluctant Spawn.",
+              "spoiler": null,
+              "arc_type": "origin",
+              "start_year": 1992,
+              "end_year": 1993,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Spawn: Origins Volume 1",
+                  "format": "trade",
+                  "issue_range": "#2-6",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Absolute Beginner",
+          "reason": "This arc reveals the Violator behind the Clown disguise and his role against Spawn.",
+          "arc_slug": "the-clown-revealed"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "spawn",
+          "relationship": "enemy",
+          "summary": "The Violator torments Spawn and seeks to bend him to Hell's will.",
+          "notes": "Often disguised as the Clown, he is Spawn's most personal nemesis."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "animated_series",
+          "title": "Todd McFarlane's Spawn",
+          "release_year": 1997,
+          "watch_order": 1,
+          "platform": "HBO",
+          "notes": "Appears as the Clown and the Violator.",
+          "where_to_watch": null
+        },
+        {
+          "media_type": "film",
+          "title": "Spawn",
+          "release_year": 1997,
+          "watch_order": 2,
+          "platform": "Theatrical",
+          "notes": "Portrayed by John Leguizamo as the Clown.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "malebolgia",
+      "name": "Malebolgia",
+      "entity_type": "character",
+      "role": "villain",
+      "publisher_slug": "image",
+      "real_name": null,
+      "first_appearance": "Spawn #1 (1992)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Malebolgia is a towering demon lord of Hell who strikes the bargain that transforms Al Simmons into a Hellspawn. He intends to use Spawn as a general in the war to overthrow Heaven, making him the architect of Al's damnation.",
+      "eras": [
+        {
+          "slug": "malebolgia-era",
+          "title": "The Demon Lord",
+          "start_year": 1992,
+          "end_year": 1999,
+          "order_index": 1,
+          "summary": "Malebolgia rules from the depths of Hell, manipulating Spawn from afar as he builds his army for the final war.",
+          "arcs": [
+            {
+              "slug": "the-bargain",
+              "title": "The Bargain",
+              "logline": "A demon lord trades a desperate soul a second life in exchange for an eternity of service.",
+              "summary": "Malebolgia offers the dying Al Simmons a chance to see Wanda again, hiding the terrible cost of the deal. The bargain remakes Al as a Hellspawn bound to Hell's war.\n\nFrom his throne, Malebolgia oversees Spawn's transformation and torment, treating him as one piece in a vast infernal scheme. He embodies the cosmic forces arrayed against Al's freedom.",
+              "spoiler": null,
+              "arc_type": "origin",
+              "start_year": 1992,
+              "end_year": 1993,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Spawn: Origins Volume 1",
+                  "format": "trade",
+                  "issue_range": "#1-5",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Absolute Beginner",
+          "reason": "This arc reveals the bargain that created Spawn and the demon behind it.",
+          "arc_slug": "the-bargain"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "spawn",
+          "relationship": "enemy",
+          "summary": "Malebolgia is the demon lord who damned Al and commands him from Hell.",
+          "notes": "He is the architect of Spawn's curse and the target of his rebellion."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "animated_series",
+          "title": "Todd McFarlane's Spawn",
+          "release_year": 1997,
+          "watch_order": 1,
+          "platform": "HBO",
+          "notes": "Looming antagonist behind Spawn's torment.",
+          "where_to_watch": null
+        },
+        {
+          "media_type": "film",
+          "title": "Spawn",
+          "release_year": 1997,
+          "watch_order": 2,
+          "platform": "Theatrical",
+          "notes": "The demonic master in the live-action film.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "jason-wynn",
+      "name": "Jason Wynn",
+      "entity_type": "character",
+      "role": "villain",
+      "publisher_slug": "image",
+      "real_name": "Jason Wynn",
+      "first_appearance": "Spawn #1 (1992)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Jason Wynn is a ruthless, power-hungry director of a covert government agency who ordered the assassination of his own agent, Al Simmons. His earthly corruption makes him a human target for Spawn's vengeance.",
+      "eras": [
+        {
+          "slug": "wynn-era",
+          "title": "The Spymaster",
+          "start_year": 1992,
+          "end_year": 1999,
+          "order_index": 1,
+          "summary": "Wynn schemes within the shadows of government power, his betrayals reaching back to the death that created Spawn.",
+          "arcs": [
+            {
+              "slug": "the-betrayer",
+              "title": "The Betrayer",
+              "logline": "A corrupt spymaster's order to kill his own agent sets a tragedy in motion.",
+              "summary": "Jason Wynn, fearing exposure, has Al Simmons murdered and his body burned, never suspecting his agent will return. His ambition and treachery are the human seeds of Spawn's damnation.\n\nWhen Spawn begins hunting those responsible for his death, Wynn becomes a prime earthly target, his political machinations colliding with supernatural retribution.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 1992,
+              "end_year": 1994,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Spawn: Origins Volume 2",
+                  "format": "trade",
+                  "issue_range": "#8-13",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Absolute Beginner",
+          "reason": "This arc reveals Wynn's betrayal at the root of Al Simmons' death.",
+          "arc_slug": "the-betrayer"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "spawn",
+          "relationship": "enemy",
+          "summary": "Wynn ordered Al Simmons' murder, igniting Spawn's quest for vengeance.",
+          "notes": "He is Spawn's chief human antagonist and a symbol of earthly corruption."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "animated_series",
+          "title": "Todd McFarlane's Spawn",
+          "release_year": 1997,
+          "watch_order": 1,
+          "platform": "HBO",
+          "notes": "Central human villain of the series.",
+          "where_to_watch": null
+        },
+        {
+          "media_type": "film",
+          "title": "Spawn",
+          "release_year": 1997,
+          "watch_order": 2,
+          "platform": "Theatrical",
+          "notes": "Portrayed by Martin Sheen.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "anti-spawn",
+      "name": "Anti-Spawn",
+      "entity_type": "character",
+      "role": "villain",
+      "publisher_slug": "image",
+      "real_name": "Jason Wynn (Redeemer)",
+      "first_appearance": "Spawn #38 (1995)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "The Anti-Spawn, also known as the Redeemer, is a Heaven-aligned warrior created to destroy the Hellspawn. Mirroring Spawn's powers with holy purpose, it embodies the war between Heaven and Hell turned directly against Al.",
+      "eras": [
+        {
+          "slug": "anti-spawn-era",
+          "title": "Heaven's Weapon",
+          "start_year": 1995,
+          "end_year": 1999,
+          "order_index": 1,
+          "summary": "The Redeemer is forged by the forces of Heaven as a counter to Spawn, escalating the cosmic conflict to the streets.",
+          "arcs": [
+            {
+              "slug": "the-redeemers-judgment",
+              "title": "The Redeemer's Judgment",
+              "logline": "Heaven answers the Hellspawn with a holy counterpart bent on his destruction.",
+              "summary": "The Anti-Spawn descends as Heaven's response to Spawn, wielding mirrored powers in service of righteous war. Its arrival reframes Spawn's conflict as part of a larger cosmic struggle.\n\nThe Redeemer's relentless pursuit forces Spawn to confront enemies on both sides of the divine divide, with humanity caught in the crossfire.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 1995,
+              "end_year": 1996,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Spawn: Origins Collection",
+                  "format": "trade",
+                  "issue_range": "#38-44",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Classic Fan",
+          "reason": "This arc introduces the Redeemer as Heaven's weapon against Spawn.",
+          "arc_slug": "the-redeemers-judgment"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "spawn",
+          "relationship": "enemy",
+          "summary": "The Anti-Spawn is created to hunt and destroy the Hellspawn.",
+          "notes": "As the Redeemer, it brings Heaven's war directly to Al Simmons."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "animated_series",
+          "title": "Todd McFarlane's Spawn",
+          "release_year": 1997,
+          "watch_order": 1,
+          "platform": "HBO",
+          "notes": "The Redeemer appears as a holy antagonist.",
+          "where_to_watch": null
+        },
+        {
+          "media_type": "video_game",
+          "title": "Spawn: In the Demon's Hand",
+          "release_year": 1999,
+          "watch_order": 2,
+          "platform": "Dreamcast",
+          "notes": "Featured as a playable counterpart.",
+          "where_to_watch": null
+        }
+      ]
+    }
+  ]
+}

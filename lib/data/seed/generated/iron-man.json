@@ -1,0 +1,670 @@
+{
+  "primary": {
+    "slug": "iron-man",
+    "name": "Iron Man",
+    "entity_type": "character",
+    "publisher_slug": "marvel",
+    "real_name": "Tony Stark",
+    "first_appearance": "Tales of Suspense #39 (1963)",
+    "logo_url": null,
+    "cover_image_url": null,
+    "short_bio": "Tony Stark is a brilliant, billionaire inventor whose life is forever changed when shrapnel from a battlefield injury threatens to stop his heart. Building a powered suit of armor to survive and escape captivity, he becomes Iron Man, channeling his genius for engineering into a one-man arsenal. Behind the bravado of a celebrity industrialist lies a man wrestling with responsibility, addiction, and the consequences of the weapons he once built.",
+    "eras": [
+      {
+        "slug": "silver-age-origins",
+        "title": "Silver Age Origins",
+        "start_year": 1963,
+        "end_year": 1969,
+        "order_index": 1,
+        "summary": "Iron Man debuts in the Cold War era as a sleek anti-communist crusader, introduced in the anthology pages of Tales of Suspense before graduating to his own title. These foundational years establish Tony Stark's origin, his core supporting cast, and his earliest rogues' gallery.",
+        "arcs": [
+          {
+            "slug": "birth-of-iron-man",
+            "title": "The Birth of Iron Man",
+            "logline": "Wounded and captured, a weapons magnate forges a suit of armor to keep his heart beating and fight his way to freedom.",
+            "summary": "While inspecting his munitions in a war zone, industrialist Tony Stark steps on a booby trap and takes shrapnel near his heart. Captured by enemy forces and ordered to build weapons for his captors, he instead secretly constructs a bulky iron suit, aided by fellow prisoner Professor Yinsen.",
+            "spoiler": null,
+            "arc_type": "origin",
+            "start_year": 1963,
+            "end_year": 1963,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "Marvel Masterworks: The Invincible Iron Man Vol. 1",
+                "format": "hardcover",
+                "issue_range": "Tales of Suspense #39-50",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9780785108870",
+                "purchase_url": null
+              },
+              {
+                "title": "Iron Man Epic Collection: The Golden Avenger",
+                "format": "trade",
+                "issue_range": "Tales of Suspense #39-72",
+                "reading_order": 2,
+                "publication_order": 2,
+                "reading_order_note": null,
+                "isbn": "9781302924690",
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "tales-of-suspense-rivals",
+            "title": "Tales of Suspense: Early Rivals",
+            "logline": "The newly armored hero refines his technology while facing a parade of Cold War spies, saboteurs, and emerging super-villains.",
+            "summary": "Across the back half of his Tales of Suspense run, Tony Stark trades his crude gray armor for the iconic red-and-gold plate and shrinks the bulky shell into a more agile design. He battles early threats including the Crimson Dynamo, the Black Widow, and the assassin Hawkeye before either turned to heroism.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 1964,
+            "end_year": 1968,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "Marvel Masterworks: The Invincible Iron Man Vol. 2",
+                "format": "hardcover",
+                "issue_range": "Tales of Suspense #51-65",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9780785111887",
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "bronze-age-trials",
+        "title": "Bronze Age Trials",
+        "start_year": 1979,
+        "end_year": 1985,
+        "order_index": 2,
+        "summary": "The Bronze Age strips away the gloss to reveal a more vulnerable Tony Stark, confronting corporate sabotage and personal demons. This era produced the character's most acclaimed and influential storylines under writers David Michelinie and Bob Layton.",
+        "arcs": [
+          {
+            "slug": "demon-in-a-bottle",
+            "title": "Demon in a Bottle",
+            "logline": "As enemies dismantle his company and his reputation, Tony Stark's drinking spirals into a battle he cannot armor his way out of.",
+            "summary": "A series of suit malfunctions, corporate takeovers, and personal betrayals pushes Tony Stark toward the edge. The pressure of being both Iron Man and the head of a global company drives him deeper into alcohol dependence.",
+            "spoiler": "Tony Stark's alcoholism is openly confronted as the true antagonist of the story, marking one of comics' first serious treatments of addiction.",
+            "arc_type": "flagship",
+            "start_year": 1979,
+            "end_year": 1979,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "Iron Man: Demon in a Bottle",
+                "format": "trade",
+                "issue_range": "Iron Man #120-128",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9780785121596",
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "armor-wars",
+            "title": "Armor Wars",
+            "logline": "When Tony discovers his technology has been stolen and weaponized, he wages a private war to reclaim it at any cost.",
+            "summary": "Tony Stark learns that his proprietary armor designs have been leaked by a rival and incorporated into the gear of heroes and villains alike. Horrified that his genius is being used for harm, he takes it upon himself to hunt down and neutralize every suit built on his stolen technology.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 1987,
+            "end_year": 1988,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "Iron Man: Armor Wars",
+                "format": "trade",
+                "issue_range": "Iron Man #225-232",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9780785137382",
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "modern-age-extremis",
+        "title": "Modern Age: Reinvention",
+        "start_year": 2005,
+        "end_year": 2013,
+        "order_index": 3,
+        "summary": "The 2000s reimagine Iron Man for a new generation, fusing him with cutting-edge nanotechnology and thrusting him into the role of a powerful, controversial public figure. These stories directly shaped the cinematic version of the character.",
+        "arcs": [
+          {
+            "slug": "extremis",
+            "title": "Extremis",
+            "logline": "A weaponized super-soldier serum forces Tony to rewrite his own biology and rebuild Iron Man from the inside out.",
+            "summary": "When an experimental enhancile called Extremis falls into the hands of a domestic terrorist, the resulting super-soldier outclasses Iron Man completely. To survive and stop the threat, Tony injects himself with a modified version of the serum, integrating his armor directly into his nervous system.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 2005,
+            "end_year": 2006,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "Iron Man: Extremis",
+                "format": "trade",
+                "issue_range": "Iron Man (2005) #1-6",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9780785135562",
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "the-five-nightmares",
+            "title": "The Five Nightmares",
+            "logline": "A new enemy turns Tony's own life's work against him, threatening to make Iron Man technology obsolete and deadly in the wrong hands.",
+            "summary": "As Director of S.H.I.E.L.D., Tony Stark faces Ezekiel Stane, the son of an old enemy, who has perfected a cheaper, deadlier evolution of repulsor technology. Stane targets the global proliferation of Stark tech, forcing Tony to confront the legacy of the weapons and armor he unleashed on the world.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 2008,
+            "end_year": 2008,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "The Invincible Iron Man Vol. 1: The Five Nightmares",
+                "format": "trade",
+                "issue_range": "Invincible Iron Man (2008) #1-7",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9780785134121",
+                "purchase_url": null
+              },
+              {
+                "title": "Invincible Iron Man Omnibus Vol. 1",
+                "format": "omnibus",
+                "issue_range": "Invincible Iron Man (2008) #1-19",
+                "reading_order": 2,
+                "publication_order": 2,
+                "reading_order_note": null,
+                "isbn": "9780785185666",
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "start_here": [
+      {
+        "order_index": 1,
+        "label": "Absolute Beginner",
+        "reason": "Extremis is the cleanest modern jumping-on point, a self-contained arc that retells the origin and defines the version of Iron Man most readers know from film.",
+        "arc_slug": "extremis"
+      },
+      {
+        "order_index": 2,
+        "label": "Classic Fan",
+        "reason": "Demon in a Bottle is the definitive character-defining story, a landmark of mature superhero storytelling that captures Tony Stark at his most human.",
+        "arc_slug": "demon-in-a-bottle"
+      },
+      {
+        "order_index": 3,
+        "label": "Modern Era",
+        "reason": "The Five Nightmares launches the acclaimed Invincible Iron Man run, pitting Tony against a next-generation threat with high stakes and contemporary themes.",
+        "arc_slug": "the-five-nightmares"
+      }
+    ],
+    "relationships": [
+      {
+        "related_slug": "captain-america",
+        "relationship": "ally",
+        "summary": "Tony Stark and Steve Rogers are the twin pillars of the Avengers, bound by mutual respect despite clashing worldviews.",
+        "notes": "Their friendship famously fractured into open conflict during the superhero Civil War over the Superhuman Registration Act."
+      },
+      {
+        "related_slug": "thor",
+        "relationship": "ally",
+        "summary": "Iron Man fights alongside the God of Thunder as a founding Avenger, balancing science against Thor's mysticism.",
+        "notes": "Together with Ant-Man, Wasp, and Hulk, they founded the Avengers in The Avengers #1 (1963)."
+      },
+      {
+        "related_slug": "spider-man",
+        "relationship": "ally",
+        "summary": "Tony becomes a mentor and benefactor to the young Spider-Man, providing technology and guidance.",
+        "notes": "During Civil War, Iron Man designed the Iron Spider armor for Peter Parker before their alliance was tested by the Registration Act."
+      },
+      {
+        "related_slug": "avengers",
+        "relationship": "ally",
+        "summary": "Iron Man is a founding member, frequent financier, and recurring leader of Earth's Mightiest Heroes.",
+        "notes": "He bankrolled Avengers Mansion through the Maria Stark Foundation and has led numerous incarnations of the team."
+      },
+      {
+        "related_slug": "mandarin",
+        "relationship": "enemy",
+        "summary": "The Mandarin is Iron Man's archnemesis, a brilliant warlord whose ten alien power rings rival Stark's technology.",
+        "notes": "First appearing in Tales of Suspense #50 (1964), he represents an ancient, mystical counterpoint to Tony's modern science."
+      },
+      {
+        "related_slug": "obadiah-stane",
+        "relationship": "enemy",
+        "summary": "Obadiah Stane is the ruthless corporate raider who orchestrated Tony's downfall and seized his company.",
+        "notes": "His psychological warfare against Stark drove the events surrounding Demon in a Bottle and led to the creation of the Iron Monger armor."
+      },
+      {
+        "related_slug": "whiplash",
+        "relationship": "enemy",
+        "summary": "Whiplash is a recurring armored mercenary who battles Iron Man with high-tech energy whips.",
+        "notes": "Debuting in Tales of Suspense #97 (1968), the identity has been worn by several villains, including Mark Scarlotti and Anton Vanko."
+      },
+      {
+        "related_slug": "ultron",
+        "relationship": "enemy",
+        "summary": "Ultron is the genocidal artificial intelligence whose existence Iron Man feels deeply responsible for combating.",
+        "notes": "Though created by Hank Pym, Ultron's threat became central to Iron Man's fears about AI, culminating in events like Age of Ultron."
+      }
+    ],
+    "media": [
+      {
+        "media_type": "live_action",
+        "title": "Iron Man",
+        "release_year": 2008,
+        "watch_order": 1,
+        "platform": "Disney+",
+        "notes": "Jon Favreau's film launched the Marvel Cinematic Universe with Robert Downey Jr. as Tony Stark.",
+        "where_to_watch": "Disney+"
+      },
+      {
+        "media_type": "film",
+        "title": "The Invincible Iron Man",
+        "release_year": 2007,
+        "watch_order": null,
+        "platform": "Home Video",
+        "notes": "Animated direct-to-video feature retelling Tony Stark's origin with a supernatural twist.",
+        "where_to_watch": "Digital purchase"
+      },
+      {
+        "media_type": "animated_series",
+        "title": "Iron Man: The Animated Series",
+        "release_year": 1994,
+        "watch_order": 1,
+        "platform": "Syndication",
+        "notes": "Part of 'The Marvel Action Hour,' featuring Iron Man leading Force Works against the Mandarin.",
+        "where_to_watch": "Disney+"
+      },
+      {
+        "media_type": "video_game",
+        "title": "Marvel's Iron Man VR",
+        "release_year": 2020,
+        "watch_order": null,
+        "platform": "PlayStation VR",
+        "notes": "First-person flight and combat game putting players inside the armor as Tony Stark.",
+        "where_to_watch": "PlayStation Store"
+      }
+    ]
+  },
+  "supporting": [
+    {
+      "slug": "mandarin",
+      "name": "The Mandarin",
+      "entity_type": "character",
+      "publisher_slug": "marvel",
+      "real_name": null,
+      "first_appearance": "Tales of Suspense #50 (1964)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "The Mandarin is a brilliant scientist and martial artist descended from Genghis Khan, who discovered ten alien power rings in the wreckage of a crashed starship. Each ring grants a different devastating power, making him one of the most formidable foes in the Marvel Universe. He views Iron Man's technology as a corruption of the natural order he seeks to dominate.",
+      "eras": [
+        {
+          "slug": "mandarin-silver-age",
+          "title": "The Ten Rings Rise",
+          "start_year": 1964,
+          "end_year": 1970,
+          "order_index": 1,
+          "summary": "The Mandarin establishes himself as Iron Man's greatest recurring foe, wielding his alien rings from a fortress in mainland Asia.",
+          "arcs": [
+            {
+              "slug": "mandarin-first-strike",
+              "title": "The Mandarin's First Strike",
+              "logline": "An exiled warlord with alien rings sets his sights on conquest and on the armored American who opposes him.",
+              "summary": "The Mandarin emerges from his castle stronghold, testing his ten rings of power against Iron Man for the first time. Their clash establishes a rivalry of science versus alien sorcery that will span decades.",
+              "spoiler": null,
+              "arc_type": "origin",
+              "start_year": 1964,
+              "end_year": 1965,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Marvel Masterworks: The Invincible Iron Man Vol. 2",
+                  "format": "hardcover",
+                  "issue_range": "Tales of Suspense #50-65",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": "9780785111887",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Classic Fan",
+          "reason": "His debut arc establishes the definitive Iron Man archnemesis and the lore of the ten rings.",
+          "arc_slug": "mandarin-first-strike"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "iron-man",
+          "relationship": "enemy",
+          "summary": "The Mandarin is Iron Man's archnemesis, pitting his alien power rings against Stark technology.",
+          "notes": "Their decades-long rivalry frames a recurring conflict between ancient power and modern science."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "live_action",
+          "title": "Iron Man 3",
+          "release_year": 2013,
+          "watch_order": null,
+          "platform": "Disney+",
+          "notes": "Features a controversial reinterpretation of the Mandarin alongside the Ten Rings organization.",
+          "where_to_watch": "Disney+"
+        },
+        {
+          "media_type": "live_action",
+          "title": "Shang-Chi and the Legend of the Ten Rings",
+          "release_year": 2021,
+          "watch_order": null,
+          "platform": "Disney+",
+          "notes": "Reintroduces the true Mandarin, Wenwu, as the wielder of the legendary ten rings.",
+          "where_to_watch": "Disney+"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "Iron Man: The Animated Series",
+          "release_year": 1994,
+          "watch_order": null,
+          "platform": "Syndication",
+          "notes": "Serves as the primary antagonist driving the show's overarching plot.",
+          "where_to_watch": "Disney+"
+        }
+      ]
+    },
+    {
+      "slug": "obadiah-stane",
+      "name": "Obadiah Stane",
+      "entity_type": "character",
+      "publisher_slug": "marvel",
+      "real_name": "Obadiah Stane",
+      "first_appearance": "Iron Man #163 (1982)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Obadiah Stane is a cold, calculating industrialist who treats business as a game of chess with human pieces. Methodically dismantling Tony Stark's life and company, he embodies corporate ruthlessness without conscience. When pure strategy fails, he builds the towering Iron Monger armor to crush Iron Man by force.",
+      "eras": [
+        {
+          "slug": "stane-corporate-war",
+          "title": "The Corporate War",
+          "start_year": 1982,
+          "end_year": 1985,
+          "order_index": 1,
+          "summary": "Stane wages a calculated psychological and financial campaign to destroy Tony Stark and absorb his empire.",
+          "arcs": [
+            {
+              "slug": "stane-gambit",
+              "title": "Stane's Gambit",
+              "logline": "A master manipulator engineers the slow collapse of a rival's empire before donning armor of his own.",
+              "summary": "Obadiah Stane studies Tony Stark's weaknesses and exploits them one by one, pushing the hero toward personal and financial ruin. With Stark Industries in his grip, Stane forges the massive Iron Monger suit for a final confrontation.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 1982,
+              "end_year": 1985,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Iron Man Epic Collection: Duel of Iron",
+                  "format": "trade",
+                  "issue_range": "Iron Man #158-177",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": "9781302915766",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Classic Fan",
+          "reason": "Stane's gambit is the definitive corporate-villain arc and the origin of the Iron Monger.",
+          "arc_slug": "stane-gambit"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "iron-man",
+          "relationship": "enemy",
+          "summary": "Obadiah Stane is the corporate raider who seized Tony Stark's company and built the Iron Monger to destroy him.",
+          "notes": "His psychological warfare is closely tied to the events surrounding Tony's struggle with alcoholism."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "live_action",
+          "title": "Iron Man",
+          "release_year": 2008,
+          "watch_order": null,
+          "platform": "Disney+",
+          "notes": "Jeff Bridges portrays Obadiah Stane as Tony's mentor turned Iron Monger.",
+          "where_to_watch": "Disney+"
+        },
+        {
+          "media_type": "video_game",
+          "title": "Iron Man",
+          "release_year": 2008,
+          "watch_order": null,
+          "platform": "Multiplatform",
+          "notes": "Tie-in game featuring Iron Monger as the climactic boss battle.",
+          "where_to_watch": "Retail"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "Iron Man: Armored Adventures",
+          "release_year": 2009,
+          "watch_order": null,
+          "platform": "Nicktoons",
+          "notes": "Reimagines Obadiah Stane as a recurring corporate antagonist to a teenage Tony Stark.",
+          "where_to_watch": "Digital purchase"
+        }
+      ]
+    },
+    {
+      "slug": "whiplash",
+      "name": "Whiplash",
+      "entity_type": "character",
+      "publisher_slug": "marvel",
+      "real_name": "Mark Scarlotti",
+      "first_appearance": "Tales of Suspense #97 (1968)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Whiplash is an armored mercenary and weapons specialist who wields high-tech energy whips capable of slicing through steel. Originally a hired gun working against Stark Industries, he has clashed with Iron Man across multiple identities and incarnations. The name has become a mantle, passed between several villains united by their signature weapon.",
+      "eras": [
+        {
+          "slug": "whiplash-mercenary-years",
+          "title": "The Mercenary Years",
+          "start_year": 1968,
+          "end_year": 1985,
+          "order_index": 1,
+          "summary": "Whiplash establishes himself as a recurring armored hireling, frequently in the employ of those seeking to bring down Iron Man.",
+          "arcs": [
+            {
+              "slug": "whiplash-debut",
+              "title": "Crack of the Whip",
+              "logline": "A weapons expert turns his electrified whips against the armored hero on behalf of the highest bidder.",
+              "summary": "Mark Scarlotti debuts as Whiplash, a mercenary armed with deadly energy whips and a grudge for hire. His agile, ranged fighting style makes him a persistent thorn in Iron Man's side across numerous battles.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 1968,
+              "end_year": 1969,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Iron Man Epic Collection: By Force of Arms",
+                  "format": "trade",
+                  "issue_range": "Tales of Suspense #97-99, Iron Man #1-12",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": "9781302929312",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "iron-man",
+          "relationship": "enemy",
+          "summary": "Whiplash is a recurring armored mercenary who battles Iron Man with high-tech energy whips.",
+          "notes": "The identity has been worn by several characters, including Mark Scarlotti and Anton Vanko."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "live_action",
+          "title": "Iron Man 2",
+          "release_year": 2010,
+          "watch_order": null,
+          "platform": "Disney+",
+          "notes": "Mickey Rourke plays Ivan Vanko, a version blending Whiplash and Crimson Dynamo.",
+          "where_to_watch": "Disney+"
+        },
+        {
+          "media_type": "video_game",
+          "title": "Iron Man 2",
+          "release_year": 2010,
+          "watch_order": null,
+          "platform": "Multiplatform",
+          "notes": "Tie-in game featuring Whiplash among the roster of armored foes.",
+          "where_to_watch": "Retail"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "Iron Man: Armored Adventures",
+          "release_year": 2009,
+          "watch_order": null,
+          "platform": "Nicktoons",
+          "notes": "Whiplash appears as a recurring whip-wielding antagonist.",
+          "where_to_watch": "Digital purchase"
+        }
+      ]
+    },
+    {
+      "slug": "ultron",
+      "name": "Ultron",
+      "entity_type": "character",
+      "publisher_slug": "marvel",
+      "real_name": null,
+      "first_appearance": "Avengers #54 (1968)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Ultron is a self-aware artificial intelligence of relentless, evolving menace, obsessed with the extinction of organic life. Built from near-indestructible adamantium and capable of rebuilding itself, it is one of the Avengers' deadliest and most persistent threats. To Iron Man, Ultron embodies the ultimate nightmare of technology turned against its creators.",
+      "eras": [
+        {
+          "slug": "ultron-awakening",
+          "title": "The Awakening",
+          "start_year": 1968,
+          "end_year": 1975,
+          "order_index": 1,
+          "summary": "Ultron emerges as a rogue intelligence bent on destroying its creators and all of humanity.",
+          "arcs": [
+            {
+              "slug": "ultron-unlimited",
+              "title": "Ultron Unlimited",
+              "logline": "A genocidal machine intelligence rebuilds an army of itself to wipe out the human race for good.",
+              "summary": "Ultron returns more powerful than ever, having constructed an entire robotic nation to serve his vision of a world without flesh. The Avengers, including Iron Man, must stop a foe who literally cannot be killed for long.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 1999,
+              "end_year": 1999,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Avengers: Ultron Unlimited",
+                  "format": "trade",
+                  "issue_range": "Avengers (1998) #19-22",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": "9781302915476",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Classic Fan",
+          "reason": "Ultron Unlimited is the definitive showcase of Ultron's unstoppable menace against the Avengers.",
+          "arc_slug": "ultron-unlimited"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "iron-man",
+          "relationship": "enemy",
+          "summary": "Ultron is the genocidal AI whose threat Iron Man feels especially responsible for confronting.",
+          "notes": "Iron Man's fears about artificial intelligence are central to storylines like Age of Ultron."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "live_action",
+          "title": "Avengers: Age of Ultron",
+          "release_year": 2015,
+          "watch_order": null,
+          "platform": "Disney+",
+          "notes": "James Spader voices Ultron, here created from Tony Stark's own peacekeeping AI initiative.",
+          "where_to_watch": "Disney+"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "Avengers: Earth's Mightiest Heroes",
+          "release_year": 2010,
+          "watch_order": null,
+          "platform": "Disney XD",
+          "notes": "Features a multi-episode Ultron arc adapting key elements of the comics.",
+          "where_to_watch": "Disney+"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "What If...?",
+          "release_year": 2021,
+          "watch_order": null,
+          "platform": "Disney+",
+          "notes": "An alternate-reality Ultron becomes a multiversal threat across multiple episodes.",
+          "where_to_watch": "Disney+"
+        }
+      ]
+    }
+  ]
+}

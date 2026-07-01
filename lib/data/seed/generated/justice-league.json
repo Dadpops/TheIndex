@@ -1,0 +1,994 @@
+{
+  "primary": {
+    "slug": "justice-league",
+    "name": "Justice League",
+    "entity_type": "team",
+    "publisher_slug": "dc",
+    "real_name": null,
+    "first_appearance": "The Brave and the Bold #28 (1960)",
+    "logo_url": null,
+    "cover_image_url": null,
+    "short_bio": "The Justice League is DC's premier super-team, uniting the world's most powerful heroes to face threats no single champion could withstand. Founded when a global menace forced Earth's greatest icons to band together, the League has defended the planet, the galaxy, and the multiverse across generations of changing rosters.",
+    "eras": [
+      {
+        "slug": "silver-age-founding",
+        "title": "The Silver Age Founding",
+        "start_year": 1960,
+        "end_year": 1986,
+        "order_index": 1,
+        "summary": "The original Justice League of America assembles in The Brave and the Bold and graduates to its own long-running title. This era establishes the classic founding lineup, the Secret Sanctuary headquarters, and the team's role as Earth's first line of defense against alien invaders and costumed masterminds.",
+        "arcs": [
+          {
+            "slug": "starro-the-conqueror",
+            "title": "Starro the Conqueror",
+            "logline": "A telepathic alien starfish enslaves coastal towns, forcing five heroes to unite for the first time.",
+            "summary": "When a colossal, mind-controlling starfish from space descends on Earth and begins subjugating entire communities, no single hero can counter its sprawling psychic reach. Flash, Green Lantern, Aquaman, Martian Manhunter, and Wonder Woman find themselves drawn into a common cause, improvising tactics on the fly against an enemy that turns ordinary citizens into thralls.\n\nThe crisis demonstrates the simple, enduring premise of the team: pooled power and complementary abilities can overcome a threat that would individually overwhelm any one of them. Each hero contributes a piece of the solution, with an unlikely common weakness proving decisive.\n\nThe adventure marks the literal first appearance of the assembled League and sets the template for decades of stories to follow. It introduces the idea of a standing roster ready to answer a planetary alarm.\n\nStarro would return again and again across eras, becoming one of the team's signature recurring menaces and a symbol of the existential, world-spanning threats the League exists to repel.",
+            "spoiler": null,
+            "arc_type": "origin",
+            "start_year": 1960,
+            "end_year": 1960,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "Justice League of America: The Silver Age Vol. 1",
+                "format": "trade",
+                "issue_range": "The Brave and the Bold #28-30",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "crisis-on-earth-one-earth-two",
+            "title": "Crisis on Earth-One and Earth-Two",
+            "logline": "The League meets the Justice Society of a parallel Earth to stop a cross-dimensional crime wave.",
+            "summary": "A dimensional breach allows villains to move between Earth-One, home of the Justice League, and Earth-Two, home of the original Justice Society of America. The two generations of heroes must learn to coordinate across realities to contain a coordinated criminal scheme that exploits the gap between worlds.\n\nThis annual team-up establishes the multiverse as a central pillar of DC storytelling and launches a beloved tradition of yearly JLA/JSA crossovers. The interplay between the modern League and their Golden Age predecessors deepens the sense of a shared, layered history.\n\nThe heroes split into mixed squads, blending power sets and experience levels, and confront the logistical and ethical puzzles of fighting on a world that is not their own. Trust between the teams becomes as important as raw power.\n\nThe storyline's success cemented the importance of parallel-Earth continuity and laid groundwork that would eventually be addressed in larger reality-spanning events.",
+            "spoiler": null,
+            "arc_type": "crossover",
+            "start_year": 1963,
+            "end_year": 1963,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "Crisis on Multiple Earths Vol. 1",
+                "format": "trade",
+                "issue_range": "Justice League of America #21-22",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9781563899010",
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "satellite-and-detroit",
+        "title": "The Satellite and Detroit Eras",
+        "start_year": 1970,
+        "end_year": 1987,
+        "order_index": 2,
+        "summary": "The League relocates to an orbiting satellite headquarters, expanding its roster and its cosmic perspective before a turbulent period forces a controversial reinvention with a younger, less-powerful lineup. This era tests the team's identity and sets up the soft reboot of the post-Crisis age.",
+        "arcs": [
+          {
+            "slug": "the-satellite-years",
+            "title": "The Satellite Years",
+            "logline": "Operating from orbit, an expanded League faces escalating cosmic and earthbound threats.",
+            "summary": "With a state-of-the-art satellite watching over the planet from orbit, the Justice League enters its most iconic classic era. The expanded membership rotates in fan-favorite heroes while the founders anchor the team, and the orbital base becomes a symbol of the League's vigilance.\n\nStories range from street-level menaces to galaxy-threatening invasions, reinforcing the team's dual role as both first responders and last line of defense. The satellite setting underscores the scale at which the League now operates.\n\nThe era is remembered for its strong ensemble dynamics, with veteran heroes mentoring newer recruits and the roster reflecting the breadth of the DC Universe. Interpersonal bonds and rivalries among members add texture to the adventures.\n\nThis period also seeds the cracks that lead to upheaval, as mounting threats and internal disagreements strain the team and set the stage for dramatic change.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 1970,
+            "end_year": 1984,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "Justice League of America: The Bronze Age Omnibus Vol. 1",
+                "format": "omnibus",
+                "issue_range": "Justice League of America #64-99",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "justice-league-detroit",
+            "title": "Justice League Detroit",
+            "logline": "After the founders depart, a scrappy new team rebuilds the League from a Detroit bunker.",
+            "summary": "Following a catastrophic conflict and the departure of most founding members, a smaller, greener League regroups in a fortified bunker in Detroit. Veterans Aquaman and Martian Manhunter lead a band of newcomers who must prove that the League's mission matters more than its star power.\n\nThe so-called Detroit era is defined by its underdog spirit, putting lesser-known heroes in the spotlight and emphasizing teamwork over individual might. The reduced power level forces cleverness and sacrifice.\n\nDespite mixed reception in its day, the era is notable for its character-driven stories and for testing what the League means when the icons step back. It deepens Aquaman and Martian Manhunter as committed institutional leaders.\n\nThe storyline ultimately clears the slate for the post-Crisis relaunch, ending one chapter of League history and opening the door to a bold new direction.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 1984,
+            "end_year": 1987,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "Justice League of America: The Detroit Era Omnibus",
+                "format": "omnibus",
+                "issue_range": "Justice League of America Annual #2, #233-261",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "modern-league",
+        "title": "The Modern League",
+        "start_year": 1987,
+        "end_year": 2016,
+        "order_index": 3,
+        "summary": "From the irreverent 'Justice League International' through Grant Morrison's iconic 'JLA' Big Seven and the New 52 relaunch, the modern era reinvents the team for new generations. These runs balance blockbuster cosmic threats with sharp character work and define the League most readers know today.",
+        "arcs": [
+          {
+            "slug": "justice-league-international",
+            "title": "Justice League International",
+            "logline": "A UN-sanctioned League blends globe-spanning heroics with workplace comedy and real stakes.",
+            "summary": "In a bold post-Crisis relaunch, the League is reorganized as a United Nations-sanctioned international body, mixing serious threats with a tone of wit and ensemble comedy. The roster pairs heavy hitters with quirky personalities, and the bureaucratic, multinational setup gives the team a fresh identity.\n\nThe run is celebrated for its humor and humanity, treating the heroes as coworkers as much as champions. Banter and bickering coexist with genuine danger, and the team's antics never undercut the weight of the threats they face.\n\nBeneath the comedy, the series tells stories of loss, loyalty, and the cost of heroism, giving second-tier characters depth and a devoted following. The international remit broadens the League's scope beyond American shores.\n\nThis era proved the League could thrive with a radically different tone, and its character dynamics remain influential decades later.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 1987,
+            "end_year": 1992,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "Justice League International Omnibus Vol. 1",
+                "format": "omnibus",
+                "issue_range": "Justice League #1-6, Justice League International #7-25",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9781401274085",
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "jla-new-world-order",
+            "title": "JLA: New World Order",
+            "logline": "The original 'Big Seven' reunite to expose a too-good-to-be-true team of alien saviors.",
+            "summary": "Grant Morrison and Howard Porter restore the League to its mythic stature by reuniting the seven greatest heroes: Superman, Batman, Wonder Woman, Flash, Green Lantern, Aquaman, and Martian Manhunter. When a group of seemingly benevolent superhumans called the Hyperclan arrives offering to solve humanity's problems, the League grows suspicious of their motives.\n\nThe story reframes the team as modern gods atop a watchtower on the Moon, restoring grandeur and scale to the franchise. Each member is portrayed at the peak of their iconic power and personality.\n\nAs the Hyperclan's true agenda surfaces, the League must outthink as much as outfight their opponents, with a clever turn that hinges on understanding the enemy's hidden weakness. The conflict tests the team's unity and resolve.\n\n'New World Order' launched one of the most acclaimed runs in League history and reestablished the Big Seven as the definitive lineup for a generation of readers.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 1997,
+            "end_year": 1997,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "JLA Vol. 1",
+                "format": "trade",
+                "issue_range": "JLA #1-4",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9781401255732",
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "justice-league-origin",
+            "title": "Justice League: Origin",
+            "logline": "In a rebooted timeline, distrustful heroes are forced together by Darkseid's invasion of Earth.",
+            "summary": "Launching the New 52, Geoff Johns and Jim Lee retell the League's formation in a modern continuity. Strangers and even rivals at first, Batman, Superman, Wonder Woman, Flash, Green Lantern, Aquaman, and Cyborg are thrown together when Apokoliptian forces breach Earth's defenses.\n\nThe story emphasizes the friction of heroes who do not yet trust one another, mining tension and humor from clashing egos before they coalesce into a team. The reboot positions the League as newly formed icons in a younger universe.\n\nThe scale escalates to a full-blown invasion led by one of the universe's greatest tyrants, demanding that the heroes set aside differences to save the planet. The crucible of war forges their bond.\n\n'Origin' redefined the team's beginnings for contemporary readers and served as the cornerstone of DC's relaunched line, introducing Cyborg as a founding member.",
+            "spoiler": null,
+            "arc_type": "origin",
+            "start_year": 2011,
+            "end_year": 2012,
+            "order_index": 3,
+            "reading_entries": [
+              {
+                "title": "Justice League Vol. 1: Origin",
+                "format": "trade",
+                "issue_range": "Justice League #1-6",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9781401234614",
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "start_here": [
+      {
+        "order_index": 1,
+        "label": "Start with the modern origin",
+        "reason": "The New 52's 'Origin' is the most accessible entry point, retelling how the team forms against a planetary invasion with the contemporary lineup most new readers recognize.",
+        "arc_slug": "justice-league-origin"
+      },
+      {
+        "order_index": 2,
+        "label": "Then read the definitive Big Seven",
+        "reason": "Grant Morrison's 'New World Order' restores the iconic seven-member League to mythic scale and is widely considered the best modern run to read next.",
+        "arc_slug": "jla-new-world-order"
+      },
+      {
+        "order_index": 3,
+        "label": "Go back to where it all began",
+        "reason": "The original 'Starro the Conqueror' is the team's very first adventure, showing the founding premise in its purest Silver Age form.",
+        "arc_slug": "starro-the-conqueror"
+      }
+    ],
+    "relationships": [
+      {
+        "related_slug": "batman",
+        "relationship": "ally",
+        "summary": "A founding pillar of the modern League and its premier strategist.",
+        "notes": "Often the team's tactical planner and contingency-minded conscience."
+      },
+      {
+        "related_slug": "superman",
+        "relationship": "ally",
+        "summary": "The moral heart and frequent field leader of the League.",
+        "notes": "Embodies the team's ideals and anchors its public image."
+      },
+      {
+        "related_slug": "wonder-woman",
+        "relationship": "ally",
+        "summary": "A founding member and the League's foremost warrior-diplomat.",
+        "notes": "Bridges the team's combat power and its principles of justice."
+      },
+      {
+        "related_slug": "the-flash",
+        "relationship": "ally",
+        "summary": "An original founder whose speed makes him the team's first responder.",
+        "notes": "Present at the very first assembly against Starro."
+      },
+      {
+        "related_slug": "green-lantern",
+        "relationship": "ally",
+        "summary": "A founding member linking the League to the cosmic Green Lantern Corps.",
+        "notes": "Provides interstellar reach and willpower-driven firepower."
+      },
+      {
+        "related_slug": "teen-titans",
+        "relationship": "ally",
+        "summary": "The junior counterpart team, often allied with the League in crises.",
+        "notes": "Many Titans graduate into League membership over time."
+      },
+      {
+        "related_slug": "darkseid",
+        "relationship": "enemy",
+        "summary": "The tyrant of Apokolips whose invasion forged the modern League.",
+        "notes": "One of the team's greatest and most recurring existential threats."
+      },
+      {
+        "related_slug": "lex-luthor",
+        "relationship": "enemy",
+        "summary": "Criminal mastermind who founds villainous coalitions to oppose the League.",
+        "notes": "Architect of the Injustice League and Secret Society."
+      },
+      {
+        "related_slug": "brainiac",
+        "relationship": "enemy",
+        "summary": "A coldly logical alien intelligence that menaces the whole DC Universe.",
+        "notes": "Collector of worlds whose schemes repeatedly draw in the League."
+      },
+      {
+        "related_slug": "starro",
+        "relationship": "enemy",
+        "summary": "The mind-controlling alien conqueror the League first formed to stop.",
+        "notes": "A signature recurring menace dating to the team's debut."
+      }
+    ],
+    "media": [
+      {
+        "media_type": "animated_series",
+        "title": "Justice League",
+        "release_year": 2001,
+        "watch_order": 1,
+        "platform": "Cartoon Network",
+        "notes": "Acclaimed Bruce Timm-produced series; continued as Justice League Unlimited.",
+        "where_to_watch": "Max"
+      },
+      {
+        "media_type": "film",
+        "title": "Justice League",
+        "release_year": 2017,
+        "watch_order": 2,
+        "platform": "Theatrical",
+        "notes": "Live-action DCEU film; later re-released as Zack Snyder's Justice League (2021).",
+        "where_to_watch": "Max"
+      },
+      {
+        "media_type": "live_action",
+        "title": "Zack Snyder's Justice League",
+        "release_year": 2021,
+        "watch_order": 3,
+        "platform": "HBO Max",
+        "notes": "The director's extended four-hour cut of the live-action team film.",
+        "where_to_watch": "Max"
+      },
+      {
+        "media_type": "video_game",
+        "title": "Injustice: Gods Among Us",
+        "release_year": 2013,
+        "watch_order": 4,
+        "platform": "Multi-platform",
+        "notes": "Fighting game built around a fractured Justice League in a dark alternate world.",
+        "where_to_watch": null
+      }
+    ],
+    "team_members": [
+      {
+        "character_slug": "superman",
+        "era_slug": null,
+        "role": "leader",
+        "notes": "Frequent field leader and moral center across nearly every incarnation."
+      },
+      {
+        "character_slug": "batman",
+        "era_slug": null,
+        "role": "founder",
+        "notes": "Founding modern member and the team's chief strategist."
+      },
+      {
+        "character_slug": "wonder-woman",
+        "era_slug": null,
+        "role": "founder",
+        "notes": "Founding member and the League's warrior-diplomat."
+      },
+      {
+        "character_slug": "the-flash",
+        "era_slug": "silver-age-founding",
+        "role": "founder",
+        "notes": "Original founder present at the team's first assembly."
+      },
+      {
+        "character_slug": "green-lantern",
+        "era_slug": "silver-age-founding",
+        "role": "founder",
+        "notes": "Original founder providing cosmic reach."
+      },
+      {
+        "character_slug": "aquaman",
+        "era_slug": "silver-age-founding",
+        "role": "founder",
+        "notes": "Original founder and later a leader of the Detroit-era League."
+      },
+      {
+        "character_slug": "martian-manhunter",
+        "era_slug": "silver-age-founding",
+        "role": "founder",
+        "notes": "Original founder and the soul of the team; long-serving institutional leader."
+      },
+      {
+        "character_slug": "green-arrow",
+        "era_slug": "satellite-and-detroit",
+        "role": "member",
+        "notes": "Joined during the classic Satellite era as the team's outspoken everyman."
+      }
+    ]
+  },
+  "supporting": [
+    {
+      "slug": "darkseid",
+      "name": "Darkseid",
+      "entity_type": "character",
+      "publisher_slug": "dc",
+      "real_name": "Uxas",
+      "first_appearance": "Superman's Pal Jimmy Olsen #134 (1970)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Darkseid is the dread ruler of the hellish world Apokolips and one of the most powerful tyrants in the DC Universe. Obsessed with the Anti-Life Equation, he seeks to eliminate all free will and bend creation to his absolute control.",
+      "eras": [
+        {
+          "slug": "fourth-world",
+          "title": "The Fourth World",
+          "start_year": 1970,
+          "end_year": 1985,
+          "order_index": 1,
+          "summary": "Jack Kirby introduces Darkseid as the central antagonist of his epic Fourth World saga, establishing Apokolips, the New Gods, and the cosmic war that defines the character for decades.",
+          "arcs": [
+            {
+              "slug": "the-fourth-world-saga",
+              "title": "The Fourth World Saga",
+              "logline": "A god-tyrant hunts the Anti-Life Equation across Earth and the warring worlds of the New Gods.",
+              "summary": "Jack Kirby's sprawling mythology pits the free people of New Genesis against the enslaved legions of Apokolips, ruled by the implacable Darkseid. His relentless search for the Anti-Life Equation brings his schemes to Earth.\n\nThe saga introduces a pantheon of new gods and a cosmic conflict of ideas as much as fists, with free will itself at stake. Darkseid emerges as a patient, terrifying mastermind rather than a brute.\n\nThe storyline's grand scope and themes would echo through the DC Universe for generations, making Darkseid a top-tier threat to every hero. It frames him as a foundational cosmic villain.\n\nIts ideas remain a touchstone for later creators tackling the New Gods and the menace of Apokolips.",
+              "spoiler": null,
+              "arc_type": "origin",
+              "start_year": 1970,
+              "end_year": 1973,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Jack Kirby's Fourth World Omnibus",
+                  "format": "omnibus",
+                  "issue_range": "New Gods #1-11, Forever People #1-11",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Begin with Kirby's epic",
+          "reason": "The Fourth World saga is the definitive introduction to Darkseid and his cosmic war.",
+          "arc_slug": "the-fourth-world-saga"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "justice-league",
+          "relationship": "enemy",
+          "summary": "The galaxy-conquering tyrant whose invasion forged the modern League.",
+          "notes": "Among the team's most dangerous recurring foes."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "animated_series",
+          "title": "Superman: The Animated Series",
+          "release_year": 1996,
+          "watch_order": 1,
+          "platform": "Kids' WB",
+          "notes": "Definitive animated portrayal that carried into Justice League Unlimited.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "film",
+          "title": "Zack Snyder's Justice League",
+          "release_year": 2021,
+          "watch_order": 2,
+          "platform": "HBO Max",
+          "notes": "Live-action appearance as the looming threat behind the invasion.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "video_game",
+          "title": "Injustice 2",
+          "release_year": 2017,
+          "watch_order": 3,
+          "platform": "Multi-platform",
+          "notes": "Playable fighter and major story antagonist.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "lex-luthor",
+      "name": "Lex Luthor",
+      "entity_type": "character",
+      "publisher_slug": "dc",
+      "real_name": "Alexander Joseph Luthor",
+      "first_appearance": "Action Comics #23 (1940)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Lex Luthor is a brilliant, ruthless billionaire industrialist and Superman's archenemy, convinced that humanity must be saved from its dependence on superheroes. His intellect and resources make him a constant threat to the entire Justice League.",
+      "eras": [
+        {
+          "slug": "modern-luthor",
+          "title": "The Modern Mastermind",
+          "start_year": 1986,
+          "end_year": 2016,
+          "order_index": 1,
+          "summary": "Reinvented as a corporate titan in the post-Crisis era, Luthor evolves from mad scientist into a power broker who weaponizes wealth, politics, and intellect against Superman and the League.",
+          "arcs": [
+            {
+              "slug": "the-injustice-league",
+              "title": "The Injustice League",
+              "logline": "Luthor assembles a coalition of supervillains to counter and destroy the Justice League.",
+              "summary": "Tired of facing the League's heroes one at a time, Luthor brings together a roster of dangerous villains into an organized opposition. His genius lies in coordination, turning scattered threats into a strategic force.\n\nThe storyline showcases Luthor as a leader and planner, matching the League's teamwork with villainous unity. His ambition extends beyond mere revenge into reshaping the balance of power.\n\nThe conflict forces the heroes to confront an enemy who anticipates their tactics and exploits their trust. Luthor's intellect proves as dangerous as any superpower.\n\nThe arc cements Luthor as the architect of the League's most organized opposition.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 2007,
+              "end_year": 2008,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Justice League of America: The Injustice League",
+                  "format": "trade",
+                  "issue_range": "Justice League of America #13-16",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "justice-league",
+          "relationship": "enemy",
+          "summary": "The criminal mastermind who repeatedly organizes villains against the League.",
+          "notes": "Founder of the Injustice League and Secret Society of Super-Villains."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "live_action",
+          "title": "Smallville",
+          "release_year": 2001,
+          "watch_order": 1,
+          "platform": "The WB",
+          "notes": "Long-running portrayal of Lex's descent into villainy.",
+          "where_to_watch": "Hulu"
+        },
+        {
+          "media_type": "film",
+          "title": "Batman v Superman: Dawn of Justice",
+          "release_year": 2016,
+          "watch_order": 2,
+          "platform": "Theatrical",
+          "notes": "Live-action DCEU appearance as the scheme's architect.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "Justice League Unlimited",
+          "release_year": 2004,
+          "watch_order": 3,
+          "platform": "Cartoon Network",
+          "notes": "Central antagonist of the series' overarching Cadmus storyline.",
+          "where_to_watch": "Max"
+        }
+      ]
+    },
+    {
+      "slug": "brainiac",
+      "name": "Brainiac",
+      "entity_type": "character",
+      "publisher_slug": "dc",
+      "real_name": "Vril Dox",
+      "first_appearance": "Action Comics #242 (1958)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Brainiac is a hyper-advanced alien android intelligence obsessed with collecting and cataloging knowledge, shrinking entire cities to add to his archive. His cold logic and vast technology make him one of the deadliest threats to Superman and the Justice League.",
+      "eras": [
+        {
+          "slug": "modern-brainiac",
+          "title": "The Collector of Worlds",
+          "start_year": 1958,
+          "end_year": 2016,
+          "order_index": 1,
+          "summary": "From Silver Age menace to modern cosmic horror, Brainiac is reimagined as the being who bottled Kandor and seeks to preserve dying worlds as specimens in his endless collection.",
+          "arcs": [
+            {
+              "slug": "brainiac-collector",
+              "title": "Brainiac",
+              "logline": "The true Brainiac comes to Earth to harvest a city and confront the last son of Krypton.",
+              "summary": "Geoff Johns and Gary Frank present the definitive modern Brainiac, revealing the cosmic scope of his city-collecting campaign across the galaxy. His connection to the lost city of Kandor raises the stakes for Superman personally.\n\nThe story portrays Brainiac as a genuinely terrifying force of cold calculation, a being who treats living worlds as data to be catalogued. His arrival threatens Earth with the same fate as countless other planets.\n\nThe confrontation tests Superman and his allies against an intelligence that plans for every variable. Brainiac's menace lies in his patience and precision.\n\nThe arc reframes Brainiac as a top-tier universal threat relevant to the entire League.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 2008,
+              "end_year": 2008,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Superman: Brainiac",
+                  "format": "trade",
+                  "issue_range": "Action Comics #866-870",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": "9781401222799",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "justice-league",
+          "relationship": "enemy",
+          "summary": "A planet-collecting machine intelligence that menaces the entire DC Universe.",
+          "notes": "His galaxy-spanning schemes repeatedly bring him into conflict with the League."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "animated_series",
+          "title": "Superman: The Animated Series",
+          "release_year": 1996,
+          "watch_order": 1,
+          "platform": "Kids' WB",
+          "notes": "Recurring Kryptonian AI antagonist.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "video_game",
+          "title": "Injustice 2",
+          "release_year": 2017,
+          "watch_order": 2,
+          "platform": "Multi-platform",
+          "notes": "Main story antagonist threatening to collect Earth.",
+          "where_to_watch": null
+        },
+        {
+          "media_type": "live_action",
+          "title": "Krypton",
+          "release_year": 2018,
+          "watch_order": 3,
+          "platform": "Syfy",
+          "notes": "Live-action depiction as the Collector of Worlds.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "starro",
+      "name": "Starro",
+      "entity_type": "character",
+      "publisher_slug": "dc",
+      "real_name": null,
+      "first_appearance": "The Brave and the Bold #28 (1960)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Starro is a colossal, telepathic alien conqueror resembling a starfish, capable of subjugating entire populations by attaching spore-like duplicates to their faces. As the first villain the Justice League ever fought, Starro is a signature recurring menace symbolizing planetary-scale threats.",
+      "eras": [
+        {
+          "slug": "starro-classic",
+          "title": "The First Conqueror",
+          "start_year": 1960,
+          "end_year": 2011,
+          "order_index": 1,
+          "summary": "Debuting as the threat that united the League, Starro evolves from Silver Age oddity into a genuinely menacing cosmic conqueror whose mind-control spores threaten worlds.",
+          "arcs": [
+            {
+              "slug": "the-star-conqueror",
+              "title": "The Star Conqueror",
+              "logline": "A telepathic alien starfish returns to enslave humanity on a planetary scale.",
+              "summary": "Starro descends on Earth with vastly expanded ambitions, deploying countless spore-duplicates to seize control of entire populations. Its telepathic dominion threatens to turn humanity into a single enslaved hive.\n\nThe story escalates the original Silver Age threat into a credible world-ending menace, reinforcing why the League formed in the first place. Resistance requires both power and ingenuity.\n\nThe heroes must free the minds of the enslaved while confronting the central intelligence directing the swarm. The scale underscores Starro's status as a foundational League foe.\n\nThe arc reaffirms Starro as an enduring symbol of the cosmic threats the team exists to repel.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 2008,
+              "end_year": 2008,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Justice League of America: The Second Coming",
+                  "format": "trade",
+                  "issue_range": "Justice League of America #0, #22-26",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "justice-league",
+          "relationship": "enemy",
+          "summary": "The mind-controlling alien the League first assembled to defeat.",
+          "notes": "The team's very first foe and a recurring planetary threat."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "film",
+          "title": "The Suicide Squad",
+          "release_year": 2021,
+          "watch_order": 1,
+          "platform": "Theatrical",
+          "notes": "Featured as the towering alien antagonist Starro the Conqueror.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "Batman: The Brave and the Bold",
+          "release_year": 2008,
+          "watch_order": 2,
+          "platform": "Cartoon Network",
+          "notes": "Appears as a classic alien menace.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "video_game",
+          "title": "DC Universe Online",
+          "release_year": 2011,
+          "watch_order": 3,
+          "platform": "Multi-platform",
+          "notes": "Featured as an alien invasion threat.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "aquaman",
+      "name": "Aquaman",
+      "entity_type": "character",
+      "publisher_slug": "dc",
+      "real_name": "Arthur Curry",
+      "first_appearance": "More Fun Comics #73 (1941)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Aquaman is the king of Atlantis and a founding member of the Justice League, ruling the oceans while protecting the surface world. Wielding super-strength, aquatic telepathy, and a legendary trident, he bridges two worlds as a powerful and principled hero.",
+      "eras": [
+        {
+          "slug": "modern-aquaman",
+          "title": "The King of Atlantis",
+          "start_year": 2011,
+          "end_year": 2016,
+          "order_index": 1,
+          "summary": "Geoff Johns and Ivan Reis reestablish Aquaman as a formidable, respected hero, exploring his dual heritage and the politics of ruling Atlantis while serving on the League.",
+          "arcs": [
+            {
+              "slug": "aquaman-the-trench",
+              "title": "Aquaman: The Trench",
+              "logline": "Arthur Curry confronts ancient horrors rising from the ocean depths.",
+              "summary": "In the New 52 relaunch, Aquaman faces a swarm of monstrous creatures emerging from a deep-sea trench, a threat that tests both his power and his standing among surface dwellers. The story directly addresses and dismantles the perception of Aquaman as a lesser hero.\n\nThe arc balances large-scale action with character work, exploring Arthur's place between land and sea. His resolve and might are on full display.\n\nThe creatures of the Trench provide a genuinely frightening menace, raising the stakes of his solo adventures. The story reestablishes Aquaman as a heavyweight.\n\nIt set the tone for an acclaimed modern run and reaffirmed his importance to the League.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 2011,
+              "end_year": 2012,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Aquaman Vol. 1: The Trench",
+                  "format": "trade",
+                  "issue_range": "Aquaman #1-6",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": "9781401237103",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Dive into the modern Aquaman",
+          "reason": "'The Trench' is the best modern starting point, reestablishing Aquaman as a powerful, respected hero.",
+          "arc_slug": "aquaman-the-trench"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "justice-league",
+          "relationship": "ally",
+          "summary": "A founding member who represents the seas on the League.",
+          "notes": "Original founder and later a leader of the Detroit-era team."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "film",
+          "title": "Aquaman",
+          "release_year": 2018,
+          "watch_order": 1,
+          "platform": "Theatrical",
+          "notes": "Live-action solo film in the DCEU.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "Justice League",
+          "release_year": 2001,
+          "watch_order": 2,
+          "platform": "Cartoon Network",
+          "notes": "Recurring appearances as the king of Atlantis.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "video_game",
+          "title": "Injustice 2",
+          "release_year": 2017,
+          "watch_order": 3,
+          "platform": "Multi-platform",
+          "notes": "Playable character with Atlantean abilities.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "green-arrow",
+      "name": "Green Arrow",
+      "entity_type": "character",
+      "publisher_slug": "dc",
+      "real_name": "Oliver Queen",
+      "first_appearance": "More Fun Comics #73 (1941)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Green Arrow is a billionaire-turned-vigilante and master archer who fights crime and social injustice with a quiver of trick arrows. Outspoken and politically charged, Oliver Queen brings a grounded, populist conscience to the Justice League.",
+      "eras": [
+        {
+          "slug": "modern-green-arrow",
+          "title": "The Emerald Archer",
+          "start_year": 1987,
+          "end_year": 2016,
+          "order_index": 1,
+          "summary": "From Mike Grell's gritty 'Longbow Hunters' to Kevin Smith's revival, the modern era redefines Green Arrow as a street-level crusader with a strong social conscience.",
+          "arcs": [
+            {
+              "slug": "the-longbow-hunters",
+              "title": "Green Arrow: The Longbow Hunters",
+              "logline": "An aging Oliver Queen takes a darker, more personal turn against urban crime.",
+              "summary": "Mike Grell's landmark story strips Green Arrow down to a grounded, human level, trading gimmicks for grit. Oliver confronts mortality, violence, and the moral cost of his crusade.\n\nThe arc reinvents the character for mature readers, emphasizing his role as a street-level hero distinct from the League's cosmic icons. It deepens his relationship with Black Canary.\n\nThe darker tone and personal stakes redefined the character for a generation. It established the template for modern Green Arrow.\n\nThe story remains a defining work and a key entry point for the character.",
+              "spoiler": null,
+              "arc_type": "miniseries",
+              "start_year": 1987,
+              "end_year": 1987,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Green Arrow: The Longbow Hunters",
+                  "format": "trade",
+                  "issue_range": "The Longbow Hunters #1-3",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": "9781401240035",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Start with the defining miniseries",
+          "reason": "'The Longbow Hunters' is the essential modern reinvention of Green Arrow.",
+          "arc_slug": "the-longbow-hunters"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "justice-league",
+          "relationship": "ally",
+          "summary": "The League's outspoken everyman and social conscience.",
+          "notes": "Joined during the classic Satellite era."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "live_action",
+          "title": "Arrow",
+          "release_year": 2012,
+          "watch_order": 1,
+          "platform": "The CW",
+          "notes": "Long-running series that launched the Arrowverse.",
+          "where_to_watch": "Netflix"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "Justice League Unlimited",
+          "release_year": 2004,
+          "watch_order": 2,
+          "platform": "Cartoon Network",
+          "notes": "Recurring member of the expanded League.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "video_game",
+          "title": "Injustice: Gods Among Us",
+          "release_year": 2013,
+          "watch_order": 3,
+          "platform": "Multi-platform",
+          "notes": "Playable archer in the fighting game.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "martian-manhunter",
+      "name": "Martian Manhunter",
+      "entity_type": "character",
+      "publisher_slug": "dc",
+      "real_name": "J'onn J'onzz",
+      "first_appearance": "Detective Comics #225 (1955)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Martian Manhunter is the last survivor of Mars, a shapeshifting telepath with immense strength and the heart of the Justice League. Stranded on Earth, J'onn J'onzz serves as one of the team's most steadfast founders and longest-serving members.",
+      "eras": [
+        {
+          "slug": "modern-manhunter",
+          "title": "The Soul of the League",
+          "start_year": 1988,
+          "end_year": 2016,
+          "order_index": 1,
+          "summary": "Across the JLI years and beyond, Martian Manhunter is established as the emotional and institutional anchor of the League, exploring his isolation as Mars's last son.",
+          "arcs": [
+            {
+              "slug": "martian-manhunter-solo",
+              "title": "Martian Manhunter: Son of Mars",
+              "logline": "J'onn J'onzz confronts his Martian past and his lonely place on Earth.",
+              "summary": "John Ostrander's series digs into the mythology of Mars and the trauma of being its last survivor. It explores J'onn's identity, his many human disguises, and the loneliness beneath his stoic exterior.\n\nThe story balances cosmic threats with intimate character work, cementing Martian Manhunter as one of the DC Universe's most compelling figures. His powers and pain are given equal weight.\n\nThe arc deepens his role as the League's quiet heart and most reliable member. It explores why he remains on Earth as its protector.\n\nIt stands as a definitive solo exploration of the character.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 1998,
+              "end_year": 1999,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Martian Manhunter: Son of Mars",
+                  "format": "trade",
+                  "issue_range": "Martian Manhunter #1-9",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Explore the last son of Mars",
+          "reason": "'Son of Mars' is the definitive solo deep-dive into Martian Manhunter's character and history.",
+          "arc_slug": "martian-manhunter-solo"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "justice-league",
+          "relationship": "ally",
+          "summary": "A founding member and the steadfast heart of the team.",
+          "notes": "Original founder and one of its longest-serving leaders."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "animated_series",
+          "title": "Justice League",
+          "release_year": 2001,
+          "watch_order": 1,
+          "platform": "Cartoon Network",
+          "notes": "Core founding member of the animated team.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "live_action",
+          "title": "Supergirl",
+          "release_year": 2016,
+          "watch_order": 2,
+          "platform": "The CW",
+          "notes": "Recurring live-action role as J'onn J'onzz.",
+          "where_to_watch": "Netflix"
+        },
+        {
+          "media_type": "film",
+          "title": "Zack Snyder's Justice League",
+          "release_year": 2021,
+          "watch_order": 3,
+          "platform": "HBO Max",
+          "notes": "Appears in the extended live-action cut.",
+          "where_to_watch": "Max"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,795 @@
+{
+  "primary": {
+    "slug": "erica-slaughter",
+    "name": "Erica Slaughter",
+    "entity_type": "character",
+    "role": "hero",
+    "publisher_slug": "boom",
+    "real_name": "Erica Slaughter",
+    "first_appearance": "Something is Killing the Children #1 (BOOM! Studios, 2019)",
+    "logo_url": null,
+    "cover_image_url": null,
+    "short_bio": "Erica Slaughter is a foul-mouthed, bandana-masked monster hunter who travels from town to town slaying the unseen creatures that prey on children. Raised and trained by the secretive House of Slaughter, she wields a machete and an octopus plush named Octo while bending—and breaking—the rigid rules of her order.",
+    "eras": [
+      {
+        "slug": "archers-peak",
+        "title": "Archer's Peak",
+        "start_year": 2019,
+        "end_year": 2021,
+        "order_index": 1,
+        "summary": "Erica arrives in the small town of Archer's Peak, where children are vanishing and being slaughtered by a monster only the young can see. Over a brutal hunt she becomes entangled with survivor James and the bureaucratic Order that nominally employs her.",
+        "arcs": [
+          {
+            "slug": "an-unkindness-of-monsters",
+            "title": "An Unkindness of Monsters",
+            "logline": "A masked stranger comes to a grieving town to hunt the thing that is killing its children.",
+            "summary": "After a group of teenagers is attacked in the woods outside Archer's Peak, the lone survivor insists a monster did it—and no adult believes him. Into this fear-soaked town walks Erica Slaughter, a young woman in a white bandana who carries a machete and speaks plainly about the creatures she has come to kill.\n\nErica's methods are blunt and bloody, and she has little patience for the platitudes of grief counselors or the suspicion of local police. As the body count rises, she takes the survivor under her wing, both to keep him alive and because he can do something most people cannot: he can see the monster.\n\nThe arc establishes the central premise of the series—that some children are devoured by things adults refuse to acknowledge—and introduces Erica as a hunter who is as haunted as she is lethal. It is a story about belief, complicity, and the cost of staring directly at what others look away from.",
+            "spoiler": null,
+            "arc_type": "origin",
+            "start_year": 2019,
+            "end_year": 2020,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "Something is Killing the Children, Vol. 1",
+                "format": "trade",
+                "issue_range": "#1-5",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9781684155583",
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "the-order-arrives",
+            "title": "The Order Arrives",
+            "logline": "As the hunt escalates, the organization that governs monster hunters descends on the town with its own agenda.",
+            "summary": "With the monster of Archer's Peak still loose, Erica's freewheeling approach draws the attention of the House of Slaughter and the wider Order of St. George. Handlers and operatives arrive, and it becomes clear that Erica has been operating outside the strict protocols meant to govern hunters like her.\n\nThe conflict is no longer only between Erica and the creature; it is between Erica and the institution that raised her. The Order cares about secrecy and containment as much as it cares about saving lives, and Erica's willingness to involve a civilian witness puts her at odds with everything she was trained to be.\n\nThis arc deepens the mythology of the world, showing that the monsters are an open secret managed by a hidden bureaucracy, and that Erica's defiance has consequences that will follow her long after she leaves Archer's Peak behind.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 2020,
+            "end_year": 2021,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "Something is Killing the Children, Vol. 2",
+                "format": "trade",
+                "issue_range": "#6-10",
+                "reading_order": 2,
+                "publication_order": 2,
+                "reading_order_note": null,
+                "isbn": "9781684156313",
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "on-the-road",
+        "title": "On the Road",
+        "start_year": 2021,
+        "end_year": 2024,
+        "order_index": 2,
+        "summary": "Cut loose from the comfortable structure of her order, Erica drifts between towns and hunts, confronting her past and the people who made her. New monsters and old enemies force her to reckon with the rules she has broken.",
+        "arcs": [
+          {
+            "slug": "the-reckoning",
+            "title": "The Reckoning",
+            "logline": "A new town and a new monster drag Erica back into the politics of the people who trained her.",
+            "summary": "Moving on from Archer's Peak, Erica takes a fresh contract that quickly proves more complicated than a simple kill. The monster she is hunting is bound up with the interests of the House of Slaughter, and her old handlers have not forgotten her insubordination.\n\nAway from any safety net, Erica must rely on instinct and the few allies she trusts. The arc juxtaposes the immediate horror of the hunt with the slower dread of an organization closing in around her, testing whether she can survive both the creature and the consequences of her choices.\n\nIt is a turning point that reframes Erica from a wandering exterminator into a fugitive of sorts—someone whose greatest threat may be the very institution that gave her a purpose.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 2021,
+            "end_year": 2022,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "Something is Killing the Children, Vol. 3",
+                "format": "trade",
+                "issue_range": "#11-15",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9781684157488",
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "blood-and-bandanas",
+            "title": "Blood and Bandanas",
+            "logline": "Erica's history with the House of Slaughter resurfaces, forcing her to confront the family she left behind.",
+            "summary": "As Erica's path winds through new hunts, the people and places of her upbringing return to the foreground. The bandanas that mark a hunter's status carry meaning she can no longer ignore, and the relationships she severed demand to be settled.\n\nThe arc weaves present-day monster hunting with the weight of Erica's formation inside a secretive lineage of killers. Old loyalties and old grudges collide as she discovers how much of her freedom is an illusion and how deeply the Order's reach extends.\n\nIt is a more personal chapter, trading some of the pure horror of earlier stories for the dread of family, obligation, and the question of whether a person shaped to be a weapon can ever simply walk away.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 2022,
+            "end_year": 2024,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "Something is Killing the Children, Vol. 4",
+                "format": "trade",
+                "issue_range": "#16-20",
+                "reading_order": 2,
+                "publication_order": 2,
+                "reading_order_note": null,
+                "isbn": "9781684158959",
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "start_here": [
+      {
+        "order_index": 1,
+        "label": "Absolute Beginner",
+        "reason": "The origin arc introduces Erica, the monsters, and the central premise with no prior knowledge required.",
+        "arc_slug": "an-unkindness-of-monsters"
+      },
+      {
+        "order_index": 2,
+        "label": "Classic Fan",
+        "reason": "Watch the secret order descend on Archer's Peak as the world's mythology snaps into focus.",
+        "arc_slug": "the-order-arrives"
+      },
+      {
+        "order_index": 3,
+        "label": "Modern Era",
+        "reason": "Follow Erica as a fugitive hunter confronting the family and institution that made her.",
+        "arc_slug": "blood-and-bandanas"
+      }
+    ],
+    "relationships": [
+      {
+        "related_slug": "haus-of-slaughter",
+        "relationship": "ally",
+        "summary": "The clandestine house that trained Erica as a monster hunter and supplied her bandanas and gear.",
+        "notes": "Erica is a product of the House of Slaughter, though her bond with it is fraught with rebellion and debt."
+      },
+      {
+        "related_slug": "james",
+        "relationship": "ally",
+        "summary": "The teenage survivor of the Archer's Peak attack who can see the monster and joins Erica's hunt.",
+        "notes": "James becomes Erica's reluctant partner and witness, anchoring her to the human cost of the work."
+      },
+      {
+        "related_slug": "aaron-slaughter",
+        "relationship": "ally",
+        "summary": "A fellow operative of the House of Slaughter whose loyalties weave between the Order and Erica herself.",
+        "notes": "Aaron shares Erica's lineage and training, making him both a potential ally and a complicated rival within the house."
+      },
+      {
+        "related_slug": "jace-boucher",
+        "relationship": "ally",
+        "summary": "An Archer's Peak local drawn into the orbit of the killings who lends Erica aid during the hunt.",
+        "notes": "Jace represents the ordinary townsfolk whose lives are upended by monsters and by Erica's arrival."
+      },
+      {
+        "related_slug": "the-monster",
+        "relationship": "enemy",
+        "summary": "The unseen creature stalking the children of Archer's Peak that Erica is contracted to destroy.",
+        "notes": "Visible only to certain children, the monster embodies the central threat Erica was trained to hunt."
+      },
+      {
+        "related_slug": "cutter",
+        "relationship": "enemy",
+        "summary": "A ruthless hunter whose brutal philosophy puts him in violent opposition to Erica.",
+        "notes": "Cutter operates by a colder code, clashing with Erica over how monsters—and witnesses—should be handled."
+      },
+      {
+        "related_slug": "edwin-slaughter",
+        "relationship": "enemy",
+        "summary": "A senior figure of the Slaughter lineage whose authority and ambitions threaten Erica's freedom.",
+        "notes": "Edwin's stake in the House of Slaughter makes him a dangerous obstacle to Erica's independence."
+      },
+      {
+        "related_slug": "the-order-of-st-george",
+        "relationship": "enemy",
+        "summary": "The vast secret organization that polices monster hunters and seeks to bring Erica back under control.",
+        "notes": "The Order prizes secrecy and obedience, putting its institutional will at odds with Erica's defiance."
+      }
+    ],
+    "media": [
+      {
+        "media_type": "live_action",
+        "title": "Something is Killing the Children",
+        "release_year": null,
+        "watch_order": 1,
+        "platform": "Netflix",
+        "notes": "A live-action adaptation reported to be in development at Netflix.",
+        "where_to_watch": null
+      },
+      {
+        "media_type": "audio_drama",
+        "title": "Something is Killing the Children: Motion Comic",
+        "release_year": 2021,
+        "watch_order": 2,
+        "platform": "BOOM! Studios",
+        "notes": "Motion-comic style adaptations of the early issues released to promote the series.",
+        "where_to_watch": null
+      },
+      {
+        "media_type": "podcast",
+        "title": "BOOM! Studios Presents: Something is Killing the Children",
+        "release_year": 2020,
+        "watch_order": 3,
+        "platform": "BOOM! Studios",
+        "notes": "Promotional audio discussion and behind-the-scenes coverage of the comic.",
+        "where_to_watch": null
+      }
+    ]
+  },
+  "supporting": [
+    {
+      "slug": "james",
+      "name": "James",
+      "entity_type": "character",
+      "role": "hero",
+      "publisher_slug": "boom",
+      "real_name": "James",
+      "first_appearance": "Something is Killing the Children #1 (BOOM! Studios, 2019)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "James is the teenage survivor of the monster attack that opens the Archer's Peak killings. Able to see the creature when adults cannot, he becomes Erica Slaughter's reluctant partner and witness during the hunt.",
+      "eras": [
+        {
+          "slug": "survivor",
+          "title": "Survivor",
+          "start_year": 2019,
+          "end_year": 2021,
+          "order_index": 1,
+          "summary": "Traumatized and disbelieved, James is pulled into Erica's hunt and forced to confront the monster that killed his friends.",
+          "arcs": [
+            {
+              "slug": "the-witness",
+              "title": "The Witness",
+              "logline": "A grieving teenager who can see monsters teams up with the hunter no one else trusts.",
+              "summary": "James loses his friends to a creature in the woods and survives only to be doubted by everyone around him. When Erica arrives, she recognizes that his ability to see the monster makes him invaluable.\n\nReluctantly drawn into the hunt, James must overcome his terror and grief to help end the killings. His arc is about belief and resilience, and about finding purpose in the wake of unimaginable loss.",
+              "spoiler": null,
+              "arc_type": "origin",
+              "start_year": 2019,
+              "end_year": 2021,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Something is Killing the Children, Vol. 1",
+                  "format": "trade",
+                  "issue_range": "#1-5",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": "9781684155583",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Absolute Beginner",
+          "reason": "James's introduction is the reader's entry point into the horror of Archer's Peak.",
+          "arc_slug": "the-witness"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "erica-slaughter",
+          "relationship": "ally",
+          "summary": "Erica takes James under her protection and relies on his ability to see the monster.",
+          "notes": "Their partnership grounds Erica's hunt in the human stakes of Archer's Peak."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "live_action",
+          "title": "Something is Killing the Children",
+          "release_year": null,
+          "watch_order": 1,
+          "platform": "Netflix",
+          "notes": "Live-action adaptation reported in development.",
+          "where_to_watch": null
+        },
+        {
+          "media_type": "audio_drama",
+          "title": "Something is Killing the Children: Motion Comic",
+          "release_year": 2021,
+          "watch_order": 2,
+          "platform": "BOOM! Studios",
+          "notes": "Motion-comic adaptation of the early issues.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "aaron-slaughter",
+      "name": "Aaron Slaughter",
+      "entity_type": "character",
+      "role": "hero",
+      "publisher_slug": "boom",
+      "real_name": "Aaron Slaughter",
+      "first_appearance": "House of Slaughter #1 (BOOM! Studios, 2021)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Aaron Slaughter is an operative of the House of Slaughter who shares Erica's lineage and training. Caught between the demands of the Order and his own conscience, he is both a potential ally and a rival to Erica.",
+      "eras": [
+        {
+          "slug": "house-operative",
+          "title": "House Operative",
+          "start_year": 2021,
+          "end_year": 2023,
+          "order_index": 1,
+          "summary": "Aaron navigates the politics of the House of Slaughter while his loyalties to the Order and to Erica are tested.",
+          "arcs": [
+            {
+              "slug": "the-bone-orchard",
+              "title": "The Bone Orchard",
+              "logline": "A House of Slaughter operative is forced to choose between duty and the hunters he once trusted.",
+              "summary": "Aaron operates within the rigid hierarchy of the House of Slaughter, carrying out the Order's will even as it strains his loyalties. His history with the Slaughter line ties him directly to Erica's story.\n\nAs cracks form in the institution, Aaron must decide where his allegiance truly lies. His arc explores the cost of obedience and the slow pull of conscience inside a ruthless organization.",
+              "spoiler": null,
+              "arc_type": "miniseries",
+              "start_year": 2021,
+              "end_year": 2023,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "House of Slaughter, Vol. 1: The Butcher's Mark",
+                  "format": "trade",
+                  "issue_range": "#1-5",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": "9781684158775",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Absolute Beginner",
+          "reason": "This arc introduces Aaron and the inner workings of the House of Slaughter.",
+          "arc_slug": "the-bone-orchard"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "erica-slaughter",
+          "relationship": "ally",
+          "summary": "Aaron shares Erica's lineage and at times aids her despite the Order's wishes.",
+          "notes": "Their bond is complicated by loyalty, rivalry, and the secrets of the House of Slaughter."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "live_action",
+          "title": "Something is Killing the Children",
+          "release_year": null,
+          "watch_order": 1,
+          "platform": "Netflix",
+          "notes": "Live-action adaptation reported in development.",
+          "where_to_watch": null
+        },
+        {
+          "media_type": "audio_drama",
+          "title": "House of Slaughter: Motion Comic",
+          "release_year": 2022,
+          "watch_order": 2,
+          "platform": "BOOM! Studios",
+          "notes": "Promotional motion-comic content for the spinoff series.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "jace-boucher",
+      "name": "Jace Boucher",
+      "entity_type": "character",
+      "role": "hero",
+      "publisher_slug": "boom",
+      "real_name": "Jace Boucher",
+      "first_appearance": "Something is Killing the Children #1 (BOOM! Studios, 2019)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Jace Boucher is an Archer's Peak local caught up in the wave of killings. An ordinary person thrust into extraordinary horror, he lends Erica aid as the hunt tears through his town.",
+      "eras": [
+        {
+          "slug": "townsfolk",
+          "title": "Townsfolk",
+          "start_year": 2019,
+          "end_year": 2021,
+          "order_index": 1,
+          "summary": "Jace experiences the terror of Archer's Peak from the perspective of an everyday resident pulled into Erica's orbit.",
+          "arcs": [
+            {
+              "slug": "small-town-horror",
+              "title": "Small Town Horror",
+              "logline": "An ordinary local is dragged into a monster hunt that consumes his hometown.",
+              "summary": "Jace lives in Archer's Peak when the killings begin, watching his community unravel under fear and suspicion. When Erica arrives, he is drawn into events far beyond anything he was prepared for.\n\nHis arc grounds the supernatural horror in the lived experience of a normal person, showing how the monsters—and the hunters—reshape the lives of the townsfolk they touch.",
+              "spoiler": null,
+              "arc_type": "tie-in",
+              "start_year": 2019,
+              "end_year": 2021,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Something is Killing the Children, Vol. 1",
+                  "format": "trade",
+                  "issue_range": "#1-5",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": "9781684155583",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "erica-slaughter",
+          "relationship": "ally",
+          "summary": "Jace aids Erica as the killings sweep through Archer's Peak.",
+          "notes": "He represents the ordinary residents whose lives are upended by the hunt."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "live_action",
+          "title": "Something is Killing the Children",
+          "release_year": null,
+          "watch_order": 1,
+          "platform": "Netflix",
+          "notes": "Live-action adaptation reported in development.",
+          "where_to_watch": null
+        },
+        {
+          "media_type": "audio_drama",
+          "title": "Something is Killing the Children: Motion Comic",
+          "release_year": 2021,
+          "watch_order": 2,
+          "platform": "BOOM! Studios",
+          "notes": "Motion-comic adaptation of the early issues.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "the-monster",
+      "name": "The Monster",
+      "entity_type": "character",
+      "role": "villain",
+      "publisher_slug": "boom",
+      "real_name": null,
+      "first_appearance": "Something is Killing the Children #1 (BOOM! Studios, 2019)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "The Monster is the unseen predator stalking the children of Archer's Peak. Visible only to certain young people, it embodies the central horror that Erica Slaughter is contracted to destroy.",
+      "eras": [
+        {
+          "slug": "the-hunt",
+          "title": "The Hunt",
+          "start_year": 2019,
+          "end_year": 2021,
+          "order_index": 1,
+          "summary": "The creature preys on Archer's Peak's children until Erica arrives to track and kill it.",
+          "arcs": [
+            {
+              "slug": "the-thing-in-the-woods",
+              "title": "The Thing in the Woods",
+              "logline": "An invisible predator devours the children of a quiet town.",
+              "summary": "The Monster hunts in the woods around Archer's Peak, taking children one by one while adults remain blind to its existence. Its nature and origins are bound to the secret war that hunters like Erica wage.\n\nAs the central threat of the opening story, the creature drives the terror and the body count, forcing the town and its hunter into a desperate confrontation.",
+              "spoiler": null,
+              "arc_type": "origin",
+              "start_year": 2019,
+              "end_year": 2021,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Something is Killing the Children, Vol. 1",
+                  "format": "trade",
+                  "issue_range": "#1-5",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": "9781684155583",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "erica-slaughter",
+          "relationship": "enemy",
+          "summary": "The creature is the target of Erica's hunt in Archer's Peak.",
+          "notes": "Only certain children can see it, making it a uniquely insidious threat."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "live_action",
+          "title": "Something is Killing the Children",
+          "release_year": null,
+          "watch_order": 1,
+          "platform": "Netflix",
+          "notes": "Live-action adaptation reported in development.",
+          "where_to_watch": null
+        },
+        {
+          "media_type": "audio_drama",
+          "title": "Something is Killing the Children: Motion Comic",
+          "release_year": 2021,
+          "watch_order": 2,
+          "platform": "BOOM! Studios",
+          "notes": "Motion-comic adaptation of the early issues.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "cutter",
+      "name": "Cutter",
+      "entity_type": "character",
+      "role": "antihero",
+      "publisher_slug": "boom",
+      "real_name": null,
+      "first_appearance": "Something is Killing the Children #11 (BOOM! Studios, 2020)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Cutter is a hardened monster hunter whose brutal, uncompromising code sets him against Erica Slaughter. A killer of both monsters and inconvenient witnesses, he embodies the colder edge of the hunting world.",
+      "eras": [
+        {
+          "slug": "the-rival-hunter",
+          "title": "The Rival Hunter",
+          "start_year": 2020,
+          "end_year": 2022,
+          "order_index": 1,
+          "summary": "Cutter's ruthless approach to the work brings him into conflict with Erica's more conflicted methods.",
+          "arcs": [
+            {
+              "slug": "no-witnesses",
+              "title": "No Witnesses",
+              "logline": "A merciless hunter clashes with Erica over how monsters and witnesses should be handled.",
+              "summary": "Cutter believes in eliminating every loose end, monsters and humans alike, a philosophy that sets him directly against Erica's protectiveness toward survivors. His arrival raises the stakes of the hunt.\n\nHis arc explores the moral extremes of the hunting world, presenting a figure whose effectiveness is matched only by his ruthlessness.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 2020,
+              "end_year": 2022,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Something is Killing the Children, Vol. 3",
+                  "format": "trade",
+                  "issue_range": "#11-15",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": "9781684157488",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "erica-slaughter",
+          "relationship": "enemy",
+          "summary": "Cutter's ruthless code puts him in violent opposition to Erica.",
+          "notes": "He would kill witnesses Erica fights to protect, making their conflict deeply personal."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "live_action",
+          "title": "Something is Killing the Children",
+          "release_year": null,
+          "watch_order": 1,
+          "platform": "Netflix",
+          "notes": "Live-action adaptation reported in development.",
+          "where_to_watch": null
+        },
+        {
+          "media_type": "audio_drama",
+          "title": "Something is Killing the Children: Motion Comic",
+          "release_year": 2021,
+          "watch_order": 2,
+          "platform": "BOOM! Studios",
+          "notes": "Motion-comic adaptation of the series.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "edwin-slaughter",
+      "name": "Edwin Slaughter",
+      "entity_type": "character",
+      "role": "antihero",
+      "publisher_slug": "boom",
+      "real_name": "Edwin Slaughter",
+      "first_appearance": "House of Slaughter #1 (BOOM! Studios, 2021)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Edwin Slaughter is a senior figure of the Slaughter lineage whose authority and ambitions cast a long shadow over the House of Slaughter. His grip on the family's power makes him a dangerous obstacle to Erica's independence.",
+      "eras": [
+        {
+          "slug": "house-leadership",
+          "title": "House Leadership",
+          "start_year": 2021,
+          "end_year": 2023,
+          "order_index": 1,
+          "summary": "Edwin wields influence over the House of Slaughter, steering its operations and its hunters toward his own ends.",
+          "arcs": [
+            {
+              "slug": "the-butchers-throne",
+              "title": "The Butcher's Throne",
+              "logline": "A powerful elder of the Slaughter line tightens his grip on the house and its hunters.",
+              "summary": "Edwin commands respect and fear within the House of Slaughter, using his standing to shape the order's direction. His ambitions place him at odds with hunters who chafe under the institution's control.\n\nHis arc reveals the internal power struggles of the Slaughter family, presenting a morally grey leader whose decisions ripple outward to hunters like Erica.",
+              "spoiler": null,
+              "arc_type": "miniseries",
+              "start_year": 2021,
+              "end_year": 2023,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "House of Slaughter, Vol. 1: The Butcher's Mark",
+                  "format": "trade",
+                  "issue_range": "#1-5",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": "9781684158775",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "erica-slaughter",
+          "relationship": "enemy",
+          "summary": "Edwin's authority over the Slaughter line threatens Erica's hard-won freedom.",
+          "notes": "His ambitions for the house make him a dangerous obstacle to Erica's independence."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "live_action",
+          "title": "Something is Killing the Children",
+          "release_year": null,
+          "watch_order": 1,
+          "platform": "Netflix",
+          "notes": "Live-action adaptation reported in development.",
+          "where_to_watch": null
+        },
+        {
+          "media_type": "audio_drama",
+          "title": "House of Slaughter: Motion Comic",
+          "release_year": 2022,
+          "watch_order": 2,
+          "platform": "BOOM! Studios",
+          "notes": "Promotional motion-comic content for the spinoff series.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "the-order-of-st-george",
+      "name": "The Order of St. George",
+      "entity_type": "team",
+      "role": "neutral",
+      "publisher_slug": "boom",
+      "real_name": null,
+      "first_appearance": "Something is Killing the Children #5 (BOOM! Studios, 2019)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "The Order of St. George is the vast, secretive organization that polices monster hunters and conceals the existence of monsters from the world. Prizing secrecy and obedience above all, it seeks to keep operatives like Erica firmly under its control.",
+      "eras": [
+        {
+          "slug": "the-secret-order",
+          "title": "The Secret Order",
+          "start_year": 2019,
+          "end_year": 2024,
+          "order_index": 1,
+          "summary": "The Order manages the hidden war against monsters through its houses and operatives, balancing containment against the chaos of the hunt.",
+          "arcs": [
+            {
+              "slug": "containment-protocol",
+              "title": "Containment Protocol",
+              "logline": "A secret institution polices monster hunters and buries the truth about the creatures they fight.",
+              "summary": "The Order of St. George operates in the shadows, governing the houses of hunters and ensuring that the world never learns what stalks its children. Its priorities of secrecy and control often clash with the hunters who actually face the monsters.\n\nThe arc reveals the bureaucratic machinery behind the horror, presenting an institution whose interests are not always aligned with saving lives.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 2019,
+              "end_year": 2024,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Something is Killing the Children, Vol. 2",
+                  "format": "trade",
+                  "issue_range": "#6-10",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": "9781684156313",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "erica-slaughter",
+          "relationship": "enemy",
+          "summary": "The Order seeks to bring the defiant Erica back under its strict control.",
+          "notes": "Its demands for secrecy and obedience place it at odds with Erica's independence."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "live_action",
+          "title": "Something is Killing the Children",
+          "release_year": null,
+          "watch_order": 1,
+          "platform": "Netflix",
+          "notes": "Live-action adaptation reported in development.",
+          "where_to_watch": null
+        },
+        {
+          "media_type": "audio_drama",
+          "title": "Something is Killing the Children: Motion Comic",
+          "release_year": 2021,
+          "watch_order": 2,
+          "platform": "BOOM! Studios",
+          "notes": "Motion-comic adaptation of the series.",
+          "where_to_watch": null
+        }
+      ],
+      "team_members": [
+        {
+          "character_slug": "erica-slaughter",
+          "era_slug": "the-secret-order",
+          "role": "member",
+          "notes": "Erica is an operative of the Order, however reluctantly and rebelliously."
+        },
+        {
+          "character_slug": "aaron-slaughter",
+          "era_slug": "the-secret-order",
+          "role": "member",
+          "notes": "Aaron serves the Order through the House of Slaughter."
+        },
+        {
+          "character_slug": "edwin-slaughter",
+          "era_slug": "the-secret-order",
+          "role": "leader",
+          "notes": "Edwin holds a position of authority within the Slaughter lineage and the Order."
+        }
+      ]
+    }
+  ]
+}

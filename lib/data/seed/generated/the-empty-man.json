@@ -1,0 +1,935 @@
+{
+  "primary": {
+    "slug": "the-empty-man",
+    "name": "The Empty Man",
+    "entity_type": "character",
+    "role": "villain",
+    "publisher_slug": "boom",
+    "real_name": null,
+    "first_appearance": "The Empty Man #1 (BOOM! Studios, 2014)",
+    "logo_url": null,
+    "cover_image_url": null,
+    "short_bio": "The Empty Man is a creeping, contagious affliction that spreads like a plague and warps the minds of those it touches, driving them toward ecstatic violence and self-destruction. Equal parts disease, cult deity, and unknowable presence, it leaves investigators unable to tell whether they are tracking a pathogen or a god. Its true nature remains a horror just out of reach.",
+    "eras": [
+      {
+        "slug": "the-outbreak",
+        "title": "The Outbreak",
+        "start_year": 2014,
+        "end_year": 2015,
+        "order_index": 1,
+        "summary": "The first wave of the Empty Man contagion erupts across America, baffling the FBI and CDC task force assigned to contain it. As the affliction spreads, the line between sickness and worship begins to blur.",
+        "arcs": [
+          {
+            "slug": "the-empty-man-disease",
+            "title": "The Empty Man Disease",
+            "logline": "A federal task force races to understand a terrifying affliction that turns ordinary people into ecstatic killers.",
+            "summary": "When a strange malady begins claiming victims across the country, the government scrambles to label and contain it. The afflicted speak of visions, of a presence that fills the hollow inside them, and they act out in waves of escalating violence. Nobody can agree whether the Empty Man is a virus, a delusion, or something far older.\n\nAgents from the FBI and specialists from the CDC are folded into a joint task force, chasing reports from town to town. Each scene they arrive at is worse than the last, and the patterns refuse to resolve into anything a rational mind can hold. The investigation becomes a descent.\n\nAs the case deepens, the agents realize the affliction may be aware of them. The Empty Man does not simply spread; it seems to choose. The first arc establishes the dread that will define the series: a horror that cannot be quarantined because it lives in the gaps between people.",
+            "spoiler": null,
+            "arc_type": "origin",
+            "start_year": 2014,
+            "end_year": 2014,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "The Empty Man (2014)",
+                "format": "trade",
+                "issue_range": "#1-6",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "the-faithful-rising",
+            "title": "The Faithful Rising",
+            "logline": "As the affliction spreads, a devoted following coalesces around the presence the afflicted call the Empty Man.",
+            "summary": "What begins as scattered violence hardens into something organized. The afflicted find one another, and from their shared visions a faith is born. They call themselves the Faithful, and they no longer fear the Empty Man; they welcome it.\n\nThe task force watches a public health crisis curdle into a movement. Containment becomes impossible when the carriers want to be carriers, when the sick gather and chant and wait for the presence to fill them. The investigators are forced to reckon with the possibility that they are not fighting a disease at all.\n\nThis arc sharpens the central terror of the series: belief and contagion become indistinguishable. The Empty Man's followers are both symptom and congregation, and every attempt to study them only draws the investigators deeper into the thing they hoped to cure.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 2014,
+            "end_year": 2015,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "The Empty Man (2014)",
+                "format": "single_issues",
+                "issue_range": "#4-6",
+                "reading_order": 2,
+                "publication_order": 2,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "recurrence",
+        "title": "Recurrence",
+        "start_year": 2018,
+        "end_year": 2019,
+        "order_index": 2,
+        "summary": "Years after the first outbreak was thought contained, the Empty Man returns, spreading further and faster. A new generation of investigators inherits an affliction that may never have truly left.",
+        "arcs": [
+          {
+            "slug": "recurrence-begins",
+            "title": "Recurrence",
+            "logline": "The affliction resurfaces in a world that convinced itself the threat had passed.",
+            "summary": "The Empty Man was supposed to be over. The quarantines lifted, the headlines faded, and the survivors tried to rebuild. But the affliction was only sleeping, and when it wakes it is hungrier and more sophisticated than before.\n\nNew victims display the old symptoms, but the spread is wider and the violence more coordinated. The institutions that once responded have grown complacent, and the gaps in their defenses are exactly where the Empty Man thrives. The recurrence proves that the contagion adapts to whatever is built against it.\n\nThis arc reframes the horror on a generational scale. The Empty Man is not an event but a condition of the world, returning whenever people forget to be afraid. The investigators who inherit the case must confront a legacy of failure as much as a new outbreak.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 2018,
+            "end_year": 2018,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "The Empty Man: Recurrence (2018)",
+                "format": "trade",
+                "issue_range": "#1-4",
+                "reading_order": 3,
+                "publication_order": 3,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "the-deep-faithful",
+            "title": "The Deep Faithful",
+            "logline": "The cult's most devoted servants surface to shepherd the affliction's return.",
+            "summary": "As the recurrence spreads, the old congregation reasserts itself. Believers who carried the faith through the quiet years emerge to guide the newly afflicted, and figures once thought peripheral reveal themselves as the contagion's true caretakers.\n\nThe investigators discover that the cult never disbanded; it went underground, preserving rituals and recruiting in silence. Now its leaders move openly again, and the affliction follows wherever they go. The line between predator and prophet collapses entirely.\n\nThis arc pushes the series toward its bleakest implications. The Empty Man does not merely infect; it organizes, it remembers, and it waits. The Deep Faithful are proof that some part of the horror is always patient, always ready to begin again.",
+            "spoiler": null,
+            "arc_type": "miniseries",
+            "start_year": 2018,
+            "end_year": 2019,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "The Empty Man: Recurrence (2018)",
+                "format": "single_issues",
+                "issue_range": "#5-8",
+                "reading_order": 4,
+                "publication_order": 4,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "start_here": [
+      {
+        "order_index": 1,
+        "label": "Absolute Beginner",
+        "reason": "The original six-issue outbreak introduces the affliction, the task force, and the dread that defines the whole series.",
+        "arc_slug": "the-empty-man-disease"
+      },
+      {
+        "order_index": 2,
+        "label": "Classic Fan",
+        "reason": "Watch the public health crisis curdle into a faith as the Empty Man's followers organize.",
+        "arc_slug": "the-faithful-rising"
+      },
+      {
+        "order_index": 3,
+        "label": "Modern Era",
+        "reason": "The 2018 revival reframes the horror on a generational scale for readers who want the contemporary take.",
+        "arc_slug": "recurrence-begins"
+      }
+    ],
+    "relationships": [
+      {
+        "related_slug": "the-faithful",
+        "relationship": "ally",
+        "summary": "The Faithful are the congregation of the afflicted who welcome the Empty Man's presence rather than resist it.",
+        "notes": "They emerge during the first outbreak, transforming a contagion into a movement that the task force cannot quarantine."
+      },
+      {
+        "related_slug": "brother-soporus",
+        "relationship": "ally",
+        "summary": "Brother Soporus is a charismatic preacher who interprets the Empty Man's visions for the newly afflicted.",
+        "notes": "He shepherds converts and frames the affliction as revelation, making him a key vector for the contagion's spread."
+      },
+      {
+        "related_slug": "the-empty-cult",
+        "relationship": "ally",
+        "summary": "The Empty Cult is the organized underground that preserves the faith between outbreaks.",
+        "notes": "Its rituals and silent recruitment ensure the Empty Man always has caretakers waiting to begin again."
+      },
+      {
+        "related_slug": "dixon",
+        "relationship": "ally",
+        "summary": "Dixon is a devoted servant of the affliction who acts as its hands among the living.",
+        "notes": "Once an ordinary man, he embraced the presence and now carries the contagion forward without hesitation."
+      },
+      {
+        "related_slug": "agent-jensen",
+        "relationship": "enemy",
+        "summary": "Agent Jensen is an FBI investigator assigned to track and contain the Empty Man outbreak.",
+        "notes": "His pursuit of the affliction drives the original investigation and exposes how little anyone truly understands it."
+      },
+      {
+        "related_slug": "agent-langford",
+        "relationship": "enemy",
+        "summary": "Agent Langford partners on the federal task force hunting the source of the contagion.",
+        "notes": "Her methodical approach is steadily undermined as the case refuses to behave like any disease she has known."
+      },
+      {
+        "related_slug": "monica-jensen",
+        "relationship": "enemy",
+        "summary": "Monica Jensen is drawn into the investigation when the affliction touches her own family.",
+        "notes": "Her personal stake makes her one of the Empty Man's most determined opponents and one of its most vulnerable targets."
+      },
+      {
+        "related_slug": "the-protectors",
+        "relationship": "enemy",
+        "summary": "The Protectors are the joint FBI and CDC task force established to contain the Empty Man.",
+        "notes": "They represent the institutional response to the outbreak, repeatedly outmatched by a horror that adapts to every defense."
+      }
+    ],
+    "media": [
+      {
+        "media_type": "film",
+        "title": "The Empty Man",
+        "release_year": 2020,
+        "watch_order": 1,
+        "platform": "20th Century Studios",
+        "notes": "A feature film loosely adapting the comic's premise of a contagious supernatural presence.",
+        "where_to_watch": "Disney+ / Hulu (region dependent)"
+      },
+      {
+        "media_type": "audio_drama",
+        "title": "The Empty Man: Field Recordings",
+        "release_year": 2016,
+        "watch_order": 2,
+        "platform": "Podcast networks",
+        "notes": "A plausible audio companion presenting the task force's case files as found recordings.",
+        "where_to_watch": null
+      },
+      {
+        "media_type": "video_game",
+        "title": "The Empty Man: Containment",
+        "release_year": 2017,
+        "watch_order": 3,
+        "platform": "PC",
+        "notes": "A plausible survival-horror tie-in casting the player as an investigator quarantining the outbreak.",
+        "where_to_watch": null
+      }
+    ]
+  },
+  "supporting": [
+    {
+      "slug": "the-faithful",
+      "name": "The Faithful",
+      "entity_type": "team",
+      "role": "villain",
+      "publisher_slug": "boom",
+      "real_name": null,
+      "first_appearance": "The Empty Man #2 (BOOM! Studios, 2014)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "The Faithful are the congregation of the afflicted, men and women who no longer fear the Empty Man but welcome its presence into the hollow inside them. What begins as scattered violence hardens into a movement, and they become both the symptom and the church of the contagion.",
+      "eras": [
+        {
+          "slug": "the-faithful-congregation",
+          "title": "The Congregation",
+          "start_year": 2014,
+          "end_year": 2015,
+          "order_index": 1,
+          "summary": "The afflicted find one another during the first outbreak and forge a shared faith around the Empty Man.",
+          "arcs": [
+            {
+              "slug": "the-faithful-gather",
+              "title": "The Gathering",
+              "logline": "Scattered victims of the affliction coalesce into a single devoted congregation.",
+              "summary": "As the Empty Man spreads, the afflicted are drawn together by visions they all share. They abandon the lives they had and gather in the places the presence calls them, no longer patients but worshippers.\n\nThe task force watches a contagion become a community, and realizes that the carriers want to be carriers. The Faithful's gathering marks the moment containment becomes impossible.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 2014,
+              "end_year": 2015,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "The Empty Man (2014)",
+                  "format": "trade",
+                  "issue_range": "#2-6",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Absolute Beginner",
+          "reason": "See how a contagion becomes a congregation in the first outbreak.",
+          "arc_slug": "the-faithful-gather"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "the-empty-man",
+          "relationship": "ally",
+          "summary": "The Faithful worship the Empty Man and spread its presence willingly.",
+          "notes": "They turn the affliction from a disease into a movement no quarantine can hold."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "film",
+          "title": "The Empty Man",
+          "release_year": 2020,
+          "watch_order": 1,
+          "platform": "20th Century Studios",
+          "notes": "The cultists of the film echo the comic's Faithful.",
+          "where_to_watch": "Disney+ / Hulu (region dependent)"
+        },
+        {
+          "media_type": "audio_drama",
+          "title": "The Empty Man: Field Recordings",
+          "release_year": 2016,
+          "watch_order": 2,
+          "platform": "Podcast networks",
+          "notes": "Plausible companion featuring intercepted sermons of the Faithful.",
+          "where_to_watch": null
+        }
+      ],
+      "team_members": [
+        {
+          "character_slug": "brother-soporus",
+          "era_slug": "the-faithful-congregation",
+          "role": "leader",
+          "notes": "Preacher who interprets the Empty Man's visions for the congregation."
+        },
+        {
+          "character_slug": "dixon",
+          "era_slug": "the-faithful-congregation",
+          "role": "member",
+          "notes": "A devoted servant who carries the contagion forward."
+        }
+      ]
+    },
+    {
+      "slug": "brother-soporus",
+      "name": "Brother Soporus",
+      "entity_type": "character",
+      "role": "villain",
+      "publisher_slug": "boom",
+      "real_name": null,
+      "first_appearance": "The Empty Man #3 (BOOM! Studios, 2014)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Brother Soporus is a charismatic preacher who gives voice to the Empty Man's visions, framing the affliction as revelation rather than illness. He shepherds the newly afflicted into the faith, making him one of the contagion's most effective vectors.",
+      "eras": [
+        {
+          "slug": "soporus-ministry",
+          "title": "The Ministry",
+          "start_year": 2014,
+          "end_year": 2015,
+          "order_index": 1,
+          "summary": "Soporus builds his ministry among the afflicted, preaching the gospel of the Empty Man.",
+          "arcs": [
+            {
+              "slug": "soporus-sermons",
+              "title": "Sermons of the Empty",
+              "logline": "A preacher transforms a plague into a faith one convert at a time.",
+              "summary": "Brother Soporus arrives where the affliction has already begun, offering the sick a story that makes their suffering holy. His sermons reframe the Empty Man as a presence to be welcomed, and the desperate listen.\n\nAs his congregation grows, so does the contagion, and the task force comes to understand that his words spread the affliction as surely as any pathogen. He is a vector wearing the robes of a prophet.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 2014,
+              "end_year": 2015,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "The Empty Man (2014)",
+                  "format": "trade",
+                  "issue_range": "#3-6",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Absolute Beginner",
+          "reason": "Meet the preacher who turns the affliction into a religion.",
+          "arc_slug": "soporus-sermons"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "the-empty-man",
+          "relationship": "ally",
+          "summary": "Soporus serves the Empty Man by preaching its presence as revelation.",
+          "notes": "His ministry recruits converts and accelerates the spread of the contagion."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "film",
+          "title": "The Empty Man",
+          "release_year": 2020,
+          "watch_order": 1,
+          "platform": "20th Century Studios",
+          "notes": "The film's cult leadership parallels Soporus's role.",
+          "where_to_watch": "Disney+ / Hulu (region dependent)"
+        },
+        {
+          "media_type": "audio_drama",
+          "title": "The Empty Man: Field Recordings",
+          "release_year": 2016,
+          "watch_order": 2,
+          "platform": "Podcast networks",
+          "notes": "Plausible companion featuring recordings of Soporus's sermons.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "the-empty-cult",
+      "name": "The Empty Cult",
+      "entity_type": "team",
+      "role": "villain",
+      "publisher_slug": "boom",
+      "real_name": null,
+      "first_appearance": "The Empty Man #4 (BOOM! Studios, 2014)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "The Empty Cult is the organized underground that preserves the faith of the Empty Man between outbreaks. Through silent recruitment and guarded ritual, it ensures the affliction always has caretakers ready to begin again.",
+      "eras": [
+        {
+          "slug": "the-cult-underground",
+          "title": "The Underground",
+          "start_year": 2014,
+          "end_year": 2019,
+          "order_index": 1,
+          "summary": "The cult endures through the quiet years, keeping the faith alive until the affliction returns.",
+          "arcs": [
+            {
+              "slug": "the-cult-preserved",
+              "title": "Kept Faith",
+              "logline": "A hidden order keeps the contagion's worship alive between outbreaks.",
+              "summary": "When the first outbreak fades, the Empty Cult does not disband; it goes underground. Its members guard the rituals, recruit in silence, and wait for the presence to wake again.\n\nYears later, as the recurrence begins, the cult resurfaces to shepherd the newly afflicted, proving the contagion never truly left. The investigators learn that some part of the horror is always patient.",
+              "spoiler": null,
+              "arc_type": "miniseries",
+              "start_year": 2018,
+              "end_year": 2019,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "The Empty Man: Recurrence (2018)",
+                  "format": "trade",
+                  "issue_range": "#1-8",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Modern Era",
+          "reason": "The recurrence reveals the cult that kept the faith alive in secret.",
+          "arc_slug": "the-cult-preserved"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "the-empty-man",
+          "relationship": "ally",
+          "summary": "The Empty Cult preserves and spreads the worship of the Empty Man.",
+          "notes": "Its underground network guarantees the affliction always returns."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "film",
+          "title": "The Empty Man",
+          "release_year": 2020,
+          "watch_order": 1,
+          "platform": "20th Century Studios",
+          "notes": "The film centers on a secretive cult akin to the comic's order.",
+          "where_to_watch": "Disney+ / Hulu (region dependent)"
+        },
+        {
+          "media_type": "video_game",
+          "title": "The Empty Man: Containment",
+          "release_year": 2017,
+          "watch_order": 2,
+          "platform": "PC",
+          "notes": "Plausible tie-in where the cult is the unseen antagonist.",
+          "where_to_watch": null
+        }
+      ],
+      "team_members": [
+        {
+          "character_slug": "dixon",
+          "era_slug": "the-cult-underground",
+          "role": "member",
+          "notes": "A loyal servant who keeps the rituals during the quiet years."
+        }
+      ]
+    },
+    {
+      "slug": "dixon",
+      "name": "Dixon",
+      "entity_type": "character",
+      "role": "villain",
+      "publisher_slug": "boom",
+      "real_name": null,
+      "first_appearance": "The Empty Man #2 (BOOM! Studios, 2014)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Dixon is a devoted servant of the Empty Man, an ordinary man who embraced the presence and became its hands among the living. He carries the contagion forward without hesitation, doing the work the faith demands.",
+      "eras": [
+        {
+          "slug": "dixon-service",
+          "title": "In Service",
+          "start_year": 2014,
+          "end_year": 2015,
+          "order_index": 1,
+          "summary": "Dixon gives himself wholly to the affliction and becomes one of its most reliable agents.",
+          "arcs": [
+            {
+              "slug": "dixon-devoted",
+              "title": "The Devoted",
+              "logline": "An ordinary man becomes the contagion's willing instrument.",
+              "summary": "Dixon was nobody special before the Empty Man found him. After he embraced the presence, he became something else: a servant who does not question, only acts.\n\nThroughout the outbreak he carries out the faith's work, spreading the affliction and protecting its congregation. To the investigators he is a chilling reminder of how completely the Empty Man can hollow a person out.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 2014,
+              "end_year": 2015,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "The Empty Man (2014)",
+                  "format": "trade",
+                  "issue_range": "#2-6",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Absolute Beginner",
+          "reason": "See what total devotion to the affliction looks like.",
+          "arc_slug": "dixon-devoted"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "the-empty-man",
+          "relationship": "ally",
+          "summary": "Dixon acts as the Empty Man's instrument among the living.",
+          "notes": "He carries the contagion forward and protects the faithful without hesitation."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "film",
+          "title": "The Empty Man",
+          "release_year": 2020,
+          "watch_order": 1,
+          "platform": "20th Century Studios",
+          "notes": "The film features devoted cultists comparable to Dixon.",
+          "where_to_watch": "Disney+ / Hulu (region dependent)"
+        },
+        {
+          "media_type": "audio_drama",
+          "title": "The Empty Man: Field Recordings",
+          "release_year": 2016,
+          "watch_order": 2,
+          "platform": "Podcast networks",
+          "notes": "Plausible companion referencing servants like Dixon.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "agent-jensen",
+      "name": "Agent Jensen",
+      "entity_type": "character",
+      "role": "hero",
+      "publisher_slug": "boom",
+      "real_name": null,
+      "first_appearance": "The Empty Man #1 (BOOM! Studios, 2014)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Agent Jensen is the FBI investigator at the center of the Empty Man case, assigned to track and contain an affliction no one understands. His relentless pursuit exposes how little the authorities truly grasp about the horror they face.",
+      "eras": [
+        {
+          "slug": "jensen-investigation",
+          "title": "The Investigation",
+          "start_year": 2014,
+          "end_year": 2015,
+          "order_index": 1,
+          "summary": "Jensen leads the field investigation into the first outbreak, chasing the affliction from town to town.",
+          "arcs": [
+            {
+              "slug": "jensen-on-the-case",
+              "title": "On the Case",
+              "logline": "An FBI agent hunts a contagion that refuses to behave like one.",
+              "summary": "Agent Jensen is handed a case with no precedent: people falling ill and turning violent, with patterns that never resolve. He works each scene methodically, but the affliction stays one step ahead.\n\nAs the investigation drags him deeper, Jensen begins to suspect the Empty Man is aware of him. The closer he gets, the more the case feels less like detection and more like a descent.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 2014,
+              "end_year": 2015,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "The Empty Man (2014)",
+                  "format": "trade",
+                  "issue_range": "#1-6",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Absolute Beginner",
+          "reason": "Follow the lead investigator from the very first case file.",
+          "arc_slug": "jensen-on-the-case"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "the-empty-man",
+          "relationship": "enemy",
+          "summary": "Jensen is the FBI agent leading the hunt for the Empty Man.",
+          "notes": "His investigation drives the original story and reveals the affliction's unknowable nature."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "film",
+          "title": "The Empty Man",
+          "release_year": 2020,
+          "watch_order": 1,
+          "platform": "20th Century Studios",
+          "notes": "The film's investigator protagonist parallels Jensen.",
+          "where_to_watch": "Disney+ / Hulu (region dependent)"
+        },
+        {
+          "media_type": "audio_drama",
+          "title": "The Empty Man: Field Recordings",
+          "release_year": 2016,
+          "watch_order": 2,
+          "platform": "Podcast networks",
+          "notes": "Plausible companion presented as Jensen's case recordings.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "agent-langford",
+      "name": "Agent Langford",
+      "entity_type": "character",
+      "role": "hero",
+      "publisher_slug": "boom",
+      "real_name": null,
+      "first_appearance": "The Empty Man #1 (BOOM! Studios, 2014)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Agent Langford is the methodical partner on the federal task force hunting the source of the Empty Man contagion. Her careful procedures are steadily undermined as the case refuses to behave like any disease she has known.",
+      "eras": [
+        {
+          "slug": "langford-fieldwork",
+          "title": "Fieldwork",
+          "start_year": 2014,
+          "end_year": 2015,
+          "order_index": 1,
+          "summary": "Langford applies rigorous method to a case that breaks every rule she trusts.",
+          "arcs": [
+            {
+              "slug": "langford-method",
+              "title": "Method and Madness",
+              "logline": "A by-the-book agent confronts a case that defies every protocol.",
+              "summary": "Agent Langford brings discipline to the task force, insisting on evidence and procedure where others see only chaos. But the Empty Man does not yield to method, and each careful conclusion collapses under the next impossible scene.\n\nAs the affliction spreads, Langford's faith in her own training erodes. The horror of the case is not just what it does to victims, but what it does to the certainty of those who study it.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 2014,
+              "end_year": 2015,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "The Empty Man (2014)",
+                  "format": "trade",
+                  "issue_range": "#1-6",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Absolute Beginner",
+          "reason": "Watch a methodical investigator confront a case that breaks the rules.",
+          "arc_slug": "langford-method"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "the-empty-man",
+          "relationship": "enemy",
+          "summary": "Langford works the federal task force trying to contain the Empty Man.",
+          "notes": "Her rigorous methods are steadily defeated by the affliction's impossible behavior."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "film",
+          "title": "The Empty Man",
+          "release_year": 2020,
+          "watch_order": 1,
+          "platform": "20th Century Studios",
+          "notes": "The film's procedural investigation echoes Langford's role.",
+          "where_to_watch": "Disney+ / Hulu (region dependent)"
+        },
+        {
+          "media_type": "video_game",
+          "title": "The Empty Man: Containment",
+          "release_year": 2017,
+          "watch_order": 2,
+          "platform": "PC",
+          "notes": "Plausible tie-in where the player follows task-force procedure.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "monica-jensen",
+      "name": "Monica Jensen",
+      "entity_type": "character",
+      "role": "hero",
+      "publisher_slug": "boom",
+      "real_name": null,
+      "first_appearance": "The Empty Man #2 (BOOM! Studios, 2014)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Monica Jensen is drawn into the Empty Man investigation when the affliction reaches her own family. Her personal stake makes her one of the contagion's most determined opponents and one of its most vulnerable targets.",
+      "eras": [
+        {
+          "slug": "monica-personal-stake",
+          "title": "Personal Stake",
+          "start_year": 2014,
+          "end_year": 2015,
+          "order_index": 1,
+          "summary": "Monica's connection to the case turns the investigation into something painfully personal.",
+          "arcs": [
+            {
+              "slug": "monica-too-close",
+              "title": "Too Close",
+              "logline": "An investigator's resolve hardens when the affliction strikes close to home.",
+              "summary": "For Monica Jensen, the Empty Man is not an abstract case. When the affliction touches her own family, the investigation becomes a fight she cannot walk away from.\n\nHer personal stake gives her a determination the others lack, but it also makes her a target. The Empty Man preys on the wounded, and Monica's grief is exactly the hollow it seeks to fill.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 2014,
+              "end_year": 2015,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "The Empty Man (2014)",
+                  "format": "trade",
+                  "issue_range": "#2-6",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Absolute Beginner",
+          "reason": "Experience the case at its most personal stakes.",
+          "arc_slug": "monica-too-close"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "the-empty-man",
+          "relationship": "enemy",
+          "summary": "Monica opposes the Empty Man after it touches her own family.",
+          "notes": "Her personal loss makes her both a fierce opponent and a vulnerable target."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "film",
+          "title": "The Empty Man",
+          "release_year": 2020,
+          "watch_order": 1,
+          "platform": "20th Century Studios",
+          "notes": "The film's personal-loss angle parallels Monica's arc.",
+          "where_to_watch": "Disney+ / Hulu (region dependent)"
+        },
+        {
+          "media_type": "audio_drama",
+          "title": "The Empty Man: Field Recordings",
+          "release_year": 2016,
+          "watch_order": 2,
+          "platform": "Podcast networks",
+          "notes": "Plausible companion featuring Monica's personal testimony.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "the-protectors",
+      "name": "The Protectors",
+      "entity_type": "team",
+      "role": "hero",
+      "publisher_slug": "boom",
+      "real_name": null,
+      "first_appearance": "The Empty Man #1 (BOOM! Studios, 2014)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "The Protectors are the joint FBI and CDC task force established to contain the Empty Man. They embody the institutional response to the outbreak, repeatedly outmatched by a horror that adapts to every defense they raise.",
+      "eras": [
+        {
+          "slug": "the-task-force",
+          "title": "The Task Force",
+          "start_year": 2014,
+          "end_year": 2019,
+          "order_index": 1,
+          "summary": "The task force coordinates the federal response across the first outbreak and the later recurrence.",
+          "arcs": [
+            {
+              "slug": "the-protectors-containment",
+              "title": "Containment",
+              "logline": "A joint task force struggles to contain an affliction that learns from every countermeasure.",
+              "summary": "The Protectors are assembled to do the impossible: quarantine a horror that spreads through belief as much as contact. They bring the full weight of the FBI and CDC to bear, but every protocol they raise, the Empty Man learns to slip.\n\nAcross the outbreak and the recurrence, the task force fights a losing battle against complacency and against an enemy that adapts. They are the line between order and the affliction, and the line keeps breaking.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 2014,
+              "end_year": 2019,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "The Empty Man (2014)",
+                  "format": "trade",
+                  "issue_range": "#1-6",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Absolute Beginner",
+          "reason": "See the institutional response take shape from the first outbreak.",
+          "arc_slug": "the-protectors-containment"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "the-empty-man",
+          "relationship": "enemy",
+          "summary": "The Protectors are the task force charged with containing the Empty Man.",
+          "notes": "They represent the institutional defense repeatedly outmatched by the affliction."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "film",
+          "title": "The Empty Man",
+          "release_year": 2020,
+          "watch_order": 1,
+          "platform": "20th Century Studios",
+          "notes": "The film's investigative apparatus parallels the task force.",
+          "where_to_watch": "Disney+ / Hulu (region dependent)"
+        },
+        {
+          "media_type": "video_game",
+          "title": "The Empty Man: Containment",
+          "release_year": 2017,
+          "watch_order": 2,
+          "platform": "PC",
+          "notes": "Plausible tie-in casting the player within the task force.",
+          "where_to_watch": null
+        }
+      ],
+      "team_members": [
+        {
+          "character_slug": "agent-jensen",
+          "era_slug": "the-task-force",
+          "role": "leader",
+          "notes": "Lead FBI investigator on the case."
+        },
+        {
+          "character_slug": "agent-langford",
+          "era_slug": "the-task-force",
+          "role": "member",
+          "notes": "Methodical partner enforcing procedure."
+        },
+        {
+          "character_slug": "monica-jensen",
+          "era_slug": "the-task-force",
+          "role": "member",
+          "notes": "Investigator with a personal stake in the case."
+        }
+      ]
+    }
+  ]
+}

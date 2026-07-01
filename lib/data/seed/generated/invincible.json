@@ -1,0 +1,782 @@
+{
+  "primary": {
+    "slug": "invincible",
+    "name": "Invincible",
+    "entity_type": "character",
+    "role": "hero",
+    "publisher_slug": "image",
+    "real_name": "Mark Grayson",
+    "first_appearance": "Invincible #1 (2003)",
+    "logo_url": null,
+    "cover_image_url": null,
+    "short_bio": "Mark Grayson is the teenage son of the world's most powerful superhero, who inherits his father's Viltrumite abilities and takes up the mantle of Invincible. His journey forces him to reconcile the legacy he was given with the kind of hero he chooses to become.",
+    "eras": [
+      {
+        "slug": "coming-of-age",
+        "title": "Coming of Age",
+        "start_year": 2003,
+        "end_year": 2008,
+        "order_index": 1,
+        "summary": "Mark gains his powers and learns the ropes of being a hero while attending high school. The era is defined by an early secret that upends his entire understanding of his family and his place in the world.",
+        "arcs": [
+          {
+            "slug": "family-matters",
+            "title": "Family Matters",
+            "logline": "A high schooler finally develops the superpowers he always expected to inherit and steps into the family business.",
+            "summary": "Mark Grayson has spent his whole life waiting for the day his Viltrumite heritage would manifest, and when his powers finally arrive he wastes no time adopting the costumed identity of Invincible. Balancing homework, a part-time job, and the demands of crime-fighting, Mark discovers that being a hero is far less glamorous and far more dangerous than he imagined.\n\nGuided by his father, the legendary Omni-Man, Mark begins to test the limits of his strength, speed, and durability against a rogues' gallery of escalating threats. The early adventures establish the grounded, character-driven tone that defines the series, balancing teenage awkwardness with genuine peril.\n\nBeneath the lighthearted surface, the seeds of a much larger story are planted, hinting that not everything about Mark's family is as wholesome as it appears.",
+            "spoiler": null,
+            "arc_type": "origin",
+            "start_year": 2003,
+            "end_year": 2004,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "Invincible, Vol. 1: Family Matters",
+                "format": "trade",
+                "issue_range": "#1-4",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "eight-is-enough",
+            "title": "Eight Is Enough",
+            "logline": "A devastating truth about the hero's father reframes everything Invincible thought he knew.",
+            "summary": "As Mark settles into his role, he joins forces with other young heroes and begins to build a life that feels like his own. But a brutal confrontation forces a long-buried secret into the open, shattering the comfortable world he had taken for granted.\n\nThe arc pivots the entire series, transforming what looked like a cheerful coming-of-age tale into something far more complex and emotionally charged. Mark must grapple with questions of loyalty, identity, and what it truly means to carry his family's legacy.\n\nThe fallout from these revelations sets the stage for years of storytelling, redefining Invincible's relationships with everyone around him.",
+            "spoiler": "Omni-Man reveals he is a Viltrumite advance agent sent to conquer Earth and nearly beats Mark to death.",
+            "arc_type": "flagship",
+            "start_year": 2004,
+            "end_year": 2005,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "Invincible, Vol. 2: Eight Is Enough",
+                "format": "trade",
+                "issue_range": "#5-8",
+                "reading_order": 2,
+                "publication_order": 2,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "the-viltrumite-reckoning",
+        "title": "The Viltrumite Reckoning",
+        "start_year": 2008,
+        "end_year": 2018,
+        "order_index": 2,
+        "summary": "Mark steps fully into adulthood, facing cosmic-scale threats and the looming menace of the Viltrumite Empire. His choices ripple across galaxies as he confronts what kind of leader and protector he wants to be.",
+        "arcs": [
+          {
+            "slug": "the-conquest",
+            "title": "The Conquest",
+            "logline": "An unstoppable Viltrumite enforcer arrives on Earth to test Invincible to his absolute limit.",
+            "summary": "The Viltrumite Empire dispatches one of its most ruthless agents to deal with Earth's growing defiance, and Invincible finds himself outmatched in the most brutal fight of his life. The conflict pushes Mark past every physical and emotional boundary he has known.\n\nThis confrontation marks a turning point in the series' stakes, proving that Mark's enemies are willing to inflict unthinkable damage to break his spirit. The cost of survival is measured not just in injury but in the people Mark loves.\n\nEmerging from the ordeal, Invincible is forced to reckon with the true scale of the threat the Empire poses to everything he holds dear.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 2008,
+            "end_year": 2009,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "Invincible, Vol. 11: Happy Days",
+                "format": "trade",
+                "issue_range": "#48-53",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "the-viltrumite-war",
+            "title": "The Viltrumite War",
+            "logline": "Invincible joins an interstellar alliance in an all-out war against the Viltrumite Empire.",
+            "summary": "The simmering conflict with the Viltrumites finally erupts into open war, and Mark allies himself with former enemies and distant worlds to stand against an empire that has conquered the galaxy. The campaign spans planets and demands enormous sacrifice.\n\nFighting alongside his estranged father and a coalition of survivors, Invincible learns that victory may require strategies as morally fraught as the enemy he opposes. The war tests his ideals against the harsh calculus of survival.\n\nThe outcome reshapes the balance of power across the cosmos and redefines Mark's place within the Viltrumite legacy he never asked for.",
+            "spoiler": null,
+            "arc_type": "crossover",
+            "start_year": 2010,
+            "end_year": 2011,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "Invincible, Vol. 14: The Viltrumite War",
+                "format": "trade",
+                "issue_range": "#71-78",
+                "reading_order": 2,
+                "publication_order": 2,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "start_here": [
+      {
+        "order_index": 1,
+        "label": "Absolute Beginner",
+        "reason": "Start at the very beginning to meet Mark, see how he gains his powers, and experience the series' tonal twist firsthand.",
+        "arc_slug": "family-matters"
+      },
+      {
+        "order_index": 2,
+        "label": "Classic Fan",
+        "reason": "The series' defining emotional gut-punch and the moment Invincible truly becomes essential reading.",
+        "arc_slug": "eight-is-enough"
+      },
+      {
+        "order_index": 3,
+        "label": "Modern Era",
+        "reason": "Jump into the galaxy-spanning conflict that pays off years of buildup and shows Invincible at his most heroic.",
+        "arc_slug": "the-viltrumite-war"
+      }
+    ],
+    "relationships": [
+      {
+        "related_slug": "guardians-of-the-globe",
+        "relationship": "ally",
+        "summary": "Earth's premier super-team that Invincible repeatedly fights alongside and eventually counts among his closest allies.",
+        "notes": "Mark works with successive incarnations of the team throughout his career, often coordinating responses to global and cosmic threats."
+      },
+      {
+        "related_slug": "omni-man",
+        "relationship": "ally",
+        "summary": "Mark's father, whose complicated legacy defines Invincible's journey from adversary to uneasy ally.",
+        "notes": "After a violent estrangement, the two ultimately stand together against the Viltrumite Empire."
+      },
+      {
+        "related_slug": "atom-eve",
+        "relationship": "ally",
+        "summary": "A powerful matter-manipulating hero and Mark's most steadfast partner in life and battle.",
+        "notes": "Eve's reality-bending abilities and emotional support are central to Mark's survival through his hardest trials."
+      },
+      {
+        "related_slug": "robot",
+        "relationship": "ally",
+        "summary": "A brilliant strategist and longtime teammate whose technological genius repeatedly aids Invincible.",
+        "notes": "Robot leads team operations and provides tactical resources, though his methods grow increasingly questionable over time."
+      },
+      {
+        "related_slug": "conquest",
+        "relationship": "enemy",
+        "summary": "A merciless Viltrumite enforcer who delivers the most punishing beating of Invincible's life.",
+        "notes": "Conquest's arrival escalates the series into life-or-death stakes and tests Mark's resolve to its limit."
+      },
+      {
+        "related_slug": "angstrom-levy",
+        "relationship": "enemy",
+        "summary": "A dimension-hopping genius whose personal vendetta against Invincible spans countless realities.",
+        "notes": "Angstrom blames Mark for an accident and pursues relentless, escalating schemes across the multiverse."
+      },
+      {
+        "related_slug": "machine-head",
+        "relationship": "enemy",
+        "summary": "A ruthless crime lord who controls much of the city's underworld and clashes with Invincible.",
+        "notes": "Machine Head commands armies of hired villains and represents the grounded, street-level threats Mark must manage."
+      },
+      {
+        "related_slug": "the-mauler-twins",
+        "relationship": "enemy",
+        "summary": "A pair of cloning super-geniuses whose recurring schemes repeatedly entangle Invincible.",
+        "notes": "Forever arguing over which is the original, the Maulers' technology causes chaos that Mark must clean up."
+      }
+    ],
+    "media": [
+      {
+        "media_type": "animated_series",
+        "title": "Invincible",
+        "release_year": 2021,
+        "watch_order": 1,
+        "platform": "Prime Video",
+        "notes": "Critically acclaimed adult animated adaptation developed by Robert Kirkman.",
+        "where_to_watch": "Prime Video"
+      },
+      {
+        "media_type": "video_game",
+        "title": "Invincible Presents: Atom Eve",
+        "release_year": 2023,
+        "watch_order": 2,
+        "platform": "PC / Console",
+        "notes": "Narrative visual-novel RPG spotlighting Atom Eve's origins, set in the Invincible universe.",
+        "where_to_watch": null
+      },
+      {
+        "media_type": "video_game",
+        "title": "Invincible VS",
+        "release_year": 2025,
+        "watch_order": 3,
+        "platform": "PC / Console",
+        "notes": "Tag-based fighting game featuring characters from the series.",
+        "where_to_watch": null
+      }
+    ]
+  },
+  "supporting": [
+    {
+      "slug": "omni-man",
+      "name": "Omni-Man",
+      "entity_type": "character",
+      "role": "antihero",
+      "publisher_slug": "image",
+      "real_name": "Nolan Grayson",
+      "first_appearance": "Invincible #1 (2003)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Nolan Grayson is a Viltrumite warrior who arrived on Earth as the seemingly benevolent hero Omni-Man and fathered Mark Grayson. His true mission and gradual change of heart make him one of the series' most morally complex figures.",
+      "eras": [
+        {
+          "slug": "earths-protector",
+          "title": "Earth's Protector",
+          "start_year": 2003,
+          "end_year": 2011,
+          "order_index": 1,
+          "summary": "Publicly Earth's greatest hero, Nolan hides a devastating secret about his true purpose before his loyalties are tested by family and empire.",
+          "arcs": [
+            {
+              "slug": "the-mighty-omni-man",
+              "title": "The Mighty Omni-Man",
+              "logline": "Earth's greatest hero hides a secret that will shake his family to its core.",
+              "summary": "Omni-Man stands as the planet's foremost protector, admired by the public and worshipped by his son. Behind the heroic facade lies a Viltrumite agent wrestling with a mission that conflicts with the life he has built.\n\nAs Nolan's loyalties are tested, his choices send shockwaves through the world and define the trajectory of his son's life. His story becomes one of guilt, redemption, and the slow reclamation of his own humanity.",
+              "spoiler": null,
+              "arc_type": "origin",
+              "start_year": 2003,
+              "end_year": 2005,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Invincible, Vol. 2: Eight Is Enough",
+                  "format": "trade",
+                  "issue_range": "#5-8",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Absolute Beginner",
+          "reason": "Omni-Man's arc is the emotional engine of the early series and the key to understanding Invincible.",
+          "arc_slug": "the-mighty-omni-man"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "invincible",
+          "relationship": "ally",
+          "summary": "His son and eventual battlefield ally against the empire that sent him to Earth.",
+          "notes": "Their relationship moves from idolization through betrayal to hard-won reconciliation."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "animated_series",
+          "title": "Invincible",
+          "release_year": 2021,
+          "watch_order": 1,
+          "platform": "Prime Video",
+          "notes": "Voiced by J.K. Simmons in the animated adaptation.",
+          "where_to_watch": "Prime Video"
+        },
+        {
+          "media_type": "video_game",
+          "title": "Invincible VS",
+          "release_year": 2025,
+          "watch_order": 2,
+          "platform": "PC / Console",
+          "notes": "Playable fighter in the tag-based fighting game.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "atom-eve",
+      "name": "Atom Eve",
+      "entity_type": "character",
+      "role": "hero",
+      "publisher_slug": "image",
+      "real_name": "Samantha Eve Wilkins",
+      "first_appearance": "Invincible #2 (2003)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Samantha Eve Wilkins is a superhero able to manipulate matter at the subatomic level, reshaping the physical world almost at will. As Atom Eve, she becomes one of Earth's most powerful heroes and Mark Grayson's closest partner.",
+      "eras": [
+        {
+          "slug": "finding-her-power",
+          "title": "Finding Her Power",
+          "start_year": 2003,
+          "end_year": 2012,
+          "order_index": 1,
+          "summary": "Eve discovers the true scope of her reality-altering abilities while navigating the responsibilities and dangers that come with such power.",
+          "arcs": [
+            {
+              "slug": "the-power-of-eve",
+              "title": "The Power of Eve",
+              "logline": "A young hero learns that her ability to reshape matter has almost no limits.",
+              "summary": "Atom Eve begins her career constraining her powers out of caution, but circumstances push her to embrace their full, world-altering scope. Her growth is a story of confidence, responsibility, and self-acceptance.\n\nAs she comes into her own, Eve proves indispensable to Earth's defenders and forms the deep bond with Mark that anchors much of the larger saga.",
+              "spoiler": null,
+              "arc_type": "origin",
+              "start_year": 2003,
+              "end_year": 2006,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Invincible Presents: Atom Eve & Rex Splode",
+                  "format": "trade",
+                  "issue_range": "#1-3",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Absolute Beginner",
+          "reason": "The clearest introduction to Eve's extraordinary powers and her place in the story.",
+          "arc_slug": "the-power-of-eve"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "invincible",
+          "relationship": "ally",
+          "summary": "Mark's most steadfast partner, supporting him through every crisis.",
+          "notes": "Their relationship grows from friendship into a defining partnership across the series."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "animated_series",
+          "title": "Invincible",
+          "release_year": 2021,
+          "watch_order": 1,
+          "platform": "Prime Video",
+          "notes": "Voiced by Gillian Jacobs in the animated series.",
+          "where_to_watch": "Prime Video"
+        },
+        {
+          "media_type": "video_game",
+          "title": "Invincible Presents: Atom Eve",
+          "release_year": 2023,
+          "watch_order": 2,
+          "platform": "PC / Console",
+          "notes": "Title character of the narrative RPG.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "robot",
+      "name": "Robot",
+      "entity_type": "character",
+      "role": "hero",
+      "publisher_slug": "image",
+      "real_name": "Rudolph Connors",
+      "first_appearance": "Invincible #2 (2003)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Robot is a brilliant strategist who operates remotely through robotic drones, concealing his true physical condition. A key member of Earth's super-teams, his genius is matched only by his increasingly ambitious agenda.",
+      "eras": [
+        {
+          "slug": "the-strategist",
+          "title": "The Strategist",
+          "start_year": 2003,
+          "end_year": 2014,
+          "order_index": 1,
+          "summary": "Robot rises as a tactical leader among Earth's heroes, leveraging unmatched intellect while pursuing secret goals of his own.",
+          "arcs": [
+            {
+              "slug": "the-mind-behind-the-machine",
+              "title": "The Mind Behind the Machine",
+              "logline": "A genius operating through drones reshapes Earth's heroes with cold logic.",
+              "summary": "Robot establishes himself as the tactical backbone of the team, solving crises others cannot through sheer intellect. Yet his detachment and hidden ambitions hint at a more complicated nature.\n\nHis story explores the thin line between visionary leadership and dangerous overreach, making him one of the series' most fascinating supporting figures.",
+              "spoiler": null,
+              "arc_type": "origin",
+              "start_year": 2003,
+              "end_year": 2007,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Invincible, Vol. 3: Perfect Strangers",
+                  "format": "trade",
+                  "issue_range": "#9-13",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Absolute Beginner",
+          "reason": "Introduces Robot's intellect and his pivotal role within Earth's super-team.",
+          "arc_slug": "the-mind-behind-the-machine"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "invincible",
+          "relationship": "ally",
+          "summary": "A trusted teammate whose strategy and technology repeatedly aid Mark.",
+          "notes": "Robot coordinates team responses to threats Invincible faces, though his motives grow murky."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "animated_series",
+          "title": "Invincible",
+          "release_year": 2021,
+          "watch_order": 1,
+          "platform": "Prime Video",
+          "notes": "Voiced by Zachary Quinto in the animated series.",
+          "where_to_watch": "Prime Video"
+        },
+        {
+          "media_type": "video_game",
+          "title": "Invincible VS",
+          "release_year": 2025,
+          "watch_order": 2,
+          "platform": "PC / Console",
+          "notes": "Appears in the fighting game's roster of universe characters.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "conquest",
+      "name": "Conquest",
+      "entity_type": "character",
+      "role": "villain",
+      "publisher_slug": "image",
+      "real_name": null,
+      "first_appearance": "Invincible #59 (2009)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Conquest is a brutal Viltrumite warrior with centuries of combat experience and a mechanical arm. Dispatched to bring Earth to heel, he becomes one of Invincible's most physically devastating opponents.",
+      "eras": [
+        {
+          "slug": "the-enforcer",
+          "title": "The Enforcer",
+          "start_year": 2009,
+          "end_year": 2011,
+          "order_index": 1,
+          "summary": "Conquest arrives as the empire's hammer, intent on breaking Earth's resistance through overwhelming violence.",
+          "arcs": [
+            {
+              "slug": "no-mercy",
+              "title": "No Mercy",
+              "logline": "An ancient Viltrumite enforcer arrives to crush Earth's defiance without remorse.",
+              "summary": "Conquest descends upon Earth with the singular purpose of forcing its compliance, and his clash with Invincible becomes a test of pure endurance. His age and experience make him a nightmare opponent.\n\nThe confrontation marks one of the series' most savage battles, with consequences that haunt Mark long afterward.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 2009,
+              "end_year": 2010,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Invincible, Vol. 12: Still Standing",
+                  "format": "trade",
+                  "issue_range": "#54-59",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "invincible",
+          "relationship": "enemy",
+          "summary": "The Viltrumite enforcer who delivers Invincible's most brutal defeat.",
+          "notes": "Conquest's assault pushes Mark to the brink and escalates the series' stakes dramatically."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "animated_series",
+          "title": "Invincible",
+          "release_year": 2021,
+          "watch_order": 1,
+          "platform": "Prime Video",
+          "notes": "Featured as a major antagonist in the animated adaptation.",
+          "where_to_watch": "Prime Video"
+        },
+        {
+          "media_type": "video_game",
+          "title": "Invincible VS",
+          "release_year": 2025,
+          "watch_order": 2,
+          "platform": "PC / Console",
+          "notes": "Appears among the fighting game's combatants.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "angstrom-levy",
+      "name": "Angstrom Levy",
+      "entity_type": "character",
+      "role": "villain",
+      "publisher_slug": "image",
+      "real_name": "Angstrom Levy",
+      "first_appearance": "Invincible #33 (2006)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Angstrom Levy is a scientific genius capable of opening portals across the multiverse. After a catastrophic accident he blames on Invincible, he becomes one of Mark's most relentless and personal foes.",
+      "eras": [
+        {
+          "slug": "the-multiversal-menace",
+          "title": "The Multiversal Menace",
+          "start_year": 2006,
+          "end_year": 2016,
+          "order_index": 1,
+          "summary": "Driven by a grudge, Angstrom weaponizes his dimensional powers in increasingly elaborate plots against Invincible.",
+          "arcs": [
+            {
+              "slug": "infinite-grudge",
+              "title": "Infinite Grudge",
+              "logline": "A dimension-hopping genius turns his vendetta against Invincible into a multiversal war.",
+              "summary": "Angstrom Levy's experiments with parallel realities go horribly wrong, and he holds Invincible responsible for the disaster that reshapes his mind and body. Consumed by hatred, he begins orchestrating attacks from across countless worlds.\n\nHis schemes blur the lines between dimensions and force Mark to confront the unintended consequences of his own actions.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 2006,
+              "end_year": 2008,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Invincible, Vol. 8: My Favorite Martian",
+                  "format": "trade",
+                  "issue_range": "#33-35",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "invincible",
+          "relationship": "enemy",
+          "summary": "A multiverse-spanning foe waging a personal vendetta against Mark.",
+          "notes": "Angstrom blames Invincible for the accident that transformed him and never stops seeking revenge."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "animated_series",
+          "title": "Invincible",
+          "release_year": 2021,
+          "watch_order": 1,
+          "platform": "Prime Video",
+          "notes": "A central antagonist in the animated series' later seasons.",
+          "where_to_watch": "Prime Video"
+        },
+        {
+          "media_type": "video_game",
+          "title": "Invincible VS",
+          "release_year": 2025,
+          "watch_order": 2,
+          "platform": "PC / Console",
+          "notes": "Featured in the universe's fighting game.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "machine-head",
+      "name": "Machine Head",
+      "entity_type": "character",
+      "role": "villain",
+      "publisher_slug": "image",
+      "real_name": null,
+      "first_appearance": "Invincible #24 (2005)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Machine Head is a powerful crime lord with a cybernetic head who controls much of the city's criminal underworld. He commands legions of hired supervillains and serves as one of Invincible's most persistent street-level threats.",
+      "eras": [
+        {
+          "slug": "kingpin-of-crime",
+          "title": "Kingpin of Crime",
+          "start_year": 2005,
+          "end_year": 2013,
+          "order_index": 1,
+          "summary": "Machine Head consolidates control over organized crime, hiring an army of villains to protect his empire.",
+          "arcs": [
+            {
+              "slug": "the-syndicate",
+              "title": "The Syndicate",
+              "logline": "A cybernetic crime boss builds an empire of hired supervillains.",
+              "summary": "Machine Head rules the criminal underworld from the shadows, employing super-powered muscle to enforce his will. His operations draw Invincible into the grittier, street-level conflicts of the city.\n\nThe arc grounds the series amid its cosmic stakes, reminding readers that earthly threats can be just as dangerous.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 2005,
+              "end_year": 2007,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Invincible, Vol. 6: A Different World",
+                  "format": "trade",
+                  "issue_range": "#24-29",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "invincible",
+          "relationship": "enemy",
+          "summary": "A crime lord whose underworld empire repeatedly puts him at odds with Invincible.",
+          "notes": "Machine Head's hired villains keep Mark fighting battles on the ground as well as in the stars."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "animated_series",
+          "title": "Invincible",
+          "release_year": 2021,
+          "watch_order": 1,
+          "platform": "Prime Video",
+          "notes": "Appears as an underworld antagonist in the animated series.",
+          "where_to_watch": "Prime Video"
+        },
+        {
+          "media_type": "video_game",
+          "title": "Invincible VS",
+          "release_year": 2025,
+          "watch_order": 2,
+          "platform": "PC / Console",
+          "notes": "Included among the fighting game's universe characters.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "the-mauler-twins",
+      "name": "The Mauler Twins",
+      "entity_type": "character",
+      "role": "villain",
+      "publisher_slug": "image",
+      "real_name": null,
+      "first_appearance": "Invincible #3 (2003)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "The Mauler Twins are a pair of hulking, blue-skinned super-geniuses who endlessly clone themselves, each insisting he is the original. Their schemes and inventions repeatedly entangle Invincible and Earth's heroes.",
+      "eras": [
+        {
+          "slug": "double-trouble",
+          "title": "Double Trouble",
+          "start_year": 2003,
+          "end_year": 2014,
+          "order_index": 1,
+          "summary": "The bickering Mauler Twins pursue power and profit through cloning technology, leaving chaos in their wake.",
+          "arcs": [
+            {
+              "slug": "which-one-is-real",
+              "title": "Which One Is Real",
+              "logline": "Two cloning geniuses scheme while endlessly arguing over which is the original.",
+              "summary": "The Mauler Twins combine brute strength with scientific brilliance, hatching plots that frequently put them in Invincible's path. Their constant bickering over which is the true original provides dark comedy amid genuine menace.\n\nTheir cloning technology ensures they can never truly be defeated, making them a recurring thorn in the side of Earth's heroes.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 2003,
+              "end_year": 2006,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Invincible, Vol. 1: Family Matters",
+                  "format": "trade",
+                  "issue_range": "#3-4",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "invincible",
+          "relationship": "enemy",
+          "summary": "Cloning super-geniuses whose recurring schemes repeatedly clash with Invincible.",
+          "notes": "Their inventions and cloning antics make them a persistent, unpredictable threat."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "animated_series",
+          "title": "Invincible",
+          "release_year": 2021,
+          "watch_order": 1,
+          "platform": "Prime Video",
+          "notes": "Recurring antagonists in the animated adaptation.",
+          "where_to_watch": "Prime Video"
+        },
+        {
+          "media_type": "video_game",
+          "title": "Invincible VS",
+          "release_year": 2025,
+          "watch_order": 2,
+          "platform": "PC / Console",
+          "notes": "Featured in the fighting game's roster.",
+          "where_to_watch": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,837 @@
+{
+  "primary": {
+    "slug": "savage-dragon",
+    "name": "Savage Dragon",
+    "entity_type": "character",
+    "role": "hero",
+    "publisher_slug": "image",
+    "real_name": "Dragon (later \"Malcolm Dragon\" era; the original is simply \"Dragon\")",
+    "first_appearance": "Savage Dragon #1 (1992)",
+    "logo_url": null,
+    "cover_image_url": null,
+    "short_bio": "A massive, fin-headed amnesiac with superhuman strength and a rapid healing factor, Dragon woke in a burning Chicago field with no memory of his past and chose to serve as a police officer fighting the city's superpowered crime wave. Created by Erik Larsen, the series later passes the mantle to his son Malcolm, making it one of comics' longest-running creator-owned superhero sagas.",
+    "eras": [
+      {
+        "slug": "officer-dragon-era",
+        "title": "Officer Dragon Era",
+        "start_year": 1992,
+        "end_year": 2012,
+        "order_index": 1,
+        "summary": "The original Dragon emerges with no memory and becomes a Chicago cop, battling the city's organized superhuman crime and uncovering pieces of his lost origin. This long stretch defines the brutal, soap-operatic, and relentlessly forward-moving tone of the series.",
+        "arcs": [
+          {
+            "slug": "a-force-to-be-reckoned-with",
+            "title": "A Force to Be Reckoned With",
+            "logline": "An amnesiac green-skinned powerhouse is recruited into the Chicago Police Department to fight super-criminals.",
+            "summary": "Dragon is found unconscious and badly burned in a Chicago field, with no memory of who he is or how he got there. A police lieutenant convinces him to use his immense strength and durability in service of the law, and he reluctantly joins the force at a moment when the city is overrun by super-powered gangs answering to a shadowy crime lord.\n\nThe early issues establish the book's defining mix: street-level police procedural crossed with larger-than-life super-brawls. Dragon proves nearly unstoppable in a fight, but the series quickly shows that victories come at a cost, and that the people around him are as important to the story as the punches.\n\nThis origin arc lays the groundwork for the central mystery of Dragon's identity while introducing the supporting cast, the precinct, and the recurring villains who will define his career.",
+            "spoiler": null,
+            "arc_type": "origin",
+            "start_year": 1992,
+            "end_year": 1993,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "Savage Dragon: A Force to Be Reckoned With",
+                "format": "trade",
+                "issue_range": "#1-10",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "the-fallen",
+            "title": "The Fallen",
+            "logline": "Dragon's career as Chicago's premier hero is tested by escalating threats and personal loss.",
+            "summary": "As Dragon settles into his role, the threats grow larger and more personal. The criminal underworld reorganizes under new leadership, and Dragon's status as the city's most visible hero makes him a target for those who want to prove themselves by taking him down.\n\nThe arc deepens the supporting cast and pushes Dragon's relationships into more dangerous territory, balancing explosive action with the ongoing soap-opera threads that keep readers invested between the fights.\n\nIt also continues to peel back layers of Dragon's mysterious origin, hinting that his amnesia conceals a past far darker and stranger than a simple accident.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 1994,
+            "end_year": 1996,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "Savage Dragon: The Fallen",
+                "format": "trade",
+                "issue_range": "#11-21",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "malcolm-dragon-era",
+        "title": "Malcolm Dragon Era",
+        "start_year": 2012,
+        "end_year": 2024,
+        "order_index": 2,
+        "summary": "The series passes its lead role to Dragon's son Malcolm, who inherits his father's powers and his place in a changed, often hostile world. This era reframes the saga around a younger generation, family life, and a hero trying to do right while the public turns against superhumans.",
+        "arcs": [
+          {
+            "slug": "a-new-dragon",
+            "title": "A New Dragon",
+            "logline": "Malcolm Dragon steps up to protect his city and family as the new face of the series.",
+            "summary": "With his father's story reaching a turning point, Malcolm Dragon takes center stage. Younger, more impulsive, and navigating the ordinary chaos of relationships and school alongside super-heroics, Malcolm brings a fresh voice to a long-running book.\n\nThe arc balances generational change with continuity, keeping the brutal action and ongoing soap-opera structure intact while shifting the emotional core to a new protagonist learning what it means to carry the Dragon name.\n\nMalcolm must contend with both inherited enemies and new threats, all while the world around him grows increasingly suspicious of people with powers.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 2012,
+            "end_year": 2015,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "Savage Dragon: A New Dragon",
+                "format": "trade",
+                "issue_range": "#193-200",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "public-enemy",
+            "title": "Public Enemy",
+            "logline": "As anti-superhuman sentiment boils over, Malcolm finds himself fighting both villains and a fearful public.",
+            "summary": "Malcolm's heroism collides with a rising tide of public fear and political hostility toward superhumans. What once made Dragon a celebrated protector now makes his family a lightning rod for suspicion and persecution.\n\nThe arc leans into social and political tension, putting Malcolm in situations where punching the bad guy is not enough and the real conflict is with institutions and prejudice. His family life and responsibilities raise the personal stakes considerably.\n\nThrough it all, Malcolm tries to hold onto the idealism that defines him, even as the world gives him fewer and fewer reasons to.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 2016,
+            "end_year": 2020,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "Savage Dragon: Public Enemy",
+                "format": "trade",
+                "issue_range": "#221-235",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "start_here": [
+      {
+        "order_index": 1,
+        "label": "Absolute Beginner",
+        "reason": "Start at the very beginning to meet the amnesiac Dragon and watch his origin unfold from issue one.",
+        "arc_slug": "a-force-to-be-reckoned-with"
+      },
+      {
+        "order_index": 2,
+        "label": "Classic Fan",
+        "reason": "The Fallen captures peak original-Dragon action and the soap-opera intensity longtime readers love.",
+        "arc_slug": "the-fallen"
+      },
+      {
+        "order_index": 3,
+        "label": "Modern Era",
+        "reason": "A New Dragon is the natural jumping-on point for the Malcolm-led modern run.",
+        "arc_slug": "a-new-dragon"
+      }
+    ],
+    "relationships": [
+      {
+        "related_slug": "alex-wilde",
+        "relationship": "ally",
+        "summary": "Dragon's police partner and one of his closest personal connections on the force.",
+        "notes": "Alex Wilde works alongside Dragon at the precinct, and their bond becomes one of the emotional anchors of his early career."
+      },
+      {
+        "related_slug": "frank-darling",
+        "relationship": "ally",
+        "summary": "The police lieutenant who first recruited Dragon and championed him within the department.",
+        "notes": "Frank Darling's faith in Dragon gives the amnesiac newcomer a place and a purpose in Chicago."
+      },
+      {
+        "related_slug": "barbaric",
+        "relationship": "ally",
+        "summary": "A super-strong hero who fights alongside Dragon as a trusted teammate.",
+        "notes": "Barbaric and his partner often back Dragon up against threats too big for one hero to handle."
+      },
+      {
+        "related_slug": "ricochet",
+        "relationship": "ally",
+        "summary": "A fast, agile hero and frequent ally during Dragon's larger super-team engagements.",
+        "notes": "Ricochet's speed complements Dragon's brute force in their shared battles."
+      },
+      {
+        "related_slug": "overlord",
+        "relationship": "enemy",
+        "summary": "The armored crime lord who rules Chicago's superhuman underworld and Dragon's foundational nemesis.",
+        "notes": "Overlord's grip on the city's organized crime makes him the defining antagonist of Dragon's earliest cases."
+      },
+      {
+        "related_slug": "cyberface",
+        "relationship": "enemy",
+        "summary": "A monstrous, scheming villain who repeatedly seizes power and torments Dragon across decades.",
+        "notes": "Cyberface evolves from underling to world-conquering threat, becoming one of Dragon's most persistent enemies."
+      },
+      {
+        "related_slug": "the-fiend",
+        "relationship": "enemy",
+        "summary": "A vicious, recurring foe whose brutality tests Dragon at his limits.",
+        "notes": "The Fiend embodies the savage, no-holds-barred violence that defines the series' rogues."
+      },
+      {
+        "related_slug": "mister-glum",
+        "relationship": "enemy",
+        "summary": "A diminutive alien mastermind with grand, world-threatening ambitions.",
+        "notes": "Mister Glum's schemes from another dimension draw Dragon into conflicts far beyond Chicago's streets."
+      }
+    ],
+    "media": [
+      {
+        "media_type": "animated_series",
+        "title": "Savage Dragon",
+        "release_year": 1995,
+        "watch_order": 1,
+        "platform": "USA Network",
+        "notes": "An animated series adaptation that aired as part of the USA Action Extreme Team block.",
+        "where_to_watch": null
+      },
+      {
+        "media_type": "video_game",
+        "title": "Savage Dragon: The Game",
+        "release_year": 2014,
+        "watch_order": 2,
+        "platform": "Mobile",
+        "notes": "A mobile game based on the comic series.",
+        "where_to_watch": null
+      },
+      {
+        "media_type": "video_game",
+        "title": "Savage Dragon (handheld)",
+        "release_year": 1996,
+        "watch_order": 3,
+        "platform": "Tiger Electronics",
+        "notes": "A handheld electronic game tie-in produced during the character's 1990s peak.",
+        "where_to_watch": null
+      }
+    ]
+  },
+  "supporting": [
+    {
+      "slug": "alex-wilde",
+      "name": "Alex Wilde",
+      "entity_type": "character",
+      "role": "hero",
+      "publisher_slug": "image",
+      "real_name": "Alex Wilde",
+      "first_appearance": "Savage Dragon #1 (1992)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "A dedicated Chicago police officer who becomes Dragon's partner and one of his most important personal relationships. Brave and grounded, she helps anchor Dragon to the human world he protects.",
+      "eras": [
+        {
+          "slug": "alex-wilde-on-the-force",
+          "title": "On the Force",
+          "start_year": 1992,
+          "end_year": 2000,
+          "order_index": 1,
+          "summary": "Alex serves alongside Dragon at the Chicago PD, growing from colleague to close confidante.",
+          "arcs": [
+            {
+              "slug": "alex-wilde-partners",
+              "title": "Partners",
+              "logline": "A by-the-book cop is paired with the city's strangest new officer.",
+              "summary": "Alex Wilde is assigned to work cases alongside Dragon, and the partnership quickly becomes central to both characters. Her courage and competence earn Dragon's respect even as the dangers of policing a superhuman city escalate.\n\nThe arc establishes her as more than a sidekick, giving her agency in the field and a personal stake in Dragon's ongoing story.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 1992,
+              "end_year": 1995,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Savage Dragon: A Force to Be Reckoned With",
+                  "format": "trade",
+                  "issue_range": "#1-10",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "savage-dragon",
+          "relationship": "ally",
+          "summary": "Dragon's police partner and a key emotional connection in his early career.",
+          "notes": "Their partnership grows from professional respect into one of the series' defining relationships."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "animated_series",
+          "title": "Savage Dragon",
+          "release_year": 1995,
+          "watch_order": 1,
+          "platform": "USA Network",
+          "notes": "Appears as part of the supporting cast in the animated adaptation.",
+          "where_to_watch": null
+        },
+        {
+          "media_type": "video_game",
+          "title": "Savage Dragon: The Game",
+          "release_year": 2014,
+          "watch_order": 2,
+          "platform": "Mobile",
+          "notes": "Featured among the series' supporting characters.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "frank-darling",
+      "name": "Frank Darling",
+      "entity_type": "character",
+      "role": "hero",
+      "publisher_slug": "image",
+      "real_name": "Frank Darling",
+      "first_appearance": "Savage Dragon #1 (1992)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "The Chicago police lieutenant who discovers the amnesiac Dragon and convinces him to join the force. A steady mentor figure, he provides Dragon with structure, purpose, and a measure of trust in a dangerous city.",
+      "eras": [
+        {
+          "slug": "frank-darling-the-lieutenant",
+          "title": "The Lieutenant",
+          "start_year": 1992,
+          "end_year": 1998,
+          "order_index": 1,
+          "summary": "Frank guides Dragon's entry into police work and serves as a department ally through his earliest cases.",
+          "arcs": [
+            {
+              "slug": "frank-darling-recruitment",
+              "title": "Recruitment",
+              "logline": "A veteran cop takes a chance on an amnesiac stranger with incredible powers.",
+              "summary": "Frank Darling sees potential where others see a dangerous unknown, recruiting Dragon into the Chicago Police Department and vouching for him internally. His mentorship gives the rudderless Dragon a foothold in a new life.\n\nThe arc frames Frank as a moral compass and institutional ally whose support shapes Dragon's earliest decisions.",
+              "spoiler": null,
+              "arc_type": "origin",
+              "start_year": 1992,
+              "end_year": 1994,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Savage Dragon: A Force to Be Reckoned With",
+                  "format": "trade",
+                  "issue_range": "#1-10",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "savage-dragon",
+          "relationship": "ally",
+          "summary": "The lieutenant who recruited Dragon and championed him within the police department.",
+          "notes": "Frank's early faith in Dragon gives the amnesiac hero a purpose and a home in Chicago."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "animated_series",
+          "title": "Savage Dragon",
+          "release_year": 1995,
+          "watch_order": 1,
+          "platform": "USA Network",
+          "notes": "Part of the precinct supporting cast in the animated series.",
+          "where_to_watch": null
+        },
+        {
+          "media_type": "video_game",
+          "title": "Savage Dragon: The Game",
+          "release_year": 2014,
+          "watch_order": 2,
+          "platform": "Mobile",
+          "notes": "Appears among the supporting characters.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "barbaric",
+      "name": "Barbaric",
+      "entity_type": "character",
+      "role": "hero",
+      "publisher_slug": "image",
+      "real_name": "Rex Dexter (alias used in-series)",
+      "first_appearance": "Savage Dragon #13 (1994)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "A super-strong, good-natured hero who fights alongside Dragon and his fellow heroes. Often paired with his partner Ricochet, Barbaric brings raw power and loyalty to the team.",
+      "eras": [
+        {
+          "slug": "barbaric-the-hero-years",
+          "title": "The Hero Years",
+          "start_year": 1994,
+          "end_year": 2005,
+          "order_index": 1,
+          "summary": "Barbaric establishes himself as a reliable powerhouse among Dragon's allies and super-team contacts.",
+          "arcs": [
+            {
+              "slug": "barbaric-strength-in-numbers",
+              "title": "Strength in Numbers",
+              "logline": "A powerful bruiser joins forces with the city's heroes to take on overwhelming odds.",
+              "summary": "Barbaric arrives as a muscular ally ready to stand beside Dragon against threats too large for any single hero. His strength and dependable spirit make him a welcome addition to the city's heroic ranks.\n\nThe arc cements his role as a team player and develops his partnership with the speedster Ricochet.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 1994,
+              "end_year": 1998,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Savage Dragon: The Fallen",
+                  "format": "trade",
+                  "issue_range": "#11-21",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "savage-dragon",
+          "relationship": "ally",
+          "summary": "A super-strong hero who frequently teams with Dragon against major threats.",
+          "notes": "Barbaric backs Dragon up in battles that demand more than one powerhouse."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "animated_series",
+          "title": "Savage Dragon",
+          "release_year": 1995,
+          "watch_order": 1,
+          "platform": "USA Network",
+          "notes": "Appears among the allied heroes in the animated series.",
+          "where_to_watch": null
+        },
+        {
+          "media_type": "video_game",
+          "title": "Savage Dragon: The Game",
+          "release_year": 2014,
+          "watch_order": 2,
+          "platform": "Mobile",
+          "notes": "Featured as one of the allied characters.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "ricochet",
+      "name": "Ricochet",
+      "entity_type": "character",
+      "role": "hero",
+      "publisher_slug": "image",
+      "real_name": "Ricochet",
+      "first_appearance": "Savage Dragon #13 (1994)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "A swift, acrobatic hero and frequent partner to Barbaric. Ricochet's speed and agility make her a valuable ally in Dragon's larger super-team battles.",
+      "eras": [
+        {
+          "slug": "ricochet-on-the-move",
+          "title": "On the Move",
+          "start_year": 1994,
+          "end_year": 2005,
+          "order_index": 1,
+          "summary": "Ricochet builds a reputation as a fast, dependable ally fighting beside Dragon and Barbaric.",
+          "arcs": [
+            {
+              "slug": "ricochet-fast-friends",
+              "title": "Fast Friends",
+              "logline": "A nimble speedster lends her agility to the city's toughest fights.",
+              "summary": "Ricochet enters the scene as a quick and capable hero, often working in tandem with Barbaric. Her speed offers a counterpoint to the brute strength that dominates Dragon's world.\n\nThe arc develops her as a steadfast ally and explores her partnership with Barbaric during major super-team conflicts.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 1994,
+              "end_year": 1998,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Savage Dragon: The Fallen",
+                  "format": "trade",
+                  "issue_range": "#11-21",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "savage-dragon",
+          "relationship": "ally",
+          "summary": "A fast, agile hero and frequent ally in Dragon's super-team engagements.",
+          "notes": "Ricochet's speed complements Dragon's brute force in their shared battles."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "animated_series",
+          "title": "Savage Dragon",
+          "release_year": 1995,
+          "watch_order": 1,
+          "platform": "USA Network",
+          "notes": "Appears among the allied heroes in the animated series.",
+          "where_to_watch": null
+        },
+        {
+          "media_type": "video_game",
+          "title": "Savage Dragon: The Game",
+          "release_year": 2014,
+          "watch_order": 2,
+          "platform": "Mobile",
+          "notes": "Featured as one of the allied characters.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "overlord",
+      "name": "Overlord",
+      "entity_type": "character",
+      "role": "villain",
+      "publisher_slug": "image",
+      "real_name": "Antonio Seghetti",
+      "first_appearance": "Savage Dragon #1 (1992)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "An armored crime lord who controls Chicago's superhuman underworld, Overlord is Dragon's foundational nemesis. His ruthless grip on organized crime makes him the central threat of Dragon's earliest cases.",
+      "eras": [
+        {
+          "slug": "overlord-reign-of-crime",
+          "title": "Reign of Crime",
+          "start_year": 1992,
+          "end_year": 1996,
+          "order_index": 1,
+          "summary": "Overlord dominates Chicago's criminal empire and stands as the primary obstacle to Dragon's mission.",
+          "arcs": [
+            {
+              "slug": "overlord-empire-of-fear",
+              "title": "Empire of Fear",
+              "logline": "A power-armored kingpin rules the city's super-crime from the shadows.",
+              "summary": "Overlord commands a vast network of super-powered criminals, ruling through fear and brute force. His empire is the defining challenge of Dragon's early career, setting the hero against an enemy with resources and reach far beyond a typical thug.\n\nThe arc establishes Overlord as the original architect of the city's superhuman crime wave and Dragon's most important early adversary.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 1992,
+              "end_year": 1994,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Savage Dragon: A Force to Be Reckoned With",
+                  "format": "trade",
+                  "issue_range": "#1-10",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "savage-dragon",
+          "relationship": "enemy",
+          "summary": "The armored crime lord who serves as Dragon's foundational nemesis.",
+          "notes": "Overlord's control of Chicago's underworld makes him the defining villain of Dragon's first cases."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "animated_series",
+          "title": "Savage Dragon",
+          "release_year": 1995,
+          "watch_order": 1,
+          "platform": "USA Network",
+          "notes": "Appears as a major antagonist in the animated series.",
+          "where_to_watch": null
+        },
+        {
+          "media_type": "video_game",
+          "title": "Savage Dragon: The Game",
+          "release_year": 2014,
+          "watch_order": 2,
+          "platform": "Mobile",
+          "notes": "Featured as an enemy.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "cyberface",
+      "name": "Cyberface",
+      "entity_type": "character",
+      "role": "villain",
+      "publisher_slug": "image",
+      "real_name": "Cyberface",
+      "first_appearance": "Savage Dragon #2 (1993)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "A monstrous, cunning villain who rises from underling to world-conquering tyrant, Cyberface is one of Dragon's most persistent enemies. His ambition and resilience let him return again and again across the series.",
+      "eras": [
+        {
+          "slug": "cyberface-rise-to-power",
+          "title": "Rise to Power",
+          "start_year": 1993,
+          "end_year": 2005,
+          "order_index": 1,
+          "summary": "Cyberface climbs from minor menace to one of the most dangerous figures in Dragon's world.",
+          "arcs": [
+            {
+              "slug": "cyberface-grasping-for-power",
+              "title": "Grasping for Power",
+              "logline": "A scheming monster claws his way up the criminal ladder toward total domination.",
+              "summary": "Cyberface begins as a henchman but proves far more ambitious and dangerous than his station suggests. Over time he maneuvers, betrays, and seizes power, becoming a recurring tormentor of Dragon.\n\nThe arc traces his transformation into a top-tier threat whose schemes eventually endanger far more than Chicago.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 1993,
+              "end_year": 2000,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Savage Dragon: The Fallen",
+                  "format": "trade",
+                  "issue_range": "#11-21",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "savage-dragon",
+          "relationship": "enemy",
+          "summary": "A monstrous schemer who repeatedly seizes power and torments Dragon across decades.",
+          "notes": "Cyberface evolves from underling to world-conquering threat, becoming one of Dragon's most persistent foes."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "animated_series",
+          "title": "Savage Dragon",
+          "release_year": 1995,
+          "watch_order": 1,
+          "platform": "USA Network",
+          "notes": "Appears as an antagonist in the animated series.",
+          "where_to_watch": null
+        },
+        {
+          "media_type": "video_game",
+          "title": "Savage Dragon: The Game",
+          "release_year": 2014,
+          "watch_order": 2,
+          "platform": "Mobile",
+          "notes": "Featured as an enemy.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "the-fiend",
+      "name": "The Fiend",
+      "entity_type": "character",
+      "role": "villain",
+      "publisher_slug": "image",
+      "real_name": null,
+      "first_appearance": "Savage Dragon #5 (1993)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "A vicious and savage recurring foe whose brutality pushes Dragon to his limits. The Fiend embodies the no-holds-barred violence that defines the series' rogues' gallery.",
+      "eras": [
+        {
+          "slug": "the-fiend-reign-of-terror",
+          "title": "Reign of Terror",
+          "start_year": 1993,
+          "end_year": 2002,
+          "order_index": 1,
+          "summary": "The Fiend carves a bloody path through Dragon's world as a relentless, brutal antagonist.",
+          "arcs": [
+            {
+              "slug": "the-fiend-unleashed",
+              "title": "Unleashed",
+              "logline": "A savage predator returns again and again to test Dragon's resolve and strength.",
+              "summary": "The Fiend is among the most brutal threats Dragon faces, a foe defined by sheer ferocity. Each confrontation is a punishing test of endurance for a hero accustomed to winning fights.\n\nThe arc establishes the Fiend as a recurring nightmare whose violence raises the stakes of Dragon's battles.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 1993,
+              "end_year": 1999,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Savage Dragon: The Fallen",
+                  "format": "trade",
+                  "issue_range": "#11-21",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "savage-dragon",
+          "relationship": "enemy",
+          "summary": "A vicious recurring foe whose brutality tests Dragon at his limits.",
+          "notes": "The Fiend embodies the savage violence that defines the series' rogues."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "animated_series",
+          "title": "Savage Dragon",
+          "release_year": 1995,
+          "watch_order": 1,
+          "platform": "USA Network",
+          "notes": "Appears as an antagonist in the animated series.",
+          "where_to_watch": null
+        },
+        {
+          "media_type": "video_game",
+          "title": "Savage Dragon: The Game",
+          "release_year": 2014,
+          "watch_order": 2,
+          "platform": "Mobile",
+          "notes": "Featured as an enemy.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "mister-glum",
+      "name": "Mister Glum",
+      "entity_type": "character",
+      "role": "villain",
+      "publisher_slug": "image",
+      "real_name": "Mister Glum",
+      "first_appearance": "Savage Dragon #76 (2000)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "A diminutive alien mastermind from another dimension with grand, world-threatening ambitions. Mister Glum's scheming draws Dragon into cosmic conflicts far beyond the streets of Chicago.",
+      "eras": [
+        {
+          "slug": "mister-glum-dimensional-schemes",
+          "title": "Dimensional Schemes",
+          "start_year": 2000,
+          "end_year": 2010,
+          "order_index": 1,
+          "summary": "Mister Glum pursues conquest from another dimension, pulling Dragon into interdimensional battles.",
+          "arcs": [
+            {
+              "slug": "mister-glum-little-tyrant",
+              "title": "Little Tyrant",
+              "logline": "A tiny alien with enormous ambition sets his sights on conquering worlds.",
+              "summary": "Mister Glum may be small in stature, but his ambitions are vast. Operating from another dimension, he launches schemes that threaten entire worlds and force Dragon to fight on a cosmic scale.\n\nThe arc introduces Glum's blend of menace and dark comedy, establishing him as a memorable, persistent threat in Dragon's expanding world.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 2000,
+              "end_year": 2005,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Savage Dragon: Endgame",
+                  "format": "trade",
+                  "issue_range": "#76-85",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "savage-dragon",
+          "relationship": "enemy",
+          "summary": "A diminutive alien mastermind whose interdimensional schemes target Dragon.",
+          "notes": "Mister Glum's plots draw Dragon into conflicts far beyond Chicago's streets."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "video_game",
+          "title": "Savage Dragon: The Game",
+          "release_year": 2014,
+          "watch_order": 1,
+          "platform": "Mobile",
+          "notes": "Featured as an enemy.",
+          "where_to_watch": null
+        },
+        {
+          "media_type": "podcast",
+          "title": "The Savage Dragon Podcast",
+          "release_year": 2018,
+          "watch_order": 2,
+          "platform": "Independent",
+          "notes": "Fan-oriented discussion series covering the comic's villains, including Mister Glum.",
+          "where_to_watch": null
+        }
+      ]
+    }
+  ]
+}

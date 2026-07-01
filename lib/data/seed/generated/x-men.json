@@ -1,0 +1,1201 @@
+{
+  "primary": {
+    "slug": "x-men",
+    "name": "X-Men",
+    "entity_type": "team",
+    "publisher_slug": "marvel",
+    "real_name": null,
+    "first_appearance": "The X-Men #1 (1963)",
+    "logo_url": null,
+    "cover_image_url": null,
+    "short_bio": "The X-Men are a team of mutants gathered and trained by Professor Charles Xavier to use their superhuman powers in defense of a world that fears and hates them. Sworn to protect humans and mutants alike, they champion Xavier's dream of peaceful coexistence while battling threats that would see one species dominate the other. Across decades they have grown from a handful of teenage students into a sprawling movement spanning multiple teams and generations.",
+    "eras": [
+      {
+        "slug": "founding-era",
+        "title": "The Original Five",
+        "start_year": 1963,
+        "end_year": 1975,
+        "order_index": 1,
+        "summary": "Charles Xavier assembles five teenage mutants at his School for Gifted Youngsters, training them as the first X-Men against threats like Magneto and the Sentinels. These early adventures established the team's core mission and its central conflict between human and mutantkind.",
+        "arcs": [
+          {
+            "slug": "x-men-origin-lee-kirby",
+            "title": "The Coming of the X-Men",
+            "logline": "A telepathic professor gathers five young mutants to face a master of magnetism who would rule humanity.",
+            "summary": "Professor Charles Xavier recruits Cyclops, Marvel Girl, Beast, Angel, and Iceman to his secluded Westchester school, training them to harness their mutant gifts. When Magneto launches his first strike against humankind, the newly formed X-Men are thrust into open battle.\n\nThe early Lee and Kirby issues introduce the foundational mythology of the franchise: the dream of coexistence, the fear and hatred of ordinary people, and the ideological clash between Xavier and his former friend Magneto. The Brotherhood of Evil Mutants emerges as a recurring antagonist.\n\nThese stories also debut enduring concepts including the Sentinels, the Danger Room, and the Savage Land. Though commercially modest at first, they planted the seeds of one of comics' most enduring sagas.\n\nFor new readers, this run defines who the X-Men are and why they fight, framing every conflict around the question of whether two peoples can share one world.",
+            "spoiler": null,
+            "arc_type": "origin",
+            "start_year": 1963,
+            "end_year": 1966,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "X-Men: Season One",
+                "format": "hardcover",
+                "issue_range": "Original Graphic Novel",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              },
+              {
+                "title": "Marvel Masterworks: The X-Men Vol. 1",
+                "format": "hardcover",
+                "issue_range": "The X-Men #1-10",
+                "reading_order": 2,
+                "publication_order": 2,
+                "reading_order_note": null,
+                "isbn": "9780785191902",
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "sentinels-master-mold",
+            "title": "Rise of the Sentinels",
+            "logline": "Mutant-hunting robots built to protect humanity turn on their creators and the young X-Men.",
+            "summary": "Anthropologist Bolivar Trask unveils the Sentinels, towering robots engineered to hunt mutants in the name of human survival. The machines quickly exceed their programming, concluding that the only way to protect humanity is to rule it.\n\nThe X-Men must stop the Master Mold and its army before they enslave mutant and human alike. The conflict crystallizes the tragic logic of anti-mutant prejudice giving rise to a greater threat.\n\nThese stories establish the Sentinels as a perennial menace and a metaphor for institutional persecution that the series would return to for decades.\n\nThe arc deepens the team's role as protectors of the very people who fear them, a defining tension of the franchise.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 1965,
+            "end_year": 1966,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "Marvel Masterworks: The X-Men Vol. 2",
+                "format": "hardcover",
+                "issue_range": "The X-Men #11-21",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9780785193418",
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "all-new-all-different",
+        "title": "The All-New, All-Different X-Men",
+        "start_year": 1975,
+        "end_year": 1991,
+        "order_index": 2,
+        "summary": "A new international roster led by Cyclops and Storm revitalized the franchise under Chris Claremont, producing landmark sagas that redefined comic storytelling. This era introduced Wolverine to the team and delivered the genre's most influential epics.",
+        "arcs": [
+          {
+            "slug": "dark-phoenix-saga",
+            "title": "The Dark Phoenix Saga",
+            "logline": "A beloved X-Man's cosmic power spirals beyond control, threatening the universe and the team's heart.",
+            "summary": "After bonding with an immense cosmic force, one of the X-Men ascends to godlike power. As that power begins to corrupt her, the Hellfire Club's manipulations push her toward catastrophe.\n\nThe team races to save their friend even as her actions draw the judgment of an alien empire. The story builds to one of the most emotionally devastating climaxes in superhero comics.\n\nWritten by Chris Claremont and drawn by John Byrne, the saga elevated the X-Men into Marvel's flagship franchise and is widely regarded as a high point of the medium.\n\nIt remains the definitive demonstration of the team's central theme: that power without restraint endangers everyone, and that love and loyalty are tested most under impossible circumstances.",
+            "spoiler": "Jean Grey, consumed by the Phoenix, sacrifices herself to stop the entity after destroying an inhabited star system.",
+            "arc_type": "flagship",
+            "start_year": 1980,
+            "end_year": 1980,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "X-Men: The Dark Phoenix Saga",
+                "format": "trade",
+                "issue_range": "Uncanny X-Men #129-138",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9780785164210",
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "days-of-future-past",
+            "title": "Days of Future Past",
+            "logline": "A survivor from a dystopian future returns to prevent an assassination that dooms all mutants.",
+            "summary": "In a grim future where Sentinels rule and mutants are hunted to near extinction, the few survivors make a desperate gamble: send a consciousness back in time to change history.\n\nIn the present, the X-Men learn that the murder of a prominent anti-mutant senator will trigger the catastrophe. They must prevent the Brotherhood of Evil Mutants from carrying it out.\n\nThis tightly constructed two-issue story by Claremont and Byrne became one of the most adapted X-Men tales, its imagery of a ruined future shaping decades of mutant storytelling.\n\nIt distilled the franchise's anxieties about persecution into an urgent, time-spanning thriller.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 1981,
+            "end_year": 1981,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "X-Men: Days of Future Past",
+                "format": "trade",
+                "issue_range": "Uncanny X-Men #138-143",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9780785164036",
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "god-loves-man-kills",
+            "title": "God Loves, Man Kills",
+            "logline": "A genocidal preacher's crusade forces the X-Men into an uneasy alliance with their greatest foe.",
+            "summary": "Reverend William Stryker leads a fanatical religious movement bent on exterminating mutants as abominations. His campaign of terror strikes at the heart of Xavier's school and ideals.\n\nFacing a threat that endangers all mutants, the X-Men find themselves sharing a battlefield with Magneto, blurring the line between hero and villain.\n\nThis graphic novel by Chris Claremont and Brent Anderson is among the franchise's most pointed explorations of bigotry and faith, and it loosely inspired a major film adaptation.\n\nIt remains a powerful standalone statement of the series' core social allegory.",
+            "spoiler": null,
+            "arc_type": "miniseries",
+            "start_year": 1982,
+            "end_year": 1982,
+            "order_index": 3,
+            "reading_entries": [
+              {
+                "title": "X-Men: God Loves, Man Kills",
+                "format": "trade",
+                "issue_range": "Marvel Graphic Novel #5",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9780785156017",
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "modern-era",
+        "title": "The Modern X-Men",
+        "start_year": 1991,
+        "end_year": 2025,
+        "order_index": 3,
+        "summary": "From the record-breaking relaunch of the 1990s through Grant Morrison's reinvention and the nation-building Krakoan age, the modern era expanded the X-Men into a global movement. These stories pushed the franchise into bold new political and cosmic territory.",
+        "arcs": [
+          {
+            "slug": "fatal-attractions",
+            "title": "Fatal Attractions",
+            "logline": "Magneto's escalating war pushes Xavier's dream and the X-Men to a breaking point.",
+            "summary": "Magneto retreats to an orbital fortress and declares open defiance of the human world, daring the X-Men and the global powers to stop him. His most extreme act of aggression nearly tears the team apart.\n\nThe crossover forces a brutal confrontation between Magneto, Wolverine, and Professor Xavier with consequences that reshape the status quo.\n\nRunning through the X-titles of the early 1990s, it is remembered for its high-stakes climax and its lasting fallout for the franchise's central figures.\n\nThe arc marks the transition into the franchise's blockbuster modern period.",
+            "spoiler": "Magneto rips the adamantium from Wolverine's skeleton, and Xavier retaliates by erasing Magneto's mind.",
+            "arc_type": "crossover",
+            "start_year": 1993,
+            "end_year": 1993,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "X-Men: Fatal Attractions",
+                "format": "trade",
+                "issue_range": "X-Factor #92, X-Force #25, Uncanny X-Men #304, X-Men #25, Wolverine #75, Excalibur #71",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9780785156628",
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "new-x-men-morrison",
+            "title": "E Is for Extinction",
+            "logline": "A devastating attack on mutantkind launches the X-Men into a bold new evolution.",
+            "summary": "Grant Morrison's run opens with a catastrophic genocide that wipes out a mutant nation, recasting the X-Men as a frontline crisis-response team for a species under siege.\n\nA new threat tied to Xavier's own past emerges, while the school swells with students and the team confronts what it means for mutants to be the dominant emerging culture.\n\nWith art by Frank Quitely and others, New X-Men modernized the franchise's aesthetic and themes for the 2000s, introducing concepts that still define the line.\n\nIt reframed the mutant struggle as one of cultural ascendancy rather than mere survival.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 2001,
+            "end_year": 2004,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "New X-Men by Grant Morrison Omnibus",
+                "format": "omnibus",
+                "issue_range": "New X-Men #114-154",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9780785158837",
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "house-of-x-powers-of-x",
+            "title": "House of X / Powers of X",
+            "logline": "Mutants forge a sovereign nation, rewriting the rules of mutant existence forever.",
+            "summary": "Jonathan Hickman's interlocking miniseries reveal a sweeping new status quo: mutants unite under Xavier and Magneto to found the island nation of Krakoa, claiming sovereignty and even conquering death itself.\n\nSpanning timelines from the distant past to the far future, the story reframes the entire history of the species and sets a radical new direction for every X-title.\n\nWidely hailed as one of the most ambitious X-Men stories ever told, it relaunched the franchise's most acclaimed modern era.\n\nIt transforms the mutant dream from a plea for tolerance into the founding of a civilization.",
+            "spoiler": null,
+            "arc_type": "miniseries",
+            "start_year": 2019,
+            "end_year": 2019,
+            "order_index": 3,
+            "reading_entries": [
+              {
+                "title": "House of X / Powers of X",
+                "format": "hardcover",
+                "issue_range": "House of X #1-6, Powers of X #1-6",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9781302915711",
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "start_here": [
+      {
+        "order_index": 1,
+        "label": "Start with the all-time classic",
+        "reason": "The Dark Phoenix Saga is the definitive X-Men epic and the perfect showcase of the team's heart, stakes, and characters.",
+        "arc_slug": "dark-phoenix-saga"
+      },
+      {
+        "order_index": 2,
+        "label": "The most adapted X-Men story",
+        "reason": "Days of Future Past is short, self-contained, and captures the franchise's core themes through a gripping time-travel thriller.",
+        "arc_slug": "days-of-future-past"
+      },
+      {
+        "order_index": 3,
+        "label": "The modern reinvention",
+        "reason": "House of X / Powers of X reboots the mutant status quo and is the ideal jumping-on point for contemporary readers.",
+        "arc_slug": "house-of-x-powers-of-x"
+      }
+    ],
+    "relationships": [
+      {
+        "related_slug": "avengers",
+        "relationship": "ally",
+        "summary": "Earth's Mightiest Heroes have stood beside the X-Men against world-ending threats despite periodic tensions over mutant affairs.",
+        "notes": "Allies and occasional rivals; clashed during Avengers vs. X-Men before reuniting against common foes."
+      },
+      {
+        "related_slug": "wolverine",
+        "relationship": "ally",
+        "summary": "Wolverine is one of the team's most loyal and ferocious members, embodying its willingness to do what others will not.",
+        "notes": "Longtime core member since the All-New, All-Different relaunch."
+      },
+      {
+        "related_slug": "cyclops",
+        "relationship": "ally",
+        "summary": "Cyclops is the team's foundational field leader and the moral center of countless campaigns.",
+        "notes": "Founding member and frequent leader."
+      },
+      {
+        "related_slug": "storm",
+        "relationship": "ally",
+        "summary": "Storm has led the X-Men through some of their darkest hours, balancing compassion with command.",
+        "notes": "Joined in the all-new roster and rose to leadership."
+      },
+      {
+        "related_slug": "magneto",
+        "relationship": "enemy",
+        "summary": "The Master of Magnetism is the X-Men's most iconic adversary, an ideological foil to Xavier's dream.",
+        "notes": "Has oscillated between archenemy and reluctant ally over the decades."
+      },
+      {
+        "related_slug": "mister-sinister",
+        "relationship": "enemy",
+        "summary": "A ruthless geneticist obsessed with mutant DNA, Sinister has manipulated the X-Men's bloodlines for centuries.",
+        "notes": "Long-game schemer tied to the Summers and Grey legacies."
+      },
+      {
+        "related_slug": "apocalypse",
+        "relationship": "enemy",
+        "summary": "The ancient mutant En Sabah Nur preaches survival of the fittest, making him a recurring existential threat.",
+        "notes": "Believes only the strong deserve to inherit the world."
+      },
+      {
+        "related_slug": "mystique",
+        "relationship": "enemy",
+        "summary": "The shapeshifting terrorist has repeatedly targeted the X-Men through infiltration and her Brotherhood.",
+        "notes": "Master of disguise with shifting allegiances."
+      }
+    ],
+    "media": [
+      {
+        "media_type": "animated_series",
+        "title": "X-Men: The Animated Series",
+        "release_year": 1992,
+        "watch_order": 1,
+        "platform": "Disney+",
+        "notes": "The beloved 1990s cartoon that introduced a generation to the team and adapted classic sagas.",
+        "where_to_watch": "Disney+"
+      },
+      {
+        "media_type": "animated_series",
+        "title": "X-Men '97",
+        "release_year": 2024,
+        "watch_order": 2,
+        "platform": "Disney+",
+        "notes": "A direct continuation of the 1990s animated series, acclaimed for honoring and expanding its legacy.",
+        "where_to_watch": "Disney+"
+      },
+      {
+        "media_type": "film",
+        "title": "X-Men",
+        "release_year": 2000,
+        "watch_order": 1,
+        "platform": "Theatrical",
+        "notes": "Bryan Singer's film launched the modern superhero movie era and the long-running 20th Century Fox franchise.",
+        "where_to_watch": "Disney+"
+      },
+      {
+        "media_type": "film",
+        "title": "Logan",
+        "release_year": 2017,
+        "watch_order": 2,
+        "platform": "Theatrical",
+        "notes": "A gritty, acclaimed send-off for Hugh Jackman's Wolverine loosely inspired by mutant-future stories.",
+        "where_to_watch": "Disney+"
+      },
+      {
+        "media_type": "video_game",
+        "title": "Marvel vs. Capcom: Infinite",
+        "release_year": 2017,
+        "watch_order": null,
+        "platform": "PlayStation 4 / Xbox One / PC",
+        "notes": "Crossover fighting game featuring several X-Men characters among Marvel's roster.",
+        "where_to_watch": null
+      }
+    ],
+    "team_members": [
+      {
+        "character_slug": "professor-x",
+        "era_slug": null,
+        "role": "founder",
+        "notes": "Founder and mentor; established the school and the dream of coexistence."
+      },
+      {
+        "character_slug": "cyclops",
+        "era_slug": "founding-era",
+        "role": "founder",
+        "notes": "First recruit and the team's enduring field leader."
+      },
+      {
+        "character_slug": "jean-grey",
+        "era_slug": "founding-era",
+        "role": "founder",
+        "notes": "Founding member whose telepathic and telekinetic gifts proved pivotal and perilous."
+      },
+      {
+        "character_slug": "storm",
+        "era_slug": "all-new-all-different",
+        "role": "leader",
+        "notes": "Joined with the all-new roster and later led the team through major campaigns."
+      },
+      {
+        "character_slug": "wolverine",
+        "era_slug": "all-new-all-different",
+        "role": "member",
+        "notes": "Recruited in the relaunch; became the team's fiercest and most popular member."
+      },
+      {
+        "character_slug": "rogue",
+        "era_slug": "modern-era",
+        "role": "member",
+        "notes": "Reformed from the Brotherhood to become a stalwart and frequent leader."
+      }
+    ]
+  },
+  "supporting": [
+    {
+      "slug": "magneto",
+      "name": "Magneto",
+      "entity_type": "character",
+      "publisher_slug": "marvel",
+      "real_name": "Max Eisenhardt",
+      "first_appearance": "The X-Men #1 (1963)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Magneto is the Master of Magnetism, a Holocaust survivor whose trauma convinced him that mutants must seize power before humanity can persecute them. As Xavier's onetime friend and eternal ideological rival, he has been the X-Men's greatest foe and, at times, their reluctant ally. His tragic conviction makes him one of comics' most compelling antagonists.",
+      "eras": [
+        {
+          "slug": "magneto-brotherhood-era",
+          "title": "The Brotherhood Years",
+          "start_year": 1963,
+          "end_year": 1991,
+          "order_index": 1,
+          "summary": "Magneto's early campaigns against humanity defined him as the X-Men's archenemy and the founder of the Brotherhood of Evil Mutants.",
+          "arcs": [
+            {
+              "slug": "magneto-brotherhood-origins",
+              "title": "Master of Magnetism",
+              "logline": "A vengeful mutant declares war on humankind to ensure his people are never victims again.",
+              "summary": "Driven by the horrors of his past, Magneto gathers the Brotherhood of Evil Mutants and strikes at the human world. His clashes with the X-Men establish the franchise's central ideological conflict.\n\nOver these years his motivations deepen from simple villainy into a tragic philosophy forged by genocide.\n\nThe arc cements him as the dark mirror to Xavier's dream.",
+              "spoiler": null,
+              "arc_type": "origin",
+              "start_year": 1963,
+              "end_year": 1981,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "X-Men: Magneto Testament",
+                  "format": "trade",
+                  "issue_range": "X-Men: Magneto Testament #1-5",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": "9780785126874",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Understand the man behind the helmet",
+          "reason": "Magneto Testament reveals the formative tragedy that shaped his entire worldview.",
+          "arc_slug": "magneto-brotherhood-origins"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "x-men",
+          "relationship": "enemy",
+          "summary": "Magneto is the X-Men's defining adversary, opposing Xavier's dream with the conviction that mutants must rule.",
+          "notes": "Archenemy who has occasionally fought alongside the team."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "film",
+          "title": "X-Men",
+          "release_year": 2000,
+          "watch_order": 1,
+          "platform": "Theatrical",
+          "notes": "Ian McKellen's portrayal established the cinematic Magneto.",
+          "where_to_watch": "Disney+"
+        },
+        {
+          "media_type": "film",
+          "title": "X-Men: First Class",
+          "release_year": 2011,
+          "watch_order": 2,
+          "platform": "Theatrical",
+          "notes": "Michael Fassbender plays a younger Erik Lehnsherr.",
+          "where_to_watch": "Disney+"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "X-Men: The Animated Series",
+          "release_year": 1992,
+          "watch_order": 3,
+          "platform": "Disney+",
+          "notes": "A nuanced animated take on the character.",
+          "where_to_watch": "Disney+"
+        }
+      ]
+    },
+    {
+      "slug": "mister-sinister",
+      "name": "Mister Sinister",
+      "entity_type": "character",
+      "publisher_slug": "marvel",
+      "real_name": "Nathaniel Essex",
+      "first_appearance": "The Uncanny X-Men #221 (1987)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Mister Sinister is a Victorian-born geneticist who transformed himself into a near-immortal mutant obsessed with the perfection of the species. His centuries-spanning experiments have manipulated the bloodlines of the X-Men, particularly the Summers and Grey families. Cold, brilliant, and patient, he is one of the franchise's most insidious schemers.",
+      "eras": [
+        {
+          "slug": "sinister-schemes-era",
+          "title": "The Geneticist's Designs",
+          "start_year": 1987,
+          "end_year": 2025,
+          "order_index": 1,
+          "summary": "From the shadows, Mister Sinister has orchestrated some of the X-Men's most painful tragedies in pursuit of genetic perfection.",
+          "arcs": [
+            {
+              "slug": "sinister-inferno",
+              "title": "Inferno",
+              "logline": "A hidden geneticist's cloning schemes erupt into a demonic invasion of New York.",
+              "summary": "Mister Sinister's manipulation of the Summers bloodline collides with a demonic incursion, plunging Manhattan into chaos. The X-Men and their allies fight to expose the mastermind behind decades of suffering.\n\nThe crossover reveals the depth of Sinister's obsession and his ties to the team's most intimate tragedies.\n\nIt cements him as a long-game villain whose plots span generations.",
+              "spoiler": null,
+              "arc_type": "crossover",
+              "start_year": 1988,
+              "end_year": 1989,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "X-Men: Inferno",
+                  "format": "omnibus",
+                  "issue_range": "Uncanny X-Men #239-243, X-Factor #36-39",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": "9780785185345",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "x-men",
+          "relationship": "enemy",
+          "summary": "Sinister regards the X-Men as both obstacles and prized genetic specimens for his endless experiments.",
+          "notes": "A manipulator who works through clones, proxies, and long-term schemes."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "animated_series",
+          "title": "X-Men: The Animated Series",
+          "release_year": 1992,
+          "watch_order": 1,
+          "platform": "Disney+",
+          "notes": "Featured as the villain behind the Mutates and the X-Cutioner's Song-adjacent plots.",
+          "where_to_watch": "Disney+"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "X-Men '97",
+          "release_year": 2024,
+          "watch_order": 2,
+          "platform": "Disney+",
+          "notes": "Returns as a key antagonist in the revival.",
+          "where_to_watch": "Disney+"
+        },
+        {
+          "media_type": "video_game",
+          "title": "X-Men Legends",
+          "release_year": 2004,
+          "watch_order": null,
+          "platform": "PlayStation 2 / Xbox / GameCube",
+          "notes": "Appears among the roster of mutant foes.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "apocalypse",
+      "name": "Apocalypse",
+      "entity_type": "character",
+      "publisher_slug": "marvel",
+      "real_name": "En Sabah Nur",
+      "first_appearance": "X-Factor #5 (1986)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Apocalypse is one of the first and most powerful mutants, an ancient being who has ruled and manipulated civilizations for millennia. Preaching ruthless survival of the fittest, he seeks to cull the weak and forge a world ruled by the strong. His immense power and apocalyptic philosophy make him an existential threat to mutant and human alike.",
+      "eras": [
+        {
+          "slug": "apocalypse-ancient-era",
+          "title": "The Eternal Mutant",
+          "start_year": 1986,
+          "end_year": 2025,
+          "order_index": 1,
+          "summary": "Across ages, Apocalypse has tested mutantkind, believing only those who survive his trials deserve to inherit the world.",
+          "arcs": [
+            {
+              "slug": "age-of-apocalypse",
+              "title": "Age of Apocalypse",
+              "logline": "A single death rewrites history into a nightmare world ruled by the eternal mutant.",
+              "summary": "A fateful change to the timeline gives rise to a dystopia where Apocalypse conquers North America and mutants and humans are bred, culled, or enslaved. The surviving X-Men wage a desperate resistance.\n\nThe sprawling crossover replaced the entire X-line for months with alternate-reality versions of its heroes and villains.\n\nIt stands as one of the most ambitious and beloved events of the 1990s, defining Apocalypse's threat level.",
+              "spoiler": null,
+              "arc_type": "crossover",
+              "start_year": 1995,
+              "end_year": 1995,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "X-Men: Age of Apocalypse Omnibus",
+                  "format": "omnibus",
+                  "issue_range": "Age of Apocalypse (complete event)",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": "9780785185567",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "See his world made real",
+          "reason": "Age of Apocalypse shows exactly what a world ruled by En Sabah Nur looks like.",
+          "arc_slug": "age-of-apocalypse"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "x-men",
+          "relationship": "enemy",
+          "summary": "Apocalypse views the X-Men as either potential Horsemen or obstacles to be culled in his endless culling of the weak.",
+          "notes": "Ancient, immensely powerful, and driven by survival-of-the-fittest dogma."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "film",
+          "title": "X-Men: Apocalypse",
+          "release_year": 2016,
+          "watch_order": 1,
+          "platform": "Theatrical",
+          "notes": "Oscar Isaac plays the title villain in the prequel film series.",
+          "where_to_watch": "Disney+"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "X-Men: The Animated Series",
+          "release_year": 1992,
+          "watch_order": 2,
+          "platform": "Disney+",
+          "notes": "A recurring cosmic-scale threat across multiple seasons.",
+          "where_to_watch": "Disney+"
+        },
+        {
+          "media_type": "video_game",
+          "title": "X-Men Legends II: Rise of Apocalypse",
+          "release_year": 2005,
+          "watch_order": null,
+          "platform": "PlayStation 2 / Xbox / GameCube / PC",
+          "notes": "Serves as the central antagonist of the action RPG.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "mystique",
+      "name": "Mystique",
+      "entity_type": "character",
+      "publisher_slug": "marvel",
+      "real_name": "Raven Darkholme",
+      "first_appearance": "Ms. Marvel #16 (1978)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Mystique is a shapeshifting mutant capable of perfectly mimicking anyone, a skill she has wielded as a spy, assassin, and terrorist. Leading her own incarnation of the Brotherhood, she has repeatedly menaced the X-Men through infiltration and manipulation. Her ever-shifting loyalties and morally gray motives make her one of the franchise's most unpredictable figures.",
+      "eras": [
+        {
+          "slug": "mystique-brotherhood-era",
+          "title": "The Brotherhood's Shadow",
+          "start_year": 1978,
+          "end_year": 2025,
+          "order_index": 1,
+          "summary": "As leader of the Brotherhood and a lone operative, Mystique has spent decades infiltrating and undermining her enemies, mutant and human alike.",
+          "arcs": [
+            {
+              "slug": "mystique-days-of-future-past-plot",
+              "title": "The Brotherhood's Gambit",
+              "logline": "A shapeshifting assassin's plot threatens to doom mutantkind to a dystopian future.",
+              "summary": "Mystique leads the Brotherhood of Evil Mutants in an assassination scheme that, if successful, will trigger anti-mutant hysteria and a nightmarish future. The X-Men race to stop her.\n\nThe plot ties directly into one of the franchise's most famous storylines and showcases Mystique's ruthlessness and cunning.\n\nIt establishes her as a master manipulator whose actions ripple across timelines.",
+              "spoiler": null,
+              "arc_type": "tie-in",
+              "start_year": 1981,
+              "end_year": 1981,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "X-Men: Days of Future Past",
+                  "format": "trade",
+                  "issue_range": "Uncanny X-Men #141-142",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": "9780785164036",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "x-men",
+          "relationship": "enemy",
+          "summary": "Mystique has repeatedly targeted the X-Men through her Brotherhood and her gift for impersonation.",
+          "notes": "Allegiances shift, but she is most often a dangerous adversary."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "film",
+          "title": "X-Men",
+          "release_year": 2000,
+          "watch_order": 1,
+          "platform": "Theatrical",
+          "notes": "Rebecca Romijn portrays the shapeshifter in the original film trilogy.",
+          "where_to_watch": "Disney+"
+        },
+        {
+          "media_type": "film",
+          "title": "X-Men: First Class",
+          "release_year": 2011,
+          "watch_order": 2,
+          "platform": "Theatrical",
+          "notes": "Jennifer Lawrence plays a younger Raven across the prequel films.",
+          "where_to_watch": "Disney+"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "X-Men: The Animated Series",
+          "release_year": 1992,
+          "watch_order": 3,
+          "platform": "Disney+",
+          "notes": "A recurring antagonist and Brotherhood leader.",
+          "where_to_watch": "Disney+"
+        }
+      ]
+    },
+    {
+      "slug": "cyclops",
+      "name": "Cyclops",
+      "entity_type": "character",
+      "publisher_slug": "marvel",
+      "real_name": "Scott Summers",
+      "first_appearance": "The X-Men #1 (1963)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Cyclops is the disciplined field leader of the X-Men, able to fire devastating optic blasts that he can only control with a special visor. As Xavier's first student, he embodies the team's strategic backbone and unwavering commitment to the dream. His sense of duty has made him both an inspiring leader and, at times, a controversial revolutionary.",
+      "eras": [
+        {
+          "slug": "cyclops-founding-era",
+          "title": "The First X-Man",
+          "start_year": 1963,
+          "end_year": 1991,
+          "order_index": 1,
+          "summary": "From the original five through the all-new roster, Cyclops grew from an uncertain teenager into the team's definitive leader.",
+          "arcs": [
+            {
+              "slug": "cyclops-leader-of-the-x-men",
+              "title": "Leader of the X-Men",
+              "logline": "A young mutant masters his dangerous power and grows into the team's strategic heart.",
+              "summary": "Scott Summers struggles to control optic blasts he cannot switch off, channeling that burden into discipline and leadership. As field commander he guides the X-Men through their earliest and most defining battles.\n\nHis arc traces the evolution from anxious recruit to the steady hand that holds the team together.\n\nIt establishes Cyclops as the moral and tactical core of the franchise.",
+              "spoiler": null,
+              "arc_type": "origin",
+              "start_year": 1963,
+              "end_year": 1980,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Marvel Masterworks: The X-Men Vol. 1",
+                  "format": "hardcover",
+                  "issue_range": "The X-Men #1-10",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": "9780785191902",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Meet the first X-Man",
+          "reason": "These early issues show Cyclops becoming the leader who defines the team.",
+          "arc_slug": "cyclops-leader-of-the-x-men"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "x-men",
+          "relationship": "ally",
+          "summary": "Cyclops is the X-Men's founding member and longtime field leader.",
+          "notes": "The strategic and moral center of the team across eras."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "film",
+          "title": "X-Men",
+          "release_year": 2000,
+          "watch_order": 1,
+          "platform": "Theatrical",
+          "notes": "James Marsden plays Cyclops in the original film trilogy.",
+          "where_to_watch": "Disney+"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "X-Men: The Animated Series",
+          "release_year": 1992,
+          "watch_order": 2,
+          "platform": "Disney+",
+          "notes": "A central leader throughout the classic cartoon.",
+          "where_to_watch": "Disney+"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "X-Men '97",
+          "release_year": 2024,
+          "watch_order": 3,
+          "platform": "Disney+",
+          "notes": "Leads the team in the acclaimed revival series.",
+          "where_to_watch": "Disney+"
+        }
+      ]
+    },
+    {
+      "slug": "storm",
+      "name": "Storm",
+      "entity_type": "character",
+      "publisher_slug": "marvel",
+      "real_name": "Ororo Munroe",
+      "first_appearance": "Giant-Size X-Men #1 (1975)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Storm is a weather-controlling mutant once worshipped as a goddess, who became one of the X-Men's most powerful and respected members. Regal and compassionate, she has led the team through some of its hardest trials. Her command of the elements and her natural authority make her a pillar of the franchise.",
+      "eras": [
+        {
+          "slug": "storm-all-new-era",
+          "title": "Goddess of the Storm",
+          "start_year": 1975,
+          "end_year": 1991,
+          "order_index": 1,
+          "summary": "Recruited in the all-new roster, Storm rose quickly from member to leader, guiding the X-Men through landmark adventures.",
+          "arcs": [
+            {
+              "slug": "storm-leadership",
+              "title": "The Goddess Leads",
+              "logline": "A weather goddess sheds her past to take command of the X-Men.",
+              "summary": "Ororo Munroe joins the all-new X-Men and soon proves herself one of their most capable members. When circumstances demand it, she steps into leadership, guiding the team with wisdom and resolve.\n\nHer journey from worshipped goddess to grounded leader is among the most celebrated character arcs of the Claremont era.\n\nIt establishes Storm as an enduring symbol of strength and dignity.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 1975,
+              "end_year": 1985,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Marvel Masterworks: The Uncanny X-Men Vol. 1",
+                  "format": "hardcover",
+                  "issue_range": "Giant-Size X-Men #1, Uncanny X-Men #94-100",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": "9780785137061",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Witness the goddess rise",
+          "reason": "Storm's introduction and ascent in the all-new roster showcase why she is a fan favorite.",
+          "arc_slug": "storm-leadership"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "x-men",
+          "relationship": "ally",
+          "summary": "Storm is a longtime core member and leader of the X-Men.",
+          "notes": "One of the team's most powerful and respected figures."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "film",
+          "title": "X-Men",
+          "release_year": 2000,
+          "watch_order": 1,
+          "platform": "Theatrical",
+          "notes": "Halle Berry portrays Storm in the original film trilogy.",
+          "where_to_watch": "Disney+"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "X-Men: The Animated Series",
+          "release_year": 1992,
+          "watch_order": 2,
+          "platform": "Disney+",
+          "notes": "A prominent and beloved member of the animated lineup.",
+          "where_to_watch": "Disney+"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "X-Men '97",
+          "release_year": 2024,
+          "watch_order": 3,
+          "platform": "Disney+",
+          "notes": "Central to the emotional arcs of the revival.",
+          "where_to_watch": "Disney+"
+        }
+      ]
+    },
+    {
+      "slug": "jean-grey",
+      "name": "Jean Grey",
+      "entity_type": "character",
+      "publisher_slug": "marvel",
+      "real_name": "Jean Grey",
+      "first_appearance": "The X-Men #1 (1963)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Jean Grey is a founding X-Man and one of the most powerful telepaths and telekinetics in the Marvel Universe. Her bond with the cosmic Phoenix Force has made her both a savior and a danger of universe-altering proportions. Compassionate and immensely gifted, she sits at the emotional core of the X-Men's greatest sagas.",
+      "eras": [
+        {
+          "slug": "jean-grey-phoenix-era",
+          "title": "Marvel Girl and the Phoenix",
+          "start_year": 1963,
+          "end_year": 1991,
+          "order_index": 1,
+          "summary": "From the founding member known as Marvel Girl to her transformation by the Phoenix Force, Jean Grey's journey is inseparable from the franchise's defining tragedies.",
+          "arcs": [
+            {
+              "slug": "jean-grey-phoenix-rising",
+              "title": "The Phoenix Rises",
+              "logline": "A founding X-Man's untapped potential awakens a cosmic power beyond comprehension.",
+              "summary": "When a fatal crisis pushes Jean Grey beyond her limits, she bonds with the Phoenix Force and is reborn with staggering power. At first a triumphant savior, she soon finds that power impossible to contain.\n\nHer transformation sets the stage for the franchise's most famous and heartbreaking story.\n\nIt establishes Jean as both the heart of the team and its greatest cosmic stakes.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 1976,
+              "end_year": 1980,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "X-Men: The Dark Phoenix Saga",
+                  "format": "trade",
+                  "issue_range": "Uncanny X-Men #129-138",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": "9780785164210",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "The heart of the X-Men",
+          "reason": "Jean's bond with the Phoenix drives the franchise's most iconic saga.",
+          "arc_slug": "jean-grey-phoenix-rising"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "x-men",
+          "relationship": "ally",
+          "summary": "Jean Grey is a founding member and emotional core of the X-Men.",
+          "notes": "Her Phoenix bond ties her to the team's greatest triumphs and tragedies."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "film",
+          "title": "X-Men: The Last Stand",
+          "release_year": 2006,
+          "watch_order": 1,
+          "platform": "Theatrical",
+          "notes": "Famke Janssen's Jean Grey is central to the film's Phoenix storyline.",
+          "where_to_watch": "Disney+"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "X-Men: The Animated Series",
+          "release_year": 1992,
+          "watch_order": 2,
+          "platform": "Disney+",
+          "notes": "The animated series adapted the Phoenix and Dark Phoenix sagas.",
+          "where_to_watch": "Disney+"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "X-Men '97",
+          "release_year": 2024,
+          "watch_order": 3,
+          "platform": "Disney+",
+          "notes": "A key figure in the revival's storylines.",
+          "where_to_watch": "Disney+"
+        }
+      ]
+    },
+    {
+      "slug": "professor-x",
+      "name": "Professor X",
+      "entity_type": "character",
+      "publisher_slug": "marvel",
+      "real_name": "Charles Xavier",
+      "first_appearance": "The X-Men #1 (1963)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Professor Charles Xavier is the world's most powerful telepath and the founder of the X-Men, dedicating his life to the dream of peaceful coexistence between mutants and humans. From his School for Gifted Youngsters he mentors generations of young mutants. His unwavering ideals, and the moral compromises he sometimes makes to uphold them, define the soul of the franchise.",
+      "eras": [
+        {
+          "slug": "xavier-dream-era",
+          "title": "The Dream",
+          "start_year": 1963,
+          "end_year": 2025,
+          "order_index": 1,
+          "summary": "Xavier's founding vision of coexistence shaped every incarnation of the X-Men, even as his methods and secrets grew more complicated over time.",
+          "arcs": [
+            {
+              "slug": "xavier-founds-the-school",
+              "title": "The Founder's Dream",
+              "logline": "A telepathic visionary builds a school to train mutants and save two species from each other.",
+              "summary": "Charles Xavier opens his School for Gifted Youngsters, gathering young mutants to teach them control and instill his dream of coexistence. He forms the X-Men to defend a world that fears them.\n\nHis ideological split with his old friend Magneto frames the central conflict of the entire franchise.\n\nThe arc establishes Xavier as mentor, idealist, and the conscience of mutantkind.",
+              "spoiler": null,
+              "arc_type": "origin",
+              "start_year": 1963,
+              "end_year": 1966,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Marvel Masterworks: The X-Men Vol. 1",
+                  "format": "hardcover",
+                  "issue_range": "The X-Men #1-10",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": "9780785191902",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Where the dream begins",
+          "reason": "Xavier's founding of the school sets the entire mythology in motion.",
+          "arc_slug": "xavier-founds-the-school"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "x-men",
+          "relationship": "ally",
+          "summary": "Professor X is the founder, mentor, and guiding ideal of the X-Men.",
+          "notes": "His dream of coexistence is the franchise's foundation."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "film",
+          "title": "X-Men",
+          "release_year": 2000,
+          "watch_order": 1,
+          "platform": "Theatrical",
+          "notes": "Patrick Stewart's definitive portrayal of Xavier.",
+          "where_to_watch": "Disney+"
+        },
+        {
+          "media_type": "film",
+          "title": "X-Men: First Class",
+          "release_year": 2011,
+          "watch_order": 2,
+          "platform": "Theatrical",
+          "notes": "James McAvoy plays a younger Charles Xavier.",
+          "where_to_watch": "Disney+"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "X-Men: The Animated Series",
+          "release_year": 1992,
+          "watch_order": 3,
+          "platform": "Disney+",
+          "notes": "The mentor figure anchoring the classic cartoon.",
+          "where_to_watch": "Disney+"
+        }
+      ]
+    },
+    {
+      "slug": "rogue",
+      "name": "Rogue",
+      "entity_type": "character",
+      "publisher_slug": "marvel",
+      "real_name": "Anna Marie",
+      "first_appearance": "Avengers Annual #10 (1981)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Rogue is a mutant who absorbs the memories, abilities, and life force of anyone she touches, a power that long made physical contact dangerous. Once a member of the Brotherhood, she reformed and became one of the X-Men's most beloved and dependable members. Her struggle for control and connection makes her one of the franchise's most relatable heroes.",
+      "eras": [
+        {
+          "slug": "rogue-redemption-era",
+          "title": "From Brotherhood to X-Men",
+          "start_year": 1981,
+          "end_year": 2025,
+          "order_index": 1,
+          "summary": "Rogue's journey from villain to hero, and her ongoing battle to control her absorbing power, made her a fan favorite across the modern era.",
+          "arcs": [
+            {
+              "slug": "rogue-joins-the-x-men",
+              "title": "Seeking Sanctuary",
+              "logline": "A former villain begs her enemies for help controlling the power that isolates her.",
+              "summary": "Overwhelmed by the personalities and powers she has absorbed, Rogue turns to Professor Xavier for help, abandoning the Brotherhood. The X-Men's wary acceptance begins her path to redemption.\n\nHer arc explores trust, loneliness, and the longing for human connection denied by her own gift.\n\nIt transforms a dangerous adversary into one of the team's most loyal members.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 1983,
+              "end_year": 1985,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "The Uncanny X-Men Omnibus Vol. 4",
+                  "format": "omnibus",
+                  "issue_range": "Uncanny X-Men #171-180",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "A villain's redemption",
+          "reason": "Rogue's defection from the Brotherhood is one of the franchise's great character turns.",
+          "arc_slug": "rogue-joins-the-x-men"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "x-men",
+          "relationship": "ally",
+          "summary": "Rogue reformed to become a stalwart member and frequent leader of the X-Men.",
+          "notes": "Her redemption arc is a cornerstone of the modern team."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "film",
+          "title": "X-Men",
+          "release_year": 2000,
+          "watch_order": 1,
+          "platform": "Theatrical",
+          "notes": "Anna Paquin plays Rogue in the original film trilogy.",
+          "where_to_watch": "Disney+"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "X-Men: The Animated Series",
+          "release_year": 1992,
+          "watch_order": 2,
+          "platform": "Disney+",
+          "notes": "A central and popular member of the animated team.",
+          "where_to_watch": "Disney+"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "X-Men '97",
+          "release_year": 2024,
+          "watch_order": 3,
+          "platform": "Disney+",
+          "notes": "A lead character with major emotional arcs in the revival.",
+          "where_to_watch": "Disney+"
+        }
+      ]
+    }
+  ]
+}

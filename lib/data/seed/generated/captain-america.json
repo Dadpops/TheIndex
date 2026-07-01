@@ -1,0 +1,899 @@
+{
+  "primary": {
+    "slug": "captain-america",
+    "name": "Captain America",
+    "entity_type": "character",
+    "publisher_slug": "marvel",
+    "real_name": "Steve Rogers",
+    "first_appearance": "Captain America Comics #1 (1941)",
+    "logo_url": null,
+    "cover_image_url": null,
+    "short_bio": "A frail young man from Brooklyn transformed into the pinnacle of human potential by an experimental Super-Soldier Serum, Steve Rogers became Captain America, the living embodiment of American ideals. Armed with an indestructible vibranium shield and an unbreakable moral compass, he has fought tyranny from the trenches of World War II to the modern Marvel Universe. Whether leading the Avengers or standing alone against a corrupt establishment, he remains a symbol of conscience, courage, and the promise that one good man can make a difference.",
+    "eras": [
+      {
+        "slug": "golden-age",
+        "title": "The Golden Age",
+        "start_year": 1941,
+        "end_year": 1954,
+        "order_index": 1,
+        "summary": "Captain America debuts as a wartime propaganda hero punching Hitler on his very first cover, battling Axis saboteurs and the sinister Red Skull alongside his young partner Bucky Barnes. These pulpy, patriotic adventures defined the character and made him one of the best-selling heroes of the era.",
+        "arcs": [
+          {
+            "slug": "birth-of-a-legend",
+            "title": "Birth of a Legend",
+            "logline": "A weakling rejected by the army volunteers for a secret experiment and emerges as America's first Super-Soldier.",
+            "summary": "Steve Rogers, desperate to serve his country but repeatedly classified 4-F, is selected by the U.S. military for Project Rebirth, a clandestine program to create a Super-Soldier. Under the guidance of the brilliant Dr. Abraham Erskine, Rogers receives the Super-Soldier Serum and is bombarded with Vita-Rays, transforming his frail body into the peak of human physical perfection.\n\nMoments after the procedure succeeds, an enemy agent assassinates Erskine, ensuring the secret formula dies with him and leaving Rogers as the one and only Captain America. Donning a star-spangled costume and carrying a shield, he becomes a one-man symbol of resistance against the Axis powers.\n\nThese early tales establish the core of the legend: a humble young man given great power who chooses to use it selflessly. Alongside his teenage sidekick Bucky Barnes, Cap takes the fight to spies, saboteurs, and the masterminds of the Third Reich.",
+            "spoiler": null,
+            "arc_type": "origin",
+            "start_year": 1941,
+            "end_year": 1941,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "Captain America: The Classic Years Omnibus",
+                "format": "omnibus",
+                "issue_range": "Captain America Comics #1-10",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              },
+              {
+                "title": "Captain America Comics #1",
+                "format": "single_issues",
+                "issue_range": "#1",
+                "reading_order": 2,
+                "publication_order": 2,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "war-against-the-red-skull",
+            "title": "The War Against the Red Skull",
+            "logline": "Captain America and Bucky wage a relentless campaign against the Axis and the terrifying Red Skull.",
+            "summary": "Throughout World War II, Captain America serves as both a frontline soldier and a symbol of hope on the home front. He and Bucky uncover Nazi plots, rescue prisoners, and dismantle sabotage rings, all while facing off against the Red Skull, Hitler's most feared agent and Cap's defining nemesis.\n\nThe Red Skull embodies the ideology Cap was created to oppose, and their clashes become epic battles of will and brutality. These stories cemented Captain America as the premier patriotic hero of the Golden Age, outselling many of his contemporaries.\n\nThe wartime run is fast-paced, two-fisted pulp adventure, full of dramatic splash pages and larger-than-life villains. It laid the thematic groundwork that every later writer would build upon: Cap as the conscience of a nation at war.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 1941,
+            "end_year": 1945,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "Golden Age Captain America Omnibus Vol. 1",
+                "format": "omnibus",
+                "issue_range": "Captain America Comics #1-12",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "silver-age-revival",
+        "title": "Silver Age Revival",
+        "start_year": 1964,
+        "end_year": 1979,
+        "order_index": 2,
+        "summary": "Thawed from decades in suspended animation, Captain America is reborn into the modern age as a man out of time. He joins the Avengers, confronts the loss of his wartime partner, and is reimagined by Stan Lee and Jack Kirby as a brooding, soulful hero grappling with a changed world.",
+        "arcs": [
+          {
+            "slug": "captain-america-lives-again",
+            "title": "Captain America Lives Again",
+            "logline": "The Avengers discover a frozen soldier in the North Atlantic and revive the legend everyone believed dead.",
+            "summary": "In Avengers #4, the recently formed team finds a man frozen in a block of ice in the North Atlantic. Thawed and revived, he is revealed to be Captain America, who has been in suspended animation since the final days of World War II. He joins the Avengers, instantly becoming the team's heart and tactical leader.\n\nBut survival comes at a terrible cost. Steve Rogers is a man displaced in time, haunted by the apparent death of Bucky in the explosion that flung him into the icy sea. This single reveal transformed Cap from a simple patriot into one of Marvel's most psychologically rich characters.\n\nStan Lee and Jack Kirby used this premise to explore alienation, guilt, and the question of whether old-fashioned ideals still have a place in a cynical modern era. It is the cornerstone of the modern Captain America.",
+            "spoiler": "Bucky Barnes is believed killed in the explosion that left Steve Rogers frozen, a loss that haunts Cap for decades.",
+            "arc_type": "retcon",
+            "start_year": 1964,
+            "end_year": 1964,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "Avengers Omnibus Vol. 1",
+                "format": "omnibus",
+                "issue_range": "Avengers #1-4",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              },
+              {
+                "title": "Captain America Epic Collection: Captain America Lives Again",
+                "format": "trade",
+                "issue_range": "Tales of Suspense #59-99",
+                "reading_order": 2,
+                "publication_order": 2,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "the-coming-of-the-falcon",
+            "title": "The Coming of the Falcon",
+            "logline": "Steve Rogers forges a partnership with Sam Wilson, ushering in a landmark new era for the title.",
+            "summary": "Captain America meets Sam Wilson, a social worker from Harlem who becomes the Falcon, the first African-American superhero in mainstream comics. The two form one of the most enduring partnerships in Marvel history, and the book is even retitled Captain America and the Falcon for years.\n\nTheir partnership grounds Cap's adventures in contemporary social issues, with stories that engage directly with the turmoil of the 1970s. Sam is no sidekick but a true equal and friend, and their dynamic gives the series fresh moral weight.\n\nThis era, shaped by writers like Stan Lee, Gary Friedrich, and later Steve Englehart, deepened Captain America's role as a hero who questions authority and stands for the powerless.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 1969,
+            "end_year": 1972,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "Captain America Epic Collection: The Coming of the Falcon",
+                "format": "trade",
+                "issue_range": "Captain America #100-119",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "secret-empire-watergate",
+            "title": "The Secret Empire",
+            "logline": "Cap uncovers a vast conspiracy reaching the highest levels of government and questions what his uniform stands for.",
+            "summary": "In Steve Englehart's landmark run, Captain America unravels a sprawling conspiracy orchestrated by the sinister Secret Empire, whose tendrils reach into the very top of the American government. Mirroring the real-world Watergate scandal, the story forces Cap to confront the possibility that the nation he serves has become corrupt.\n\nDisillusioned by what he discovers, Steve Rogers abandons the Captain America identity and adopts the persona of Nomad, the man without a country. It is one of the most politically charged storylines of the Bronze Age and a defining statement on what Cap truly represents.\n\nUltimately, Rogers comes to understand that his loyalty is to the American ideal rather than to any administration or institution. This distinction has guided every great Captain America story since.",
+            "spoiler": "Disillusioned, Steve Rogers temporarily abandons the Captain America mantle to become the wandering hero Nomad.",
+            "arc_type": "flagship",
+            "start_year": 1974,
+            "end_year": 1974,
+            "order_index": 3,
+            "reading_entries": [
+              {
+                "title": "Captain America: Secret Empire",
+                "format": "trade",
+                "issue_range": "Captain America #169-176",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "modern-age",
+        "title": "The Modern Age",
+        "start_year": 2002,
+        "end_year": 2014,
+        "order_index": 3,
+        "summary": "A new generation of creators reinvents Captain America as a grounded, geopolitically savvy super-soldier. Landmark runs by Ed Brubaker and Mark Waid blend espionage thriller, war drama, and superheroics, redefining Cap for the 21st century and resurrecting his greatest ghost.",
+        "arcs": [
+          {
+            "slug": "the-winter-soldier",
+            "title": "The Winter Soldier",
+            "logline": "A ghost from Cap's past returns as a brainwashed assassin, forcing Steve to confront a loss he never accepted.",
+            "summary": "Ed Brubaker's defining run opens with the impossible: the return of Bucky Barnes, long believed dead, now reprogrammed by Soviet handlers into a deadly amnesiac assassin known as the Winter Soldier. Captain America, who has carried guilt over Bucky's death for decades, must reckon with the man his partner has become.\n\nBlending Cold War espionage with superhero drama, the arc is a taut, emotional thriller that uses the Cosmic Cube and shadowy intelligence agencies to weave a mystery decades in the making. It overturned one of comics' oldest rules: that Bucky stays dead.\n\nWidely regarded as one of the greatest Captain America stories ever told, The Winter Soldier reframed Cap's mythology around loss, memory, and redemption. It became the basis for one of Marvel Studios' most acclaimed films.",
+            "spoiler": "The Winter Soldier is revealed to be Bucky Barnes, who survived the war as a brainwashed Soviet assassin.",
+            "arc_type": "flagship",
+            "start_year": 2005,
+            "end_year": 2006,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "Captain America: Winter Soldier - The Complete Collection",
+                "format": "trade",
+                "issue_range": "Captain America (2005) #1-14",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9781302900465",
+                "purchase_url": null
+              },
+              {
+                "title": "Captain America by Ed Brubaker Omnibus Vol. 1",
+                "format": "omnibus",
+                "issue_range": "Captain America (2005) #1-25",
+                "reading_order": 2,
+                "publication_order": 2,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "the-death-of-captain-america",
+            "title": "The Death of Captain America",
+            "logline": "In the wake of a superhuman civil war, the nation reels from an unthinkable tragedy and a fight for Cap's legacy begins.",
+            "summary": "Following the divisive events of the superhero Civil War, Captain America stands at the center of a fractured hero community. Brubaker's saga becomes a sprawling political thriller exploring what the symbol of Captain America means when the man behind the shield is gone.\n\nThe story asks who is worthy to carry the mantle and the shield, drawing the Winter Soldier, the Falcon, and Cap's longtime love Sharon Carter into a desperate struggle against the Red Skull's machinations. It is murder mystery, conspiracy drama, and meditation on legacy all at once.\n\nThe arc earned widespread acclaim and mainstream news coverage, proving that Captain America's relevance as a cultural symbol had never been stronger. It is essential reading for understanding the modern incarnation of the character.",
+            "spoiler": "Steve Rogers is assassinated on the courthouse steps, and Bucky Barnes takes up the shield as a new Captain America.",
+            "arc_type": "flagship",
+            "start_year": 2007,
+            "end_year": 2008,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "Captain America: The Death of Captain America - The Complete Collection",
+                "format": "trade",
+                "issue_range": "Captain America (2005) #25-42",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "the-man-who-bought-america",
+            "title": "Castaway in Dimension Z and The Iron Nail",
+            "logline": "Rick Remender sends Cap on a harrowing journey across realities and back to confront an old genetic foe.",
+            "summary": "Rick Remender's run launches with Captain America trapped in Dimension Z, a nightmarish alien world, where he is captured by the geneticist Arnim Zola. Stranded for years of subjective time, Steve is forced to raise a child and survive in a hostile realm built by his enemy's twisted science.\n\nThe story strips Cap down to his essence: a survivor who refuses to surrender his principles no matter how impossible the circumstances. It is among the most ambitious science-fiction takes on the character, blending body horror, fatherhood, and pulse-pounding action.\n\nLater chapters pit Cap against the Iron Nail and the consequences of his choices, testing his body and spirit to the breaking point. Remender's saga is a bold, divisive, and deeply human reinvention of the Sentinel of Liberty.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 2013,
+            "end_year": 2014,
+            "order_index": 3,
+            "reading_entries": [
+              {
+                "title": "Captain America by Rick Remender Omnibus",
+                "format": "omnibus",
+                "issue_range": "Captain America (2012) #1-25",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "legacy-and-rebirth",
+        "title": "Legacy and Rebirth",
+        "start_year": 2018,
+        "end_year": 2021,
+        "order_index": 4,
+        "summary": "After enduring an identity-shattering crisis, Steve Rogers must win back the trust of a nation that no longer believes in him. Ta-Nehisi Coates examines the symbol's meaning in a polarized America, asking what Captain America stands for when the country itself is divided.",
+        "arcs": [
+          {
+            "slug": "winter-in-america",
+            "title": "Winter in America",
+            "logline": "A diminished Steve Rogers fights to reclaim his good name and remind a wary public what his shield truly means.",
+            "summary": "Ta-Nehisi Coates and Leinil Yu open their run with a Captain America whose reputation has been shattered, leaving Steve Rogers distrusted by the very people he has sworn to protect. He must rebuild from the ground up, both as a hero and as a symbol.\n\nThe story is a thoughtful, melancholy meditation on patriotism, power, and faith in institutions during a fractured era. Cap confronts a network of enemies including Selene, the Taskmaster, and a resurgent threat manipulating the nation's fears.\n\nCoates brings a novelist's eye to the character, interrogating what it means to embody a country that does not always live up to its ideals. It is a fitting modern bookend to the political legacy of the Secret Empire era.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 2018,
+            "end_year": 2019,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "Captain America by Ta-Nehisi Coates Vol. 1: Winter in America",
+                "format": "trade",
+                "issue_range": "Captain America (2018) #1-6",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9781302911942",
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "all-die-young",
+            "title": "All Die Young",
+            "logline": "Framed and imprisoned, Captain America rallies allies for a final reckoning against a hidden mastermind.",
+            "summary": "As Coates's saga builds to its climax, Steve Rogers finds himself accused of a crime he did not commit and thrown into the brutal Myrmidon prison. Behind the conspiracy lurks a cabal of powerful figures determined to twist the symbol of Captain America to their own ends.\n\nWith help from allies including Sharon Carter, the Falcon, and the Daughters of Liberty, Cap must escape, expose the truth, and prove once more that the man and the ideal are inseparable. The arc combines prison-break tension with sweeping political stakes.\n\nThe conclusion reaffirms the central thesis of the run: that Captain America belongs not to a government but to the people, and that the dream is worth fighting for even when the nation falters.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 2020,
+            "end_year": 2021,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "Captain America by Ta-Nehisi Coates Vol. 4: All Die Young",
+                "format": "trade",
+                "issue_range": "Captain America (2018) #19-25",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "start_here": [
+      {
+        "order_index": 1,
+        "label": "Absolute Beginner",
+        "reason": "Start at the very beginning with Cap's origin story, a clean entry point that needs no prior knowledge and establishes everything the character stands for.",
+        "arc_slug": "birth-of-a-legend"
+      },
+      {
+        "order_index": 2,
+        "label": "Classic Fan",
+        "reason": "The Secret Empire is the Bronze Age peak that defines Cap's relationship with his country and shows the depth beneath the star-spangled costume.",
+        "arc_slug": "secret-empire-watergate"
+      },
+      {
+        "order_index": 3,
+        "label": "Modern Era",
+        "reason": "Ed Brubaker's The Winter Soldier is the definitive modern Captain America story and the basis for the acclaimed film, blending espionage, emotion, and action.",
+        "arc_slug": "the-winter-soldier"
+      }
+    ],
+    "relationships": [
+      {
+        "related_slug": "iron-man",
+        "relationship": "ally",
+        "summary": "Cap's longtime Avengers teammate and ideological foil, with whom he shares deep respect and occasional bitter conflict.",
+        "notes": "Their philosophical clash over government oversight drove the Civil War event (2006-2007), splitting the hero community in two."
+      },
+      {
+        "related_slug": "thor",
+        "relationship": "ally",
+        "summary": "A founding-era Avengers comrade and one of Cap's most trusted allies in battle.",
+        "notes": "The two have fought side by side since the early Avengers run; Cap is one of the few mortals Thor regards as a true equal and is famously worthy enough to lift Mjolnir."
+      },
+      {
+        "related_slug": "spider-man",
+        "relationship": "ally",
+        "summary": "A younger hero who looks up to Cap as a mentor and moral north star.",
+        "notes": "During Civil War, Spider-Man ultimately sided with Cap's anti-registration cause after being inspired by his stand for principle over law."
+      },
+      {
+        "related_slug": "avengers",
+        "relationship": "ally",
+        "summary": "The team Cap has led more than any other hero, serving as its tactical leader and moral center.",
+        "notes": "Revived by the Avengers in issue #4 (1964), Cap quickly became the team's field commander and its defining symbol of leadership."
+      },
+      {
+        "related_slug": "red-skull",
+        "relationship": "enemy",
+        "summary": "Cap's arch-nemesis and the embodiment of the fascist ideology he was created to oppose.",
+        "notes": "Created as Hitler's chief agent, the Skull has menaced Cap since the 1940s and orchestrated the conspiracy in The Death of Captain America."
+      },
+      {
+        "related_slug": "baron-zemo",
+        "relationship": "enemy",
+        "summary": "The aristocratic mastermind responsible for the wartime tragedy that defined Cap's modern life.",
+        "notes": "The original Baron Heinrich Zemo set the drone-plane trap that seemingly killed Bucky and froze Cap; his son Helmut continues the vendetta as a Masters of Evil leader."
+      },
+      {
+        "related_slug": "crossbones",
+        "relationship": "enemy",
+        "summary": "A brutal mercenary and the Red Skull's most loyal enforcer, a relentless physical threat to Cap.",
+        "notes": "Crossbones served as the trigger man in the assassination plot during The Death of Captain America storyline."
+      },
+      {
+        "related_slug": "arnim-zola",
+        "relationship": "enemy",
+        "summary": "A Nazi biochemist whose consciousness lives on in monstrous artificial bodies, perpetually scheming against Cap.",
+        "notes": "Zola imprisoned Steve Rogers in Dimension Z during Rick Remender's run, forcing him to survive for years in a world built by the geneticist's twisted science."
+      }
+    ],
+    "media": [
+      {
+        "media_type": "film",
+        "title": "Captain America: The First Avenger",
+        "release_year": 2011,
+        "watch_order": 1,
+        "platform": "Disney+",
+        "notes": "Chris Evans debuts as Steve Rogers in his World War II origin film, the foundation of the MCU's Captain America trilogy.",
+        "where_to_watch": "Disney+"
+      },
+      {
+        "media_type": "film",
+        "title": "Captain America: The Winter Soldier",
+        "release_year": 2014,
+        "watch_order": 2,
+        "platform": "Disney+",
+        "notes": "A political thriller adapting Brubaker's iconic storyline; widely considered one of the best MCU films.",
+        "where_to_watch": "Disney+"
+      },
+      {
+        "media_type": "film",
+        "title": "Captain America: Civil War",
+        "release_year": 2016,
+        "watch_order": 3,
+        "platform": "Disney+",
+        "notes": "Adapts the Cap vs. Iron Man conflict over superhuman oversight and introduces the MCU's Spider-Man and Black Panther.",
+        "where_to_watch": "Disney+"
+      },
+      {
+        "media_type": "animated_series",
+        "title": "The Avengers: Earth's Mightiest Heroes",
+        "release_year": 2010,
+        "watch_order": null,
+        "platform": "Disney+",
+        "notes": "An acclaimed animated series featuring Captain America as a central founding Avenger.",
+        "where_to_watch": "Disney+"
+      },
+      {
+        "media_type": "live_action",
+        "title": "The Falcon and the Winter Soldier",
+        "release_year": 2021,
+        "watch_order": null,
+        "platform": "Disney+",
+        "notes": "A Disney+ series exploring the legacy of the shield after Steve Rogers, following Sam Wilson and Bucky Barnes.",
+        "where_to_watch": "Disney+"
+      },
+      {
+        "media_type": "video_game",
+        "title": "Marvel's Avengers",
+        "release_year": 2020,
+        "watch_order": null,
+        "platform": "PlayStation, Xbox, PC",
+        "notes": "Captain America is a central playable hero in Crystal Dynamics' action title, with the campaign opening on A-Day.",
+        "where_to_watch": null
+      }
+    ]
+  },
+  "supporting": [
+    {
+      "slug": "red-skull",
+      "name": "Red Skull",
+      "entity_type": "character",
+      "publisher_slug": "marvel",
+      "real_name": "Johann Schmidt",
+      "first_appearance": "Captain America Comics #1 (1941)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Johann Schmidt rose from a brutal childhood to become Hitler's most feared agent, the Red Skull, a sadistic embodiment of fascism named for his crimson death's-head visage. Sustained across decades by suspended animation and cloned bodies, he has remained Captain America's ultimate nemesis. Wherever tyranny and hatred fester, the Red Skull is never far behind.",
+      "eras": [
+        {
+          "slug": "red-skull-golden-age",
+          "title": "Hitler's Agent",
+          "start_year": 1941,
+          "end_year": 1945,
+          "order_index": 1,
+          "summary": "Introduced as the Third Reich's master of terror and sabotage, the Red Skull becomes Captain America's defining wartime adversary.",
+          "arcs": [
+            {
+              "slug": "red-skull-rises",
+              "title": "The Red Skull Rises",
+              "logline": "Hitler's personal agent of terror declares war on America's new Super-Soldier.",
+              "summary": "The Red Skull debuts as a terrifying saboteur and assassin operating on Hitler's direct orders, spreading fear through the Allied ranks. His clashes with Captain America establish a rivalry that will span generations.\n\nCold, brilliant, and utterly without conscience, the Skull becomes the dark mirror of everything Cap represents. Their wartime duels are among the most memorable of the Golden Age.",
+              "spoiler": null,
+              "arc_type": "origin",
+              "start_year": 1941,
+              "end_year": 1945,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Golden Age Captain America Omnibus Vol. 1",
+                  "format": "omnibus",
+                  "issue_range": "Captain America Comics #1-12",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "red-skull-modern",
+          "title": "The Eternal Enemy",
+          "start_year": 2007,
+          "end_year": 2008,
+          "order_index": 2,
+          "summary": "Revived in the modern era, the Red Skull orchestrates elaborate conspiracies against Captain America from the shadows.",
+          "arcs": [
+            {
+              "slug": "red-skull-death-plot",
+              "title": "The Skull's Grand Design",
+              "logline": "The Red Skull masterminds a plot to destroy America from within and erase his oldest foe.",
+              "summary": "In Ed Brubaker's modern run, the Red Skull engineers a sprawling conspiracy involving cosmic technology, political manipulation, and a deadly assassination scheme aimed at Captain America and the nation he protects.\n\nIt is the Skull at his most patient and cunning, proving that his hatred has only sharpened with time. The plot drives the events of The Death of Captain America.",
+              "spoiler": null,
+              "arc_type": "tie-in",
+              "start_year": 2007,
+              "end_year": 2008,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Captain America: The Death of Captain America - The Complete Collection",
+                  "format": "trade",
+                  "issue_range": "Captain America (2005) #25-42",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Start Here",
+          "reason": "See the Red Skull at the height of his powers as the architect of the conspiracy in Brubaker's acclaimed modern run.",
+          "arc_slug": "red-skull-death-plot"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "captain-america",
+          "relationship": "enemy",
+          "summary": "The Red Skull is Captain America's arch-nemesis and the fascist antithesis of everything Cap stands for.",
+          "notes": "Their feud began in Captain America Comics #1 (1941) and has continued across every era of the character."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "film",
+          "title": "Captain America: The First Avenger",
+          "release_year": 2011,
+          "watch_order": null,
+          "platform": "Disney+",
+          "notes": "Hugo Weaving portrays the Red Skull as the leader of HYDRA seeking the Tesseract.",
+          "where_to_watch": "Disney+"
+        },
+        {
+          "media_type": "film",
+          "title": "Avengers: Infinity War",
+          "release_year": 2018,
+          "watch_order": null,
+          "platform": "Disney+",
+          "notes": "The Red Skull reappears as the cursed Stonekeeper guarding the Soul Stone on Vormir.",
+          "where_to_watch": "Disney+"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "The Avengers: Earth's Mightiest Heroes",
+          "release_year": 2010,
+          "watch_order": null,
+          "platform": "Disney+",
+          "notes": "Appears as a recurring HYDRA antagonist opposing Captain America and the Avengers.",
+          "where_to_watch": "Disney+"
+        }
+      ]
+    },
+    {
+      "slug": "baron-zemo",
+      "name": "Baron Zemo",
+      "entity_type": "character",
+      "publisher_slug": "marvel",
+      "real_name": "Helmut Zemo",
+      "first_appearance": "Avengers #6 (1964)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "The Baron Zemo title has passed through a line of aristocratic German scientists devoted to conquest and vengeance against Captain America. Heinrich Zemo set the wartime trap that doomed Bucky and froze Cap, while his son Helmut inherited the grudge and leads the Masters of Evil. Brilliant, ruthless, and bound by a family legacy of hatred, Zemo is one of Cap's most persistent foes.",
+      "eras": [
+        {
+          "slug": "zemo-classic",
+          "title": "The Masters of Evil",
+          "start_year": 1964,
+          "end_year": 1987,
+          "order_index": 1,
+          "summary": "The Zemo legacy menaces Captain America and the Avengers, from Heinrich's wartime schemes to Helmut's devastating siege of Avengers Mansion.",
+          "arcs": [
+            {
+              "slug": "zemo-under-siege",
+              "title": "Under Siege",
+              "logline": "Helmut Zemo assembles the Masters of Evil for a brutal assault on the Avengers' home.",
+              "summary": "Helmut Zemo gathers the largest and most dangerous incarnation of the Masters of Evil and launches a devastating siege on Avengers Mansion, capturing and torturing members in one of the team's darkest hours.\n\nThe story is a landmark Avengers epic that showcases Zemo as a genuinely menacing strategist, settling old family scores against Captain America in the process.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 1986,
+              "end_year": 1987,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Avengers: Under Siege",
+                  "format": "trade",
+                  "issue_range": "Avengers #270-277",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "zemo-thunderbolts",
+          "title": "Thunderbolts",
+          "start_year": 1997,
+          "end_year": 1998,
+          "order_index": 2,
+          "summary": "Helmut Zemo reinvents the Masters of Evil as the heroic Thunderbolts in an elaborate scheme to win the world's trust.",
+          "arcs": [
+            {
+              "slug": "zemo-justice-like-lightning",
+              "title": "Justice, Like Lightning",
+              "logline": "Disguised as new heroes, Zemo's villains step into the void left by the missing Avengers.",
+              "summary": "With the Avengers presumed dead, Baron Zemo unveils the Thunderbolts, a team of seemingly new heroes who are secretly his Masters of Evil in disguise. The shocking twist redefined the villain as a master manipulator.\n\nThe series complicates Zemo's role, as some members begin to embrace heroism for real, turning his grand con into something he never anticipated.",
+              "spoiler": "The heroic Thunderbolts are secretly Baron Zemo's Masters of Evil in disguise.",
+              "arc_type": "flagship",
+              "start_year": 1997,
+              "end_year": 1998,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Thunderbolts Classic Vol. 1",
+                  "format": "trade",
+                  "issue_range": "Thunderbolts #1-9",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Start Here",
+          "reason": "Under Siege showcases Helmut Zemo at his most dangerous in a definitive Avengers epic.",
+          "arc_slug": "zemo-under-siege"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "captain-america",
+          "relationship": "enemy",
+          "summary": "The Zemo legacy carries a generational vendetta against Captain America rooted in the wartime tragedy of Bucky's apparent death.",
+          "notes": "Heinrich Zemo's drone-plane trap seemingly killed Bucky and froze Cap, a grudge his son Helmut continues to pursue."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "film",
+          "title": "Captain America: Civil War",
+          "release_year": 2016,
+          "watch_order": null,
+          "platform": "Disney+",
+          "notes": "Daniel Bruhl plays Helmut Zemo, who manipulates the Avengers into tearing themselves apart.",
+          "where_to_watch": "Disney+"
+        },
+        {
+          "media_type": "live_action",
+          "title": "The Falcon and the Winter Soldier",
+          "release_year": 2021,
+          "watch_order": null,
+          "platform": "Disney+",
+          "notes": "Bruhl returns as a charismatic and dangerous Zemo aiding Sam and Bucky against the Flag Smashers.",
+          "where_to_watch": "Disney+"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "The Avengers: Earth's Mightiest Heroes",
+          "release_year": 2010,
+          "watch_order": null,
+          "platform": "Disney+",
+          "notes": "Helmut Zemo appears as a leader of the Masters of Evil opposing the Avengers.",
+          "where_to_watch": "Disney+"
+        }
+      ]
+    },
+    {
+      "slug": "crossbones",
+      "name": "Crossbones",
+      "entity_type": "character",
+      "publisher_slug": "marvel",
+      "real_name": "Brock Rumlow",
+      "first_appearance": "Captain America #359 (1989)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Brock Rumlow is a vicious mercenary and combat specialist who rose through criminal ranks to become Crossbones, the Red Skull's most trusted and brutal enforcer. A peerless hand-to-hand fighter and marksman, he serves as a relentless physical threat to Captain America. Where the Skull schemes, Crossbones is the fist that strikes.",
+      "eras": [
+        {
+          "slug": "crossbones-modern",
+          "title": "The Skull's Enforcer",
+          "start_year": 1989,
+          "end_year": 2008,
+          "order_index": 1,
+          "summary": "Crossbones serves as the Red Skull's deadly right hand, carrying out the villain's most violent schemes against Captain America.",
+          "arcs": [
+            {
+              "slug": "crossbones-assassin",
+              "title": "The Trigger Man",
+              "logline": "The Red Skull's enforcer is unleashed as the central weapon in a plot to destroy Captain America.",
+              "summary": "In Ed Brubaker's modern run, Crossbones is positioned as the brutal executor of the Red Skull's grand conspiracy, serving as the assassin at the heart of The Death of Captain America.\n\nHis savagery and lethal skill make him a constant physical danger, contrasting with the Skull's cold strategy. Crossbones embodies the violent muscle behind the plot.",
+              "spoiler": null,
+              "arc_type": "tie-in",
+              "start_year": 2007,
+              "end_year": 2008,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Captain America: The Death of Captain America - The Complete Collection",
+                  "format": "trade",
+                  "issue_range": "Captain America (2005) #25-42",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "captain-america",
+          "relationship": "enemy",
+          "summary": "Crossbones is a relentless mercenary enforcer who repeatedly serves as the physical instrument of plots against Captain America.",
+          "notes": "As the Red Skull's chief enforcer, he played the role of trigger man in The Death of Captain America."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "film",
+          "title": "Captain America: The Winter Soldier",
+          "release_year": 2014,
+          "watch_order": null,
+          "platform": "Disney+",
+          "notes": "Frank Grillo introduces Brock Rumlow as a STRIKE team leader secretly loyal to HYDRA.",
+          "where_to_watch": "Disney+"
+        },
+        {
+          "media_type": "film",
+          "title": "Captain America: Civil War",
+          "release_year": 2016,
+          "watch_order": null,
+          "platform": "Disney+",
+          "notes": "Grillo returns as the scarred Crossbones in the film's opening action sequence.",
+          "where_to_watch": "Disney+"
+        },
+        {
+          "media_type": "video_game",
+          "title": "Marvel's Avengers",
+          "release_year": 2020,
+          "watch_order": null,
+          "platform": "PlayStation, Xbox, PC",
+          "notes": "Crossbones appears as a boss antagonist in the game's campaign.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "arnim-zola",
+      "name": "Arnim Zola",
+      "entity_type": "character",
+      "publisher_slug": "marvel",
+      "real_name": "Arnim Zola",
+      "first_appearance": "Captain America #208 (1977)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "A Nazi biochemist and genetic engineer, Arnim Zola pioneered grotesque experiments that allowed him to transfer his consciousness into artificial bodies, achieving a twisted form of immortality. Often appearing as a headless android with his face projected on its chest, he is a recurring architect of horror in Captain America's life. His mastery of cloning and bio-engineering makes him one of Cap's most disturbing foes.",
+      "eras": [
+        {
+          "slug": "zola-bronze-age",
+          "title": "The Bio-Fanatic",
+          "start_year": 1977,
+          "end_year": 1980,
+          "order_index": 1,
+          "summary": "Introduced by Jack Kirby, Arnim Zola brings nightmarish genetic science to Captain America's world.",
+          "arcs": [
+            {
+              "slug": "zola-debut",
+              "title": "The Living Laboratory",
+              "logline": "Cap uncovers a Nazi geneticist whose monstrous creations defy the boundaries of life and death.",
+              "summary": "Arnim Zola debuts in Jack Kirby's return to Captain America, revealed as a surviving Nazi scientist whose bizarre bio-engineering produced an army of monsters and his own immortal android form.\n\nHis grotesque experiments and connection to the Red Skull establish him as a uniquely unsettling threat in Cap's rogues' gallery.",
+              "spoiler": null,
+              "arc_type": "origin",
+              "start_year": 1977,
+              "end_year": 1978,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Captain America by Jack Kirby Omnibus",
+                  "format": "omnibus",
+                  "issue_range": "Captain America #193-214",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "zola-dimension-z",
+          "title": "Dimension Z",
+          "start_year": 2012,
+          "end_year": 2014,
+          "order_index": 2,
+          "summary": "Zola builds an entire hostile world and traps Captain America within it, raising the stakes of his villainy to cosmic scale.",
+          "arcs": [
+            {
+              "slug": "zola-castaway",
+              "title": "Castaway in Dimension Z",
+              "logline": "Stranded in a realm of Zola's design, Cap must survive years of the geneticist's relentless cruelty.",
+              "summary": "In Rick Remender's run, Arnim Zola captures Captain America and strands him in Dimension Z, a nightmarish alien world entirely shaped by Zola's twisted science. Cap is forced to survive for years and even raise a child amid constant danger.\n\nIt is Zola at his most ambitious and personal, testing Cap's body and principles to the breaking point in a sprawling science-fiction saga.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 2012,
+              "end_year": 2013,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Captain America by Rick Remender Omnibus",
+                  "format": "omnibus",
+                  "issue_range": "Captain America (2012) #1-25",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Start Here",
+          "reason": "Castaway in Dimension Z is Zola's most ambitious scheme and a bold modern showcase for the character.",
+          "arc_slug": "zola-castaway"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "captain-america",
+          "relationship": "enemy",
+          "summary": "Arnim Zola is a recurring genetic-engineering nemesis whose horrifying experiments repeatedly target Captain America.",
+          "notes": "Zola imprisoned Steve Rogers in Dimension Z for years during Rick Remender's acclaimed run."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "film",
+          "title": "Captain America: The First Avenger",
+          "release_year": 2011,
+          "watch_order": null,
+          "platform": "Disney+",
+          "notes": "Toby Jones portrays Arnim Zola as HYDRA's lead scientist under the Red Skull.",
+          "where_to_watch": "Disney+"
+        },
+        {
+          "media_type": "film",
+          "title": "Captain America: The Winter Soldier",
+          "release_year": 2014,
+          "watch_order": null,
+          "platform": "Disney+",
+          "notes": "Jones returns as Zola, his consciousness preserved within a vast computer system.",
+          "where_to_watch": "Disney+"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "The Avengers: Earth's Mightiest Heroes",
+          "release_year": 2010,
+          "watch_order": null,
+          "platform": "Disney+",
+          "notes": "Arnim Zola appears as a HYDRA scientist opposing Captain America.",
+          "where_to_watch": "Disney+"
+        }
+      ]
+    }
+  ]
+}

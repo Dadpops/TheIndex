@@ -1,0 +1,1150 @@
+{
+  "primary": {
+    "slug": "teen-titans",
+    "name": "Teen Titans",
+    "entity_type": "team",
+    "publisher_slug": "dc",
+    "real_name": null,
+    "first_appearance": "The Brave and the Bold #54 (1964)",
+    "logo_url": null,
+    "cover_image_url": null,
+    "short_bio": "The Teen Titans are DC Comics' premier team of young heroes, originally formed by the teenage sidekicks of the Justice League and reinvented across generations. United by friendship as much as duty, they balance world-saving adventures with the growing pains of adolescence. Over the decades the roster has shifted dramatically, but the team remains DC's enduring symbol of heroes coming of age.",
+    "eras": [
+      {
+        "slug": "silver-age-origins",
+        "title": "Silver Age Origins",
+        "start_year": 1964,
+        "end_year": 1973,
+        "order_index": 1,
+        "summary": "The team debuts as a gathering of Justice League sidekicks who realize they work best together. Across early try-out stories and their first ongoing series, Robin, Kid Flash, Aqualad and Wonder Girl establish the Teen Titans as a distinct franchise aimed at younger readers, eventually adding Speedy to the lineup.",
+        "arcs": [
+          {
+            "slug": "the-brave-and-the-bold-debut",
+            "title": "The Brave and the Bold Debut",
+            "logline": "Three teenage sidekicks team up for the first time to solve a crisis their mentors are too busy to handle.",
+            "summary": "The concept of the Teen Titans first crystallizes when Robin, Kid Flash and Aqualad answer a distress call in a small town, working as a unit without their adult mentors. The young heroes discover that their combined skills and easy camaraderie make them formidable in their own right.\n\nThe try-out story tests whether DC's sidekick characters could carry adventures on their own. Its success convinced editors to keep the trio together and expand the concept.\n\nThe debut establishes the core appeal that would define the franchise for decades: heroes young enough to relate to the readers, facing threats scaled to their experience while learning to trust one another. It plants the seeds for a full team.",
+            "spoiler": null,
+            "arc_type": "origin",
+            "start_year": 1964,
+            "end_year": 1965,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "Teen Titans: The Silver Age Omnibus",
+                "format": "omnibus",
+                "issue_range": "The Brave and the Bold #54, #60; Showcase #59",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "first-ongoing-series",
+            "title": "The First Ongoing Series",
+            "logline": "Now a full team with a name, the young heroes take on mod villains and youth-culture crises of the 1960s.",
+            "summary": "With Wonder Girl joining and the team officially christened, the Teen Titans launch their own title and quickly become DC's voice for 1960s youth culture. Stories often pit the heroes against threats aimed squarely at teenagers, with the Titans frequently acting as mediators between the adult world and their own generation.\n\nSpeedy rotates in and out of the roster, and the team develops a clubhouse, a distinct slang-heavy voice, and a rogues' gallery of their own. The book leans into mod fashion, social causes and a lighter tone than the adult Justice League.\n\nThough rooted in its era, this run cements the Titans as a permanent fixture of the DC Universe and gives later writers a foundation of relationships to build on.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 1966,
+            "end_year": 1973,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "Teen Titans: The Silver Age Omnibus",
+                "format": "omnibus",
+                "issue_range": "Teen Titans #1-24",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "new-teen-titans",
+        "title": "The New Teen Titans",
+        "start_year": 1980,
+        "end_year": 1996,
+        "order_index": 2,
+        "summary": "Marv Wolfman and George Perez relaunch the team with a new lineup that becomes one of DC's best-selling and most acclaimed series. Adding Starfire, Raven and Cyborg to returning members, the era is defined by deep character drama, iconic villains, and landmark storylines that rival the X-Men for soap-operatic ambition.",
+        "arcs": [
+          {
+            "slug": "the-judas-contract",
+            "title": "The Judas Contract",
+            "logline": "The mercenary Deathstroke closes in on the Titans with the help of a new recruit who is not what she seems.",
+            "summary": "Slade Wilson, the assassin Deathstroke, has inherited a contract on the Teen Titans, and he executes it through a long con that strikes at the heart of the team's trust. The storyline pays off subplots seeded across years of issues, building to a betrayal that reshapes the group.\n\nWidely regarded as the definitive Teen Titans story, The Judas Contract showcases Wolfman and Perez at their peak, weaving espionage, tragedy and personal stakes into a tight, character-driven arc. It also introduces a pivotal new hero in the process.\n\nThe arc's emotional fallout, betrayal, loss and hard-won growth, defines the modern team and establishes Deathstroke as the Titans' signature antagonist for generations to come.",
+            "spoiler": "Terra is revealed to be a double agent working for Deathstroke all along, and she dies during the climactic confrontation.",
+            "arc_type": "flagship",
+            "start_year": 1984,
+            "end_year": 1984,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "The New Teen Titans: The Judas Contract",
+                "format": "trade",
+                "issue_range": "Tales of the Teen Titans #42-44 & Annual #3",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9781401294540",
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "the-terror-of-trigon",
+            "title": "The Terror of Trigon",
+            "logline": "Raven's demonic father makes his bid to conquer Earth, and the Titans must save their teammate's soul.",
+            "summary": "The interdimensional demon Trigon, Raven's monstrous father, finally moves to claim Earth and corrupt his daughter. Having been founded in part to oppose him, the New Teen Titans face their most cosmic and personal threat as Raven's heritage threatens to consume her.\n\nThe arc deepens Raven's tragic backstory and tests the bonds of the team against a foe of nearly limitless power. It blends horror, mythology and the close-knit found-family dynamic that defines the Wolfman-Perez run.\n\nResolving long-running threads about Raven's origin and the cult that birthed her, the storyline is a cornerstone of the era and a showcase for one of the team's most enduring characters.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 1984,
+            "end_year": 1985,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "The New Teen Titans: The Terror of Trigon",
+                "format": "trade",
+                "issue_range": "The New Teen Titans (1984) #1-7",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9781401268473",
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "the-cult-of-brother-blood",
+            "title": "The Cult of Brother Blood",
+            "logline": "A charismatic immortal cult leader sets his deadly church against the Titans.",
+            "summary": "Brother Blood, the latest in a centuries-long line of cult patriarchs sustained by blood rituals, draws the Teen Titans into conflict as his fanatical Church of Blood spreads its influence. When a member of the team becomes entangled with the cult, the Titans must confront an enemy who weaponizes faith and devotion.\n\nThe storyline expands the New Teen Titans' rogues' gallery with a genuinely sinister, ideologically driven villain, contrasting the team's youthful idealism against organized fanaticism.\n\nBrother Blood becomes a recurring nemesis across the era, and these early confrontations establish the menace that later incarnations of the team, including the animated series, would draw upon.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 1981,
+            "end_year": 1982,
+            "order_index": 3,
+            "reading_entries": [
+              {
+                "title": "The New Teen Titans Omnibus Vol. 1",
+                "format": "omnibus",
+                "issue_range": "The New Teen Titans (1980) #21-23, #27-31",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "modern-titans",
+        "title": "Modern Titans",
+        "start_year": 2003,
+        "end_year": 2024,
+        "order_index": 3,
+        "summary": "A new generation takes the spotlight as Geoff Johns relaunches the team for the 2000s, bridging the original sidekicks with younger heroes. Through the Johns era, the New 52 reboot, and Rebirth, the Teen Titans continually reinvent themselves while honoring their legacy and mentorship themes.",
+        "arcs": [
+          {
+            "slug": "a-kids-game",
+            "title": "A Kid's Game",
+            "logline": "A new Teen Titans assembles as veteran members mentor a fresh class of young heroes.",
+            "summary": "In the wake of tragedy, the surviving original Titans decide to pay forward what they learned by mentoring a new generation. Geoff Johns and Mike McKone relaunch the franchise with a lineup that pairs grown-up legacy heroes with younger members, reframing the team around teaching and inheritance.\n\nThe opening arc quickly establishes the new dynamic and throws the rebuilt team against a familiar, formidable threat that tests whether the kids are ready. It re-centers the book on the mentorship themes at the heart of the Titans concept.\n\nThis run revitalizes the franchise for a new decade, blending nostalgia for the Wolfman-Perez era with a forward-looking cast and setting up years of acclaimed stories.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 2003,
+            "end_year": 2004,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "Teen Titans: A Kid's Game",
+                "format": "trade",
+                "issue_range": "Teen Titans (2003) #1-7",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9781401203085",
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "the-future-is-now",
+            "title": "The Future Is Now",
+            "logline": "A glimpse of a dark possible future forces the young Titans to confront what they might become.",
+            "summary": "The team is hurled into a grim future where their grown-up selves have become tyrants, confronting the heroes with the worst version of their own potential. The story raises the stakes of the Johns run and ties the new Titans into the broader fabric of the DC Universe's timeline.\n\nThe arc deepens characterization for the younger members, forcing each to reckon with destiny, legacy and the choices that separate a hero from a villain. It also reinforces the mentorship throughline as veterans try to steer the kids away from a dark path.\n\nA fan-favorite storyline of the era, it demonstrates how the modern Titans book balanced superheroics with the introspective coming-of-age drama that defines the franchise.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 2004,
+            "end_year": 2005,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "Teen Titans: The Future Is Now",
+                "format": "trade",
+                "issue_range": "Teen Titans (2003) #15-23",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9781401206857",
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "start_here": [
+      {
+        "order_index": 1,
+        "label": "Start with the definitive Titans story",
+        "reason": "The Judas Contract is the single most acclaimed Teen Titans story and the perfect showcase of the team's relationships, stakes and signature villain.",
+        "arc_slug": "the-judas-contract"
+      },
+      {
+        "order_index": 2,
+        "label": "Meet the modern team",
+        "reason": "A Kid's Game is the most accessible modern jumping-on point, reintroducing the franchise with clear mentorship themes for new readers.",
+        "arc_slug": "a-kids-game"
+      },
+      {
+        "order_index": 3,
+        "label": "Understand Raven and Trigon",
+        "reason": "The Terror of Trigon delivers the team's most personal cosmic conflict and the backstory that anchors the popular animated incarnations.",
+        "arc_slug": "the-terror-of-trigon"
+      }
+    ],
+    "relationships": [
+      {
+        "related_slug": "justice-league",
+        "relationship": "ally",
+        "summary": "The Titans began as the proteges of Justice League members and remain the League's most trusted younger counterpart.",
+        "notes": "Many Titans graduate into Justice League membership, reinforcing the mentorship legacy between the two teams."
+      },
+      {
+        "related_slug": "the-flash",
+        "relationship": "ally",
+        "summary": "The Flash's legacy is woven into the Titans through Kid Flash, a founding member, making the speedster a longtime ally and mentor figure.",
+        "notes": "Wally West served on the Titans for years before inheriting the Flash mantle."
+      },
+      {
+        "related_slug": "dick-grayson",
+        "relationship": "ally",
+        "summary": "As the team's original leader, Dick Grayson is the heart and soul of the Titans across nearly every incarnation.",
+        "notes": "His leadership defines the team even after he becomes Nightwing."
+      },
+      {
+        "related_slug": "cyborg",
+        "relationship": "ally",
+        "summary": "Cyborg is one of the New Teen Titans' founding modern members and a steadfast pillar of the team.",
+        "notes": "His tenure with the Titans long predates his later Justice League membership."
+      },
+      {
+        "related_slug": "deathstroke",
+        "relationship": "enemy",
+        "summary": "Deathstroke the Terminator is the Teen Titans' signature archenemy, a master assassin who has hunted them for decades.",
+        "notes": "His vendetta drives The Judas Contract and countless subsequent conflicts."
+      },
+      {
+        "related_slug": "trigon",
+        "relationship": "enemy",
+        "summary": "The interdimensional demon Trigon is Raven's father and one of the most powerful cosmic threats the team has ever faced.",
+        "notes": "The team was partly assembled to oppose his invasion of Earth."
+      },
+      {
+        "related_slug": "brother-blood",
+        "relationship": "enemy",
+        "summary": "Brother Blood is an immortal cult leader whose Church of Blood repeatedly menaces the Titans.",
+        "notes": "He is a recurring ideological villain across multiple eras and the animated series."
+      },
+      {
+        "related_slug": "terra",
+        "relationship": "enemy",
+        "summary": "Terra infiltrated the team as a recruit while secretly serving Deathstroke, becoming one of comics' most infamous traitors.",
+        "notes": "Her betrayal is the emotional core of The Judas Contract."
+      }
+    ],
+    "media": [
+      {
+        "media_type": "animated_series",
+        "title": "Teen Titans",
+        "release_year": 2003,
+        "watch_order": 1,
+        "platform": "Cartoon Network",
+        "notes": "The beloved anime-influenced series centered on Robin, Starfire, Raven, Cyborg and Beast Boy.",
+        "where_to_watch": "Max"
+      },
+      {
+        "media_type": "animated_series",
+        "title": "Teen Titans Go!",
+        "release_year": 2013,
+        "watch_order": 2,
+        "platform": "Cartoon Network",
+        "notes": "A comedic, slice-of-life reimagining of the 2003 cast that became a long-running hit.",
+        "where_to_watch": "Max"
+      },
+      {
+        "media_type": "live_action",
+        "title": "Titans",
+        "release_year": 2018,
+        "watch_order": 3,
+        "platform": "DC Universe / HBO Max",
+        "notes": "A darker, mature live-action series following Dick Grayson and a new generation of Titans.",
+        "where_to_watch": "Max"
+      },
+      {
+        "media_type": "film",
+        "title": "Teen Titans: The Judas Contract",
+        "release_year": 2017,
+        "watch_order": 4,
+        "platform": "DC Universe Animated Original Movies",
+        "notes": "An animated film adaptation of the landmark comic storyline.",
+        "where_to_watch": "Max"
+      }
+    ],
+    "team_members": [
+      {
+        "character_slug": "dick-grayson",
+        "era_slug": null,
+        "role": "leader",
+        "notes": "The original Robin and founding leader; later operates as Nightwing while still anchoring the team."
+      },
+      {
+        "character_slug": "the-flash",
+        "era_slug": "silver-age-origins",
+        "role": "founder",
+        "notes": "Kid Flash (Wally West) was a founding member before inheriting the Flash mantle."
+      },
+      {
+        "character_slug": "starfire",
+        "era_slug": "new-teen-titans",
+        "role": "member",
+        "notes": "The Tamaranean princess Koriand'r joined in the New Teen Titans era and became a core member."
+      },
+      {
+        "character_slug": "raven",
+        "era_slug": "new-teen-titans",
+        "role": "founder",
+        "notes": "The empath who assembled the New Teen Titans to oppose her father Trigon."
+      },
+      {
+        "character_slug": "cyborg",
+        "era_slug": "new-teen-titans",
+        "role": "founder",
+        "notes": "Victor Stone was a founding member of the New Teen Titans long before joining the Justice League."
+      },
+      {
+        "character_slug": "beast-boy",
+        "era_slug": "new-teen-titans",
+        "role": "member",
+        "notes": "Formerly Changeling; a fan-favorite shapeshifter and the team's comic relief."
+      }
+    ]
+  },
+  "supporting": [
+    {
+      "slug": "deathstroke",
+      "name": "Deathstroke",
+      "entity_type": "character",
+      "publisher_slug": "dc",
+      "real_name": "Slade Wilson",
+      "first_appearance": "The New Teen Titans #2 (1980)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Slade Wilson, known as Deathstroke the Terminator, is the world's deadliest mercenary, enhanced to superhuman levels by a military experiment. A brilliant tactician and assassin, he is best known as the archenemy of the Teen Titans. His ruthlessness is matched only by his strict, twisted code of honor.",
+      "eras": [
+        {
+          "slug": "deathstroke-classic",
+          "title": "The Terminator",
+          "start_year": 1980,
+          "end_year": 1996,
+          "order_index": 1,
+          "summary": "Introduced as a hired killer stalking the New Teen Titans, Deathstroke evolves from a one-note assassin into a complex antagonist with his own code and tragic family history.",
+          "arcs": [
+            {
+              "slug": "deathstroke-judas-contract",
+              "title": "The Judas Contract",
+              "logline": "A mercenary inherits a contract on the Titans and executes a years-in-the-making betrayal.",
+              "summary": "Deathstroke takes up the contract on the Teen Titans that his late son failed to complete, orchestrating an elaborate scheme to destroy them from within. The storyline reveals the depths of his cunning and the personal history that drives him.\n\nIt is the defining Deathstroke story, transforming him from a recurring foe into one of DC's most respected villains and establishing the moral ambiguity that fans would come to love.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 1984,
+              "end_year": 1984,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "The New Teen Titans: The Judas Contract",
+                  "format": "trade",
+                  "issue_range": "Tales of the Teen Titans #42-44 & Annual #3",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": "9781401294540",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "teen-titans",
+          "relationship": "enemy",
+          "summary": "Deathstroke is the Teen Titans' signature archenemy, hunting them across generations.",
+          "notes": "His vendetta defines the New Teen Titans era."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "live_action",
+          "title": "Titans",
+          "release_year": 2019,
+          "watch_order": 1,
+          "platform": "DC Universe / HBO Max",
+          "notes": "Esai Morales portrayed Slade Wilson as the season two antagonist.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "film",
+          "title": "Teen Titans: The Judas Contract",
+          "release_year": 2017,
+          "watch_order": 2,
+          "platform": "DC Universe Animated Original Movies",
+          "notes": "Deathstroke is the central villain of the animated adaptation.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "video_game",
+          "title": "Injustice 2",
+          "release_year": 2017,
+          "watch_order": 3,
+          "platform": "Multiplatform",
+          "notes": "Deathstroke appears as a playable fighter.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "trigon",
+      "name": "Trigon",
+      "entity_type": "character",
+      "publisher_slug": "dc",
+      "real_name": "Trigon",
+      "first_appearance": "The New Teen Titans #4 (1980)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Trigon is an immensely powerful interdimensional demon who rules countless worlds through conquest and corruption. As the father of the Titan Raven, he is bound to the team by a personal and cosmic conflict. He represents one of the greatest existential threats the Teen Titans have ever faced.",
+      "eras": [
+        {
+          "slug": "trigon-classic",
+          "title": "The Demon Father",
+          "start_year": 1980,
+          "end_year": 1985,
+          "order_index": 1,
+          "summary": "Trigon looms over the early New Teen Titans as the cosmic threat that motivated Raven to form the team, eventually launching a full invasion of Earth.",
+          "arcs": [
+            {
+              "slug": "trigon-terror",
+              "title": "The Terror of Trigon",
+              "logline": "A demon lord moves to conquer Earth and reclaim his daughter's soul.",
+              "summary": "Trigon finally launches his bid to dominate Earth and corrupt Raven, forcing the Titans into their most apocalyptic confrontation. The arc explores his mythology and the cult that brought him into the world.\n\nThe storyline cements Trigon as the franchise's premier cosmic villain and pays off years of foreshadowing about Raven's heritage.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 1984,
+              "end_year": 1985,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "The New Teen Titans: The Terror of Trigon",
+                  "format": "trade",
+                  "issue_range": "The New Teen Titans (1984) #1-7",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": "9781401268473",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "teen-titans",
+          "relationship": "enemy",
+          "summary": "Trigon is the cosmic demon the Teen Titans were partly formed to oppose.",
+          "notes": "His connection to Raven makes the conflict deeply personal."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "animated_series",
+          "title": "Teen Titans",
+          "release_year": 2005,
+          "watch_order": 1,
+          "platform": "Cartoon Network",
+          "notes": "Trigon serves as the overarching villain of the series' fourth season.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "live_action",
+          "title": "Titans",
+          "release_year": 2019,
+          "watch_order": 2,
+          "platform": "DC Universe / HBO Max",
+          "notes": "Trigon appears as a major threat tied to Rachel Roth's storyline.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "film",
+          "title": "Justice League vs. Teen Titans",
+          "release_year": 2016,
+          "watch_order": 3,
+          "platform": "DC Universe Animated Original Movies",
+          "notes": "Trigon is the central antagonist of the animated film.",
+          "where_to_watch": "Max"
+        }
+      ]
+    },
+    {
+      "slug": "brother-blood",
+      "name": "Brother Blood",
+      "entity_type": "character",
+      "publisher_slug": "dc",
+      "real_name": "Sebastian Blood",
+      "first_appearance": "The New Teen Titans #21 (1982)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Brother Blood is the title held by a centuries-long line of cult leaders who lead the sinister Church of Blood. Sustained by dark rituals and fanatical devotion, he wields charisma as a weapon and commands armies of zealots. He is a recurring ideological nemesis of the Teen Titans.",
+      "eras": [
+        {
+          "slug": "brother-blood-church",
+          "title": "Church of Blood",
+          "start_year": 1982,
+          "end_year": 1996,
+          "order_index": 1,
+          "summary": "Brother Blood spreads his blood cult across the world, repeatedly clashing with the Titans as he seeks power and immortality.",
+          "arcs": [
+            {
+              "slug": "brother-blood-rising",
+              "title": "Rise of the Church of Blood",
+              "logline": "A charismatic immortal builds a fanatical church and sets it against the young heroes.",
+              "summary": "Brother Blood's Church of Blood expands its reach, ensnaring innocents and even members of the Titans' orbit in its web of devotion. The team must confront an enemy whose true weapon is belief itself.\n\nThe arc establishes Brother Blood as a uniquely unsettling villain who weaponizes faith, distinguishing him from the team's more conventional foes.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 1982,
+              "end_year": 1983,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "The New Teen Titans Omnibus Vol. 1",
+                  "format": "omnibus",
+                  "issue_range": "The New Teen Titans (1980) #21-23, #27-31",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "teen-titans",
+          "relationship": "enemy",
+          "summary": "Brother Blood's cult repeatedly menaces the Teen Titans across multiple eras.",
+          "notes": "He is a recurring antagonist in both comics and the animated series."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "animated_series",
+          "title": "Teen Titans",
+          "release_year": 2005,
+          "watch_order": 1,
+          "platform": "Cartoon Network",
+          "notes": "Brother Blood serves as the primary villain of the series' fifth season.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "Teen Titans Go!",
+          "release_year": 2014,
+          "watch_order": 2,
+          "platform": "Cartoon Network",
+          "notes": "Appears in comedic guest villain roles.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "film",
+          "title": "Teen Titans: The Judas Contract",
+          "release_year": 2017,
+          "watch_order": 3,
+          "platform": "DC Universe Animated Original Movies",
+          "notes": "A version of Brother Blood appears as a cult leader in the film.",
+          "where_to_watch": "Max"
+        }
+      ]
+    },
+    {
+      "slug": "terra",
+      "name": "Terra",
+      "entity_type": "character",
+      "publisher_slug": "dc",
+      "real_name": "Tara Markov",
+      "first_appearance": "The New Teen Titans #26 (1982)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Tara Markov, the geokinetic hero called Terra, can move and reshape earth and stone with her mind. Introduced as a promising new Titans recruit, she became one of comics' most notorious figures for her hidden allegiances. Her story is inseparable from the team's most famous storyline.",
+      "eras": [
+        {
+          "slug": "terra-titans",
+          "title": "The Recruit",
+          "start_year": 1982,
+          "end_year": 1984,
+          "order_index": 1,
+          "summary": "Terra joins the New Teen Titans as a powerful young earth-mover, quickly becoming entangled in the events leading to The Judas Contract.",
+          "arcs": [
+            {
+              "slug": "terra-judas",
+              "title": "The Judas Contract",
+              "logline": "A new recruit's hidden loyalties bring the team to the brink of ruin.",
+              "summary": "Terra's tenure with the Titans builds toward the devastating revelations of The Judas Contract, in which her true allegiance reshapes the team forever. Her arc is a masterclass in long-form character subterfuge.\n\nThe storyline remains one of the most discussed in DC history, and Terra's role in it has defined every subsequent interpretation of the character.",
+              "spoiler": "Terra is secretly a deep-cover agent for Deathstroke and dies during the storyline's climax.",
+              "arc_type": "flagship",
+              "start_year": 1984,
+              "end_year": 1984,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "The New Teen Titans: The Judas Contract",
+                  "format": "trade",
+                  "issue_range": "Tales of the Teen Titans #42-44 & Annual #3",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": "9781401294540",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "teen-titans",
+          "relationship": "enemy",
+          "summary": "Terra infiltrated the Teen Titans while secretly working against them, becoming an infamous traitor.",
+          "notes": "Her betrayal is the emotional core of The Judas Contract."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "animated_series",
+          "title": "Teen Titans",
+          "release_year": 2004,
+          "watch_order": 1,
+          "platform": "Cartoon Network",
+          "notes": "Terra is featured prominently in the second season's central storyline.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "film",
+          "title": "Teen Titans: The Judas Contract",
+          "release_year": 2017,
+          "watch_order": 2,
+          "platform": "DC Universe Animated Original Movies",
+          "notes": "Terra is a central character in the animated adaptation.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "video_game",
+          "title": "DC Universe Online",
+          "release_year": 2011,
+          "watch_order": 3,
+          "platform": "Multiplatform",
+          "notes": "Terra appears among the game's roster of DC characters.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "dick-grayson",
+      "name": "Dick Grayson",
+      "entity_type": "character",
+      "publisher_slug": "dc",
+      "real_name": "Richard Grayson",
+      "first_appearance": "Detective Comics #38 (1940)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Dick Grayson began as the first Robin, Batman's original partner, before growing into the independent hero Nightwing. A gifted acrobat and natural leader, he is the founding heart of the Teen Titans. He embodies the franchise's themes of legacy, maturity and stepping out of a mentor's shadow.",
+      "eras": [
+        {
+          "slug": "dick-robin",
+          "title": "The Boy Wonder",
+          "start_year": 1940,
+          "end_year": 1984,
+          "order_index": 1,
+          "summary": "As the original Robin, Dick fights crime alongside Batman and co-founds and leads the Teen Titans, gradually asserting his independence.",
+          "arcs": [
+            {
+              "slug": "dick-titans-leader",
+              "title": "Leading the Titans",
+              "logline": "The Boy Wonder steps up as the natural leader of a team of young heroes.",
+              "summary": "Dick Grayson's leadership defines the Teen Titans from their earliest adventures, as he channels his Bat-training into guiding his peers. His command of the team marks his first major steps toward heroic independence.\n\nThe role lays the groundwork for his eventual transformation into Nightwing and his standing as one of DC's most respected leaders.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 1980,
+              "end_year": 1984,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "The New Teen Titans Omnibus Vol. 1",
+                  "format": "omnibus",
+                  "issue_range": "The New Teen Titans (1980) #1-20",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "dick-nightwing",
+          "title": "Nightwing",
+          "start_year": 1984,
+          "end_year": 2024,
+          "order_index": 2,
+          "summary": "Dick adopts the Nightwing identity, stepping fully out of Batman's shadow while continuing to anchor the Titans as an adult hero.",
+          "arcs": [
+            {
+              "slug": "dick-becomes-nightwing",
+              "title": "Becoming Nightwing",
+              "logline": "A grown-up sidekick forges a new identity entirely his own.",
+              "summary": "Dick Grayson retires the Robin mantle and emerges as Nightwing, a hero who has finally stepped out from under Batman's wing. The transformation coincides with his leadership of the New Teen Titans.\n\nThe arc is a milestone of comics characterization, depicting a sidekick growing into a fully realized adult hero and leader.",
+              "spoiler": null,
+              "arc_type": "origin",
+              "start_year": 1984,
+              "end_year": 1984,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "The New Teen Titans: The Judas Contract",
+                  "format": "trade",
+                  "issue_range": "Tales of the Teen Titans #44",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": "9781401294540",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "See Dick become Nightwing",
+          "reason": "Becoming Nightwing captures his defining transition from sidekick to independent hero and Titans leader.",
+          "arc_slug": "dick-becomes-nightwing"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "teen-titans",
+          "relationship": "ally",
+          "summary": "Dick Grayson is the founding leader and enduring heart of the Teen Titans.",
+          "notes": "He leads the team as both Robin and Nightwing."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "live_action",
+          "title": "Titans",
+          "release_year": 2018,
+          "watch_order": 1,
+          "platform": "DC Universe / HBO Max",
+          "notes": "Brenton Thwaites stars as Dick Grayson across the series.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "Teen Titans",
+          "release_year": 2003,
+          "watch_order": 2,
+          "platform": "Cartoon Network",
+          "notes": "Dick appears as Robin, the team's leader, throughout the series.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "video_game",
+          "title": "Batman: Arkham City",
+          "release_year": 2011,
+          "watch_order": 3,
+          "platform": "Multiplatform",
+          "notes": "Nightwing appears as a playable character in DLC.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "starfire",
+      "name": "Starfire",
+      "entity_type": "character",
+      "publisher_slug": "dc",
+      "real_name": "Koriand'r",
+      "first_appearance": "DC Comics Presents #26 (1980)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Koriand'r, called Starfire, is a warrior princess from the alien world of Tamaran who can fly and channel solar energy into devastating starbolts. Passionate, fierce and warm-hearted, she became a defining member of the New Teen Titans. Her romance with Dick Grayson is one of the franchise's most celebrated relationships.",
+      "eras": [
+        {
+          "slug": "starfire-new-titans",
+          "title": "The Tamaranean Princess",
+          "start_year": 1980,
+          "end_year": 1996,
+          "order_index": 1,
+          "summary": "Fleeing slavery and her homeworld's politics, Starfire finds a family among the New Teen Titans and becomes one of their fiercest and most beloved members.",
+          "arcs": [
+            {
+              "slug": "starfire-arrival",
+              "title": "Arrival on Earth",
+              "logline": "An alien princess escapes captivity and finds a new home among Earth's young heroes.",
+              "summary": "Starfire crash-lands into the lives of the New Teen Titans while fleeing alien captors, quickly proving herself a powerful ally and devoted friend. Her arrival adds a cosmic dimension and emotional warmth to the team.\n\nThe arc establishes her backstory, powers and the deep bonds that make her central to the Wolfman-Perez era.",
+              "spoiler": null,
+              "arc_type": "origin",
+              "start_year": 1980,
+              "end_year": 1981,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "The New Teen Titans Omnibus Vol. 1",
+                  "format": "omnibus",
+                  "issue_range": "The New Teen Titans (1980) #1-8",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "teen-titans",
+          "relationship": "ally",
+          "summary": "Starfire is a core member of the New Teen Titans and one of its emotional anchors.",
+          "notes": "Her loyalty and warmth define the team's found-family dynamic."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "animated_series",
+          "title": "Teen Titans",
+          "release_year": 2003,
+          "watch_order": 1,
+          "platform": "Cartoon Network",
+          "notes": "Starfire is a lead character across the series.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "Teen Titans Go!",
+          "release_year": 2013,
+          "watch_order": 2,
+          "platform": "Cartoon Network",
+          "notes": "A comedic version of Starfire anchors the ensemble.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "live_action",
+          "title": "Titans",
+          "release_year": 2018,
+          "watch_order": 3,
+          "platform": "DC Universe / HBO Max",
+          "notes": "Anna Diop stars as Kory Anders / Starfire.",
+          "where_to_watch": "Max"
+        }
+      ]
+    },
+    {
+      "slug": "raven",
+      "name": "Raven",
+      "entity_type": "character",
+      "publisher_slug": "dc",
+      "real_name": "Rachel Roth",
+      "first_appearance": "DC Comics Presents #26 (1980)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Raven is a powerful empath and sorceress, the half-human daughter of the demon Trigon, who struggles to control the dark heritage within her. Quiet and introspective, she uses her soul-self and emotional powers in service of the Teen Titans. Her ongoing battle against her own nature is one of the franchise's richest storylines.",
+      "eras": [
+        {
+          "slug": "raven-new-titans",
+          "title": "Daughter of Trigon",
+          "start_year": 1980,
+          "end_year": 1996,
+          "order_index": 1,
+          "summary": "Raven assembles the New Teen Titans to oppose her demonic father and spends the era wrestling with the darkness she inherited from him.",
+          "arcs": [
+            {
+              "slug": "raven-assembles-titans",
+              "title": "Gathering the Titans",
+              "logline": "A mysterious empath secretly assembles a team to stop her own father.",
+              "summary": "Driven by visions of her father Trigon's coming invasion, Raven covertly draws together a new generation of heroes to form the New Teen Titans. Her hidden motives and tragic origin add a layer of mystery to the team's formation.\n\nThe arc introduces Raven's powers, her connection to Trigon, and the moral struggle that defines her, anchoring one of the franchise's most beloved characters.",
+              "spoiler": null,
+              "arc_type": "origin",
+              "start_year": 1980,
+              "end_year": 1981,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "The New Teen Titans Omnibus Vol. 1",
+                  "format": "omnibus",
+                  "issue_range": "The New Teen Titans (1980) #1-8",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "teen-titans",
+          "relationship": "ally",
+          "summary": "Raven founded the New Teen Titans and remains one of its most pivotal members.",
+          "notes": "Her struggle against Trigon is central to the team's history."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "animated_series",
+          "title": "Teen Titans",
+          "release_year": 2003,
+          "watch_order": 1,
+          "platform": "Cartoon Network",
+          "notes": "Raven is a lead character and the focus of the fourth season.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "live_action",
+          "title": "Titans",
+          "release_year": 2018,
+          "watch_order": 2,
+          "platform": "DC Universe / HBO Max",
+          "notes": "Teagan Croft stars as Rachel Roth / Raven.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "film",
+          "title": "Justice League vs. Teen Titans",
+          "release_year": 2016,
+          "watch_order": 3,
+          "platform": "DC Universe Animated Original Movies",
+          "notes": "Raven is central to the film's conflict with Trigon.",
+          "where_to_watch": "Max"
+        }
+      ]
+    },
+    {
+      "slug": "cyborg",
+      "name": "Cyborg",
+      "entity_type": "character",
+      "publisher_slug": "dc",
+      "real_name": "Victor Stone",
+      "first_appearance": "DC Comics Presents #26 (1980)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Victor Stone became Cyborg after a catastrophic accident left him rebuilt with cybernetic technology by his scientist father. A founding member of the New Teen Titans, he blends formidable strength and tech-powered abilities with deep humanity. His journey to accept his half-machine existence is one of the team's defining arcs.",
+      "eras": [
+        {
+          "slug": "cyborg-new-titans",
+          "title": "Half Man, Half Machine",
+          "start_year": 1980,
+          "end_year": 1996,
+          "order_index": 1,
+          "summary": "Rebuilt with cybernetics and struggling to reclaim his humanity, Victor Stone finds purpose and acceptance as a founding member of the New Teen Titans.",
+          "arcs": [
+            {
+              "slug": "cyborg-origin",
+              "title": "The Making of Cyborg",
+              "logline": "A young athlete rebuilt as a machine must learn to live as something new.",
+              "summary": "After a lab accident leaves Victor Stone shattered, his father saves his life by replacing much of his body with cybernetics, leaving him alienated from the world he knew. Joining the New Teen Titans offers him a place to belong.\n\nThe arc grounds Cyborg's powers in genuine pathos, exploring identity, disability and acceptance, and establishes him as one of DC's most relatable heroes.",
+              "spoiler": null,
+              "arc_type": "origin",
+              "start_year": 1980,
+              "end_year": 1981,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "The New Teen Titans Omnibus Vol. 1",
+                  "format": "omnibus",
+                  "issue_range": "The New Teen Titans (1980) #1-8",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "teen-titans",
+          "relationship": "ally",
+          "summary": "Cyborg is a founding member of the New Teen Titans and one of its most steadfast heroes.",
+          "notes": "His Titans tenure predates his later Justice League membership."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "animated_series",
+          "title": "Teen Titans",
+          "release_year": 2003,
+          "watch_order": 1,
+          "platform": "Cartoon Network",
+          "notes": "Cyborg is a lead character throughout the series.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "Teen Titans Go!",
+          "release_year": 2013,
+          "watch_order": 2,
+          "platform": "Cartoon Network",
+          "notes": "A comedic version of Cyborg anchors the ensemble.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "video_game",
+          "title": "Injustice 2",
+          "release_year": 2017,
+          "watch_order": 3,
+          "platform": "Multiplatform",
+          "notes": "Cyborg appears as a playable fighter.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "beast-boy",
+      "name": "Beast Boy",
+      "entity_type": "character",
+      "publisher_slug": "dc",
+      "real_name": "Garfield Logan",
+      "first_appearance": "The Doom Patrol #99 (1965)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Garfield Logan, known as Beast Boy, can transform into any animal thanks to an experimental cure that turned his skin green. Once a member of the Doom Patrol, he became a fan-favorite Teen Titan, blending comic relief with surprising emotional depth. His shapeshifting versatility makes him one of the team's most distinctive members.",
+      "eras": [
+        {
+          "slug": "beast-boy-changeling",
+          "title": "From Changeling to Beast Boy",
+          "start_year": 1980,
+          "end_year": 2024,
+          "order_index": 1,
+          "summary": "Originally calling himself Changeling, Garfield Logan joins the New Teen Titans and grows from a wisecracking youngster into a heartfelt veteran across the franchise's modern era.",
+          "arcs": [
+            {
+              "slug": "beast-boy-joins",
+              "title": "Joining the Titans",
+              "logline": "A shapeshifting former Doom Patrol member finds a new family with the Titans.",
+              "summary": "Garfield Logan brings his animal-morphing powers and irrepressible humor to the New Teen Titans, masking the grief of his Doom Patrol past beneath jokes. The team becomes the family he has long needed.\n\nThe arc develops his powers and personality, balancing levity with the loss that shapes him, and cements him as an enduring Titans staple.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 1980,
+              "end_year": 1982,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "The New Teen Titans Omnibus Vol. 1",
+                  "format": "omnibus",
+                  "issue_range": "The New Teen Titans (1980) #1-16",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "teen-titans",
+          "relationship": "ally",
+          "summary": "Beast Boy is a long-serving and beloved member of the Teen Titans.",
+          "notes": "He provides comic relief while carrying real emotional weight."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "animated_series",
+          "title": "Teen Titans",
+          "release_year": 2003,
+          "watch_order": 1,
+          "platform": "Cartoon Network",
+          "notes": "Beast Boy is a lead character throughout the series.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "Teen Titans Go!",
+          "release_year": 2013,
+          "watch_order": 2,
+          "platform": "Cartoon Network",
+          "notes": "A comedic version of Beast Boy anchors the ensemble.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "live_action",
+          "title": "Titans",
+          "release_year": 2019,
+          "watch_order": 3,
+          "platform": "DC Universe / HBO Max",
+          "notes": "Ryan Potter portrays Gar Logan / Beast Boy.",
+          "where_to_watch": "Max"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,758 @@
+{
+  "primary": {
+    "slug": "the-flash",
+    "name": "The Flash",
+    "entity_type": "character",
+    "publisher_slug": "dc",
+    "real_name": "Barry Allen",
+    "first_appearance": "Showcase #4 (1956)",
+    "logo_url": null,
+    "cover_image_url": null,
+    "short_bio": "Police scientist Barry Allen became the Fastest Man Alive after a freak accident with lightning and chemicals gave him superhuman speed and a connection to the mysterious Speed Force. As the Flash, he protects Central City from a colorful gallery of rogues while serving as a founding pillar of the Justice League. Equal parts forensic detective and blur of scarlet, Barry embodies hope, heart, and the conviction that he can always run a little faster.",
+    "eras": [
+      {
+        "slug": "silver-age-dawn",
+        "title": "The Silver Age Dawn",
+        "start_year": 1956,
+        "end_year": 1969,
+        "order_index": 1,
+        "summary": "Barry Allen's debut in Showcase #4 ignited the Silver Age of comics, reinventing the Flash for a new generation. These years established his origin, his Rogues, and the multiverse concept that would reshape DC forever.",
+        "arcs": [
+          {
+            "slug": "mystery-of-the-human-thunderbolt",
+            "title": "Mystery of the Human Thunderbolt",
+            "logline": "A lightning bolt and a shelf of chemicals turn an ordinary police scientist into the Fastest Man Alive.",
+            "summary": "Forensic scientist Barry Allen is working late in his lab when a bolt of lightning shatters a cabinet of chemicals and douses him in the electrified mixture. Rather than killing him, the accident grants Barry the power of incredible speed. Inspired by the comic-book hero he read as a boy, he fashions a crimson costume and dubs himself the Flash.\n\nThis debut story, told across the back pages of Showcase #4, introduced the template for the entire Silver Age: a scientific origin, a wholesome civilian identity, and a hero whose powers are as much about cleverness as raw strength. Barry's first outings pit him against early foes like the Turtle and establish his romance with reporter Iris West.\n\nThe success of this single issue was so immediate that it is credited with launching the Silver Age of superhero comics, paving the way for the rebirth of the entire DC pantheon.",
+            "spoiler": null,
+            "arc_type": "origin",
+            "start_year": 1956,
+            "end_year": 1957,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "The Flash: The Silver Age Vol. 1",
+                "format": "trade",
+                "issue_range": "Showcase #4, #8, #13-14; The Flash #105-108",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9781401262044",
+                "purchase_url": null
+              },
+              {
+                "title": "The Flash Omnibus by Carmine Infantino Vol. 1",
+                "format": "omnibus",
+                "issue_range": "Showcase #4-14; The Flash #105-119",
+                "reading_order": 2,
+                "publication_order": 2,
+                "reading_order_note": null,
+                "isbn": "9781401271404",
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "flash-of-two-worlds",
+            "title": "Flash of Two Worlds",
+            "logline": "Barry Allen vibrates across reality and meets the Golden Age Flash, discovering the DC Multiverse.",
+            "summary": "While performing a vibrating rope trick at a charity show, Barry Allen accidentally shifts his molecules to a different vibrational frequency and is transported to a parallel Earth. There he meets Jay Garrick, the original Flash he had read about in comic books as a child, who turns out to be real on this other world.\n\nTeaming up against the villains Shade, the Thinker, and the Fiddler, the two Flashes formalize the idea of Earth-One and Earth-Two. This landmark tale introduced the concept of the multiverse to DC Comics, a structural idea that would define the publisher's cosmology for decades.\n\nThe story's blend of nostalgia and forward momentum captured everything the Silver Age Flash represented, and its title became shorthand for the entire era of cross-dimensional adventure.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 1961,
+            "end_year": 1961,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "The Flash: The Silver Age Vol. 3",
+                "format": "trade",
+                "issue_range": "The Flash #123-132",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9781401274108",
+                "purchase_url": null
+              },
+              {
+                "title": "The Flash #123",
+                "format": "single_issues",
+                "issue_range": "The Flash #123",
+                "reading_order": 2,
+                "publication_order": 2,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "the-rogues-assemble",
+            "title": "The Rogues Assemble",
+            "logline": "Central City's flashiest criminals band together to take down the Scarlet Speedster.",
+            "summary": "Across the early 1960s, Barry Allen accumulated one of the most distinctive villain galleries in comics: Captain Cold, Mirror Master, the Weather Wizard, Heat Wave, Captain Boomerang, and the Trickster. Rather than world-conquerors, these were blue-collar crooks with gimmick weapons and a code of honor.\n\nThis arc gathers the stories in which the Rogues first coordinate their efforts, realizing that no single themed criminal can outpace the Flash but a united front might. Their banter, loyalty, and refusal to use lethal force on civilians made them fan favorites.\n\nThe Rogues became as central to the Flash mythos as the hero himself, and these formative tales define the dynamic that still drives the franchise.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 1962,
+            "end_year": 1965,
+            "order_index": 3,
+            "reading_entries": [
+              {
+                "title": "The Flash: The Silver Age Vol. 2",
+                "format": "trade",
+                "issue_range": "The Flash #117-122",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9781401268886",
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "crisis-and-rebirth",
+        "title": "Crisis and Rebirth",
+        "start_year": 1985,
+        "end_year": 2008,
+        "order_index": 2,
+        "summary": "The Flash faced his ultimate sacrifice in Crisis on Infinite Earths, passing the mantle to his protege Wally West for a generation. This era is defined by legacy, loss, and the eventual return of Barry Allen.",
+        "arcs": [
+          {
+            "slug": "crisis-on-infinite-earths",
+            "title": "Crisis on Infinite Earths",
+            "logline": "To save the entire multiverse, the Fastest Man Alive must run faster than he ever has before.",
+            "summary": "As the Anti-Monitor threatens to annihilate every parallel Earth, the heroes of the DC Universe mount a desperate last stand. Barry Allen, freed from captivity, recognizes that the villain's antimatter cannon must be destroyed at any cost.\n\nThe Flash pushes his connection to the Speed Force to its absolute limit, running faster and faster to disintegrate the weapon. His role in this maxiseries is one of the most celebrated acts of heroism in comics, a culmination of everything Barry represents.\n\nCrisis on Infinite Earths reshaped DC continuity, collapsing the multiverse into a single timeline and clearing the way for a new generation of heroes to step forward.",
+            "spoiler": "Barry Allen sacrifices his life to destroy the Anti-Monitor's antimatter cannon, dying a hero and leaving the mantle to Wally West.",
+            "arc_type": "crossover",
+            "start_year": 1985,
+            "end_year": 1986,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "Crisis on Infinite Earths",
+                "format": "trade",
+                "issue_range": "Crisis on Infinite Earths #1-12",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9781563897504",
+                "purchase_url": null
+              },
+              {
+                "title": "Crisis on Infinite Earths Omnibus",
+                "format": "omnibus",
+                "issue_range": "Crisis on Infinite Earths #1-12 plus crossovers",
+                "reading_order": 2,
+                "publication_order": 2,
+                "reading_order_note": null,
+                "isbn": "9781779511959",
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "born-to-run",
+            "title": "Born to Run",
+            "logline": "Before the lightning, a young Barry Allen idolized the Flash and dreamed of a faster life.",
+            "summary": "Told largely in flashback, this arc fleshes out Barry Allen's childhood and the events leading up to his transformation. It explores his fascination with speed, his early relationship with Iris West, and the personality that made him worthy of the lightning.\n\nMark Waid uses these stories to deepen Barry's legend even after his death, framing him as the gold standard of heroism against which all other speedsters measure themselves. The narrative reinforces why Wally West feels such weight carrying the name.\n\nThough Barry remained dead during this period, Born to Run cemented his mythic status and seeded themes of legacy that would pay off years later.",
+            "spoiler": null,
+            "arc_type": "origin",
+            "start_year": 1994,
+            "end_year": 1994,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "The Flash by Mark Waid Book Two",
+                "format": "trade",
+                "issue_range": "The Flash #62-79",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9781401277468",
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "the-return-of-barry-allen",
+            "title": "The Return of Barry Allen",
+            "logline": "A speedster claiming to be the resurrected Barry Allen returns, but his intentions are not what they seem.",
+            "summary": "Wally West is overjoyed when a man appearing to be his deceased mentor Barry Allen suddenly returns from the dead. But the older Flash's behavior grows erratic and increasingly cruel, forcing Wally to confront a horrifying possibility.\n\nThis arc is a masterclass in character work, pushing Wally to step out of Barry's shadow and finally claim the Flash mantle as his own. The mystery at its core became one of the defining Flash stories of the modern age.\n\nMark Waid's run reframed the speedster legacy as a living chain of mentorship and rivalry, deepening the Flash mythos for decades to come.",
+            "spoiler": "The returning Flash is revealed to be Eobard Thawne, the Reverse-Flash, impersonating Barry while suffering memory loss.",
+            "arc_type": "flagship",
+            "start_year": 1993,
+            "end_year": 1993,
+            "order_index": 3,
+            "reading_entries": [
+              {
+                "title": "The Flash by Mark Waid Book One",
+                "format": "trade",
+                "issue_range": "The Flash #62-65, #73-79",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9781401269791",
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "the-modern-speedster",
+        "title": "The Modern Speedster",
+        "start_year": 2009,
+        "end_year": 2024,
+        "order_index": 3,
+        "summary": "Barry Allen's resurrection ushered in a new era exploring the Speed Force, the consequences of time travel, and his deeply personal feud with the Reverse-Flash. These stories redefined the Flash for the New 52 and Rebirth generations.",
+        "arcs": [
+          {
+            "slug": "the-flash-rebirth",
+            "title": "The Flash: Rebirth",
+            "logline": "Barry Allen returns to life and must rediscover his place as the Flash in a world that moved on without him.",
+            "summary": "Resurrected after decades of absence, Barry Allen struggles to reintegrate into a world now full of speedsters who carried on his legacy. As he runs again, a dark secret about his connection to the Speed Force begins to surface.\n\nGeoff Johns and Ethan Van Sciver use this miniseries to re-establish Barry as the central Flash while honoring Wally and the others. It also reintroduces Eobard Thawne as a calculating, vengeful architect of Barry's tragedies.\n\nThe Flash: Rebirth set the stage for a new ongoing series and recontextualized Barry's entire history through the lens of his greatest enemy.",
+            "spoiler": null,
+            "arc_type": "retcon",
+            "start_year": 2009,
+            "end_year": 2010,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "The Flash: Rebirth",
+                "format": "trade",
+                "issue_range": "The Flash: Rebirth #1-6",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9781401226978",
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "flashpoint",
+            "title": "Flashpoint",
+            "logline": "Barry wakes in a broken timeline where one selfish change to history has shattered the world.",
+            "summary": "Barry Allen awakens in a world he barely recognizes: there is no Justice League, Atlantis and the Amazons are at war, and he no longer has his powers. As he investigates, he realizes the timeline has been catastrophically altered and that he may be responsible.\n\nRacing to restore reality, Barry confronts the painful truth about the cost of changing the past. The emotional core of the story centers on family, loss, and the impossible temptations time travel offers a man who has lost so much.\n\nFlashpoint culminated in a reality-rewriting event that launched DC's New 52 relaunch, making it one of the most consequential Flash stories ever told.",
+            "spoiler": "Barry's own act of traveling back to save his murdered mother created the broken Flashpoint timeline, and undoing it births the New 52 universe.",
+            "arc_type": "crossover",
+            "start_year": 2011,
+            "end_year": 2011,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "Flashpoint",
+                "format": "trade",
+                "issue_range": "Flashpoint #1-5",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9781401233389",
+                "purchase_url": null
+              },
+              {
+                "title": "Flashpoint Omnibus",
+                "format": "omnibus",
+                "issue_range": "Flashpoint #1-5 plus tie-ins",
+                "reading_order": 2,
+                "publication_order": 2,
+                "reading_order_note": null,
+                "isbn": "9781779515551",
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "the-button",
+            "title": "The Button",
+            "logline": "Batman and the Flash chase a mystery hidden in the timestream that threatens both their worlds.",
+            "summary": "A bloodstained smiley-face button found in the Batcave draws Batman and Barry Allen into an investigation that bends time and reality. Their hunt brings them face to face with the Reverse-Flash and forces them across fractured timelines.\n\nThis crossover between the Batman and Flash titles deepened the larger DC Rebirth mystery, hinting at forces manipulating the universe from outside. The team-up showcases the unique friendship and contrasting methods of the World's Greatest Detective and the Fastest Man Alive.\n\nThe Button served as a crucial bridge between Rebirth and the larger Doomsday Clock saga, keeping the Flash at the center of DC's overarching narrative.",
+            "spoiler": null,
+            "arc_type": "crossover",
+            "start_year": 2017,
+            "end_year": 2017,
+            "order_index": 3,
+            "reading_entries": [
+              {
+                "title": "Batman/The Flash: The Button Deluxe Edition",
+                "format": "hardcover",
+                "issue_range": "Batman #21-22; The Flash #21-22",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9781401274085",
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "start_here": [
+      {
+        "order_index": 1,
+        "label": "Absolute Beginner",
+        "reason": "Start at the very beginning with Barry's lightning-bolt origin, the cleanest entry point into who the Flash is and how he got his powers.",
+        "arc_slug": "mystery-of-the-human-thunderbolt"
+      },
+      {
+        "order_index": 2,
+        "label": "Classic Fan",
+        "reason": "Flash of Two Worlds is the quintessential Silver Age Flash tale and the birth of the DC Multiverse, perfect for readers who love comics history.",
+        "arc_slug": "flash-of-two-worlds"
+      },
+      {
+        "order_index": 3,
+        "label": "Modern Era",
+        "reason": "Flashpoint is the modern Flash's defining story, an emotional time-travel epic that reshaped the entire DC Universe and inspired the film and TV adaptations.",
+        "arc_slug": "flashpoint"
+      }
+    ],
+    "relationships": [
+      {
+        "related_slug": "batman",
+        "relationship": "ally",
+        "summary": "The Flash and Batman are close friends and Justice League founders whose contrasting temperaments make them a formidable detective duo.",
+        "notes": "Their bond is central to The Button (2017), where the two investigate a timestream mystery together, and Barry often turns to Bruce as a forensic peer."
+      },
+      {
+        "related_slug": "superman",
+        "relationship": "ally",
+        "summary": "The Flash and Superman are founding Justice League members and famously friendly rivals over who is truly the fastest.",
+        "notes": "Their good-natured charity races have appeared repeatedly since the Silver Age, including the classic 'Superman vs. The Flash' race stories."
+      },
+      {
+        "related_slug": "wonder-woman",
+        "relationship": "ally",
+        "summary": "The Flash and Wonder Woman serve side by side as core pillars of the Justice League, trusting each other implicitly in battle.",
+        "notes": "Both were reunited as founders in the Justice League relaunch following Flashpoint, fighting Darkseid's invasion in the New 52 'Origin' arc."
+      },
+      {
+        "related_slug": "green-lantern",
+        "relationship": "ally",
+        "summary": "Barry Allen and Hal Jordan share the closest friendship in the Justice League, a partnership of speed and willpower.",
+        "notes": "Their bond was canonized in the Silver Age and celebrated in numerous Brave and the Bold and Justice League team-ups; both debuted as Silver Age reinventions."
+      },
+      {
+        "related_slug": "justice-league",
+        "relationship": "member",
+        "summary": "The Flash is a founding member of the Justice League, providing rescue speed and tactical reconnaissance.",
+        "notes": "Barry has been a League mainstay since The Brave and the Bold #28 (1960) and was a founder in the post-Flashpoint relaunch."
+      },
+      {
+        "related_slug": "reverse-flash",
+        "relationship": "enemy",
+        "summary": "Eobard Thawne, the Reverse-Flash, is Barry's obsessive archenemy who has tormented him across time itself.",
+        "notes": "Thawne murdered Barry's mother to engineer his suffering, the inciting tragedy that drives Flashpoint (2011) and The Flash: Rebirth (2009)."
+      },
+      {
+        "related_slug": "captain-cold",
+        "relationship": "enemy",
+        "summary": "Leonard Snart, Captain Cold, is the cold-gun-wielding leader of the Rogues and Barry's most persistent street-level foe.",
+        "notes": "As de facto leader of the Rogues, Cold organizes Central City's criminals against the Flash, a dynamic established in the Silver Age and central to Geoff Johns' run."
+      },
+      {
+        "related_slug": "gorilla-grodd",
+        "relationship": "enemy",
+        "summary": "Gorilla Grodd is a hyper-intelligent telepathic ape who seeks to conquer humanity and destroy the Flash.",
+        "notes": "Grodd first menaced Barry in The Flash #106 (1959) and returned as a brutal threat in Geoff Johns' 'Rogues' and 'Reverse-Flash' era stories."
+      },
+      {
+        "related_slug": "zoom",
+        "relationship": "enemy",
+        "summary": "Hunter Zolomon, Zoom, is a tragic foe who believes inflicting trauma will make the Flash a better hero.",
+        "notes": "Zoom debuted in The Flash #197 (2003) tormenting Wally West, and his time-warping speed makes him one of the most dangerous speedsters Barry faces."
+      }
+    ],
+    "media": [
+      {
+        "media_type": "live_action",
+        "title": "The Flash",
+        "release_year": 2014,
+        "watch_order": 1,
+        "platform": "The CW",
+        "notes": "The Arrowverse series starring Grant Gustin as Barry Allen ran for nine seasons and popularized the Reverse-Flash and Flashpoint for TV audiences.",
+        "where_to_watch": "Max"
+      },
+      {
+        "media_type": "film",
+        "title": "The Flash",
+        "release_year": 2023,
+        "watch_order": null,
+        "platform": "Warner Bros.",
+        "notes": "Ezra Miller's solo theatrical film adapts the Flashpoint premise, featuring Barry traveling back in time to save his mother.",
+        "where_to_watch": "Max"
+      },
+      {
+        "media_type": "animated_series",
+        "title": "Justice League",
+        "release_year": 2001,
+        "watch_order": 1,
+        "platform": "Cartoon Network",
+        "notes": "The Flash (here Wally West) is a core team member in the Bruce Timm DC Animated Universe series and its sequel Justice League Unlimited.",
+        "where_to_watch": "Max"
+      },
+      {
+        "media_type": "video_game",
+        "title": "Injustice 2",
+        "release_year": 2017,
+        "watch_order": null,
+        "platform": "PlayStation 4, Xbox One, PC",
+        "notes": "The Flash is a playable fighter whose speed-based moveset and story role draw directly from the comics.",
+        "where_to_watch": null
+      }
+    ]
+  },
+  "supporting": [
+    {
+      "slug": "reverse-flash",
+      "name": "Reverse-Flash",
+      "entity_type": "character",
+      "publisher_slug": "dc",
+      "real_name": "Eobard Thawne",
+      "first_appearance": "The Flash #139 (1963)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Eobard Thawne is a 25th-century scientist who idolized the Flash until obsession curdled into hatred, becoming the Reverse-Flash. Wielding negative Speed Force energy in a yellow costume, he has woven himself into every tragedy of Barry Allen's life. He is the Flash's definitive archenemy, a villain who manipulates time itself to destroy his hero.",
+      "eras": [
+        {
+          "slug": "reverse-flash-origins",
+          "title": "Origins of a Nemesis",
+          "start_year": 1963,
+          "end_year": 2011,
+          "order_index": 1,
+          "summary": "From his Silver Age debut to his time-spanning modern schemes, the Reverse-Flash evolved from a costumed thief into the cosmic architect of Barry Allen's suffering.",
+          "arcs": [
+            {
+              "slug": "the-man-in-the-yellow-suit",
+              "title": "The Man in the Yellow Suit",
+              "logline": "A speedster from the future arrives in the present with a personal vendetta against the Flash.",
+              "summary": "Eobard Thawne discovers a way to replicate the Flash's powers in the far future, but his admiration for his hero twists into murderous envy when he learns of his own destined defeat. Donning a reversed-color costume, he travels back to torment Barry Allen.\n\nHis early appearances established the Reverse-Flash as a mirror image of everything Barry stands for. Over time these stories deepened into a tragic obsession that would define both characters.\n\nThawne's willingness to rewrite history itself makes him uniquely dangerous among the Flash's foes.",
+              "spoiler": null,
+              "arc_type": "origin",
+              "start_year": 1963,
+              "end_year": 1963,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "The Flash: The Silver Age Vol. 4",
+                  "format": "trade",
+                  "issue_range": "The Flash #133-141",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": "9781401278113",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Villain Spotlight",
+          "reason": "The Reverse-Flash's debut establishes the twisted mirror-image dynamic that defines his rivalry with Barry Allen.",
+          "arc_slug": "the-man-in-the-yellow-suit"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "the-flash",
+          "relationship": "enemy",
+          "summary": "The Reverse-Flash is Barry Allen's archenemy, obsessed with destroying the hero he once idolized.",
+          "notes": "Thawne murdered Barry's mother and is the engine behind Flashpoint (2011) and The Flash: Rebirth (2009)."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "live_action",
+          "title": "The Flash",
+          "release_year": 2014,
+          "watch_order": 1,
+          "platform": "The CW",
+          "notes": "The Reverse-Flash (Eobard Thawne) is the central antagonist of the series' acclaimed first season.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "Justice League: The Flashpoint Paradox",
+          "release_year": 2013,
+          "watch_order": null,
+          "platform": "Warner Bros. Animation",
+          "notes": "Thawne serves as the hidden architect of the Flashpoint timeline in this animated adaptation.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "video_game",
+          "title": "Injustice 2",
+          "release_year": 2017,
+          "watch_order": null,
+          "platform": "PlayStation 4, Xbox One, PC",
+          "notes": "Reverse-Flash appears as a premier skin and antagonist tied to the Flash's storyline.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "captain-cold",
+      "name": "Captain Cold",
+      "entity_type": "character",
+      "publisher_slug": "dc",
+      "real_name": "Leonard Snart",
+      "first_appearance": "Showcase #8 (1957)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Leonard Snart turned to crime with a freeze gun capable of stopping the Fastest Man Alive in his tracks, earning the name Captain Cold. As the disciplined leader of the Rogues, he enforces a strict criminal code against killing civilians. He is Barry Allen's most persistent and honorable adversary.",
+      "eras": [
+        {
+          "slug": "captain-cold-rogue-leader",
+          "title": "Leader of the Rogues",
+          "start_year": 1957,
+          "end_year": 2012,
+          "order_index": 1,
+          "summary": "From a lone gunman to the cold-blooded strategist commanding Central City's united criminals, Captain Cold became the heart of the Flash's Rogues Gallery.",
+          "arcs": [
+            {
+              "slug": "cold-snap",
+              "title": "Cold Snap",
+              "logline": "A small-time crook engineers a gun that can freeze the Fastest Man Alive.",
+              "summary": "Leonard Snart reasons that the only way to beat a man who moves at super-speed is to slow him down. He builds a cryonic weapon and adopts the identity of Captain Cold, instantly becoming one of the Flash's most inventive foes.\n\nOver the years Snart's pragmatism and loyalty to his fellow Rogues elevate him from a gimmick villain to a compelling antihero. His code of conduct sets him apart from more murderous criminals.\n\nCaptain Cold remains the emotional and tactical center of the Rogues, a man as cold as his weapon but bound by his own rules.",
+              "spoiler": null,
+              "arc_type": "origin",
+              "start_year": 1957,
+              "end_year": 1957,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "The Flash: The Silver Age Vol. 1",
+                  "format": "trade",
+                  "issue_range": "Showcase #8; The Flash #105-108",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": "9781401262044",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "the-flash",
+          "relationship": "enemy",
+          "summary": "Captain Cold leads the Rogues against the Flash while maintaining a grudging mutual respect with the hero.",
+          "notes": "Their rivalry was central to Geoff Johns' acclaimed Rogues stories and the 'Rogue War' arc."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "live_action",
+          "title": "The Flash",
+          "release_year": 2014,
+          "watch_order": 1,
+          "platform": "The CW",
+          "notes": "Wentworth Miller's fan-favorite Captain Cold became a breakout antihero who later anchored Legends of Tomorrow.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "Justice League Action",
+          "release_year": 2016,
+          "watch_order": null,
+          "platform": "Cartoon Network",
+          "notes": "Captain Cold appears as a recurring Rogue antagonist opposite the Flash.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "video_game",
+          "title": "DC Universe Online",
+          "release_year": 2011,
+          "watch_order": null,
+          "platform": "PlayStation, Xbox, PC",
+          "notes": "Captain Cold features among the Flash's Rogues in the game's Central City content.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "gorilla-grodd",
+      "name": "Gorilla Grodd",
+      "entity_type": "character",
+      "publisher_slug": "dc",
+      "real_name": "Grodd",
+      "first_appearance": "The Flash #106 (1959)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Gorilla Grodd is a hyper-intelligent, telepathic ape from the hidden Gorilla City who craves dominion over both his own people and humankind. His savage strength is matched only by his mental powers, making him one of the Flash's most physically and psychologically terrifying foes. Grodd's hunger for conquest puts him in eternal conflict with Barry Allen.",
+      "eras": [
+        {
+          "slug": "grodd-gorilla-warfare",
+          "title": "Gorilla Warfare",
+          "start_year": 1959,
+          "end_year": 2013,
+          "order_index": 1,
+          "summary": "From his emergence out of the hidden Gorilla City to his brutal modern incarnation, Grodd has menaced the Flash with telepathy, super-strength, and an insatiable will to rule.",
+          "arcs": [
+            {
+              "slug": "menace-of-the-super-gorilla",
+              "title": "Menace of the Super-Gorilla",
+              "logline": "A telepathic ape from a hidden city sets out to conquer humanity and destroy the Flash.",
+              "summary": "Grodd is exiled from the secret Gorilla City after attempting to seize its power, and he sets his sights on the human world. Using his formidable telepathy, he bends minds to his will and clashes with the Flash, who alone can move fast enough to resist him.\n\nThese early stories introduced one of the strangest and most enduring elements of the Flash mythos: a society of intelligent gorillas hidden from the world. Grodd's blend of brute force and cunning intellect made him an instant standout.\n\nGrodd has returned again and again across the decades, always seeking the conquest that the Flash repeatedly denies him.",
+              "spoiler": null,
+              "arc_type": "origin",
+              "start_year": 1959,
+              "end_year": 1959,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "The Flash: The Silver Age Vol. 1",
+                  "format": "trade",
+                  "issue_range": "The Flash #106-108",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": "9781401262044",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "the-flash",
+          "relationship": "enemy",
+          "summary": "Gorilla Grodd is a recurring nemesis whose telepathy and strength make him one of the Flash's deadliest threats.",
+          "notes": "Grodd debuted in The Flash #106 (1959) and returned as a savage menace in Geoff Johns' modern Flash run."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "live_action",
+          "title": "The Flash",
+          "release_year": 2014,
+          "watch_order": 1,
+          "platform": "The CW",
+          "notes": "Grodd appears as a CGI telepathic antagonist and recurring threat across multiple seasons.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "Justice League Unlimited",
+          "release_year": 2004,
+          "watch_order": null,
+          "platform": "Cartoon Network",
+          "notes": "Grodd leads the Secret Society of supervillains in a major arc of the series.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "video_game",
+          "title": "Injustice 2",
+          "release_year": 2017,
+          "watch_order": null,
+          "platform": "PlayStation 4, Xbox One, PC",
+          "notes": "Gorilla Grodd is a playable character and Society leader in the game's story mode.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "zoom",
+      "name": "Zoom",
+      "entity_type": "character",
+      "publisher_slug": "dc",
+      "real_name": "Hunter Zolomon",
+      "first_appearance": "The Flash #197 (2003)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Hunter Zolomon was a profiler and friend to the Flash until tragedy and a botched cosmic accident left him able to alter his own relationship to time. As Zoom, he believes that inflicting devastating loss is the only way to forge a truly great hero. His warped sense of mercy makes him one of the most chilling speedsters the Flash has ever faced.",
+      "eras": [
+        {
+          "slug": "zoom-blitz",
+          "title": "The Zoom Era",
+          "start_year": 2003,
+          "end_year": 2009,
+          "order_index": 1,
+          "summary": "Born from friendship turned to obsession, Zoom redefined the speedster villain as a force of well-intentioned cruelty bent on making the Flash suffer for his own good.",
+          "arcs": [
+            {
+              "slug": "blitz",
+              "title": "Blitz",
+              "logline": "A trusted friend gains terrifying time-bending speed and vows to make the Flash a better hero through tragedy.",
+              "summary": "Hunter Zolomon, once an ally of the Flash, is left crippled after a disaster and is denied help in undoing his fate. Desperate, he triggers a cosmic-treadmill accident that grants him the ability to move through time rather than simply run fast.\n\nReborn as Zoom, he concludes that the Flash can only become a great hero by experiencing profound personal loss, and he sets out to provide exactly that. His attacks are brutal, personal, and devastating.\n\nThe Blitz arc introduced one of the modern era's most psychologically complex speedster villains, a man convinced his cruelty is an act of mercy.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 2003,
+              "end_year": 2004,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "The Flash by Geoff Johns Book Five",
+                  "format": "trade",
+                  "issue_range": "The Flash #192-200",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": "9781401294519",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Villain Spotlight",
+          "reason": "Blitz is Zoom's defining story and a cornerstone of Geoff Johns' celebrated Flash run.",
+          "arc_slug": "blitz"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "the-flash",
+          "relationship": "enemy",
+          "summary": "Zoom torments the Flash out of a twisted belief that suffering will make him a greater hero.",
+          "notes": "Zoom first targeted Wally West in The Flash #197 (2003) and remains a major threat to the Flash legacy, including Barry Allen."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "live_action",
+          "title": "The Flash",
+          "release_year": 2014,
+          "watch_order": 1,
+          "platform": "The CW",
+          "notes": "Zoom serves as the primary antagonist of the series' second season.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "Justice League Action",
+          "release_year": 2016,
+          "watch_order": null,
+          "platform": "Cartoon Network",
+          "notes": "Speedster villains drawn from the Flash's gallery appear opposite the hero throughout the series.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "video_game",
+          "title": "DC Universe Online",
+          "release_year": 2011,
+          "watch_order": null,
+          "platform": "PlayStation, Xbox, PC",
+          "notes": "Speed Force villains feature in the game's Flash-themed content set in Central City.",
+          "where_to_watch": null
+        }
+      ]
+    }
+  ]
+}

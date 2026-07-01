@@ -1,0 +1,1014 @@
+{
+  "primary": {
+    "slug": "avengers",
+    "name": "Avengers",
+    "entity_type": "team",
+    "publisher_slug": "marvel",
+    "real_name": null,
+    "first_appearance": "The Avengers #1 (1963)",
+    "logo_url": null,
+    "cover_image_url": null,
+    "short_bio": "Earth's Mightiest Heroes are a coalition of Marvel's most powerful and iconic figures who band together to face threats no single hero could withstand. Assembled when individual champions realized that some dangers required a united front, the Avengers have defended the world and the wider universe across decades of ever-changing rosters. Their rallying cry, 'Avengers Assemble!', has come to symbolize heroism on the grandest scale.",
+    "eras": [
+      {
+        "slug": "founding-era",
+        "title": "Founding Era: Earth's Mightiest Assemble",
+        "start_year": 1963,
+        "end_year": 1968,
+        "order_index": 1,
+        "summary": "The team's earliest years, defined by Stan Lee and Jack Kirby's original lineup and the rapid evolution that followed. The first incarnation forms in opposition to Loki's manipulations, then quickly reshapes itself as Captain America is thawed from the ice and a new roster of reformed heroes takes the field. These foundational stories establish the Avengers' core identity and its revolving-door tradition.",
+        "arcs": [
+          {
+            "slug": "avengers-assemble-origin",
+            "title": "The Coming of the Avengers",
+            "logline": "Loki's scheme to destroy his brother accidentally unites five heroes into the world's greatest super-team.",
+            "summary": "When the trickster god Loki manipulates the Hulk into a rampage to lure out Thor, his plan backfires spectacularly. Iron Man, Ant-Man, the Wasp, Thor, and the Hulk are drawn together by the crisis, each answering a call that none of them issued alone. By the time they unravel Loki's deception, they recognize that their combined strength makes them far more formidable than any of them standing apart.\n\nIn the aftermath, the heroes decide to formalize their partnership, and the Wasp gives the team its enduring name. The founding lineup is unconventional, pairing the gamma-powered Hulk with billionaire inventor Iron Man and the literal God of Thunder, but it works precisely because of its contrasts.\n\nThis origin sets the template for everything that follows: a team built from clashing personalities held together by shared purpose. It also introduces the dynamic of internal friction, particularly around the unpredictable Hulk, that will recur throughout the team's history.\n\nThe story remains one of Marvel's most reprinted and adapted, a cornerstone of the Silver Age and the seed from which an entire franchise grew.",
+            "spoiler": null,
+            "arc_type": "origin",
+            "start_year": 1963,
+            "end_year": 1963,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "Avengers Epic Collection: Earth's Mightiest Heroes",
+                "format": "trade",
+                "issue_range": "The Avengers #1-9",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "captain-america-joins",
+            "title": "Captain America Lives Again",
+            "logline": "The Avengers discover a legendary hero frozen in ice, and the team is never the same.",
+            "summary": "While searching the Arctic seas, the Avengers recover the frozen body of Captain America, lost since the final days of World War II. Revived after decades in suspended animation, Steve Rogers is a man out of time, mourning a war that ended long ago and a partner he could not save.\n\nDespite his disorientation, Captain America's leadership and unshakable moral clarity quickly make him the heart of the team. His arrival coincides with a period of rapid turnover, as several founders step back and a new generation steps forward.\n\nThe story cements Captain America's place as the Avengers' conscience and most enduring field leader, a role he will hold across countless rosters. It also deepens the team's identity, anchoring its modern adventures to the legacy of the Golden Age.\n\nThis arc is frequently cited as the moment the Avengers became more than a collection of powerhouses, gaining a unifying ideal embodied by their newly thawed champion.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 1964,
+            "end_year": 1964,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "Avengers Epic Collection: Earth's Mightiest Heroes",
+                "format": "trade",
+                "issue_range": "The Avengers #4",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "classic-era",
+        "title": "Classic Era: Epics and Adversaries",
+        "start_year": 1971,
+        "end_year": 1990,
+        "order_index": 2,
+        "summary": "The Bronze Age and beyond, when the Avengers grew into Marvel's premier ensemble through sprawling, cosmic-scale sagas. Writers like Roy Thomas, Steve Englehart, Jim Shooter, and Roger Stern defined the team's mythology with epics involving time-traveling conquerors, android creations, and alien empires. This era produced many of the storylines fans consider definitive.",
+        "arcs": [
+          {
+            "slug": "kree-skrull-war",
+            "title": "The Kree-Skrull War",
+            "logline": "The Avengers are caught between two warring alien empires with Earth as the battleground.",
+            "summary": "Two of the galaxy's great powers, the militaristic Kree and the shapeshifting Skrulls, bring their ancient conflict to Earth's doorstep. The Avengers find themselves drawn into an interstellar war while simultaneously battling paranoia and political persecution at home as Skrull infiltrators sow distrust.\n\nWriter Roy Thomas crafts a sweeping cosmic epic that expands the Avengers' scope from street-level threats to galaxy-spanning stakes. The saga features Captain Marvel, the Inhumans, and a pivotal turn for the Vision and the Scarlet Witch.\n\nThe story is renowned for raising the ceiling on what an Avengers narrative could be, blending Cold War allegory with widescreen science fiction. Its influence echoes through decades of cosmic Marvel storytelling.\n\nRegularly ranked among the greatest Avengers tales ever told, the Kree-Skrull War remains a benchmark for ambitious superhero space opera.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 1971,
+            "end_year": 1972,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "Avengers: The Kree-Skrull War",
+                "format": "trade",
+                "issue_range": "The Avengers #89-97",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "the-korvac-saga",
+            "title": "The Korvac Saga",
+            "logline": "A near-omnipotent being walks among ordinary people, and the Avengers may already be too late to stop him.",
+            "summary": "Michael Korvac, a man transformed into a cosmic entity of staggering power, quietly establishes himself on Earth with plans that could reshape reality itself. The Avengers slowly become aware of the threat, but their adversary's power is so vast that confronting him at all carries catastrophic risk.\n\nWriter Jim Shooter builds the saga as a slow-burn mystery that explodes into one of the most consequential battles in Avengers history. The story interrogates the nature of power, judgment, and whether even godlike strength justifies absolute control.\n\nWith a massive roster of heroes drawn into the final confrontation, the Korvac Saga delivers an emotionally complex climax that lingers long after the fighting stops. It is celebrated for treating its cosmic villain as a genuinely tragic and ambiguous figure.\n\nThe arc stands as a defining Bronze Age epic and a frequent recommendation for readers seeking the team at its most thoughtful and operatic.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 1977,
+            "end_year": 1978,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "Avengers: The Korvac Saga",
+                "format": "trade",
+                "issue_range": "The Avengers #167-177",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "under-siege",
+            "title": "Under Siege",
+            "logline": "Baron Zemo assembles a small army to break the Avengers in their own home.",
+            "summary": "Baron Helmut Zemo gathers a massive incarnation of the Masters of Evil with a single goal: not merely to defeat the Avengers, but to humiliate and destroy them utterly. Striking when the team is at its most vulnerable, the villains seize Avengers Mansion itself.\n\nWriter Roger Stern and artist John Buscema deliver a tense, brutal siege that pushes the heroes to their physical and emotional limits. Captain America, Hercules, and the others must claw their way back from one of the darkest defeats the team has ever suffered.\n\nThe arc is praised for its high stakes and character-driven tension, treating the villains as a credible existential threat rather than disposable obstacles. The toll it takes on the team resonates for years afterward.\n\n'Under Siege' is widely regarded as one of the finest Avengers stories of the 1980s and a masterclass in the team-under-pressure formula.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 1986,
+            "end_year": 1987,
+            "order_index": 3,
+            "reading_entries": [
+              {
+                "title": "Avengers: Under Siege",
+                "format": "trade",
+                "issue_range": "The Avengers #270-277",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "modern-era",
+        "title": "Modern Era: New Avengers and Beyond",
+        "start_year": 2004,
+        "end_year": 2019,
+        "order_index": 3,
+        "summary": "The 21st-century reinvention of the franchise, beginning when Brian Michael Bendis reshaped the team into a blockbuster engine with a new roster, a new tone, and line-wide event storytelling. This era turned the Avengers into the center of the Marvel Universe, building toward cosmic conflicts that defined a generation of readers and inspired the most successful film franchise of all time.",
+        "arcs": [
+          {
+            "slug": "avengers-disassembled",
+            "title": "Avengers Disassembled",
+            "logline": "On an ordinary day, the team is torn apart from within by a betrayal no one saw coming.",
+            "summary": "What begins as a routine afternoon at Avengers Mansion erupts into chaos as the team is struck by a cascade of impossible tragedies. As the heroes reel, they discover that the source of the catastrophe is far closer to home than any external enemy.\n\nWriter Brian Michael Bendis uses the story to demolish the long-standing status quo and clear the ground for a bold relaunch. The arc is deliberately devastating, breaking apart relationships and institutions that had stood for decades.\n\nThough divisive at the time for its grim turns, 'Disassembled' proved enormously influential, ushering in the modern, event-driven era of Avengers publishing. It set the stage for the New Avengers and the line-wide sagas that followed.\n\nThe story is essential reading for understanding the franchise's 21st-century direction, even as it remains one of its most debated.",
+            "spoiler": "The catastrophe is revealed to be caused by a mentally fractured Scarlet Witch, whose reality-warping grief kills several teammates.",
+            "arc_type": "flagship",
+            "start_year": 2004,
+            "end_year": 2004,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "Avengers: Disassembled",
+                "format": "trade",
+                "issue_range": "The Avengers #500-503 & Finale",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "new-avengers-breakout",
+            "title": "New Avengers: Breakout",
+            "logline": "A massive prison break throws a mismatched group of heroes together and forges a brand-new team.",
+            "summary": "When a catastrophic breakout empties a maximum-security prison for super-criminals, a disparate group of heroes converges on the scene to contain the disaster. Among them are Captain America, Iron Man, Spider-Man, Luke Cage, and Spider-Woman, none of whom planned to form a team.\n\nWriter Brian Michael Bendis and artist David Finch relaunch the franchise with a fresh, character-driven energy and a roster designed to surprise long-time readers. The breakout itself proves to be no accident, hinting at a larger conspiracy that will unfold over years.\n\nThe arc reestablishes the Avengers for a new generation, mixing A-list icons with grounded street-level heroes. Its success made the New Avengers the flagship title of the modern Marvel line.\n\n'Breakout' is the ideal jumping-on point for readers entering the modern era, balancing accessibility with the seeds of epic storytelling to come.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 2005,
+            "end_year": 2005,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "New Avengers Vol. 1: Breakout",
+                "format": "trade",
+                "issue_range": "New Avengers #1-6",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "the-infinity-gauntlet",
+            "title": "The Infinity Gauntlet",
+            "logline": "A cosmic tyrant gathers ultimate power, and the universe's heroes make a desperate last stand.",
+            "summary": "Thanos, having assembled the six Infinity Gems into a single gauntlet, gains command over reality, time, space, soul, mind, and power. To prove his devotion to Death, he erases half of all living things from existence with a snap of his fingers.\n\nThe surviving heroes, led by Adam Warlock and including the Avengers among Earth's mightiest champions, mount an all-but-hopeless assault against a being who has become functionally omnipotent. Writer Jim Starlin crafts a cosmic epic of staggering scale and surprising philosophical depth.\n\nThough technically a line-wide event rather than a solo Avengers title, the saga showcases the team at the center of the universe's greatest crisis and provides the direct inspiration for the climax of the Marvel Cinematic Universe.\n\n'The Infinity Gauntlet' is essential cosmic reading, a story whose imagery and stakes have become part of popular culture far beyond comics.",
+            "spoiler": null,
+            "arc_type": "crossover",
+            "start_year": 1991,
+            "end_year": 1991,
+            "order_index": 3,
+            "reading_entries": [
+              {
+                "title": "Infinity Gauntlet",
+                "format": "trade",
+                "issue_range": "Infinity Gauntlet #1-6",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "start_here": [
+      {
+        "order_index": 1,
+        "label": "Start with the origin",
+        "reason": "The team's founding issue is the definitive starting point, establishing the lineup, the name, and the revolving-door dynamic that defines them.",
+        "arc_slug": "avengers-assemble-origin"
+      },
+      {
+        "order_index": 2,
+        "label": "The modern jumping-on point",
+        "reason": "If you prefer a contemporary tone close to the films, 'Breakout' relaunches the team with an accessible mystery and a star-studded roster.",
+        "arc_slug": "new-avengers-breakout"
+      },
+      {
+        "order_index": 3,
+        "label": "Experience a classic epic",
+        "reason": "The Kree-Skrull War shows the Avengers at their most ambitious, a cosmic benchmark that proves the team can carry universe-spanning stakes.",
+        "arc_slug": "kree-skrull-war"
+      }
+    ],
+    "relationships": [
+      {
+        "related_slug": "iron-man",
+        "relationship": "ally",
+        "summary": "A founding member and the team's chief technologist and financier.",
+        "notes": "Tony Stark bankrolled the original team and provided Avengers Mansion and much of its technology."
+      },
+      {
+        "related_slug": "captain-america",
+        "relationship": "ally",
+        "summary": "The team's enduring field leader and moral compass.",
+        "notes": "Joined in The Avengers #4 after being thawed from the ice and has led countless rosters since."
+      },
+      {
+        "related_slug": "thor",
+        "relationship": "ally",
+        "summary": "A founding member and the team's resident god-tier powerhouse.",
+        "notes": "The God of Thunder lends both raw might and a cosmic perspective to the team."
+      },
+      {
+        "related_slug": "x-men",
+        "relationship": "ally",
+        "summary": "Fellow protectors of Earth who have allied with the Avengers many times despite occasional friction.",
+        "notes": "The two teams have clashed and cooperated, most notably during events centered on mutantkind."
+      },
+      {
+        "related_slug": "thanos",
+        "relationship": "enemy",
+        "summary": "The Mad Titan whose pursuit of ultimate power makes him the team's most apocalyptic foe.",
+        "notes": "His quest for the Infinity Gems has repeatedly put the entire universe at risk."
+      },
+      {
+        "related_slug": "ultron",
+        "relationship": "enemy",
+        "summary": "A genocidal artificial intelligence created by an Avenger, perpetually bent on humanity's extinction.",
+        "notes": "Ultron's origin within the team makes him one of their most personal and recurring threats."
+      },
+      {
+        "related_slug": "loki",
+        "relationship": "enemy",
+        "summary": "The trickster god whose scheming inadvertently created the team and who remains a frequent adversary.",
+        "notes": "Loki's manipulation of the Hulk indirectly led to the Avengers' formation."
+      },
+      {
+        "related_slug": "kang",
+        "relationship": "enemy",
+        "summary": "A time-traveling conqueror obsessed with subjugating the Avengers across history.",
+        "notes": "Kang has battled the team throughout the timestream in some of their most intricate sagas."
+      }
+    ],
+    "media": [
+      {
+        "media_type": "animated_series",
+        "title": "The Avengers: Earth's Mightiest Heroes",
+        "release_year": 2010,
+        "watch_order": 1,
+        "platform": "Disney XD",
+        "notes": "A critically acclaimed animated series widely praised for faithfully adapting classic comic storylines.",
+        "where_to_watch": "Disney+"
+      },
+      {
+        "media_type": "film",
+        "title": "The Avengers",
+        "release_year": 2012,
+        "watch_order": 2,
+        "platform": "Theatrical",
+        "notes": "The first Avengers film, directed by Joss Whedon, which united the Marvel Cinematic Universe's heroes for the first time.",
+        "where_to_watch": "Disney+"
+      },
+      {
+        "media_type": "film",
+        "title": "Avengers: Endgame",
+        "release_year": 2019,
+        "watch_order": 3,
+        "platform": "Theatrical",
+        "notes": "The culmination of the Infinity Saga and one of the highest-grossing films of all time.",
+        "where_to_watch": "Disney+"
+      },
+      {
+        "media_type": "video_game",
+        "title": "Marvel's Avengers",
+        "release_year": 2020,
+        "watch_order": null,
+        "platform": "PlayStation, Xbox, PC",
+        "notes": "An action-adventure game developed by Crystal Dynamics featuring a roster of playable Avengers.",
+        "where_to_watch": null
+      }
+    ],
+    "team_members": [
+      {
+        "character_slug": "iron-man",
+        "era_slug": "founding-era",
+        "role": "founder",
+        "notes": "A founding member who provided the team's funding, headquarters, and technology."
+      },
+      {
+        "character_slug": "thor",
+        "era_slug": "founding-era",
+        "role": "founder",
+        "notes": "A founding member and one of the team's most powerful assets."
+      },
+      {
+        "character_slug": "hulk",
+        "era_slug": "founding-era",
+        "role": "founder",
+        "notes": "A founding member whose volatility led him to depart shortly after the team formed."
+      },
+      {
+        "character_slug": "captain-america",
+        "era_slug": null,
+        "role": "leader",
+        "notes": "Joined in The Avengers #4 and became the team's defining field leader across eras."
+      },
+      {
+        "character_slug": "black-widow",
+        "era_slug": "modern-era",
+        "role": "member",
+        "notes": "A former spy who became a trusted and prominent member, especially in modern rosters."
+      },
+      {
+        "character_slug": "hawkeye",
+        "era_slug": "classic-era",
+        "role": "member",
+        "notes": "A reformed marksman who joined early and became a long-running fixture of the team."
+      }
+    ]
+  },
+  "supporting": [
+    {
+      "slug": "thanos",
+      "name": "Thanos",
+      "entity_type": "character",
+      "publisher_slug": "marvel",
+      "real_name": "Thanos",
+      "first_appearance": "Iron Man #55 (1973)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Thanos, the Mad Titan, is a nihilistic warlord obsessed with death and absolute power. His relentless pursuit of the Infinity Gems has made him one of the most feared beings in the cosmos and a recurring existential threat to the Avengers and the universe at large.",
+      "eras": [
+        {
+          "slug": "thanos-cosmic-era",
+          "title": "The Mad Titan's Conquests",
+          "start_year": 1973,
+          "end_year": 2018,
+          "order_index": 1,
+          "summary": "Thanos's evolution from a cosmic schemer into the universe's preeminent destroyer, defined by his quest for ultimate power and his devotion to Death.",
+          "arcs": [
+            {
+              "slug": "thanos-quest",
+              "title": "The Thanos Quest",
+              "logline": "The Mad Titan hunts down the Infinity Gems one by one to assemble unimaginable power.",
+              "summary": "Resurrected and more driven than ever, Thanos sets out to claim all six Infinity Gems from the Elders of the Universe who possess them. One by one, he outwits and overpowers beings of immense cosmic stature.\n\nWriter Jim Starlin uses the story to establish Thanos as a strategist whose intellect is as dangerous as his strength. Each confrontation reveals a different facet of his ruthlessness and cunning.\n\nThe arc directly sets up the events of the Infinity Gauntlet, transforming Thanos from a powerful villain into a near-omnipotent threat. It is a foundational text for understanding the character.\n\n'The Thanos Quest' is essential reading for fans of cosmic Marvel and the definitive prelude to his most famous saga.",
+              "spoiler": null,
+              "arc_type": "miniseries",
+              "start_year": 1990,
+              "end_year": 1990,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Thanos Quest",
+                  "format": "trade",
+                  "issue_range": "Thanos Quest #1-2",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Begin with the quest",
+          "reason": "This miniseries is the definitive introduction to Thanos at his most calculating and dangerous.",
+          "arc_slug": "thanos-quest"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "avengers",
+          "relationship": "enemy",
+          "summary": "The Avengers stand among the few forces capable of opposing the Mad Titan's apocalyptic ambitions.",
+          "notes": "Thanos's pursuit of the Infinity Gems repeatedly brings him into conflict with Earth's Mightiest Heroes."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "film",
+          "title": "Avengers: Infinity War",
+          "release_year": 2018,
+          "watch_order": 1,
+          "platform": "Theatrical",
+          "notes": "Thanos serves as the central antagonist, portrayed by Josh Brolin.",
+          "where_to_watch": "Disney+"
+        },
+        {
+          "media_type": "film",
+          "title": "Avengers: Endgame",
+          "release_year": 2019,
+          "watch_order": 2,
+          "platform": "Theatrical",
+          "notes": "Thanos returns as the primary threat in the conclusion of the Infinity Saga.",
+          "where_to_watch": "Disney+"
+        },
+        {
+          "media_type": "video_game",
+          "title": "Marvel Super War",
+          "release_year": 2019,
+          "watch_order": null,
+          "platform": "Mobile",
+          "notes": "Thanos appears as a playable character in this MOBA.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "ultron",
+      "name": "Ultron",
+      "entity_type": "character",
+      "publisher_slug": "marvel",
+      "real_name": "Ultron",
+      "first_appearance": "The Avengers #54 (1968)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Ultron is a self-aware artificial intelligence created by an Avenger that turned against its maker and all of humankind. Driven by a cold logic that equates peace with extinction, Ultron has returned again and again in ever-deadlier forms to become one of the Avengers' most persistent and personal foes.",
+      "eras": [
+        {
+          "slug": "ultron-uprising-era",
+          "title": "The Machine That Would Not Die",
+          "start_year": 1968,
+          "end_year": 2013,
+          "order_index": 1,
+          "summary": "Ultron's recurring campaigns against humanity, from his earliest appearances to the line-wide devastation of his most ambitious takeover.",
+          "arcs": [
+            {
+              "slug": "ultron-unlimited",
+              "title": "Ultron Unlimited",
+              "logline": "Ultron wipes out an entire nation and builds an army of himself to finish the job.",
+              "summary": "Ultron returns with a horrifying new plan: he annihilates the small nation of Slorenia and converts its population, intending to remake the world in his own cold image. To do so, he assembles a legion of duplicate Ultrons.\n\nWriter Kurt Busiek and artist George Perez craft a tense, frightening arc that treats Ultron as a genuine genocidal force. The Avengers face perhaps their most overwhelming version of the foe to date.\n\nThe story explores Ultron's twisted family dynamics and his obsession with the heroes who created and opposed him. It is widely regarded as one of the best Ultron stories ever published.\n\n'Ultron Unlimited' is a definitive showcase of the villain's menace and the team's resilience under impossible odds.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 1999,
+              "end_year": 1999,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Avengers: Ultron Unlimited",
+                  "format": "trade",
+                  "issue_range": "The Avengers (1998) #19-22",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "The definitive Ultron story",
+          "reason": "'Ultron Unlimited' captures the villain at his most terrifying and is the ideal introduction.",
+          "arc_slug": "ultron-unlimited"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "avengers",
+          "relationship": "enemy",
+          "summary": "Created by an Avenger, Ultron views the team as both family to be destroyed and the chief obstacle to his conquest.",
+          "notes": "His origin within the team makes their rivalry deeply personal."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "film",
+          "title": "Avengers: Age of Ultron",
+          "release_year": 2015,
+          "watch_order": 1,
+          "platform": "Theatrical",
+          "notes": "Ultron is the central antagonist, voiced by James Spader.",
+          "where_to_watch": "Disney+"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "The Avengers: Earth's Mightiest Heroes",
+          "release_year": 2010,
+          "watch_order": 2,
+          "platform": "Disney XD",
+          "notes": "Ultron features as a major recurring villain across the series.",
+          "where_to_watch": "Disney+"
+        },
+        {
+          "media_type": "video_game",
+          "title": "Marvel's Avengers",
+          "release_year": 2020,
+          "watch_order": null,
+          "platform": "PlayStation, Xbox, PC",
+          "notes": "Ultron appears as an antagonist in post-launch content.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "loki",
+      "name": "Loki",
+      "entity_type": "character",
+      "publisher_slug": "marvel",
+      "real_name": "Loki Laufeyson",
+      "first_appearance": "Journey into Mystery #85 (1962)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Loki, the Asgardian God of Mischief, is a master manipulator whose schemes have shaped the Marvel Universe for decades. His attempt to torment his adoptive brother Thor inadvertently brought the Avengers together, making him the foe responsible for the team's very existence.",
+      "eras": [
+        {
+          "slug": "loki-trickster-era",
+          "title": "The God of Mischief",
+          "start_year": 1962,
+          "end_year": 2011,
+          "order_index": 1,
+          "summary": "Loki's long career as Asgard's trickster and the Marvel Universe's most consequential schemer, from his earliest clashes with Thor to his grandest plots.",
+          "arcs": [
+            {
+              "slug": "loki-siege",
+              "title": "Siege",
+              "logline": "Loki's grand manipulation reaches its climax as Asgard itself comes under attack.",
+              "summary": "After years of behind-the-scenes scheming, Loki's machinations help engineer an all-out assault on the Asgardian city resting on Earth. The conflict draws together the Avengers, the Asgardians, and the forces that have manipulated America's heroes for years.\n\nWriter Brian Michael Bendis delivers the culmination of a long-running saga, with Loki's fingerprints on much of the chaos. The event reshapes the status quo of the Marvel Universe.\n\nThe story examines Loki's capacity for both betrayal and unexpected turns, deepening his complexity as a character. It is a pivotal modern event built atop his manipulations.\n\n'Siege' is a key chapter for understanding Loki's role as a universe-altering schemer.",
+              "spoiler": null,
+              "arc_type": "crossover",
+              "start_year": 2010,
+              "end_year": 2010,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Siege",
+                  "format": "trade",
+                  "issue_range": "Siege #1-4",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "See the schemer at work",
+          "reason": "'Siege' showcases Loki's long-game manipulation paying off on a universe-altering scale.",
+          "arc_slug": "loki-siege"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "avengers",
+          "relationship": "enemy",
+          "summary": "Loki's scheme against Thor inadvertently created the Avengers, and he has plotted against them ever since.",
+          "notes": "He holds the unique distinction of being the foe responsible for the team's formation."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "film",
+          "title": "The Avengers",
+          "release_year": 2012,
+          "watch_order": 1,
+          "platform": "Theatrical",
+          "notes": "Loki, played by Tom Hiddleston, serves as the primary antagonist.",
+          "where_to_watch": "Disney+"
+        },
+        {
+          "media_type": "live_action",
+          "title": "Loki",
+          "release_year": 2021,
+          "watch_order": 2,
+          "platform": "Disney+",
+          "notes": "A streaming series centered on the character, exploring time travel and the multiverse.",
+          "where_to_watch": "Disney+"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "The Avengers: Earth's Mightiest Heroes",
+          "release_year": 2010,
+          "watch_order": 3,
+          "platform": "Disney XD",
+          "notes": "Loki is a central villain whose plots drive the first season's overarching story.",
+          "where_to_watch": "Disney+"
+        }
+      ]
+    },
+    {
+      "slug": "kang",
+      "name": "Kang the Conqueror",
+      "entity_type": "character",
+      "publisher_slug": "marvel",
+      "real_name": "Nathaniel Richards",
+      "first_appearance": "The Avengers #8 (1964)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Kang the Conqueror is a time-traveling warlord from the far future who has subjugated entire eras of history. Existing across countless divergent timelines and alternate identities, Kang wages an endless campaign against the Avengers in some of their most intricate and far-reaching sagas.",
+      "eras": [
+        {
+          "slug": "kang-conquest-era",
+          "title": "Master of Time",
+          "start_year": 1964,
+          "end_year": 2002,
+          "order_index": 1,
+          "summary": "Kang's relentless temporal campaigns against the Avengers, spanning multiple identities and timelines across the team's history.",
+          "arcs": [
+            {
+              "slug": "kang-dynasty",
+              "title": "The Kang Dynasty",
+              "logline": "Kang launches his most total assault yet, conquering the entire Earth.",
+              "summary": "In his most ambitious campaign, Kang the Conqueror succeeds where he has always failed before: he conquers the entire planet. With his son Marcus at his side, he forces the Avengers and all of humanity to confront life under a tyrant's heel.\n\nWriter Kurt Busiek crafts a sprawling epic that treats Kang as a genuine world-conquering force rather than a recurring nuisance. The arc explores the costs of resistance and the complexity of Kang's motivations.\n\nThe story stands as the definitive modern Kang saga, raising the stakes to a planetary scale. It examines what it truly means to defeat a foe who has already won.\n\n'The Kang Dynasty' is essential reading for understanding the time-traveler's threat at its absolute peak.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 2001,
+              "end_year": 2002,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Avengers: The Kang Dynasty",
+                  "format": "trade",
+                  "issue_range": "The Avengers (1998) #41-55",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "The ultimate Kang epic",
+          "reason": "'The Kang Dynasty' shows the conqueror at the height of his power and is the definitive showcase of his threat.",
+          "arc_slug": "kang-dynasty"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "avengers",
+          "relationship": "enemy",
+          "summary": "Kang has battled the Avengers across the timestream in some of their longest and most complex conflicts.",
+          "notes": "His mastery of time travel makes him a uniquely persistent and unpredictable adversary."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "live_action",
+          "title": "Loki",
+          "release_year": 2021,
+          "watch_order": 1,
+          "platform": "Disney+",
+          "notes": "A variant of Kang is introduced in the first-season finale, played by Jonathan Majors.",
+          "where_to_watch": "Disney+"
+        },
+        {
+          "media_type": "film",
+          "title": "Ant-Man and the Wasp: Quantumania",
+          "release_year": 2023,
+          "watch_order": 2,
+          "platform": "Theatrical",
+          "notes": "Kang serves as the central antagonist in his first feature-film appearance.",
+          "where_to_watch": "Disney+"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "The Avengers: Earth's Mightiest Heroes",
+          "release_year": 2010,
+          "watch_order": 3,
+          "platform": "Disney XD",
+          "notes": "Kang appears as a time-traveling threat in a major story arc.",
+          "where_to_watch": "Disney+"
+        }
+      ]
+    },
+    {
+      "slug": "hulk",
+      "name": "Hulk",
+      "entity_type": "character",
+      "publisher_slug": "marvel",
+      "real_name": "Robert Bruce Banner",
+      "first_appearance": "The Incredible Hulk #1 (1962)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "The Hulk is the towering, gamma-powered alter ego of brilliant scientist Bruce Banner, born from a lab accident that fused intellect and rage. A founding Avenger whose volatility makes him as much a danger as an asset, the Hulk embodies the team's struggle to channel overwhelming power toward heroic ends.",
+      "eras": [
+        {
+          "slug": "hulk-classic-era",
+          "title": "The Strongest One There Is",
+          "start_year": 1962,
+          "end_year": 2008,
+          "order_index": 1,
+          "summary": "The Hulk's enduring saga of rage and isolation, from his gamma-irradiated origin to the cosmic conflicts that defined his later years.",
+          "arcs": [
+            {
+              "slug": "planet-hulk",
+              "title": "Planet Hulk",
+              "logline": "Exiled from Earth, the Hulk becomes a gladiator and then a king on an alien world.",
+              "summary": "After being shot into space by a cabal of heroes who deem him too dangerous, the Hulk crash-lands on the savage planet Sakaar. Forced into gladiatorial combat, he slowly rises from slave to champion to liberator.\n\nWriter Greg Pak reinvents the character by giving him a world to call his own and a community that respects rather than fears him. The story is an epic of rebellion, loyalty, and hard-won peace.\n\n'Planet Hulk' is celebrated as one of the greatest Hulk stories ever told, expanding the character far beyond his usual role. It set the stage for major events to follow.\n\nThe arc is a perfect entry point for readers who want to see the Hulk as a tragic hero rather than a mindless monster.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 2006,
+              "end_year": 2007,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Hulk: Planet Hulk",
+                  "format": "trade",
+                  "issue_range": "The Incredible Hulk (2000) #92-105",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "A modern classic",
+          "reason": "'Planet Hulk' reinvents the character with an epic, accessible standalone saga.",
+          "arc_slug": "planet-hulk"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "avengers",
+          "relationship": "ally",
+          "summary": "A founding member of the Avengers whose immense strength has saved the team many times.",
+          "notes": "Though his volatility led to an early departure, he remains tied to the team's origin and history."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "film",
+          "title": "The Avengers",
+          "release_year": 2012,
+          "watch_order": 1,
+          "platform": "Theatrical",
+          "notes": "The Hulk, played by Mark Ruffalo, joins the team in their first cinematic outing.",
+          "where_to_watch": "Disney+"
+        },
+        {
+          "media_type": "live_action",
+          "title": "The Incredible Hulk",
+          "release_year": 2008,
+          "watch_order": 2,
+          "platform": "Theatrical",
+          "notes": "An early Marvel Cinematic Universe film focused on Bruce Banner's struggle.",
+          "where_to_watch": "Disney+"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "The Avengers: Earth's Mightiest Heroes",
+          "release_year": 2010,
+          "watch_order": 3,
+          "platform": "Disney XD",
+          "notes": "The Hulk is a core member of the animated team.",
+          "where_to_watch": "Disney+"
+        }
+      ]
+    },
+    {
+      "slug": "black-widow",
+      "name": "Black Widow",
+      "entity_type": "character",
+      "publisher_slug": "marvel",
+      "real_name": "Natasha Romanoff",
+      "first_appearance": "Tales of Suspense #52 (1964)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Black Widow is a former Soviet spy and master assassin who defected to become one of the world's premier intelligence operatives and a stalwart Avenger. Trained from childhood in the Red Room, Natasha Romanoff balances a dark past with an unwavering commitment to atonement and heroism.",
+      "eras": [
+        {
+          "slug": "black-widow-spy-era",
+          "title": "The Red Room and Beyond",
+          "start_year": 1964,
+          "end_year": 2016,
+          "order_index": 1,
+          "summary": "Natasha Romanoff's journey from enemy agent to trusted Avenger, defined by espionage, redemption, and a constant reckoning with her past.",
+          "arcs": [
+            {
+              "slug": "black-widow-name-of-rose",
+              "title": "The Name of the Rose",
+              "logline": "Natasha confronts a conspiracy from her past while questioning who she can trust.",
+              "summary": "When Black Widow finds herself targeted and seemingly betrayed by those closest to her, she is forced to navigate a web of espionage that reaches back into her shadowy history. Every ally becomes a potential enemy.\n\nWriter Marjorie Liu crafts a tense spy thriller that leans into Natasha's strengths as a survivor and strategist. The story strips away her support network to test her resolve.\n\nThe arc deepens the character's mythology, examining the cost of a life built on secrets. It is a strong showcase of the Black Widow as a solo lead.\n\n'The Name of the Rose' is an excellent entry point for readers drawn to grounded, espionage-driven stories.",
+              "spoiler": null,
+              "arc_type": "miniseries",
+              "start_year": 2010,
+              "end_year": 2010,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Black Widow: The Name of the Rose",
+                  "format": "trade",
+                  "issue_range": "Black Widow (2010) #1-5",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "A grounded spy thriller",
+          "reason": "'The Name of the Rose' showcases Natasha as a solo lead in an espionage story true to her roots.",
+          "arc_slug": "black-widow-name-of-rose"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "avengers",
+          "relationship": "ally",
+          "summary": "A trusted Avenger whose espionage skills and tactical mind make her invaluable to the team.",
+          "notes": "She became a prominent and beloved member, especially in modern rosters."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "film",
+          "title": "The Avengers",
+          "release_year": 2012,
+          "watch_order": 1,
+          "platform": "Theatrical",
+          "notes": "Black Widow, played by Scarlett Johansson, is a founding member of the cinematic team.",
+          "where_to_watch": "Disney+"
+        },
+        {
+          "media_type": "film",
+          "title": "Black Widow",
+          "release_year": 2021,
+          "watch_order": 2,
+          "platform": "Theatrical",
+          "notes": "A solo film exploring Natasha's past and her ties to the Red Room.",
+          "where_to_watch": "Disney+"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "The Avengers: Earth's Mightiest Heroes",
+          "release_year": 2010,
+          "watch_order": 3,
+          "platform": "Disney XD",
+          "notes": "Black Widow appears in supporting and antagonist roles across the series.",
+          "where_to_watch": "Disney+"
+        }
+      ]
+    },
+    {
+      "slug": "hawkeye",
+      "name": "Hawkeye",
+      "entity_type": "character",
+      "publisher_slug": "marvel",
+      "real_name": "Clinton Francis Barton",
+      "first_appearance": "Tales of Suspense #57 (1964)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Hawkeye is a master archer with no superhuman powers who earns his place among gods and titans through sheer skill and stubborn determination. Beginning as a reluctant adversary, Clint Barton reformed to become one of the longest-serving and most relatable Avengers.",
+      "eras": [
+        {
+          "slug": "hawkeye-marksman-era",
+          "title": "The World's Greatest Marksman",
+          "start_year": 1964,
+          "end_year": 2015,
+          "order_index": 1,
+          "summary": "Clint Barton's long career as the Avengers' everyman, from his early reformation to his celebrated solo adventures.",
+          "arcs": [
+            {
+              "slug": "hawkeye-my-life-as-a-weapon",
+              "title": "My Life as a Weapon",
+              "logline": "Between missions, Hawkeye discovers that his days off are even more dangerous than the job.",
+              "summary": "Away from the world-saving spectacle of the Avengers, Clint Barton tries to live an ordinary life in his Brooklyn apartment building, looking out for his neighbors against a gang of tracksuit-wearing criminals. Alongside Kate Bishop, he gets pulled into trouble at every turn.\n\nWriter Matt Fraction and artist David Aja deliver a stylish, grounded, and frequently funny take on the character that became a critical sensation. The series strips away the cosmic stakes to focus on a hero who is, fundamentally, just a guy with a bow.\n\nThe arc redefined Hawkeye for a generation, blending crime drama, comedy, and inventive page design. It is one of the most acclaimed Marvel runs of its decade.\n\n'My Life as a Weapon' is the perfect entry point for readers who want character-driven, accessible storytelling.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 2012,
+              "end_year": 2013,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Hawkeye Vol. 1: My Life as a Weapon",
+                  "format": "trade",
+                  "issue_range": "Hawkeye (2012) #1-5 & Young Avengers Presents #6",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "The acclaimed solo run",
+          "reason": "'My Life as a Weapon' is a beloved, accessible introduction to Hawkeye as a grounded everyman hero.",
+          "arc_slug": "hawkeye-my-life-as-a-weapon"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "avengers",
+          "relationship": "ally",
+          "summary": "A long-serving Avenger whose marksmanship and grit let him stand alongside the team's most powerful members.",
+          "notes": "He reformed from an early adversary into one of the team's most enduring fixtures."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "film",
+          "title": "The Avengers",
+          "release_year": 2012,
+          "watch_order": 1,
+          "platform": "Theatrical",
+          "notes": "Hawkeye, played by Jeremy Renner, is a founding member of the cinematic team.",
+          "where_to_watch": "Disney+"
+        },
+        {
+          "media_type": "live_action",
+          "title": "Hawkeye",
+          "release_year": 2021,
+          "watch_order": 2,
+          "platform": "Disney+",
+          "notes": "A streaming series pairing Clint Barton with protege Kate Bishop.",
+          "where_to_watch": "Disney+"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "The Avengers: Earth's Mightiest Heroes",
+          "release_year": 2010,
+          "watch_order": 3,
+          "platform": "Disney XD",
+          "notes": "Hawkeye is a core member of the animated team.",
+          "where_to_watch": "Disney+"
+        }
+      ]
+    }
+  ]
+}

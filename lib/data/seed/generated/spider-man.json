@@ -1,0 +1,696 @@
+{
+  "primary": {
+    "slug": "spider-man",
+    "name": "Spider-Man",
+    "entity_type": "character",
+    "publisher_slug": "marvel",
+    "real_name": "Peter Parker",
+    "first_appearance": "Amazing Fantasy #15 (1962)",
+    "logo_url": null,
+    "cover_image_url": null,
+    "short_bio": "Bitten by a radioactive spider, science-whiz teenager Peter Parker gained wall-crawling strength, lightning reflexes, and a danger-sensing 'spider-sense.' After a personal tragedy taught him that with great power comes great responsibility, he became the wisecracking, perpetually-overworked hero of New York City. Spider-Man balances the everyday struggles of rent, romance, and a demanding day job with the constant duty of protecting the people around him.",
+    "eras": [
+      {
+        "slug": "silver-age-origins",
+        "title": "The Silver Age: Birth of a Hero",
+        "start_year": 1962,
+        "end_year": 1972,
+        "order_index": 1,
+        "summary": "Stan Lee and Steve Ditko introduce a radically new kind of superhero: a guilt-ridden teenager whose powers complicate rather than solve his life. These foundational years establish Peter Parker's supporting cast, his rogues' gallery, and the moral code that defines him.",
+        "arcs": [
+          {
+            "slug": "origin-amazing-fantasy",
+            "title": "With Great Power",
+            "logline": "A bullied science student gains spider powers and learns the hardest lesson of his life.",
+            "summary": "High school outcast Peter Parker is bitten by a radioactive spider during a science demonstration and discovers he has gained superhuman strength, agility, the ability to cling to walls, and a precognitive 'spider-sense.' Dazzled by the possibilities, Peter first uses his abilities for personal gain, designing a costume and web-shooters to break into show business as a television sensation.\n\nWhen he selfishly lets a fleeing burglar escape, believing it none of his business, that same criminal later murders his beloved Uncle Ben. Confronting the killer, Peter is shattered to recognize the man he could have stopped. The tragedy crystallizes the principle that will guide the rest of his life.\n\nThis short, perfectly-formed origin story is one of the most reprinted and influential single issues in comics history, reframing the superhero as a flawed, relatable everyman.",
+            "spoiler": "Uncle Ben is killed by the burglar Peter failed to stop, teaching him that with great power must come great responsibility.",
+            "arc_type": "origin",
+            "start_year": 1962,
+            "end_year": 1962,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "Amazing Fantasy #15",
+                "format": "single_issues",
+                "issue_range": "Amazing Fantasy #15",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              },
+              {
+                "title": "Marvel Masterworks: The Amazing Spider-Man Vol. 1",
+                "format": "hardcover",
+                "issue_range": "Amazing Fantasy #15, Amazing Spider-Man #1-10",
+                "reading_order": 2,
+                "publication_order": 2,
+                "reading_order_note": null,
+                "isbn": "9780785108566",
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "the-master-planner",
+            "title": "The Master Planner Saga",
+            "logline": "To save a dying loved one, Spider-Man must lift an impossible weight from his own shoulders.",
+            "summary": "When Aunt May falls gravely ill from a blood condition caused by an earlier transfusion of Peter's irradiated blood, the only cure is a rare serum stolen by the mysterious crime boss known as the Master Planner, who is secretly Doctor Octopus. Racing against time, an exhausted Spider-Man tears through the underworld to find it.\n\nThe saga culminates in the legendary sequence where Spider-Man, trapped beneath tons of collapsed machinery in a flooding underwater lab with the life-saving serum just out of reach, summons every ounce of his will to lift the wreckage off his back. It remains one of the most iconic depictions of heroic perseverance ever drawn.\n\nDitko's final great Spider-Man story, it distills the character's core appeal: not the powers, but the refusal to quit when everything is on the line.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 1965,
+            "end_year": 1965,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "The Amazing Spider-Man #31-33",
+                "format": "single_issues",
+                "issue_range": "Amazing Spider-Man #31-33",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              },
+              {
+                "title": "Marvel Masterworks: The Amazing Spider-Man Vol. 4",
+                "format": "hardcover",
+                "issue_range": "Amazing Spider-Man #31-40",
+                "reading_order": 2,
+                "publication_order": 2,
+                "reading_order_note": null,
+                "isbn": "9780785124023",
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "bronze-age-tragedy",
+        "title": "The Bronze Age: Loss and Legend",
+        "start_year": 1973,
+        "end_year": 1986,
+        "order_index": 2,
+        "summary": "Spider-Man matures into adulthood and college life as the stories grow darker and more emotionally ambitious. This era contains some of the most consequential and shocking moments in the character's history, redefining what a superhero comic could risk.",
+        "arcs": [
+          {
+            "slug": "night-gwen-stacy-died",
+            "title": "The Night Gwen Stacy Died",
+            "logline": "The Green Goblin learns Spider-Man's identity and strikes at the person he loves most.",
+            "summary": "Norman Osborn, having recovered the memories that reveal Spider-Man is Peter Parker, descends into full madness as the Green Goblin and abducts Peter's girlfriend Gwen Stacy. He lures Spider-Man to the top of a bridge for a final, vicious confrontation high above the river.\n\nWhat follows is widely regarded as the moment the Silver Age of comics ended and a more unflinching era began. The story's devastating outcome proved that even the hero's greatest efforts could fail, and that loss in these stories could be permanent and real.\n\nThe two-issue arc reverberates through every Spider-Man story that follows, cementing the Green Goblin as his ultimate nemesis and haunting Peter for decades of publication.",
+            "spoiler": "Gwen Stacy dies during the rescue attempt, a death many attribute to the whiplash of Spider-Man's own web-line; the Green Goblin is seemingly killed by his own glider.",
+            "arc_type": "flagship",
+            "start_year": 1973,
+            "end_year": 1973,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "The Amazing Spider-Man #121-122",
+                "format": "single_issues",
+                "issue_range": "Amazing Spider-Man #121-122",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              },
+              {
+                "title": "Marvel Masterworks: The Amazing Spider-Man Vol. 13",
+                "format": "hardcover",
+                "issue_range": "Amazing Spider-Man #121-131",
+                "reading_order": 2,
+                "publication_order": 2,
+                "reading_order_note": null,
+                "isbn": "9780785150794",
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "kravens-last-hunt",
+            "title": "Kraven's Last Hunt",
+            "logline": "An aging hunter buries Spider-Man alive to prove he can become the better spider.",
+            "summary": "Kraven the Hunter, obsessed with finally conquering his white whale, shoots Spider-Man, buries him in a grave, and dons the hero's costume to prowl the city himself. Convinced he has at last defeated his prey, Kraven sets out to prove he can be a superior Spider-Man by brutalizing criminals the way he believes the real hero should.\n\nMeanwhile, the buried Peter Parker must claw his way back from a literal grave, his psyche pushed to the brink. The story interweaves dread, obsession, and resurrection with a poetic, almost gothic tone unusual for the genre.\n\nWritten by J.M. DeMatteis with art by Mike Zeck, this self-contained tale is consistently ranked among the greatest Spider-Man stories ever told and a high point of mature superhero storytelling.",
+            "spoiler": null,
+            "arc_type": "crossover",
+            "start_year": 1987,
+            "end_year": 1987,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "Spider-Man: Kraven's Last Hunt",
+                "format": "trade",
+                "issue_range": "Web of Spider-Man #31-32, Amazing Spider-Man #293-294, Spectacular Spider-Man #131-132",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9780785184478",
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "modern-age-icon",
+        "title": "The Modern Age: A Hero for Every Reader",
+        "start_year": 1987,
+        "end_year": 2018,
+        "order_index": 3,
+        "summary": "Spider-Man becomes a global multimedia icon while the comics push his world in bold new directions, from career-best character work to reality-spanning epics. This era refreshes his mythology for new generations across film, games, and a revitalized comics line.",
+        "arcs": [
+          {
+            "slug": "coming-home",
+            "title": "Coming Home",
+            "logline": "A mysterious totemic predator forces Spider-Man to question the true nature of his powers.",
+            "summary": "J. Michael Straczynski's celebrated run opens with the arrival of Ezekiel, an older man with spider-powers like Peter's, who warns that the radioactive spider may have been merely a vessel for something far older and more mystical. He brings a warning of Morlun, an immortal hunter who feeds on totemic beings.\n\nThe arc reinvigorated the franchise at the turn of the millennium, blending street-level humanity with a mythic new dimension to Spider-Man's origin and pairing Peter's heroics with the warmth of his rekindled marriage and a new teaching career.\n\nWith painterly art by John Romita Jr., 'Coming Home' is a fan-favorite modern starting point that respects the character's history while opening fresh storytelling doors.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 2001,
+            "end_year": 2001,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "The Amazing Spider-Man Vol. 1: Coming Home",
+                "format": "trade",
+                "issue_range": "Amazing Spider-Man (vol. 2) #30-35",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9780785108061",
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "spider-verse",
+            "title": "Spider-Verse",
+            "logline": "Every Spider-Man from every reality must unite against a family that devours them.",
+            "summary": "The vampiric Inheritors, led by Morlun and his kin, begin hunting and consuming Spider-Totems across the multiverse, threatening to wipe out every spider-powered hero in existence. To survive, Peter Parker joins forces with an army of alternate Spider-Men, Spider-Women, and even stranger arachnid heroes drawn from countless dimensions.\n\nDan Slott's sprawling event introduces fan-favorite characters and celebrates the limitless variety of the Spider concept, gathering wall-crawlers from comics, cartoons, and beyond into a single desperate war. It became a defining touchstone of the modern Spider-Man brand and directly inspired the acclaimed animated films.\n\nEpic in scope yet anchored by Peter's leadership, 'Spider-Verse' is the definitive celebration of the idea that anyone can wear the mask.",
+            "spoiler": null,
+            "arc_type": "crossover",
+            "start_year": 2014,
+            "end_year": 2015,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "Spider-Verse",
+                "format": "omnibus",
+                "issue_range": "Amazing Spider-Man (2014) #7-15, Edge of Spider-Verse #1-5, and tie-ins",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9781302915377",
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "start_here": [
+      {
+        "order_index": 1,
+        "label": "Absolute Beginner",
+        "reason": "The complete, self-contained origin in a single issue. Read how Peter gains his powers and learns the lesson that makes him a hero, with no prior knowledge required.",
+        "arc_slug": "origin-amazing-fantasy"
+      },
+      {
+        "order_index": 2,
+        "label": "Classic Fan",
+        "reason": "A standalone Bronze Age masterpiece that shows Spider-Man at his most tested. You can read it cold and understand exactly why it tops 'greatest stories' lists.",
+        "arc_slug": "kravens-last-hunt"
+      },
+      {
+        "order_index": 3,
+        "label": "Modern Era",
+        "reason": "The multiverse epic that launched the modern Spider brand and inspired the animated films. A thrilling entry point into today's Spider-Man mythology.",
+        "arc_slug": "spider-verse"
+      }
+    ],
+    "relationships": [
+      {
+        "related_slug": "iron-man",
+        "relationship": "ally",
+        "summary": "A mentor figure who saw Peter's potential and helped equip him for bigger threats.",
+        "notes": "Tony Stark recruited and outfitted Spider-Man during the 'Civil War' era and acted as his mentor in the Marvel Cinematic Universe, building him advanced suits and a place on the Avengers' radar."
+      },
+      {
+        "related_slug": "captain-america",
+        "relationship": "ally",
+        "summary": "A moral compass and fellow Avenger whom Spider-Man deeply admires.",
+        "notes": "The two fought side by side in the Avengers and on opposite sides of 'Civil War' over the Superhuman Registration Act, with Cap's example pushing Peter to take a public stand."
+      },
+      {
+        "related_slug": "wolverine",
+        "relationship": "ally",
+        "summary": "An unlikely, bickering friendship forged through repeated team-ups.",
+        "notes": "The mismatched pair headlined the long-running 'Astonishing Spider-Man & Wolverine' team-ups, their odd-couple banter becoming a fan-favorite dynamic across Avengers stories."
+      },
+      {
+        "related_slug": "avengers",
+        "relationship": "ally",
+        "summary": "Spider-Man finally graduated from solo street hero to full Avenger.",
+        "notes": "After decades on the sidelines, Spider-Man joined the team during Brian Michael Bendis's 'New Avengers' run, bringing his street-level perspective to Earth's Mightiest Heroes."
+      },
+      {
+        "related_slug": "green-goblin",
+        "relationship": "enemy",
+        "summary": "His most personal nemesis, who knows his identity and has hurt those closest to him.",
+        "notes": "Norman Osborn discovered Spider-Man's identity, killed Gwen Stacy in 'The Night Gwen Stacy Died,' and has tormented Peter across generations as the architect of his greatest losses."
+      },
+      {
+        "related_slug": "doctor-octopus",
+        "relationship": "enemy",
+        "summary": "A brilliant scientist whose mechanical arms make him one of Spider-Man's deadliest foes.",
+        "notes": "Otto Octavius orchestrated the 'Master Planner' saga and once swapped minds with Peter to become the 'Superior Spider-Man,' making him both intellectual rival and physical match."
+      },
+      {
+        "related_slug": "venom",
+        "relationship": "enemy",
+        "summary": "An alien symbiote bonded to a man who hates Peter, twisting Spider-Man's own image against him.",
+        "notes": "After Spider-Man rejected the alien costume, it bonded with Eddie Brock to become Venom, a dark mirror immune to his spider-sense who knows his secret identity."
+      },
+      {
+        "related_slug": "sandman",
+        "relationship": "enemy",
+        "summary": "A shape-shifting petty criminal able to transform his body into living sand.",
+        "notes": "Flint Marko gained sand-based powers in a nuclear test accident and became an early recurring foe, clashing with Spider-Man solo and as a member of the Sinister Six and Frightful Four."
+      }
+    ],
+    "media": [
+      {
+        "media_type": "animated_series",
+        "title": "Spider-Man: The Animated Series",
+        "release_year": 1994,
+        "watch_order": 1,
+        "platform": "Fox Kids / Disney+",
+        "notes": "The definitive 1990s cartoon that adapted classic storylines for a generation of fans.",
+        "where_to_watch": "Disney+"
+      },
+      {
+        "media_type": "animated_series",
+        "title": "Spectacular Spider-Man",
+        "release_year": 2008,
+        "watch_order": 2,
+        "platform": "The CW / Disney+",
+        "notes": "A critically beloved series praised for its sharp characterization and balance of high school drama and action.",
+        "where_to_watch": "Disney+"
+      },
+      {
+        "media_type": "live_action",
+        "title": "Spider-Man",
+        "release_year": 2002,
+        "watch_order": null,
+        "platform": "Sony Pictures",
+        "notes": "Sam Raimi's landmark film, starring Tobey Maguire, that helped launch the modern superhero movie era.",
+        "where_to_watch": "Theatrical / streaming"
+      },
+      {
+        "media_type": "film",
+        "title": "Spider-Man: Into the Spider-Verse",
+        "release_year": 2018,
+        "watch_order": null,
+        "platform": "Sony Pictures Animation",
+        "notes": "Academy Award winner for Best Animated Feature, introducing Miles Morales and a multiverse of Spider-People.",
+        "where_to_watch": "Netflix / digital"
+      },
+      {
+        "media_type": "video_game",
+        "title": "Marvel's Spider-Man",
+        "release_year": 2018,
+        "watch_order": null,
+        "platform": "PlayStation 4",
+        "notes": "Insomniac Games' acclaimed open-world adventure praised for its fluid web-swinging and emotional story.",
+        "where_to_watch": "PlayStation Store"
+      }
+    ]
+  },
+  "supporting": [
+    {
+      "slug": "green-goblin",
+      "name": "Green Goblin",
+      "entity_type": "character",
+      "publisher_slug": "marvel",
+      "real_name": "Norman Osborn",
+      "first_appearance": "The Amazing Spider-Man #14 (1964)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Wealthy industrialist Norman Osborn ingested an unstable performance-enhancing serum that boosted his intellect and strength while shattering his sanity. As the cackling, glider-riding Green Goblin, he became Spider-Man's most personal and dangerous nemesis. His knowledge of Peter's secret identity makes every encounter a threat to everyone the hero loves.",
+      "eras": [
+        {
+          "slug": "gg-classic",
+          "title": "The Goblin Unmasked",
+          "start_year": 1964,
+          "end_year": 1973,
+          "order_index": 1,
+          "summary": "The Green Goblin rises from a mystery villain to Spider-Man's defining archenemy, culminating in the tragedy that reshaped both their lives.",
+          "arcs": [
+            {
+              "slug": "gg-goblin-reborn",
+              "title": "The Goblin's Reign of Terror",
+              "logline": "A masked madman makes it his obsession to unmask and destroy Spider-Man.",
+              "summary": "The Green Goblin debuts as a flamboyant new menace determined to make his name by defeating Spider-Man, eventually deducing the hero's secret identity and revealing his own as businessman Norman Osborn. Their cat-and-mouse war escalates as the Goblin's instability deepens.\n\nThe rivalry reaches its devastating peak when Osborn targets the people Peter loves most, an act of cruelty that defines the Goblin as the cruelest figure in Spider-Man's life. These stories establish the template for the personal supervillain who attacks a hero's civilian world.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 1966,
+              "end_year": 1973,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Marvel Masterworks: The Amazing Spider-Man Vol. 5",
+                  "format": "hardcover",
+                  "issue_range": "Amazing Spider-Man #41-50, Annual #3",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": "9780785134367",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Classic Fan",
+          "reason": "See the Green Goblin evolve from a costumed mystery into Spider-Man's ultimate personal enemy.",
+          "arc_slug": "gg-goblin-reborn"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "spider-man",
+          "relationship": "enemy",
+          "summary": "The Green Goblin is Spider-Man's most personal and destructive archenemy.",
+          "notes": "Knowing Peter's secret identity, Norman Osborn has repeatedly attacked the hero's loved ones, most infamously in 'The Night Gwen Stacy Died.'"
+        }
+      ],
+      "media": [
+        {
+          "media_type": "live_action",
+          "title": "Spider-Man",
+          "release_year": 2002,
+          "watch_order": null,
+          "platform": "Sony Pictures",
+          "notes": "Willem Dafoe's portrayal of Norman Osborn became the definitive live-action Green Goblin.",
+          "where_to_watch": "Theatrical / streaming"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "Spider-Man: The Animated Series",
+          "release_year": 1994,
+          "watch_order": null,
+          "platform": "Fox Kids / Disney+",
+          "notes": "A recurring villain across the show's multi-season run.",
+          "where_to_watch": "Disney+"
+        },
+        {
+          "media_type": "video_game",
+          "title": "Marvel's Spider-Man",
+          "release_year": 2018,
+          "watch_order": null,
+          "platform": "PlayStation 4",
+          "notes": "Norman Osborn features prominently as the city's mayor and a key story figure.",
+          "where_to_watch": "PlayStation Store"
+        }
+      ]
+    },
+    {
+      "slug": "doctor-octopus",
+      "name": "Doctor Octopus",
+      "entity_type": "character",
+      "publisher_slug": "marvel",
+      "real_name": "Otto Octavius",
+      "first_appearance": "The Amazing Spider-Man #3 (1963)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Brilliant nuclear physicist Otto Octavius was fused to a set of powerful artificial tentacle-arms in a lab accident that also warped his mind. Calculating and arrogant, Doctor Octopus is Spider-Man's intellectual equal and one of his deadliest recurring foes. He founded the Sinister Six and has come closer than anyone to truly defeating the wall-crawler.",
+      "eras": [
+        {
+          "slug": "doc-ock-classic",
+          "title": "The Arms of the Master Planner",
+          "start_year": 1963,
+          "end_year": 1965,
+          "order_index": 1,
+          "summary": "Doctor Octopus establishes himself as Spider-Man's premier scientific adversary and the mastermind behind his most desperate early battles.",
+          "arcs": [
+            {
+              "slug": "doc-ock-master-planner",
+              "title": "The Sinister Mastermind",
+              "logline": "A scientist with four deadly arms schemes to bend the city's underworld to his will.",
+              "summary": "Doctor Octopus first hands Spider-Man a humiliating defeat, becoming the rare villain to shake the hero's confidence early in his career. He returns again and again as a criminal mastermind, eventually operating in secret as the Master Planner whose schemes threaten lives close to Peter.\n\nThese stories cement Otto Octavius as Spider-Man's intellectual rival, a foe who wins with planning and ruthlessness rather than raw power, and lay the groundwork for his role as founder of the Sinister Six.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 1963,
+              "end_year": 1965,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Marvel Masterworks: The Amazing Spider-Man Vol. 1",
+                  "format": "hardcover",
+                  "issue_range": "Amazing Spider-Man #3, #11-12",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": "9780785108566",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Classic Fan",
+          "reason": "Meet the villain who first made Spider-Man doubt himself and became his ultimate intellectual rival.",
+          "arc_slug": "doc-ock-master-planner"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "spider-man",
+          "relationship": "enemy",
+          "summary": "Doctor Octopus is Spider-Man's most cerebral and persistent adversary.",
+          "notes": "Otto Octavius masterminded the 'Master Planner' saga and later swapped minds with Peter to become the 'Superior Spider-Man.'"
+        }
+      ],
+      "media": [
+        {
+          "media_type": "live_action",
+          "title": "Spider-Man 2",
+          "release_year": 2004,
+          "watch_order": null,
+          "platform": "Sony Pictures",
+          "notes": "Alfred Molina's sympathetic, tragic Doc Ock is widely praised as one of the greatest superhero film villains.",
+          "where_to_watch": "Theatrical / streaming"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "Spectacular Spider-Man",
+          "release_year": 2008,
+          "watch_order": null,
+          "platform": "The CW / Disney+",
+          "notes": "A central villain whose arc spans the series.",
+          "where_to_watch": "Disney+"
+        },
+        {
+          "media_type": "video_game",
+          "title": "Marvel's Spider-Man",
+          "release_year": 2018,
+          "watch_order": null,
+          "platform": "PlayStation 4",
+          "notes": "Otto Octavius is a key figure in the game's emotional main storyline.",
+          "where_to_watch": "PlayStation Store"
+        }
+      ]
+    },
+    {
+      "slug": "venom",
+      "name": "Venom",
+      "entity_type": "character",
+      "publisher_slug": "marvel",
+      "real_name": "Eddie Brock",
+      "first_appearance": "The Amazing Spider-Man #300 (1988)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "An alien symbiote that Spider-Man once wore as a living costume bonded instead with disgraced journalist Eddie Brock, who blamed the hero for ruining his career. Together they became Venom, a hulking, fanged dark mirror of Spider-Man immune to his spider-sense and aware of his secret identity. Over time Venom evolved from a terrifying enemy into a violent antihero with his own twisted code.",
+      "eras": [
+        {
+          "slug": "venom-birth",
+          "title": "Birth of the Lethal Protector",
+          "start_year": 1984,
+          "end_year": 1993,
+          "order_index": 1,
+          "summary": "The alien costume's rejection by Spider-Man gives rise to one of Marvel's most popular characters, first as a nightmare nemesis and then as an antihero in his own right.",
+          "arcs": [
+            {
+              "slug": "venom-symbiote-saga",
+              "title": "The Alien Costume Saga",
+              "logline": "A sentient black costume wants Spider-Man for itself, and finds a new host who hates him.",
+              "summary": "Spider-Man returns from an interstellar war with a sleek black costume that he eventually discovers is a living alien symbiote trying to permanently bond with him. After he violently rejects it, the creature seeks revenge and finds a willing partner in Eddie Brock, a journalist who blames Spider-Man for his ruin.\n\nMerged, the two become Venom: stronger than Spider-Man, undetectable by his spider-sense, and armed with intimate knowledge of his secret life. The arc transforms a costume gimmick into a signature villain and a lasting fan favorite.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 1984,
+              "end_year": 1988,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Spider-Man: Birth of Venom",
+                  "format": "trade",
+                  "issue_range": "Amazing Spider-Man #252-259, #298-300, #315-317 and related",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": "9780785124986",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Classic Fan",
+          "reason": "Trace Venom from a mysterious black costume to the symbiote nemesis who knows all of Spider-Man's secrets.",
+          "arc_slug": "venom-symbiote-saga"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "spider-man",
+          "relationship": "enemy",
+          "summary": "Venom is a dark reflection of Spider-Man who knows his identity and is immune to his spider-sense.",
+          "notes": "Born from the alien costume Spider-Man rejected, Venom debuted as a relentless stalker in 'The Alien Costume Saga' culminating in Amazing Spider-Man #300."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "film",
+          "title": "Venom",
+          "release_year": 2018,
+          "watch_order": null,
+          "platform": "Sony Pictures",
+          "notes": "Tom Hardy stars as Eddie Brock in the symbiote's standalone film franchise.",
+          "where_to_watch": "Theatrical / streaming"
+        },
+        {
+          "media_type": "live_action",
+          "title": "Spider-Man 3",
+          "release_year": 2007,
+          "watch_order": null,
+          "platform": "Sony Pictures",
+          "notes": "The symbiote and Venom appear in Sam Raimi's third Spider-Man film.",
+          "where_to_watch": "Theatrical / streaming"
+        },
+        {
+          "media_type": "video_game",
+          "title": "Marvel's Spider-Man 2",
+          "release_year": 2023,
+          "watch_order": null,
+          "platform": "PlayStation 5",
+          "notes": "The symbiote and Venom drive the central conflict of Insomniac's sequel.",
+          "where_to_watch": "PlayStation Store"
+        }
+      ]
+    },
+    {
+      "slug": "sandman",
+      "name": "Sandman",
+      "entity_type": "character",
+      "publisher_slug": "marvel",
+      "real_name": "William Baker (Flint Marko)",
+      "first_appearance": "The Amazing Spider-Man #4 (1963)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Small-time crook Flint Marko was caught in a nuclear test blast that fused his body with irradiated sand, granting him the power to transform into living, shape-shifting sand. As the Sandman he can become a sledgehammer fist, a swirling sandstorm, or slip away through the smallest crack. A recurring early foe, he has drifted between hardened criminal and reluctant antihero over the decades.",
+      "eras": [
+        {
+          "slug": "sandman-classic",
+          "title": "The Shifting Menace",
+          "start_year": 1963,
+          "end_year": 1967,
+          "order_index": 1,
+          "summary": "The Sandman establishes himself as one of Spider-Man's earliest powered foes and a founding threat among his team-up villains.",
+          "arcs": [
+            {
+              "slug": "sandman-debut",
+              "title": "The Sandman Strikes",
+              "logline": "A burglar who can turn to sand becomes one of Spider-Man's most slippery enemies.",
+              "summary": "After gaining his sand-transforming powers, Flint Marko launches a one-man crime wave that Spider-Man struggles to contain, since his foe can simply pour himself through bars and reform unharmed. The wall-crawler must outthink rather than overpower him.\n\nThe Sandman quickly becomes a fixture of Spider-Man's rogues' gallery, joining forces with other villains in the Sinister Six and the Frightful Four, and his elemental powers make him a memorable recurring threat across the hero's career.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 1963,
+              "end_year": 1964,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Marvel Masterworks: The Amazing Spider-Man Vol. 1",
+                  "format": "hardcover",
+                  "issue_range": "Amazing Spider-Man #4, Annual #1",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": "9780785108566",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Classic Fan",
+          "reason": "Meet one of Spider-Man's earliest super-powered foes and a charter member of the Sinister Six.",
+          "arc_slug": "sandman-debut"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "spider-man",
+          "relationship": "enemy",
+          "summary": "Sandman is a recurring early foe whose shape-shifting sand powers make him hard to defeat.",
+          "notes": "Flint Marko debuted in Amazing Spider-Man #4 and became a founding member of the Sinister Six, repeatedly clashing with Spider-Man over the decades."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "live_action",
+          "title": "Spider-Man 3",
+          "release_year": 2007,
+          "watch_order": null,
+          "platform": "Sony Pictures",
+          "notes": "Thomas Haden Church portrays a sympathetic Sandman in Sam Raimi's film.",
+          "where_to_watch": "Theatrical / streaming"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "Spider-Man: The Animated Series",
+          "release_year": 1994,
+          "watch_order": null,
+          "platform": "Fox Kids / Disney+",
+          "notes": "Appears as a recurring elemental villain.",
+          "where_to_watch": "Disney+"
+        },
+        {
+          "media_type": "video_game",
+          "title": "Spider-Man 3: The Game",
+          "release_year": 2007,
+          "watch_order": null,
+          "platform": "Multiple platforms",
+          "notes": "Featured as a boss based on the film incarnation.",
+          "where_to_watch": "Retail / digital"
+        }
+      ]
+    }
+  ]
+}

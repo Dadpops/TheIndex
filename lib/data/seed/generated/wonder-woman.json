@@ -1,0 +1,758 @@
+{
+  "primary": {
+    "slug": "wonder-woman",
+    "name": "Wonder Woman",
+    "entity_type": "character",
+    "publisher_slug": "dc",
+    "real_name": "Diana of Themyscira",
+    "first_appearance": "All Star Comics #8 (1941)",
+    "logo_url": null,
+    "cover_image_url": null,
+    "short_bio": "Princess Diana of Themyscira is an Amazon warrior sculpted from clay and granted life by the gods, who leaves her hidden island paradise to champion peace, truth, and justice in the world of men. Armed with the Lasso of Truth, indestructible bracelets, and the strength of a demigod, she is a founding member of the Justice League and one of comics' most enduring icons. Diana embodies compassion and ferocity in equal measure, a diplomat who fights only when love and reason have failed.",
+    "eras": [
+      {
+        "slug": "golden-age",
+        "title": "Golden Age",
+        "start_year": 1941,
+        "end_year": 1955,
+        "order_index": 1,
+        "summary": "Created by William Moulton Marston and artist Harry G. Peter, Wonder Woman debuts as an Amazon ambassador bringing the wisdom of Athena and the strength of Hercules to a world at war. These foundational tales establish Paradise Island, the Lasso of Truth, and Diana's secret identity as Diana Prince.",
+        "arcs": [
+          {
+            "slug": "golden-origin",
+            "title": "The Origin of Wonder Woman",
+            "logline": "An American pilot crashes on a hidden island of immortal women, and their princess wins the right to return him to a world torn by war.",
+            "summary": "When Captain Steve Trevor's plane crashes on Paradise Island, the Amazons discover the existence of Man's World and the global conflict consuming it. Queen Hippolyta, guided by the goddess Athena, decrees that a champion must be chosen to escort Trevor home and fight for democracy and freedom.\n\nDiana, the queen's daughter formed from clay and given life by the gods, defies her mother's wishes by entering the tournament in disguise. She wins the contest of strength and skill, earning the star-spangled costume and the title of Wonder Woman.\n\nArriving in the United States, Diana adopts the alias of Army nurse Diana Prince to stay close to Steve Trevor while secretly battling Axis spies and saboteurs. These early stories cement her core mission: to bring peace through strength and compassion.",
+            "spoiler": null,
+            "arc_type": "origin",
+            "start_year": 1941,
+            "end_year": 1942,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "Wonder Woman: The Golden Age Omnibus Vol. 1",
+                "format": "omnibus",
+                "issue_range": "All Star Comics #8, Sensation Comics #1-14, Wonder Woman #1-7",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9781401273545",
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "golden-villainy",
+            "title": "Villainy Incorporated and the War Years",
+            "logline": "Wonder Woman faces a rogues' gallery of saboteurs, sorceresses, and a league of female criminals during the height of the Second World War.",
+            "summary": "As the war rages, Diana confronts a parade of memorable antagonists, including the venomous chemist Doctor Poison, the feline thief Cheetah, and the diminutive tyrant Doctor Psycho. The era introduces Villainy Incorporated, an alliance of her deadliest foes uniting against her.\n\nThese stories blend wartime propaganda with Marston's distinctive themes of loving authority and submission to a just cause. Diana relies as often on her wits and the truth-compelling Lasso as on her fists.\n\nThe period also expands her supporting cast, from the Holliday Girls and their leader Etta Candy to the recurring presence of Steve Trevor, grounding the high adventure in warmth and humor.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 1942,
+            "end_year": 1948,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "Wonder Woman: The Golden Age Omnibus Vol. 2",
+                "format": "omnibus",
+                "issue_range": "Sensation Comics #15-28, Wonder Woman #8-17",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9781401285661",
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "bronze-age",
+        "title": "Bronze Age",
+        "start_year": 1968,
+        "end_year": 1986,
+        "order_index": 2,
+        "summary": "Wonder Woman is reimagined for a changing world, first stripped of her powers as a mod martial-arts adventurer, then restored as a full Amazon and embraced as a feminist icon. The era reconnects Diana to her mythological roots and her role within the wider DC Universe.",
+        "arcs": [
+          {
+            "slug": "diana-prince-mod-era",
+            "title": "The Diana Prince Era",
+            "logline": "Powerless and without her costume, Diana runs a boutique and trains under a blind mentor as a globe-trotting human adventurer.",
+            "summary": "In a controversial reinvention, Diana surrenders her Amazon powers when the Amazons depart for another dimension, choosing to remain in Man's World. She closes her boutique only to be drawn into espionage and intrigue alongside her enigmatic mentor I Ching.\n\nDressed in mod fashions rather than the star-spangled costume, this Diana solves mysteries and fights with martial arts and cunning. The run reflects the spy-craze sensibilities of the late 1960s.\n\nThough divisive among longtime fans, the era is remembered as a bold experiment and a snapshot of its cultural moment before Diana's powers and heritage were ultimately restored.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 1968,
+            "end_year": 1972,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "Diana Prince: Wonder Woman Vol. 1",
+                "format": "trade",
+                "issue_range": "Wonder Woman #178-184",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9781401219338",
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "twelve-labors",
+            "title": "The Twelve Labors",
+            "logline": "To rejoin the Justice League, a restored Wonder Woman must prove herself through a series of trials watched in secret by her teammates.",
+            "summary": "With her powers and Amazon identity restored, Diana doubts whether she still deserves a place among Earth's greatest heroes. She asks the Justice League to monitor her on a sequence of missions before she rejoins.\n\nUnknown to Diana, each adventure is secretly observed by a different Leaguer, echoing the twelve labors of Hercules. The structure allows guest appearances and reaffirms her standing in the superhero community.\n\nThe storyline rehabilitates Wonder Woman after the depowered years, re-establishing her as a powerhouse and a respected peer of Superman and Batman, and recommitting the title to her mythic and heroic identity.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 1974,
+            "end_year": 1975,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "Wonder Woman: The Twelve Labors",
+                "format": "trade",
+                "issue_range": "Wonder Woman #212-222",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "modern-age",
+        "title": "Modern Age",
+        "start_year": 1987,
+        "end_year": 2010,
+        "order_index": 3,
+        "summary": "George Perez's post-Crisis relaunch rebuilds Wonder Woman from the ground up as a true creature of Greek myth and an emissary of peace. Subsequent acclaimed runs deepen her role as warrior, diplomat, and one of DC's defining heroes.",
+        "arcs": [
+          {
+            "slug": "gods-and-mortals",
+            "title": "Gods and Mortals",
+            "logline": "Reborn from clay in a world that has never known her, the Amazon princess steps into Man's World as the gods' chosen champion against the war god Ares.",
+            "summary": "Following Crisis on Infinite Earths, George Perez reintroduces Diana with her continuity wiped clean. The Amazons are recast as survivors of an ancient tragedy, granted Themyscira by the Olympian gods, and Diana is sculpted from clay and blessed with divine gifts.\n\nWhen the war god Ares schemes to ignite a nuclear apocalypse, the gods send Diana into the modern world as their ambassador. Aided by Steve Trevor and mythology professor Julia Kapatelis, she must stop Ares before he plunges humanity into oblivion.\n\nThis landmark run firmly grounds Wonder Woman in Greek mythology, redefines her supporting cast, and presents her mission as one of peace and understanding rather than mere combat. It remains the definitive modern starting point for the character.",
+            "spoiler": null,
+            "arc_type": "origin",
+            "start_year": 1987,
+            "end_year": 1987,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "Wonder Woman by George Perez Vol. 1",
+                "format": "trade",
+                "issue_range": "Wonder Woman (1987) #1-7",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9781401268787",
+                "purchase_url": null
+              },
+              {
+                "title": "Wonder Woman by George Perez Omnibus Vol. 1",
+                "format": "omnibus",
+                "issue_range": "Wonder Woman (1987) #1-24, Annual #1",
+                "reading_order": 2,
+                "publication_order": 2,
+                "reading_order_note": null,
+                "isbn": "9781401272579",
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "the-hiketeia",
+            "title": "The Hiketeia",
+            "logline": "A desperate young woman invokes an ancient Amazon rite of supplication, binding Wonder Woman to protect her even as Batman hunts her for murder.",
+            "summary": "A fugitive named Danielle Wellys seeks out Diana and performs the Hiketeia, a sacred Greek ritual that obligates the receiver to protect the supplicant at any cost. Diana accepts, unaware of the crimes the girl has committed.\n\nWhen Batman arrives in pursuit of Danielle, Diana finds herself caught between her oath to the gods and her respect for justice and her fellow hero. The conflict forces a tense, philosophical confrontation between two icons with very different codes.\n\nWritten by Greg Rucka and illustrated by J.G. Jones, this standalone graphic novel is celebrated for its mythic gravity and its nuanced portrait of Diana's principles. It is widely regarded as one of the finest Wonder Woman stories ever told.",
+            "spoiler": null,
+            "arc_type": "miniseries",
+            "start_year": 2002,
+            "end_year": 2002,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "Wonder Woman: The Hiketeia",
+                "format": "hardcover",
+                "issue_range": "Original Graphic Novel",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9781401200107",
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "rucka-eyes-of-gorgon",
+            "title": "Eyes of the Gorgon",
+            "logline": "As Themyscira's ambassador in a hostile world, Diana faces political enemies and a vengeful goddess who unleashes Medusa against her.",
+            "summary": "Greg Rucka's acclaimed run positions Diana as a working ambassador, author, and public figure navigating the politics of Man's World as much as its monsters. Her embassy becomes a stage for diplomacy, faith, and conflict.\n\nWhen the goddess Athena's rivals move against Diana, the gorgon Medusa is set loose to destroy her. Diana must confront a foe whose very gaze means death, leading to one of her most striking personal trials.\n\nThe run elevates Wonder Woman as a thinker and leader, weaving Olympian intrigue with grounded human drama and setting the stage for the universe-shaking events that follow.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 2004,
+            "end_year": 2005,
+            "order_index": 3,
+            "reading_entries": [
+              {
+                "title": "Wonder Woman: Eyes of the Gorgon",
+                "format": "trade",
+                "issue_range": "Wonder Woman (1987) #206-213",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9781401295189",
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "new-52-rebirth",
+        "title": "New 52 and Rebirth",
+        "start_year": 2011,
+        "end_year": 2020,
+        "order_index": 4,
+        "summary": "DC's line-wide reboot reinvents Diana as a literal daughter of Zeus tangled in the brutal politics of the Olympian gods, before the Rebirth era reckons with which version of her history is true. These runs blend horror, myth, and identity in equal measure.",
+        "arcs": [
+          {
+            "slug": "blood",
+            "title": "Blood",
+            "logline": "Diana is revealed to be the secret daughter of Zeus, drawing her into a deadly succession war among the gods of Olympus.",
+            "summary": "Brian Azzarello and Cliff Chiang reimagine the Olympian pantheon as a dysfunctional, dangerous family in a horror-tinged retelling. The long-held story that Diana was sculpted from clay is recast as a lie protecting a more dangerous truth: she is the daughter of Zeus and Hippolyta.\n\nWhen a young woman named Zola becomes pregnant with another of Zeus's children, Hera's jealous wrath threatens her life. Diana steps in to protect her, plunging into a web of divine scheming, betrayal, and bloodshed.\n\nThe run reinvents Wonder Woman's mythology with striking design and tone, treating the gods as terrifying forces of nature. It stands as one of the most distinctive interpretations of the character in decades.",
+            "spoiler": "This arc retcons Diana's origin: she is revealed to be the biological daughter of Zeus rather than a being sculpted from clay.",
+            "arc_type": "retcon",
+            "start_year": 2011,
+            "end_year": 2012,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "Wonder Woman Vol. 1: Blood",
+                "format": "trade",
+                "issue_range": "Wonder Woman (2011) #1-6",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9781401235628",
+                "purchase_url": null
+              },
+              {
+                "title": "Wonder Woman by Brian Azzarello and Cliff Chiang Omnibus",
+                "format": "omnibus",
+                "issue_range": "Wonder Woman (2011) #0-35",
+                "reading_order": 2,
+                "publication_order": 2,
+                "reading_order_note": null,
+                "isbn": "9781401294076",
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "the-lies-year-one",
+            "title": "The Lies and Year One",
+            "logline": "Realizing her own memories have been tampered with, Wonder Woman hunts for the truth of her origin while a parallel tale retells how she first came to Man's World.",
+            "summary": "In DC Rebirth, Greg Rucka returns to confront the contradictions between Diana's competing origin stories. In The Lies, Diana discovers she can no longer reach Themyscira and suspects that someone has deceived her about her entire past.\n\nThe companion story Year One retells her arrival in Man's World with modern sensibility, reintroducing Steve Trevor, Etta Candy, and Barbara Ann Minerva before her fall into villainy. The two threads alternate, contrasting present-day mystery with foundational origin.\n\nThe run is praised for restoring emotional clarity to the character after years of conflicting continuity, reaffirming Diana's compassion and resolve while honoring her mythic roots.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 2016,
+            "end_year": 2017,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "Wonder Woman Vol. 1: The Lies",
+                "format": "trade",
+                "issue_range": "Wonder Woman (2016) #1, 3, 5, 7, 9, 11",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": "Rebirth alternated The Lies (odd issues) and Year One (even issues) week to week; collected editions separate the two threads.",
+                "isbn": "9781401267865",
+                "purchase_url": null
+              },
+              {
+                "title": "Wonder Woman Vol. 2: Year One",
+                "format": "trade",
+                "issue_range": "Wonder Woman (2016) #2, 4, 6, 8, 10, 12",
+                "reading_order": 2,
+                "publication_order": 2,
+                "reading_order_note": "Year One is the even-numbered issues; read after or alongside The Lies.",
+                "isbn": "9781401268787",
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "start_here": [
+      {
+        "order_index": 1,
+        "label": "Absolute Beginner",
+        "reason": "Greg Rucka's Rebirth run rebuilds Diana from first principles, retelling her arrival in Man's World with modern art and clear, welcoming storytelling that needs no prior knowledge.",
+        "arc_slug": "the-lies-year-one"
+      },
+      {
+        "order_index": 2,
+        "label": "Classic Fan",
+        "reason": "George Perez's Gods and Mortals is the definitive modern origin, grounding Diana in Greek myth and defining the character for a generation of readers.",
+        "arc_slug": "gods-and-mortals"
+      },
+      {
+        "order_index": 3,
+        "label": "Modern Era",
+        "reason": "Azzarello and Chiang's Blood reinvents Wonder Woman's mythology as a horror-laced divine family drama, a bold and self-contained modern entry point.",
+        "arc_slug": "blood"
+      }
+    ],
+    "relationships": [
+      {
+        "related_slug": "superman",
+        "relationship": "ally",
+        "summary": "A fellow founding pillar of the Justice League and one of Diana's most trusted peers.",
+        "notes": "The two are often portrayed as the moral and physical equals of the DC Universe; their relationship ranges from deep friendship to a romance explored during the New 52 era."
+      },
+      {
+        "related_slug": "batman",
+        "relationship": "ally",
+        "summary": "A close comrade-in-arms whose grim pragmatism contrasts with Diana's compassion.",
+        "notes": "Their philosophical clash is dramatized in Greg Rucka and J.G. Jones's The Hiketeia, where Diana's sacred oath puts her at odds with Batman's pursuit of justice."
+      },
+      {
+        "related_slug": "the-flash",
+        "relationship": "ally",
+        "summary": "A fellow Justice League founder and dependable teammate in the field.",
+        "notes": "Diana and Barry Allen have stood together since the League's earliest adventures, frequently coordinating during crises like the various Crisis events."
+      },
+      {
+        "related_slug": "green-lantern",
+        "relationship": "ally",
+        "summary": "A founding Justice Leaguer who fights alongside Diana against cosmic and earthly threats.",
+        "notes": "Hal Jordan and Diana have served together across numerous League rosters, their willpower and warrior spirit complementing each other in battle."
+      },
+      {
+        "related_slug": "justice-league",
+        "relationship": "ally",
+        "summary": "Diana is a founding member and frequent leader of the world's premier superhero team.",
+        "notes": "She has anchored the League since its inception, serving as its diplomatic conscience and one of its three central icons alongside Superman and Batman."
+      },
+      {
+        "related_slug": "ares",
+        "relationship": "enemy",
+        "summary": "The Greek god of war and Diana's archnemesis, whose love of conflict is the antithesis of her mission of peace.",
+        "notes": "Ares schemes to ignite global nuclear war in George Perez's Gods and Mortals, establishing him as her defining mythological foe."
+      },
+      {
+        "related_slug": "cheetah",
+        "relationship": "enemy",
+        "summary": "Diana's most personal rival, a friend turned bestial predator consumed by obsession.",
+        "notes": "The Barbara Ann Minerva incarnation is a former friend transformed by a cursed ritual; her fall from grace is retold in Greg Rucka's Year One."
+      },
+      {
+        "related_slug": "circe",
+        "relationship": "enemy",
+        "summary": "An immortal sorceress who despises the Amazons and seeks to corrupt or destroy Diana through magic and manipulation.",
+        "notes": "Circe orchestrates the line-wide War of the Gods crossover and repeatedly transforms Diana's allies, making her one of her most cunning recurring villains."
+      },
+      {
+        "related_slug": "doctor-poison",
+        "relationship": "enemy",
+        "summary": "A masked chemist and toxin specialist who has plagued Wonder Woman since the Golden Age.",
+        "notes": "First appearing in Sensation Comics #2 (1942), Doctor Poison is among Diana's oldest foes and a founding member of Villainy Incorporated."
+      }
+    ],
+    "media": [
+      {
+        "media_type": "live_action",
+        "title": "Wonder Woman (TV series)",
+        "release_year": 1975,
+        "watch_order": 1,
+        "platform": "ABC / CBS",
+        "notes": "Lynda Carter's portrayal became iconic and defined the character in popular culture for decades.",
+        "where_to_watch": null
+      },
+      {
+        "media_type": "animated_series",
+        "title": "Justice League / Justice League Unlimited",
+        "release_year": 2001,
+        "watch_order": 2,
+        "platform": "Cartoon Network",
+        "notes": "Wonder Woman, voiced by Susan Eisenberg, is a central member of the team across this acclaimed Bruce Timm-produced series.",
+        "where_to_watch": null
+      },
+      {
+        "media_type": "film",
+        "title": "Wonder Woman",
+        "release_year": 2017,
+        "watch_order": 3,
+        "platform": "Warner Bros.",
+        "notes": "Gal Gadot stars in Patty Jenkins's critically acclaimed origin film set during World War I.",
+        "where_to_watch": null
+      },
+      {
+        "media_type": "video_game",
+        "title": "Injustice 2",
+        "release_year": 2017,
+        "watch_order": null,
+        "platform": "PlayStation / Xbox / PC",
+        "notes": "Wonder Woman is a featured playable fighter in NetherRealm's DC fighting-game sequel.",
+        "where_to_watch": null
+      }
+    ]
+  },
+  "supporting": [
+    {
+      "slug": "ares",
+      "name": "Ares",
+      "entity_type": "character",
+      "publisher_slug": "dc",
+      "real_name": null,
+      "first_appearance": "Wonder Woman #1 (1942)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Ares is the Olympian god of war and Wonder Woman's archnemesis, an immortal who feeds on the bloodshed and strife of mortals. Where Diana brings peace, Ares sows endless conflict, making him the eternal antithesis of everything she stands for.",
+      "eras": [
+        {
+          "slug": "ares-modern",
+          "title": "Modern Age",
+          "start_year": 1987,
+          "end_year": 2011,
+          "order_index": 1,
+          "summary": "George Perez recasts Ares (originally introduced as Mars) as a primal force of war whose schemes threaten to consume the entire world.",
+          "arcs": [
+            {
+              "slug": "ares-gods-and-mortals",
+              "title": "The War God's Gambit",
+              "logline": "The god of war manipulates the superpowers of Man's World toward nuclear annihilation, and only the gods' new champion can stop him.",
+              "summary": "In George Perez's relaunch, Ares orchestrates a plot to push humanity into a final, world-ending war that would feed his power beyond measure. The Olympian gods answer by sending Diana into Man's World as their champion.\n\nThe confrontation forces Ares to reckon with a foe who fights not for conquest but for peace. Diana's victory comes not through force alone but by revealing the self-destructive emptiness of his vision.\n\nThe arc establishes Ares as Wonder Woman's definitive mythological adversary in modern continuity.",
+              "spoiler": null,
+              "arc_type": "origin",
+              "start_year": 1987,
+              "end_year": 1987,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Wonder Woman by George Perez Vol. 1",
+                  "format": "trade",
+                  "issue_range": "Wonder Woman (1987) #1-7",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": "9781401268787",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Best Introduction",
+          "reason": "Ares's defining modern appearance is the central threat of George Perez's Gods and Mortals, where his philosophy of war is set against Diana's mission of peace.",
+          "arc_slug": "ares-gods-and-mortals"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "wonder-woman",
+          "relationship": "enemy",
+          "summary": "Ares is Wonder Woman's archnemesis, the god of war forever opposed to her mission of peace.",
+          "notes": "Their conflict is foundational to her modern origin in George Perez's Gods and Mortals."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "film",
+          "title": "Wonder Woman",
+          "release_year": 2017,
+          "watch_order": null,
+          "platform": "Warner Bros.",
+          "notes": "Ares serves as the hidden mastermind antagonist of the film's World War I setting.",
+          "where_to_watch": null
+        },
+        {
+          "media_type": "animated_series",
+          "title": "Justice League",
+          "release_year": 2001,
+          "watch_order": null,
+          "platform": "Cartoon Network",
+          "notes": "Ares and the Olympian conflict feature in Wonder Woman-focused episodes.",
+          "where_to_watch": null
+        },
+        {
+          "media_type": "film",
+          "title": "Wonder Woman (Animated)",
+          "release_year": 2009,
+          "watch_order": null,
+          "platform": "Warner Bros. Animation",
+          "notes": "Ares is the primary antagonist of the DC Universe Animated Original Movie.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "cheetah",
+      "name": "Cheetah",
+      "entity_type": "character",
+      "publisher_slug": "dc",
+      "real_name": "Barbara Ann Minerva",
+      "first_appearance": "Wonder Woman #6 (1943)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "The Cheetah is Wonder Woman's most personal foe, most famously the archaeologist Barbara Ann Minerva, who is transformed into a savage human-feline predator by a cursed ritual. A former friend driven by obsession and the power of a god, she embodies the corruption of what could have been an ally.",
+      "eras": [
+        {
+          "slug": "cheetah-modern",
+          "title": "Modern Age",
+          "start_year": 1987,
+          "end_year": 2020,
+          "order_index": 1,
+          "summary": "George Perez introduces Barbara Ann Minerva, recasting the Cheetah as a tragic and dangerous figure whose hunger for power costs her humanity.",
+          "arcs": [
+            {
+              "slug": "cheetah-origin",
+              "title": "The Cheetah's Curse",
+              "logline": "An ambitious archaeologist gains the power of a predatory god at the cost of her humanity, becoming Wonder Woman's deadliest rival.",
+              "summary": "Barbara Ann Minerva, an archaeologist obsessed with a tribal cult, undergoes a ritual that grants her immense power as the Cheetah but transforms her into a bloodthirsty beast. The cost of her ambition is her humanity and her friendship with Diana.\n\nThe modern Cheetah becomes a recurring threat whose envy of Diana fuels an obsessive rivalry. Greg Rucka's Year One later deepens this tragedy by establishing Barbara as a genuine friend before her fall.\n\nThe arc cements Cheetah as the most personal antagonist in Wonder Woman's rogues' gallery.",
+              "spoiler": null,
+              "arc_type": "origin",
+              "start_year": 1987,
+              "end_year": 1988,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Wonder Woman by George Perez Omnibus Vol. 1",
+                  "format": "omnibus",
+                  "issue_range": "Wonder Woman (1987) #7-9 (first appearances)",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": "9781401272579",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Best Introduction",
+          "reason": "Greg Rucka's Year One portrays Barbara Ann Minerva as a friend before her tragic transformation, giving the Cheetah's villainy real emotional weight.",
+          "arc_slug": "cheetah-origin"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "wonder-woman",
+          "relationship": "enemy",
+          "summary": "The Cheetah is Wonder Woman's most personal nemesis, a former friend turned obsessive predator.",
+          "notes": "Barbara Ann Minerva's fall from friend to foe is central to Greg Rucka's Rebirth-era Year One."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "film",
+          "title": "Wonder Woman 1984",
+          "release_year": 2020,
+          "watch_order": null,
+          "platform": "Warner Bros.",
+          "notes": "Kristen Wiig portrays Barbara Minerva's transformation into the Cheetah.",
+          "where_to_watch": null
+        },
+        {
+          "media_type": "video_game",
+          "title": "DC Universe Online",
+          "release_year": 2011,
+          "watch_order": null,
+          "platform": "PlayStation / PC",
+          "notes": "The Cheetah appears as a featured Wonder Woman villain in the MMO.",
+          "where_to_watch": null
+        },
+        {
+          "media_type": "animated_series",
+          "title": "Justice League Unlimited",
+          "release_year": 2004,
+          "watch_order": null,
+          "platform": "Cartoon Network",
+          "notes": "The Cheetah recurs as a member of the Legion of Doom.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "circe",
+      "name": "Circe",
+      "entity_type": "character",
+      "publisher_slug": "dc",
+      "real_name": "Circe",
+      "first_appearance": "Wonder Woman #37 (1949)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Circe is an immortal Greek sorceress of immense magical power and a bitter enemy of the Amazons. A master manipulator who delights in transforming men into beasts, she repeatedly schemes to corrupt, humiliate, or destroy Wonder Woman through cunning rather than brute force.",
+      "eras": [
+        {
+          "slug": "circe-modern",
+          "title": "Modern Age",
+          "start_year": 1987,
+          "end_year": 2011,
+          "order_index": 1,
+          "summary": "Post-Crisis, Circe is reimagined as one of Wonder Woman's most dangerous and intelligent foes, orchestrating events that ripple across the entire DC Universe.",
+          "arcs": [
+            {
+              "slug": "war-of-the-gods",
+              "title": "War of the Gods",
+              "logline": "The sorceress Circe sets the pantheons of the world against one another in a scheme to annihilate the Amazons and their champion.",
+              "summary": "Circe engineers a cataclysmic conflict among the gods of various mythologies, drawing the heroes of the DC Universe into a war that threatens reality itself. Her ultimate target is the destruction of Wonder Woman and the Amazons.\n\nThe crossover showcases Circe's intelligence and reach, positioning her as a strategist who weaponizes belief and divinity. Diana must rally allies across the universe to unravel the sorceress's plot.\n\nThe arc cements Circe as a top-tier Wonder Woman villain whose threat extends far beyond Themyscira.",
+              "spoiler": null,
+              "arc_type": "crossover",
+              "start_year": 1991,
+              "end_year": 1991,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "War of the Gods",
+                  "format": "trade",
+                  "issue_range": "War of the Gods #1-4 and crossover tie-ins",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "wonder-woman",
+          "relationship": "enemy",
+          "summary": "Circe is an immortal sorceress who hates the Amazons and repeatedly schemes to destroy Wonder Woman.",
+          "notes": "Her machinations drive the line-wide War of the Gods crossover targeting Diana and Themyscira."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "animated_series",
+          "title": "Justice League Unlimited",
+          "release_year": 2005,
+          "watch_order": null,
+          "platform": "Cartoon Network",
+          "notes": "Circe appears in a memorable episode in which she curses Wonder Woman.",
+          "where_to_watch": null
+        },
+        {
+          "media_type": "video_game",
+          "title": "DC Universe Online",
+          "release_year": 2011,
+          "watch_order": null,
+          "platform": "PlayStation / PC",
+          "notes": "Circe is a major magic-themed antagonist in the MMO.",
+          "where_to_watch": null
+        },
+        {
+          "media_type": "animated_series",
+          "title": "Harley Quinn",
+          "release_year": 2019,
+          "watch_order": null,
+          "platform": "DC Universe / Max",
+          "notes": "Circe appears as a sorceress antagonist in the adult animated series.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "doctor-poison",
+      "name": "Doctor Poison",
+      "entity_type": "character",
+      "publisher_slug": "dc",
+      "real_name": "Princess Maru",
+      "first_appearance": "Sensation Comics #2 (1942)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Doctor Poison is one of Wonder Woman's oldest foes, a masked chemist and toxicologist who develops deadly poisons and biochemical weapons. First appearing during the Golden Age as the disguised Princess Maru, the identity has been carried by more than one villain united by a mastery of lethal chemistry.",
+      "eras": [
+        {
+          "slug": "doctor-poison-golden",
+          "title": "Golden Age",
+          "start_year": 1942,
+          "end_year": 1948,
+          "order_index": 1,
+          "summary": "Doctor Poison debuts as an Axis agent and chemical-weapons specialist, becoming a founding member of the villain alliance Villainy Incorporated.",
+          "arcs": [
+            {
+              "slug": "doctor-poison-debut",
+              "title": "The Poison Plot",
+              "logline": "A masked chemist unleashes a debilitating toxin on American soldiers, and Wonder Woman must unmask the saboteur behind it.",
+              "summary": "During the war years, the disguised Doctor Poison wages a campaign of sabotage using a chemical agent called Reverso that turns soldiers against their own side. Wonder Woman investigates the outbreak and tracks the toxin to its source.\n\nThe confrontation reveals the chemist's true identity and establishes Doctor Poison as a recurring Golden Age menace. The villain later joins Villainy Incorporated, the alliance of Diana's deadliest early foes.\n\nThe arc grounds Doctor Poison as one of Wonder Woman's longest-running adversaries.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 1942,
+              "end_year": 1942,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Wonder Woman: The Golden Age Omnibus Vol. 1",
+                  "format": "omnibus",
+                  "issue_range": "Sensation Comics #2-3",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": "9781401273545",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "wonder-woman",
+          "relationship": "enemy",
+          "summary": "Doctor Poison is one of Wonder Woman's oldest enemies, a chemist who wields deadly toxins against her.",
+          "notes": "First appearing in Sensation Comics #2 (1942), Doctor Poison is a founding member of Villainy Incorporated."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "film",
+          "title": "Wonder Woman",
+          "release_year": 2017,
+          "watch_order": null,
+          "platform": "Warner Bros.",
+          "notes": "Elena Anaya plays Dr. Maru, a disfigured chemist developing lethal gas during World War I.",
+          "where_to_watch": null
+        },
+        {
+          "media_type": "animated_series",
+          "title": "DC Super Hero Girls",
+          "release_year": 2019,
+          "watch_order": null,
+          "platform": "Cartoon Network",
+          "notes": "A youthful version of Doctor Poison appears among Wonder Woman's foes.",
+          "where_to_watch": null
+        },
+        {
+          "media_type": "video_game",
+          "title": "DC Universe Online",
+          "release_year": 2011,
+          "watch_order": null,
+          "platform": "PlayStation / PC",
+          "notes": "Doctor Poison appears among Wonder Woman's chemical-themed villains.",
+          "where_to_watch": null
+        }
+      ]
+    }
+  ]
+}

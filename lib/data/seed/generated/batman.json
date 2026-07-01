@@ -1,0 +1,1780 @@
+{
+  "primary": {
+    "slug": "batman",
+    "name": "Batman",
+    "entity_type": "character",
+    "role": "hero",
+    "publisher_slug": "dc",
+    "real_name": "Bruce Wayne",
+    "first_appearance": "Detective Comics #27 (1939)",
+    "logo_url": null,
+    "cover_image_url": null,
+    "short_bio": "Orphaned as a boy when his parents were gunned down outside a Gotham City theater, Bruce Wayne spent years forging his body and mind into the perfect instrument of justice. Returning to Gotham, he became Batman — a self-made detective-vigilante who wages a relentless war on crime using intellect, martial mastery, and fear as his weapons. He stands as one of the most recognizable heroes in fiction, defined not by superpowers but by an unbreakable will.",
+    "eras": [
+      {
+        "slug": "batman-golden-age",
+        "title": "The Golden Age",
+        "start_year": 1939,
+        "end_year": 1969,
+        "order_index": 1,
+        "summary": "Bill Finger and Bob Kane introduced Batman in 1939 as a pulp-influenced dark detective who operated outside the law. The character's early years established core elements — the death of Thomas and Martha Wayne, Alfred, Commissioner Gordon, and the first rogues like the Joker and Catwoman. Robin debuted in 1940, softening the tone toward adventure-serial territory. The era closed with a campy sensibility that would define public perception for decades until later writers reclaimed the character's shadows.",
+        "arcs": [
+          {
+            "slug": "batman-golden-age-origins",
+            "title": "The First Cases: Golden Age Batman",
+            "logline": "The original Darknight Detective emerges from Gotham's shadows, before the mythology had a name.",
+            "summary": "The earliest Batman stories are pulp crime yarns stripped to the bone: a masked figure descending on criminals who thought themselves untouchable. Finger and Kane worked without a rulebook, so these tales have a raw, sometimes contradictory energy. Batman uses guns, operates without any defined code, and reads more as urban avenger than costumed hero. The Joker appears in the very first Batman issue (Batman #1, 1940), already fully formed as a grinning agent of chaos. Catwoman, called 'The Cat' in her debut, appears in that same issue as a jewel thief rather than an outright villain. These stories matter less for polish than for establishing the genetic code of everything that follows.",
+            "spoiler": null,
+            "arc_type": "origin",
+            "start_year": 1939,
+            "end_year": 1949,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "Batman: The Golden Age Vol. 1",
+                "format": "omnibus",
+                "issue_range": "Detective Comics #27–45, Batman #1",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "978-1401263690",
+                "purchase_url": null
+              },
+              {
+                "title": "Batman: The Golden Age Omnibus Vol. 1",
+                "format": "hardcover",
+                "issue_range": "Detective Comics #27–50, Batman #1–2",
+                "reading_order": 2,
+                "publication_order": 2,
+                "reading_order_note": null,
+                "isbn": "978-1401258023",
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "batman-robin-era",
+            "title": "Batman and Robin, the Dynamic Duo",
+            "logline": "A young ward becomes the Boy Wonder and Gotham's criminals face two detectives instead of one.",
+            "summary": "Robin's debut in Detective Comics #38 (1940) transformed Batman from lone vigilante into mentor, shifting the series' tone toward youthful adventure. Dick Grayson — a circus acrobat orphaned by a mob hit — gave Batman both a reason to explain his methods and a moral compass defined by protecting innocence rather than simply punishing crime. The duo's chemistry became the template for superhero partnerships, and the stories of this period have a serial-adventure quality: globe-trotting cases, elaborate death-trap escapes, and Gotham as a city that genuinely needed heroes rather than just feared them.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 1940,
+            "end_year": 1969,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "Batman: The Golden Age Omnibus Vol. 2",
+                "format": "omnibus",
+                "issue_range": "Detective Comics #51–70, Batman #3–7",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "978-1401265700",
+                "purchase_url": null
+              },
+              {
+                "title": "Batman: The Golden Age Vol. 2",
+                "format": "trade",
+                "issue_range": "Detective Comics #46–70, Batman #3–5",
+                "reading_order": 2,
+                "publication_order": 2,
+                "reading_order_note": null,
+                "isbn": "978-1401271022",
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "batman-bronze-age",
+        "title": "The Bronze Age: Denny O'Neil's Dark Knight",
+        "start_year": 1970,
+        "end_year": 1985,
+        "order_index": 2,
+        "summary": "Writer Denny O'Neil and artist Neal Adams spent the early 1970s systematically dismantling the campy Batman of the television era and restoring the character as Gotham's grim detective. Ra's al Ghul was introduced as a global-scale adversary of genuine philosophical weight, while the Joker was reimagined as a genuinely lethal figure. This era also saw Batman move back into Wayne Manor's shadows after years of stories set in a bright, pop-art Gotham. The work O'Neil and Adams did was so effective it essentially reset the character's public identity before the modern era began.",
+        "arcs": [
+          {
+            "slug": "batman-ras-al-ghul-introduction",
+            "title": "Daughter of the Demon",
+            "logline": "Batman crosses swords with a centuries-old eco-terrorist who sees him as the world's finest detective — and a potential heir.",
+            "summary": "Ra's al Ghul debuted across a pair of stories in Batman #232 and #235 (1971), and the character arrived fully realized: a man of genuine brilliance, operational resources spanning continents, and a goal — global population reduction to save the planet — that he believes is righteous. The story in which Ra's reveals he has deduced Batman's identity and orchestrated a test to gauge his worthiness stands as one of the era's most elegant plotting coups. O'Neil built a villain who respects Batman as an equal, a dynamic that would produce some of the character's most intellectually engaging conflicts across decades.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 1971,
+            "end_year": 1972,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "Batman: Tales of the Demon",
+                "format": "trade",
+                "issue_range": "Batman #232, #235, #240, #242–244, #250, Detective Comics #411, #485",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "978-1401207359",
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "batman-joker-deadly-joke-bronze",
+            "title": "O'Neil's Joker: The Clown Prince Returns",
+            "logline": "Batman's most unpredictable enemy is restored to lethal form after years of harmless television villainy.",
+            "summary": "Denny O'Neil's handling of the Joker through the 1970s set the template every subsequent writer follows: a killer who treats death as performance art, whose schemes are never purely about money or power but about the aesthetic pleasure of chaos. The 1975 Joker solo series, though short-lived, gave the character extended page time as an unreliable protagonist and demonstrated how uncomfortable it is to follow a point of view defined by randomized violence. These stories cleared the way for Alan Moore and Frank Miller's later, darker interpretations by establishing that the Joker's comedy and his menace were inseparable.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 1973,
+            "end_year": 1979,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "Batman Illustrated by Neal Adams Vol. 1–3",
+                "format": "hardcover",
+                "issue_range": "Batman #219–231, Detective Comics #395–420",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "978-1401202422",
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "batman-modern-age",
+        "title": "The Modern Age: Year One to No Man's Land",
+        "start_year": 1986,
+        "end_year": 2000,
+        "order_index": 3,
+        "summary": "Frank Miller's Year One and The Dark Knight Returns arrived within two years of each other and permanently altered what the character could mean. The former rebuilt his origin with gritty urban realism; the latter imagined a future that became a template for an entire genre. Alan Moore and Brian Bolland's The Killing Joke followed, and then Grant Morrison and Dave McKean's Arkham Asylum. This extraordinary decade of prestige work was matched by strong ongoing runs: Marv Wolfman, Chuck Dixon, Doug Moench, and Alan Grant all produced character-defining stories. The period closed with the 'Knightfall' and 'No Man's Land' events, which tested Batman's legend at its most extreme.",
+        "arcs": [
+          {
+            "slug": "batman-year-one",
+            "title": "Batman: Year One",
+            "logline": "A young Bruce Wayne returns to Gotham and makes every costly mistake a first-year vigilante could make.",
+            "summary": "Frank Miller and David Mazzucchelli's 1987 story is structured as parallel journals: Bruce Wayne learning the brutal logistics of becoming Batman while Lieutenant James Gordon arrives in Gotham and discovers a city so corrupt it has digested his idealism before he can unpack his boxes. The genius of the approach is that Batman is genuinely bad at his job early on — caught, burned out of a building, nearly killed — while Gordon is nearly as isolated as he is. Their paths toward becoming the city's two honest men run in tandem without ever quite meeting. Mazzucchelli's artwork uses a muted, almost noir palette that feels less like superhero comics than illustrated crime fiction.",
+            "spoiler": null,
+            "arc_type": "origin",
+            "start_year": 1987,
+            "end_year": 1987,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "Batman: Year One Deluxe Edition",
+                "format": "hardcover",
+                "issue_range": "Batman #404–407",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "978-1401207526",
+                "purchase_url": null
+              },
+              {
+                "title": "Batman: Year One",
+                "format": "trade",
+                "issue_range": "Batman #404–407",
+                "reading_order": 2,
+                "publication_order": 2,
+                "reading_order_note": null,
+                "isbn": "978-1401217358",
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "batman-the-killing-joke",
+            "title": "The Killing Joke",
+            "logline": "The Joker sets out to prove that one catastrophic day is all it takes to break a person — any person.",
+            "summary": "Alan Moore and Brian Bolland's 1988 prestige format one-shot is a sustained meditation on the question both Batman and the Joker refuse to answer honestly: how different are they, really? Moore frames the Joker's rampage through a noir-tinted origin story that positions the villain as a failed comedian whose worst day triggered an irreversible psychological break. Bolland's meticulously rendered artwork treats Gotham as a decaying carnival ground. The story's violence toward Barbara Gordon became one of DC's most debated editorial decisions, reframing her arc for decades and generating ongoing conversation about what comics are permitted to do to their characters.",
+            "spoiler": "Barbara Gordon is shot and permanently paralyzed by the Joker during his assault on Commissioner Gordon's household.",
+            "arc_type": "miniseries",
+            "start_year": 1988,
+            "end_year": 1988,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "Batman: The Killing Joke — Deluxe Edition",
+                "format": "hardcover",
+                "issue_range": "Batman: The Killing Joke #1",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "978-1401235192",
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "batman-knightfall",
+            "title": "Knightfall",
+            "logline": "A new villain systematically dismantles every tool and ally Batman has before confronting him face to face.",
+            "summary": "The 1993–1994 Knightfall saga is the rare crossover event that earns its scale. Bane — introduced as a tactician rather than a bruiser — opens Arkham Asylum and forces Batman to recapture his entire rogues gallery in a grueling gauntlet designed to exhaust him completely before Bane himself moves. The strategy works. The resulting confrontation at Wayne Manor is not a heroic stand but a calculated execution of a weakened man. What follows in the Knightsquest and KnightsEnd chapters tracks the consequences of Bruce handing the mantle to an unstable successor, and eventually his own painful return to form.",
+            "spoiler": "Bane breaks Batman's back at Wayne Manor. Bruce Wayne appoints Jean-Paul Valley (Azrael) as Batman, but Valley proves psychologically unstable and Bruce must eventually take the role back after recovering.",
+            "arc_type": "crossover",
+            "start_year": 1993,
+            "end_year": 1994,
+            "order_index": 3,
+            "reading_entries": [
+              {
+                "title": "Batman: Knightfall Vol. 1 — Broken Bat",
+                "format": "trade",
+                "issue_range": "Batman #491–500, Detective Comics #659–666, Batman: Vengeance of Bane #1",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "978-1401235345",
+                "purchase_url": null
+              },
+              {
+                "title": "Batman: Knightfall Vol. 2 — Who Rules the Night",
+                "format": "trade",
+                "issue_range": "Batman #500–508, Detective Comics #667–675, Showcase '93 #7–8",
+                "reading_order": 2,
+                "publication_order": 2,
+                "reading_order_note": null,
+                "isbn": "978-1401237059",
+                "purchase_url": null
+              },
+              {
+                "title": "Batman: Knightfall Vol. 3 — KnightsEnd",
+                "format": "trade",
+                "issue_range": "Batman #509–515, Detective Comics #676–682, Robin #1–6",
+                "reading_order": 3,
+                "publication_order": 3,
+                "reading_order_note": null,
+                "isbn": "978-1401238568",
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "batman-no-mans-land",
+            "title": "No Man's Land",
+            "logline": "After a devastating earthquake, the federal government abandons Gotham to its criminals — and Batman must take it back block by block.",
+            "summary": "The 1999 crossover event ran through nearly every Batman-family title and committed to an audacious premise: strip Batman of every resource, every institutional support, and every backup plan, then make him fight a territorial war for a city no one else wants to save. Gotham is carved into gang territories, with villains like Penguin, Two-Face, and Joker holding neighborhoods as warlords. Batman spends much of the story absent, forcing his allies — Nightwing, Oracle, Huntress, and eventually a new Batgirl — into extended leading roles. The event is emotionally rich and logistically elaborate in a way few crossovers attempt.",
+            "spoiler": "The Joker murders Sarah Essen Gordon, Commissioner Gordon's wife, during the climax of the No Man's Land conflict.",
+            "arc_type": "crossover",
+            "start_year": 1999,
+            "end_year": 1999,
+            "order_index": 4,
+            "reading_entries": [
+              {
+                "title": "Batman: No Man's Land Vol. 1",
+                "format": "omnibus",
+                "issue_range": "Batman #560–574, Detective Comics #727–741, Batman: Shadow of the Bat #83–90, Azrael #51–55",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "978-1401271305",
+                "purchase_url": null
+              },
+              {
+                "title": "Batman: No Man's Land Vol. 2",
+                "format": "omnibus",
+                "issue_range": "Batman #575–580, Detective Comics #742–746, Batman: Shadow of the Bat #91–94, Robin #67–73",
+                "reading_order": 2,
+                "publication_order": 2,
+                "reading_order_note": null,
+                "isbn": "978-1401271312",
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "batman-new-millennium",
+        "title": "The New Millennium: Hush to New 52",
+        "start_year": 2001,
+        "end_year": 2011,
+        "order_index": 4,
+        "summary": "The 2000s opened with Jeph Loeb and Jim Lee's Hush becoming one of the character's best-selling stories regardless of critical reception, proving that spectacle and nostalgia moved product. Ed Brubaker, Greg Rucka, and Devin Grayson each contributed serious work to the supporting cast. Grant Morrison began his sprawling, career-defining run in 2006 — a years-long project treating all of Batman's publication history as simultaneously canon. Morrison introduced Damian Wayne, killed Bruce (apparently), and sent the entire Batman mythology into ambitious, sometimes bewildering territory. The era closed with the Flashpoint event and DC's New 52 relaunch.",
+        "arcs": [
+          {
+            "slug": "batman-hush",
+            "title": "Hush",
+            "logline": "A masked enemy who knows Bruce Wayne's secrets orchestrates a conspiracy using Batman's entire rogues gallery as pawns.",
+            "summary": "Jeph Loeb and Jim Lee's twelve-issue run from 2002–2003 is deliberately a greatest-hits presentation: nearly every major Batman villain appears, Catwoman's role in Bruce's emotional life is examined, and Jim Lee's artwork delivers the definitive modern-era visual version of the character. The mystery at the center — who is the bandaged figure pulling strings from offstage — works better as a vehicle for the character pairings than as a pure whodunit, but the story's emotional beats between Bruce and Selina are more thoughtful than its plotting reputation suggests. It remains a reliable recommendation for readers who want a single story that deploys the full Batman universe.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 2002,
+            "end_year": 2003,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "Batman: Hush Absolute Edition",
+                "format": "omnibus",
+                "issue_range": "Batman #608–619",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "978-1401248963",
+                "purchase_url": null
+              },
+              {
+                "title": "Batman: Hush",
+                "format": "trade",
+                "issue_range": "Batman #608–619",
+                "reading_order": 2,
+                "publication_order": 2,
+                "reading_order_note": null,
+                "isbn": "978-1401223175",
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "batman-morrison-run",
+            "title": "Grant Morrison's Batman",
+            "logline": "Batman confronts the darkest chapter of his past, a crime cult targeting his legacy, and what it means to survive death itself.",
+            "summary": "Grant Morrison's run, beginning in Batman #655 (2006) and threading through multiple titles over several years, treats the entire published history of Batman as psychological fact rather than discarding inconvenient eras. Morrison reintroduced Damian Wayne — Bruce's son with Talia al Ghul — as an immediate complication to the Batman mythology. The run builds toward 'Batman R.I.P.,' a story constructed around a psychological attack on Bruce's mind, followed by Final Crisis, in which Darkseid apparently kills Batman with the Omega Sanction. What follows across 'Batman and Robin' — Dick Grayson assuming the role while Bruce is lost in time — is Morrison's most disciplined storytelling. The entire arc rewards readers who treat it as a single novel.",
+            "spoiler": "Bruce Wayne is believed killed by Darkseid's Omega Beams but is actually displaced through time, forced to fight his way back to the present.",
+            "arc_type": "flagship",
+            "start_year": 2006,
+            "end_year": 2011,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "Batman by Grant Morrison Omnibus Vol. 1",
+                "format": "omnibus",
+                "issue_range": "Batman #655–683, Batman and Son Special",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "978-1401283957",
+                "purchase_url": null
+              },
+              {
+                "title": "Batman by Grant Morrison Omnibus Vol. 2",
+                "format": "omnibus",
+                "issue_range": "Batman #701–702, Batman and Robin #1–16, Final Crisis #1–7",
+                "reading_order": 2,
+                "publication_order": 2,
+                "reading_order_note": "Read alongside Final Crisis for full context of Bruce's apparent death.",
+                "isbn": "978-1401290924",
+                "purchase_url": null
+              },
+              {
+                "title": "Batman by Grant Morrison Omnibus Vol. 3",
+                "format": "omnibus",
+                "issue_range": "Batman Incorporated #1–13, Batman Leviathan Strikes #1",
+                "reading_order": 3,
+                "publication_order": 3,
+                "reading_order_note": null,
+                "isbn": "978-1401298951",
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "batman-snyder-era",
+        "title": "The Snyder Era and Beyond",
+        "start_year": 2011,
+        "end_year": 2024,
+        "order_index": 5,
+        "summary": "Scott Snyder's New 52 Batman run with Greg Capullo stands as the most commercially successful and critically consistent Batman run of the modern era. Court of Owls introduced a Gotham conspiracy older than Bruce Wayne's idea of himself, while Death of the Family put the Joker in opposition to the entire Batman family simultaneously. Tom King followed with a long, formally experimental run defined by trauma, doubt, and Bruce's evolving relationship with Selina Kyle. Chip Kidd, James Tynion IV, and Zdarsky each contributed significant work in the years that followed, keeping Batman one of DC's most actively creative ongoing series.",
+        "arcs": [
+          {
+            "slug": "batman-court-of-owls",
+            "title": "The Court of Owls",
+            "logline": "A secret society has controlled Gotham from the shadows for centuries — and Batman never knew they existed.",
+            "summary": "Scott Snyder and Greg Capullo's opening New 52 arc manages something rare: a new villain (the Talon, enforcers of the Court) that feels genuinely threatening against a character who has faced every kind of enemy imaginable. The Court of Owls — a conspiracy of Gotham's oldest families who have quietly guided the city's history while eliminating anyone who learned too much — lands as a credible concept because Snyder's script is careful to establish the psychological stakes. Batman believes he knows Gotham entirely; the arc is about what it costs him to be wrong. The maze sequence in issues #5–6 is one of the decade's most formally inventive superhero comics sequences.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 2011,
+            "end_year": 2012,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "Batman Vol. 1: The Court of Owls",
+                "format": "hardcover",
+                "issue_range": "Batman #1–7 (New 52)",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "978-1401235420",
+                "purchase_url": null
+              },
+              {
+                "title": "Batman Vol. 2: The City of Owls",
+                "format": "hardcover",
+                "issue_range": "Batman #8–12, Batman Annual #1",
+                "reading_order": 2,
+                "publication_order": 2,
+                "reading_order_note": null,
+                "isbn": "978-1401237868",
+                "purchase_url": null
+              },
+              {
+                "title": "Batman: The Court of Owls Saga (Omnibus)",
+                "format": "omnibus",
+                "issue_range": "Batman #1–11, Annual #1, Night of the Owls crossover issues",
+                "reading_order": 3,
+                "publication_order": 3,
+                "reading_order_note": "Omnibus collects the full crossover for readers who want all tie-ins in order.",
+                "isbn": "978-1401284596",
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "batman-death-of-the-family",
+            "title": "Death of the Family",
+            "logline": "The Joker returns after years of absence with a plan to destroy everything Batman has built — by targeting the people he loves.",
+            "summary": "Snyder's Joker arc from 2012–2013 is built on a single terrifying premise: the Joker has decided the Batman family is a weakness that degrades the purity of his relationship with Batman. His campaign against Nightwing, Batgirl, Robin, and the others is not random violence but pointed manipulation, pushing each toward breaking. Capullo's redesign of the Joker — with his own removed face worn as a mask — is deeply unsettling in ways that feel earned rather than gratuitous. The crossover tie-in issues give each family member a distinct confrontation, making this one of the more satisfying event structures of the era.",
+            "spoiler": null,
+            "arc_type": "crossover",
+            "start_year": 2012,
+            "end_year": 2013,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "Batman Vol. 3: Death of the Family",
+                "format": "hardcover",
+                "issue_range": "Batman #13–17, Batman Annual #2",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "978-1401242244",
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "batman-tom-king-run",
+            "title": "Tom King's Batman: The Wedding and I Am Bane",
+            "logline": "Bruce Wayne proposes to Selina Kyle while Gotham's deadliest villain turns the entire city into a weapon against him.",
+            "summary": "Tom King's 85-issue run beginning in 2016 is the most formally ambitious sustained Batman work since Morrison's. King treats Batman as a man who chose suffering as identity, and examines whether someone defined by tragedy is capable of happiness. The engagement to Selina Kyle (Catwoman) structures much of the run's emotional architecture, while 'I Am Bane' delivers the best Bane story since Knightfall — a relentless, formally perfect five-issue sprint that functions as pure action cinema translated onto the page. Mitch Gerads and Joëlle Jones are the standout artistic contributors, each defining distinct sections of the run's visual register.",
+            "spoiler": "Selina Kyle is manipulated into abandoning Bruce at the altar by Holly Robinson and the Gotham villain Bane, as part of a conspiracy to keep Batman in a state of suffering that makes him effective.",
+            "arc_type": "flagship",
+            "start_year": 2016,
+            "end_year": 2019,
+            "order_index": 3,
+            "reading_entries": [
+              {
+                "title": "Batman by Tom King and Lee Weeks: Rules of Engagement",
+                "format": "trade",
+                "issue_range": "Batman #9–15",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "978-1401274115",
+                "purchase_url": null
+              },
+              {
+                "title": "Batman: I Am Bane",
+                "format": "trade",
+                "issue_range": "Batman #16–20",
+                "reading_order": 2,
+                "publication_order": 2,
+                "reading_order_note": null,
+                "isbn": "978-1401274122",
+                "purchase_url": null
+              },
+              {
+                "title": "Batman: Knightmares",
+                "format": "trade",
+                "issue_range": "Batman #62–69",
+                "reading_order": 3,
+                "publication_order": 3,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              },
+              {
+                "title": "Batman: City of Bane",
+                "format": "hardcover",
+                "issue_range": "Batman #75–85",
+                "reading_order": 4,
+                "publication_order": 4,
+                "reading_order_note": null,
+                "isbn": "978-1779500694",
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "start_here": [
+      {
+        "order_index": 1,
+        "label": "Absolute Beginner",
+        "reason": "Batman: Year One is the definitive origin retelling — lean, novelistic, and completely self-contained. Frank Miller and David Mazzucchelli's 1987 story works for anyone who has never read a Batman comic and rewards longtime fans equally.",
+        "arc_slug": "batman-year-one"
+      },
+      {
+        "order_index": 2,
+        "label": "Modern Era",
+        "reason": "The Court of Owls introduces a genuinely new mythology around a character who has had everything done to him. Scott Snyder and Greg Capullo's New 52 run is the best sustained modern Batman work and this is where it starts.",
+        "arc_slug": "batman-court-of-owls"
+      },
+      {
+        "order_index": 3,
+        "label": "Classic Fan",
+        "reason": "Knightfall remains the most audacious 'break the hero' story in superhero history — it follows through on its premise completely, and the consequences reshape the Batman mythology for a decade. Required reading for anyone who thinks they know how far the character can be pushed.",
+        "arc_slug": "batman-knightfall"
+      }
+    ],
+    "relationships": [
+      {
+        "related_slug": "james-gordon",
+        "relationship": "ally",
+        "summary": "Commissioner James Gordon is Batman's most enduring institutional ally — the one honest cop in a corrupt city who decided, without ever formally acknowledging the partnership, that Gotham needed a man the law couldn't be. Their relationship is built on mutual respect and deliberate ambiguity: Gordon does not officially know Batman's identity, and Batman has never confirmed it.",
+        "notes": "Introduced Detective Comics #27 (1939). Their dynamic is the spine of nearly every major Batman story."
+      },
+      {
+        "related_slug": "dick-grayson",
+        "relationship": "ally",
+        "summary": "The original Robin and Batman's first ward, Dick Grayson became Nightwing and eventually assumed the Batman mantle when Bruce was incapacitated. He represents everything Batman might have become if grief had not calcified into obsession — and their relationship, complicated by mentorship and deep disagreement about methods, is the most emotionally rich in Bruce's life.",
+        "notes": "First appeared Detective Comics #38 (1940). Later starred in New Teen Titans and his own Nightwing series."
+      },
+      {
+        "related_slug": "alfred-pennyworth",
+        "relationship": "ally",
+        "summary": "Alfred Pennyworth is Bruce Wayne's butler, field medic, archivist, and the only person who has known him across every version of himself. He maintains Wayne Manor and the Batcave with equal competence, and his dry, precise commentary functions as the conscience Bruce doesn't always listen to.",
+        "notes": "First appeared Batman #16 (1943). One of the few constants across every continuity and adaptation."
+      },
+      {
+        "related_slug": "selina-kyle",
+        "relationship": "ally",
+        "summary": "Selina Kyle operates as thief, rival, adversary, and the closest thing Bruce Wayne has to a genuine romantic equal. Their dynamic has defined a particular kind of superhero relationship — built on mutual recognition between two people who chose their identities rather than inherited them.",
+        "notes": "First appeared Batman #1 (1940). Became Catwoman as a title character and eventually Batman's fiancée in Tom King's run."
+      },
+      {
+        "related_slug": "barbara-gordon",
+        "relationship": "ally",
+        "summary": "Barbara Gordon served as Batgirl before Alan Moore's Killing Joke and returned as Oracle — the Batman family's intelligence hub — for decades afterward. Her arc from field operative to information broker represents one of the more convincing disability narratives in mainstream comics.",
+        "notes": "First appeared Detective Comics #359 (1967). Her role as Oracle defined the post-Killing Joke era."
+      },
+      {
+        "related_slug": "lucius-fox",
+        "relationship": "ally",
+        "summary": "Lucius Fox runs the business side of Wayne Enterprises with the competence that allows Bruce Wayne to fund his operations without scrutiny. His relationship with Bruce involves a careful, mutually agreed-upon level of not-quite-knowing what all that R&D budget is actually purchasing.",
+        "notes": "First appeared Batman #307 (1979). Became prominent via Christopher Nolan's film trilogy."
+      },
+      {
+        "related_slug": "joker",
+        "relationship": "enemy",
+        "summary": "The Joker is Batman's defining antagonist and philosophical shadow — a figure whose existence implicitly asks whether Batman's refusal to kill is principle or avoidance. Where Batman imposes order through preparation and discipline, the Joker dismantles it through pure, weaponized chaos.",
+        "notes": "First appeared Batman #1 (1940). Has murdered Jason Todd, paralyzed Barbara Gordon, and murdered Sarah Essen Gordon across major storylines."
+      },
+      {
+        "related_slug": "two-face",
+        "relationship": "enemy",
+        "summary": "Harvey Dent was Gotham's most effective district attorney and Bruce Wayne's friend before acid destroyed half his face and his sense that the world was anything other than random. Two-Face functions as a mirror of what Bruce might become if his own certainty ever fractured.",
+        "notes": "First appeared Detective Comics #66 (1942). His prosecution of mob boss Sal Maroni, whose acid attack disfigured him, is a core origin story."
+      },
+      {
+        "related_slug": "ra-s-al-ghul",
+        "relationship": "enemy",
+        "summary": "Ra's al Ghul views Batman as the world's greatest detective and the only man worthy of inheriting his centuries-old organization — and simultaneously as the chief obstacle to his plan to reduce the global population. Their conflict is adversarial precisely because Ra's takes Batman seriously.",
+        "notes": "First appeared Batman #232 (1971). Created by Denny O'Neil and Neal Adams."
+      },
+      {
+        "related_slug": "bane",
+        "relationship": "enemy",
+        "summary": "Bane did what no villain before him had managed: he broke Batman's back and took Gotham while Bruce recovered. His defining characteristic is not raw strength but tactical patience — he studied Batman before making a single move.",
+        "notes": "First appeared Batman: Vengeance of Bane #1 (1993). Created by Chuck Dixon, Doug Moench, and Graham Nolan."
+      },
+      {
+        "related_slug": "penguin",
+        "relationship": "enemy",
+        "summary": "Oswald Cobblepot occupies a specific niche in Gotham's power structure as the underworld's most legitimate-seeming face — a black-market broker and information merchant who prefers deal-making to violence. His conflict with Batman is as much economic as it is physical.",
+        "notes": "First appeared Detective Comics #58 (1941). His Iceberg Lounge persona dates to the early 1990s."
+      },
+      {
+        "related_slug": "riddler",
+        "relationship": "enemy",
+        "summary": "Edward Nigma cannot commit a crime without leaving a clue — his compulsion to prove he is smarter than the world's greatest detective makes him a consistent threat and an occasional, unlikely ally when his arrogance aligns with Batman's goals.",
+        "notes": "First appeared Detective Comics #140 (1948). Became briefly heroic as a private detective during Paul Dini's run."
+      }
+    ],
+    "media": [
+      {
+        "media_type": "animated_series",
+        "title": "Batman: The Animated Series",
+        "release_year": 1992,
+        "watch_order": 1,
+        "platform": "Max",
+        "notes": "The definitive animated adaptation, responsible for creating or redefining much of the character's supporting cast. Kevin Conroy's voice performance became the template against which every subsequent Batman is measured. Introduced Harley Quinn to the wider DC mythology.",
+        "where_to_watch": "Max"
+      },
+      {
+        "media_type": "film",
+        "title": "Batman (Tim Burton)",
+        "release_year": 1989,
+        "watch_order": 1,
+        "platform": "Max",
+        "notes": "Tim Burton's gothic, expressionist take was the film that established Batman as a serious big-budget property. Michael Keaton's performance leans into Bruce Wayne's oddness rather than suppressing it, making him one of the most interesting live-action versions of the character.",
+        "where_to_watch": "Max"
+      },
+      {
+        "media_type": "film",
+        "title": "Batman Begins",
+        "release_year": 2005,
+        "watch_order": 2,
+        "platform": "Max",
+        "notes": "Christopher Nolan's origin film is the closest major theatrical adaptation to Year One's psychological realism. It takes seriously the question of why Bruce Wayne would choose this particular method of becoming a symbol.",
+        "where_to_watch": "Max"
+      },
+      {
+        "media_type": "film",
+        "title": "The Dark Knight",
+        "release_year": 2008,
+        "watch_order": 3,
+        "platform": "Max",
+        "notes": "Nolan's second Batman film elevated the Joker conflict to the level of philosophical argument and is widely considered one of the finest superhero films produced. Heath Ledger's Joker performance remains a cultural reference point.",
+        "where_to_watch": "Max"
+      },
+      {
+        "media_type": "film",
+        "title": "The Batman",
+        "release_year": 2022,
+        "watch_order": null,
+        "platform": "Max",
+        "notes": "Matt Reeves' film treats Batman as a Year Two detective story in a Gotham modeled on 1970s crime cinema. Robert Pattinson's version is the most explicitly Year One-adjacent theatrical Batman, emotionally unfinished and still learning what the symbol is supposed to mean.",
+        "where_to_watch": "Max"
+      },
+      {
+        "media_type": "video_game",
+        "title": "Batman: Arkham Asylum",
+        "release_year": 2009,
+        "watch_order": 1,
+        "platform": "PlayStation, Xbox, PC",
+        "notes": "Rocksteady's first Arkham game is still the most tightly constructed entry — a contained gothic horror-action game that takes the Joker's takeover of Arkham seriously as a logistics and power problem. Kevin Conroy and Mark Hamill reprise their animated series roles.",
+        "where_to_watch": null
+      },
+      {
+        "media_type": "video_game",
+        "title": "Batman: Arkham City",
+        "release_year": 2011,
+        "watch_order": 2,
+        "platform": "PlayStation, Xbox, PC",
+        "notes": "The follow-up expands Arkham Asylum's premise into an open-world prison district, giving the rogues gallery more space and the story more emotional ambition. Widely considered the best game in the series.",
+        "where_to_watch": null
+      }
+    ],
+    "team_members": []
+  },
+  "supporting": [
+    {
+      "slug": "james-gordon",
+      "name": "James Gordon",
+      "entity_type": "character",
+      "role": "hero",
+      "publisher_slug": "dc",
+      "real_name": "James Worthington Gordon",
+      "first_appearance": "Detective Comics #27 (1939)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "James Gordon is the Commissioner of the Gotham City Police Department — a career cop whose integrity has survived decades of institutional corruption, political pressure, and catastrophic personal loss. His willingness to operate alongside a vigilante he officially cannot acknowledge reflects a pragmatic conclusion: Gotham's problems are too large for the law alone. He is Batman's most essential ally precisely because he asks nothing from the partnership except results.",
+      "eras": [
+        {
+          "slug": "gordon-early-years",
+          "title": "The Lieutenant Years",
+          "start_year": 1987,
+          "end_year": 1999,
+          "order_index": 1,
+          "summary": "Frank Miller and David Mazzucchelli's Year One reframed Gordon not as a background figure but as a co-protagonist — a man whose moral crisis runs parallel to Bruce Wayne's transformation. Subsequent stories by Denny O'Neil, Chuck Dixon, and Greg Rucka developed Gordon as Gotham's institutional conscience, someone who could lose his wife and nearly his own integrity without abandoning his commitment to the city.",
+          "arcs": [
+            {
+              "slug": "gordon-year-one-arc",
+              "title": "Gordon in Year One",
+              "logline": "A new lieutenant arrives in the most corrupt police department in America and has to decide how far he'll compromise to survive.",
+              "summary": "Batman: Year One tells Gordon's story as honestly as Bruce's. Newly arrived from Chicago with a pregnant wife and a professional idealism the department finds amusing, Gordon must navigate corrupt superiors, mob influence, and the question of whether one honest cop can do anything meaningful in an institution designed to stop him. His observation of and eventual non-confrontation with Batman sets the template for their working relationship: mutual need, no formal acknowledgment.",
+              "spoiler": null,
+              "arc_type": "origin",
+              "start_year": 1987,
+              "end_year": 1987,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Batman: Year One Deluxe Edition",
+                  "format": "hardcover",
+                  "issue_range": "Batman #404–407",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": "978-1401207526",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Best Introduction",
+          "reason": "Batman: Year One is as much Gordon's story as Bruce's — the best single place to understand what makes him essential to the mythology.",
+          "arc_slug": "gordon-year-one-arc"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "batman",
+          "relationship": "ally",
+          "summary": "Gordon's partnership with Batman is the architecture of Gotham's fragile safety net — a deliberate, mutually useful arrangement that neither party has ever formalized.",
+          "notes": "The Bat-Signal on GCPD rooftop represents the public face of a relationship built on productive ambiguity."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "animated_series",
+          "title": "Batman: The Animated Series",
+          "release_year": 1992,
+          "watch_order": 1,
+          "platform": "Max",
+          "notes": "Bob Hastings voices Gordon across the full animated series run.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "film",
+          "title": "Batman Begins",
+          "release_year": 2005,
+          "watch_order": 1,
+          "platform": "Max",
+          "notes": "Gary Oldman's Gordon is the Nolan trilogy's emotional anchor — a career performance that humanizes the character beyond the functional ally role.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "live_action",
+          "title": "Gotham (TV Series)",
+          "release_year": 2014,
+          "watch_order": null,
+          "platform": "Max",
+          "notes": "A prequel series following a young James Gordon years before Batman's debut, with Ben McKenzie in the lead role.",
+          "where_to_watch": "Max"
+        }
+      ]
+    },
+    {
+      "slug": "dick-grayson",
+      "name": "Dick Grayson (Nightwing)",
+      "entity_type": "character",
+      "role": "hero",
+      "publisher_slug": "dc",
+      "real_name": "Richard John Grayson",
+      "first_appearance": "Detective Comics #38 (1940)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Dick Grayson became Robin at age eight, the orphaned son of circus acrobats killed by mob extortion, and grew under Batman's mentorship into one of DC's most capable and emotionally intelligent heroes. Breaking from Batman to establish his own identity as Nightwing, he proved that the people Batman trains eventually surpass the limits his mentor placed on the role. He has led the Teen Titans, the Outsiders, and the Justice League — and twice carried the Batman mantle when Bruce was unable.",
+      "eras": [
+        {
+          "slug": "grayson-nightwing-era",
+          "title": "Nightwing: Breaking Free",
+          "start_year": 1984,
+          "end_year": 2011,
+          "order_index": 1,
+          "summary": "Dick Grayson's transition from Robin to Nightwing in Tales of the Teen Titans #44 (1984) was the first time a DC sidekick successfully graduated into independent herohood. His Nightwing solo series from 1996 onward established Blüdhaven — Gotham's more broken neighbor — as his territory and gave him a supporting cast and criminal ecosystem to match. His eventual turn as Batman during Morrison's run was the culmination of a four-decade development arc.",
+          "arcs": [
+            {
+              "slug": "nightwing-year-one-arc",
+              "title": "Nightwing: Year One",
+              "logline": "Dick Grayson leaves the Robin identity behind and forges a new heroic name between Batman's disapproval and Superman's encouragement.",
+              "summary": "Chuck Dixon and Scott Beatty's 2005 story walks through the gap between Dick leaving Batman's orbit and arriving in Blüdhaven as Nightwing, filling in how the name and costume came together and why Dick's relationship with both his mentor and the wider hero community defines his emotional register differently from Bruce's. It's the cleanest single entry point for the Nightwing character as a standalone figure.",
+              "spoiler": null,
+              "arc_type": "origin",
+              "start_year": 2005,
+              "end_year": 2005,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Nightwing: Year One",
+                  "format": "trade",
+                  "issue_range": "Nightwing #101–106",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": "978-1401204921",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Best Introduction",
+          "reason": "Nightwing: Year One bridges the Robin and Nightwing identities cleanly and works as a standalone entry for readers unfamiliar with the character's full history.",
+          "arc_slug": "nightwing-year-one-arc"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "batman",
+          "relationship": "ally",
+          "summary": "Batman trained Dick Grayson and shaped his entire heroic identity — a debt Dick has spent decades repaying by proving he can exceed the model.",
+          "notes": "Their relationship is the Batman family's most emotionally complicated axis, defined by love, control, disappointment, and pride in about equal measure."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "animated_series",
+          "title": "Batman: The Animated Series",
+          "release_year": 1992,
+          "watch_order": 1,
+          "platform": "Max",
+          "notes": "Dick Grayson and his Robin-to-Nightwing evolution appears across the animated series and its follow-up The New Batman Adventures.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "live_action",
+          "title": "Titans (DC Series)",
+          "release_year": 2018,
+          "watch_order": null,
+          "platform": "Max",
+          "notes": "Brenton Thwaites plays Dick Grayson across four seasons, tracing his full arc from Robin through Nightwing.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "video_game",
+          "title": "Batman: Arkham City",
+          "release_year": 2011,
+          "watch_order": null,
+          "platform": "PlayStation, Xbox, PC",
+          "notes": "Nightwing is a playable character in challenge maps and DLC content.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "alfred-pennyworth",
+      "name": "Alfred Pennyworth",
+      "entity_type": "character",
+      "role": "hero",
+      "publisher_slug": "dc",
+      "real_name": "Alfred Thaddeus Crane Pennyworth",
+      "first_appearance": "Batman #16 (1943)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Alfred Pennyworth is the Wayne family butler, the keeper of the Batcave's operational infrastructure, and the only constant in Bruce Wayne's life who knew him before grief became his defining characteristic. A former army medic and MI6 operative depending on the continuity, Alfred provides field medicine, technical support, mission briefing, and the only form of accountability Bruce consistently tolerates — which is to say, Alfred says what he thinks and Bruce listens about thirty percent of the time. He is as central to the Batman mythology as any villain.",
+      "eras": [
+        {
+          "slug": "alfred-modern-era",
+          "title": "Alfred in the Modern Era",
+          "start_year": 1986,
+          "end_year": 2019,
+          "order_index": 1,
+          "summary": "The post-Crisis era reestablished Alfred as a former special-forces operative with combat and medical skills that make him more than a domestic employee. His relationship with Bruce deepened across every major run, and writers from O'Neil through King each found ways to use Alfred's perspective — the view of someone who sees everything and has chosen to help anyway — as the story's moral compass.",
+          "arcs": [
+            {
+              "slug": "alfred-knightfall-role",
+              "title": "Alfred Through Knightfall",
+              "logline": "As Bruce Wayne is broken by Bane and the Batman mantle passed to a dangerous successor, Alfred is the only witness to the full cost.",
+              "summary": "Alfred's role through the Knightfall saga is that of an unwilling chronicler — the man who tends Bruce's injuries, disagrees with his decisions, and stays anyway because leaving would be a different kind of abandonment. His interactions with the Jean-Paul Valley Batman and later Bruce's returned-but-damaged self provide the most humanizing thread through an event defined by scale. Alfred is the reader's eye-level figure when everything else operates at myth.",
+              "spoiler": null,
+              "arc_type": "tie-in",
+              "start_year": 1993,
+              "end_year": 1994,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Batman: Knightfall Vol. 1 — Broken Bat",
+                  "format": "trade",
+                  "issue_range": "Batman #491–500, Detective Comics #659–666",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": "978-1401235345",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "batman",
+          "relationship": "ally",
+          "summary": "Alfred's relationship with Bruce Wayne is the only one in Batman's life that predates his choice to become Batman — he knew the boy before the mission consumed him.",
+          "notes": "Across most continuities, Alfred helped train Bruce and has disapproved of specific choices while never abandoning the larger project."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "animated_series",
+          "title": "Batman: The Animated Series",
+          "release_year": 1992,
+          "watch_order": 1,
+          "platform": "Max",
+          "notes": "Clive Revill and Efrem Zimbalist Jr. voiced Alfred across the animated series, establishing the dry, attentive persona that most adaptations follow.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "film",
+          "title": "Batman Begins",
+          "release_year": 2005,
+          "watch_order": 1,
+          "platform": "Max",
+          "notes": "Michael Caine's Alfred across the Nolan trilogy is the definitive live-action version, expanding the character's emotional depth and backstory.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "live_action",
+          "title": "Pennyworth (TV Series)",
+          "release_year": 2019,
+          "watch_order": null,
+          "platform": "Max",
+          "notes": "A prequel series set in 1960s London following a young Alfred Pennyworth before his Wayne family employment.",
+          "where_to_watch": "Max"
+        }
+      ]
+    },
+    {
+      "slug": "selina-kyle",
+      "name": "Catwoman",
+      "entity_type": "character",
+      "role": "antihero",
+      "publisher_slug": "dc",
+      "real_name": "Selina Kyle",
+      "first_appearance": "Batman #1 (1940)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Selina Kyle is Gotham's most accomplished thief and, depending on the moment, Batman's most complicated relationship. She operates outside the law without apology, targets the wealthy with a precision that reads as class warfare, and maintains a personal moral code that excludes hurting anyone who doesn't have it coming. Her dynamic with Batman has oscillated between adversarial and romantic since her debut in 1940, and the tension — two people who could not be more different in method and more similar in motivation — has never been fully resolved.",
+      "eras": [
+        {
+          "slug": "selina-modern-catwoman",
+          "title": "Catwoman: Brubaker's Gotham",
+          "start_year": 2001,
+          "end_year": 2008,
+          "order_index": 1,
+          "summary": "Ed Brubaker's Catwoman solo series beginning in 2001, with artwork primarily by Darwyn Cooke and Cameron Stewart, repositioned Selina as a street-level Gotham operator protecting the East End from criminals who preyed on its residents. The series ran for nearly six years and built the most complete portrait of Selina as a character with her own community, her own moral priorities, and her own corner of the city — separate from whatever she was to Batman.",
+          "arcs": [
+            {
+              "slug": "catwoman-brubaker-cooke",
+              "title": "Catwoman: Selina's Big Score and Her Sister's Keeper",
+              "logline": "Selina Kyle reinvents herself with a single enormous heist and then has to defend the neighborhood she made her own.",
+              "summary": "Darwyn Cooke's Catwoman: Selina's Big Score serves as the perfect prologue to Ed Brubaker's ongoing run — a heist graphic novel in the purest sense, where the planning and execution are as satisfying as any action sequence. It establishes a new supporting cast and a Selina who is good at her job in ways that feel earned. Brubaker's subsequent run deepened this foundation, particularly in the 'Her Sister's Keeper' arc which excavates Selina's abusive past and the decisions that made her who she is.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 2001,
+              "end_year": 2002,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Catwoman: Selina's Big Score",
+                  "format": "trade",
+                  "issue_range": "Catwoman: Selina's Big Score OGN",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": "978-1401200169",
+                  "purchase_url": null
+                },
+                {
+                  "title": "Catwoman Vol. 1: Trail of the Catwoman",
+                  "format": "trade",
+                  "issue_range": "Catwoman #1–9 (2001 series)",
+                  "reading_order": 2,
+                  "publication_order": 2,
+                  "reading_order_note": null,
+                  "isbn": "978-1401200282",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Best Introduction",
+          "reason": "Selina's Big Score is a clean, beautifully drawn standalone heist story that establishes exactly who Selina Kyle is when she's the protagonist of her own story rather than a supporting figure in Batman's.",
+          "arc_slug": "catwoman-brubaker-cooke"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "batman",
+          "relationship": "ally",
+          "summary": "Selina and Bruce's relationship is the most emotionally complex in either character's history — a decades-long negotiation between two people who understand each other too well to be easy.",
+          "notes": "Tom King's run made their engagement and its collapse one of the era's defining Batman storylines."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "film",
+          "title": "Batman Returns",
+          "release_year": 1992,
+          "watch_order": null,
+          "platform": "Max",
+          "notes": "Michelle Pfeiffer's Catwoman is the most visually iconic live-action interpretation — gothic, damaged, and lethal.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "Batman: The Animated Series",
+          "release_year": 1992,
+          "watch_order": 1,
+          "platform": "Max",
+          "notes": "Adrienne Barbeau voiced Catwoman in the animated series, playing her as glamorous and ambiguous in ways consistent with the comics.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "film",
+          "title": "The Dark Knight Rises",
+          "release_year": 2012,
+          "watch_order": null,
+          "platform": "Max",
+          "notes": "Anne Hathaway's Selina Kyle functions as the film's moral pivot — a thief who chooses the side she needs to be on rather than the one that benefits her.",
+          "where_to_watch": "Max"
+        }
+      ]
+    },
+    {
+      "slug": "barbara-gordon",
+      "name": "Barbara Gordon (Oracle / Batgirl)",
+      "entity_type": "character",
+      "role": "hero",
+      "publisher_slug": "dc",
+      "real_name": "Barbara Gordon",
+      "first_appearance": "Detective Comics #359 (1967)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Barbara Gordon is James Gordon's daughter, the original Batgirl, and — after Alan Moore's Killing Joke permanently altered her physical circumstances — the intelligence architect who became Oracle, the Batman family's most operationally essential member. As Oracle, she ran global information networks, coordinated the Birds of Prey, and demonstrated that the most powerful tool in any hero's arsenal is access to the right information at the right moment. She later reclaimed the Batgirl identity in DC's New 52 relaunch.",
+      "eras": [
+        {
+          "slug": "barbara-oracle-era",
+          "title": "The Oracle Years",
+          "start_year": 1989,
+          "end_year": 2011,
+          "order_index": 1,
+          "summary": "Following her paralysis in The Killing Joke, Barbara Gordon's reemergence as Oracle — first in Suicide Squad, then as the central figure of the Birds of Prey — represented one of comics' more meaningful evolutions of a character through disability. Gail Simone's Birds of Prey in particular used Oracle as a demonstration that operational intelligence and coordination is its own form of heroism, no less essential than physical combat.",
+          "arcs": [
+            {
+              "slug": "oracle-birds-of-prey",
+              "title": "Birds of Prey: Of Like Minds",
+              "logline": "Oracle and Black Canary's partnership becomes the foundation for a global network of heroines operating in the spaces the Justice League doesn't reach.",
+              "summary": "Gail Simone's run on Birds of Prey, beginning with the 'Of Like Minds' arc in 2003, is where Oracle fully arrives as a lead character rather than a supporting resource. The relationship between Barbara and Dinah Lance (Black Canary) is written as an equal partnership between two people with different skills and the same commitment, and the villains — including the Calculator, positioned as Oracle's direct dark mirror — are worthy opponents. The series treated female heroes as competent professionals rather than exceptional exceptions.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 2003,
+              "end_year": 2007,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Birds of Prey Vol. 1: Of Like Minds",
+                  "format": "trade",
+                  "issue_range": "Birds of Prey #56–61",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": "978-1401202019",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Best Introduction",
+          "reason": "Birds of Prey: Of Like Minds is where Oracle is most fully herself — a leader, strategist, and character defined by what she can do rather than what was done to her.",
+          "arc_slug": "oracle-birds-of-prey"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "batman",
+          "relationship": "ally",
+          "summary": "Barbara's relationship with Batman shifted from protégé to peer over decades — Oracle's intelligence network made her arguably more operationally significant to Gotham's safety than Batman himself.",
+          "notes": "Her paralysis in The Killing Joke and Batman's failure to prevent it is a permanent tension in their working relationship."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "animated_series",
+          "title": "Batman: The Animated Series",
+          "release_year": 1992,
+          "watch_order": 1,
+          "platform": "Max",
+          "notes": "Batgirl appears in the animated series with Melissa Gilbert voicing the character.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "Batman Beyond",
+          "release_year": 1999,
+          "watch_order": null,
+          "platform": "Max",
+          "notes": "Barbara Gordon appears as an older, retired Commissioner Gordon-era figure — a version of the character that traces her full arc from Batgirl to law enforcement.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "film",
+          "title": "Batman: The Killing Joke (Animated)",
+          "release_year": 2016,
+          "watch_order": null,
+          "platform": "Max",
+          "notes": "The animated adaptation of Moore's story adds a Barbara-centric prologue that attempts to contextualize her role, with Tara Strong voicing the character.",
+          "where_to_watch": "Max"
+        }
+      ]
+    },
+    {
+      "slug": "lucius-fox",
+      "name": "Lucius Fox",
+      "entity_type": "character",
+      "role": "hero",
+      "publisher_slug": "dc",
+      "real_name": "Lucius Fox",
+      "first_appearance": "Batman #307 (1979)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Lucius Fox is the CEO of Wayne Enterprises and the operational intelligence behind Bruce Wayne's ability to function as both a credible billionaire and a funded vigilante. Introduced by Len Wein, Fox manages the business and R&D infrastructure that supplies Batman's equipment without requiring Bruce to do the unglamorous work of running a multinational corporation. His precise level of knowledge about Bruce's activities has been handled differently across continuities, but the consistent element is his competence and loyalty.",
+      "eras": [
+        {
+          "slug": "lucius-modern-era",
+          "title": "Lucius in the Modern Era",
+          "start_year": 1979,
+          "end_year": 2024,
+          "order_index": 1,
+          "summary": "Lucius Fox's role expanded significantly following Morgan Freeman's portrayal in Christopher Nolan's trilogy, which reframed him as an active participant in the Batman operation rather than a background character. Subsequent comic runs gave him more agency and occasionally sharper awareness of what his R&D division's output was actually used for.",
+          "arcs": [
+            {
+              "slug": "lucius-hush-wayne-enterprises",
+              "title": "Wayne Enterprises Under Siege",
+              "logline": "The corporate infrastructure Bruce depends on becomes a target as enemies learn that hitting Wayne Enterprises is almost as damaging as hitting Batman.",
+              "summary": "Across multiple storylines — including elements of Hush and No Man's Land — Wayne Enterprises and its leadership have been used as pressure points against Batman. Lucius Fox's consistent response is to protect the company's reputation and assets with the same dedication Bruce applies to protecting the city, making him as essential to the operation's continuity as Alfred is to its human side.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 2002,
+              "end_year": 2003,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Batman: Hush",
+                  "format": "trade",
+                  "issue_range": "Batman #608–619",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": "978-1401223175",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "batman",
+          "relationship": "ally",
+          "summary": "Lucius provides the material and financial foundation that makes Batman operationally possible — the unacknowledged logistics behind every piece of equipment.",
+          "notes": "The degree to which Lucius formally knows Bruce is Batman varies by continuity; in Nolan's films he knows completely."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "film",
+          "title": "Batman Begins",
+          "release_year": 2005,
+          "watch_order": 1,
+          "platform": "Max",
+          "notes": "Morgan Freeman's Lucius Fox across the Nolan trilogy is the character's definitive screen incarnation.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "film",
+          "title": "The Dark Knight",
+          "release_year": 2008,
+          "watch_order": 2,
+          "platform": "Max",
+          "notes": "Fox's subplot around mass surveillance technology gives him an ethical dilemma that the films use to externalize Batman's own moral boundaries.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "Batman: The Animated Series",
+          "release_year": 1992,
+          "watch_order": 1,
+          "platform": "Max",
+          "notes": "Lucius appears in a supporting role across several episodes of the animated series.",
+          "where_to_watch": "Max"
+        }
+      ]
+    },
+    {
+      "slug": "joker",
+      "name": "The Joker",
+      "entity_type": "character",
+      "role": "villain",
+      "publisher_slug": "dc",
+      "real_name": null,
+      "first_appearance": "Batman #1 (1940)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "The Joker is the Clown Prince of Crime, Gotham's most dangerous and least predictable criminal, and Batman's defining antagonist. His origin has been told multiple ways — the most famous positions him as a failed comedian pushed to madness by a single catastrophic day — and his refusal to have a fixed, verifiable identity is itself a weapon. He does not want money, territory, or power in any conventional sense; he wants to demonstrate that the thin membrane separating civilization from chaos is exactly as fragile as he says it is.",
+      "eras": [
+        {
+          "slug": "joker-modern-era",
+          "title": "The Modern Joker: From Killing Joke to Death of the Family",
+          "start_year": 1988,
+          "end_year": 2013,
+          "order_index": 1,
+          "summary": "Alan Moore's Killing Joke established the template the character has followed ever since: a villain defined by the argument that Batman's own morality is indefensible, expressed through violence that functions as performance art. Scott Snyder's Death of the Family arc updated the concept for a generation raised on extreme horror, giving the Joker a campaign against the Batman family that is as methodical as it is theatrical.",
+          "arcs": [
+            {
+              "slug": "joker-killing-joke-arc",
+              "title": "The Killing Joke",
+              "logline": "The Joker attempts to destroy Commissioner Gordon's sanity to win an argument with Batman about the nature of madness.",
+              "summary": "Alan Moore and Brian Bolland's prestige format one-shot is simultaneously the Joker's most complete character study and the most contested story in Batman's publication history. Moore builds the Joker's scheme — paralyze Gordon's daughter, torture Gordon himself, then invite Batman to prove that Gordon's mind could survive what his had not — as a philosophical challenge rather than a robbery or murder. The question the story asks but refuses to answer cleanly: if one bad day is all it takes to break anyone, what does Batman's persistence mean?",
+              "spoiler": "The Joker shoots and paralyzes Barbara Gordon, then subjects Commissioner Gordon to a psychological torture tour through an abandoned amusement park.",
+              "arc_type": "miniseries",
+              "start_year": 1988,
+              "end_year": 1988,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Batman: The Killing Joke — Deluxe Edition",
+                  "format": "hardcover",
+                  "issue_range": "Batman: The Killing Joke #1",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": "978-1401235192",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Best Introduction",
+          "reason": "The Killing Joke is the most complete single-issue portrait of what the Joker is and why he matters — essential reading before any other Joker story.",
+          "arc_slug": "joker-killing-joke-arc"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "batman",
+          "relationship": "enemy",
+          "summary": "The Joker's obsession with Batman is the organizing principle of his entire existence — he has said explicitly that without Batman, he would have no reason to do any of it.",
+          "notes": "He has murdered Jason Todd (second Robin), paralyzed Barbara Gordon, and killed Sarah Essen Gordon across major storylines."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "film",
+          "title": "The Dark Knight",
+          "release_year": 2008,
+          "watch_order": null,
+          "platform": "Max",
+          "notes": "Heath Ledger's Joker — an agent of chaos who proves his point about civilization's fragility across two and a half hours — won a posthumous Academy Award and remains the character's definitive screen version.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "Batman: The Animated Series",
+          "release_year": 1992,
+          "watch_order": 1,
+          "platform": "Max",
+          "notes": "Mark Hamill's voice performance across the animated series, video games, and subsequent productions established the Joker's modern audio persona.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "film",
+          "title": "Joker",
+          "release_year": 2019,
+          "watch_order": null,
+          "platform": "Max",
+          "notes": "Todd Phillips' origin film stars Joaquin Phoenix in a standalone story that treats the Joker as a product of social failure rather than a criminal genius.",
+          "where_to_watch": "Max"
+        }
+      ]
+    },
+    {
+      "slug": "two-face",
+      "name": "Two-Face",
+      "entity_type": "character",
+      "role": "villain",
+      "publisher_slug": "dc",
+      "real_name": "Harvey Dent",
+      "first_appearance": "Detective Comics #66 (1942)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Harvey Dent was Gotham's best district attorney and one of Bruce Wayne's few genuine friends before mob boss Sal Maroni's acid attack destroyed half his face and triggered a complete psychological break. Two-Face operates according to a compulsive coin-flip morality — the scarred coin deciding everything from mercy to murder — that functions as a literalization of the randomness he now believes governs all justice. He is Batman's most personal villain, a waste of the exact kind of person Gotham needed most.",
+      "eras": [
+        {
+          "slug": "two-face-long-halloween",
+          "title": "The Long Halloween and Its Aftermath",
+          "start_year": 1996,
+          "end_year": 2000,
+          "order_index": 1,
+          "summary": "Jeph Loeb and Tim Sale's Long Halloween and its sequel Dark Victory are the definitive modern Two-Face origin stories, tracing Harvey Dent's transformation from Batman's closest institutional ally to his most emotionally painful adversary. The stories are set in an early Gotham that feels more like a crime novel than a superhero comic, with the mob-to-costumed-villain transition as their organizing subject.",
+          "arcs": [
+            {
+              "slug": "two-face-long-halloween-arc",
+              "title": "The Long Halloween",
+              "logline": "Gotham's triumvirate of Batman, Gordon, and Harvey Dent hunts a killer targeting the mob — while the mob hunts back and Harvey Dent loses himself in the crossfire.",
+              "summary": "Jeph Loeb and Tim Sale's thirteen-issue noir mystery runs across a full year of Gotham holidays, using each month's murder to advance a puzzle that becomes secondary to its emotional core: the slow destruction of Harvey Dent. The story functions as both a Year Two Batman story and the most psychologically thoughtful Harvey Dent narrative in the character's publication history, ending with his transformation into Two-Face as the tragedy of a good man destroyed by a city he was trying to save.",
+              "spoiler": "Harvey Dent is revealed to have fired the shot that killed mob boss Carmine Falcone, making him both victim and perpetrator of the year's violence.",
+              "arc_type": "miniseries",
+              "start_year": 1996,
+              "end_year": 1997,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Batman: The Long Halloween Deluxe Edition",
+                  "format": "hardcover",
+                  "issue_range": "Batman: The Long Halloween #1–13",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": "978-1779508539",
+                  "purchase_url": null
+                },
+                {
+                  "title": "Batman: The Long Halloween",
+                  "format": "trade",
+                  "issue_range": "Batman: The Long Halloween #1–13",
+                  "reading_order": 2,
+                  "publication_order": 2,
+                  "reading_order_note": null,
+                  "isbn": "978-1401308513",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Best Introduction",
+          "reason": "The Long Halloween is the finest Two-Face origin story and one of the best Batman comics period — it works as a standalone noir mystery for readers with no prior DC knowledge.",
+          "arc_slug": "two-face-long-halloween-arc"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "batman",
+          "relationship": "enemy",
+          "summary": "Two-Face is Batman's most personal villain — Harvey Dent was one of Bruce Wayne's only real friends, and his destruction represents a failure Batman cannot rationalize away.",
+          "notes": "Their history is explored most fully in Loeb and Sale's Long Halloween and Dark Victory."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "film",
+          "title": "Batman Forever",
+          "release_year": 1995,
+          "watch_order": null,
+          "platform": "Max",
+          "notes": "Tommy Lee Jones plays Two-Face in Joel Schumacher's film, leaning into theatricality over psychological complexity.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "film",
+          "title": "The Dark Knight",
+          "release_year": 2008,
+          "watch_order": null,
+          "platform": "Max",
+          "notes": "Aaron Eckhart's Harvey Dent is the Nolan trilogy's most tragic figure — a genuinely heroic public servant whose fall is engineered by the Joker and treated as Gotham's real loss.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "Batman: The Animated Series",
+          "release_year": 1992,
+          "watch_order": 1,
+          "platform": "Max",
+          "notes": "Richard Moll voiced Two-Face across the animated series, with his transformation given a full two-part episode that remains one of the series' best.",
+          "where_to_watch": "Max"
+        }
+      ]
+    },
+    {
+      "slug": "ra-s-al-ghul",
+      "name": "Ra's al Ghul",
+      "entity_type": "character",
+      "role": "villain",
+      "publisher_slug": "dc",
+      "real_name": "Unknown; has used many names across centuries",
+      "first_appearance": "Batman #232 (1971)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Ra's al Ghul — the name translates roughly as 'the Demon's Head' — is an eco-terrorist and global strategist who has lived for centuries through immersion in Lazarus Pits, pools of restorative chemical energy that restore life but erode sanity with each use. He leads the League of Assassins and genuinely believes that reducing the human population is the only path to saving the planet. His respect for Batman, whom he has called 'the Detective,' is real — which makes his attempts to recruit and manipulate him more unsettling than his direct attacks.",
+      "eras": [
+        {
+          "slug": "ras-introduction-era",
+          "title": "The Demon's Head: Introduction and Classic Conflicts",
+          "start_year": 1971,
+          "end_year": 1999,
+          "order_index": 1,
+          "summary": "Denny O'Neil and Neal Adams created Ra's al Ghul as a deliberate attempt to give Batman an antagonist who operated at a different scale than Gotham's street criminals. The character's early appearances established his resources, his global reach, his daughter Talia, and the Lazarus Pit mythology that explains his longevity. Subsequent writers — including O'Neil himself — returned to the character repeatedly, each time deepening the ideological conflict at the center of his relationship with Batman.",
+          "arcs": [
+            {
+              "slug": "ras-daughter-of-demon",
+              "title": "Daughter of the Demon",
+              "logline": "Ra's al Ghul approaches Batman not as an enemy but as a prospective heir — and proves he has earned the right to make that offer.",
+              "summary": "O'Neil and Adams' introduction of Ra's al Ghul in Batman #232 is a model of villain construction: the antagonist arrives already knowing Batman's identity, already having tested his capabilities, and with a genuine offer rather than a threat. The story's elegance is that Ra's respects Batman in every way that matters while proposing something Batman cannot accept. Talia al Ghul, introduced simultaneously, immediately complicates the conflict by being as sympathetic and capable as her father is imposing.",
+              "spoiler": null,
+              "arc_type": "origin",
+              "start_year": 1971,
+              "end_year": 1971,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Batman: Tales of the Demon",
+                  "format": "trade",
+                  "issue_range": "Batman #232, #235, #240, #242–244, #250, Detective Comics #411, #485",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": "978-1401207359",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Best Introduction",
+          "reason": "Batman: Tales of the Demon collects the O'Neil/Adams stories that introduced Ra's and remain the clearest distillation of the character's concept and appeal.",
+          "arc_slug": "ras-daughter-of-demon"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "batman",
+          "relationship": "enemy",
+          "summary": "Ra's al Ghul's relationship with Batman is adversarial in the specific sense that Ra's considers Batman qualified to evaluate his plan and still rejects it — making Batman's opposition the highest form of compliment he could offer.",
+          "notes": "Ra's is also the grandfather of Damian Wayne, making his antagonism with Bruce permanently entangled with family."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "film",
+          "title": "Batman Begins",
+          "release_year": 2005,
+          "watch_order": 1,
+          "platform": "Max",
+          "notes": "Liam Neeson plays Ra's al Ghul in his most prominent film appearance, reimagined as Bruce Wayne's actual trainer whose philosophy becomes the film's central threat.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "Batman: The Animated Series",
+          "release_year": 1992,
+          "watch_order": 1,
+          "platform": "Max",
+          "notes": "David Warner voiced Ra's in the animated series, bringing genuine menace to a character the show treated more seriously than most of the rogues gallery.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "Batman: The Animated Series — Showdown",
+          "release_year": 1995,
+          "watch_order": 2,
+          "platform": "Max",
+          "notes": "A fan-favorite episode exploring Ra's al Ghul's 19th-century history through a flashback structure.",
+          "where_to_watch": "Max"
+        }
+      ]
+    },
+    {
+      "slug": "bane",
+      "name": "Bane",
+      "entity_type": "character",
+      "role": "villain",
+      "publisher_slug": "dc",
+      "real_name": "Unknown; called Bane",
+      "first_appearance": "Batman: Vengeance of Bane #1 (1993)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Bane was born in a prison on a fictional Caribbean island, serving a sentence on behalf of his absent father, and educated himself entirely through the prison's library and the violence of its population. Enhanced by the experimental compound Venom, which amplifies his already extraordinary physical capabilities, Bane is the rare Batman villain who defeated him through strategy rather than luck or power alone — he studied Batman for months before making a move. He is defined by an intellect that most readers and characters underestimate because of the body it occupies.",
+      "eras": [
+        {
+          "slug": "bane-knightfall-era",
+          "title": "The Knightfall Campaign",
+          "start_year": 1993,
+          "end_year": 1994,
+          "order_index": 1,
+          "summary": "Bane's introduction across the Knightfall event is one of the most carefully constructed villain debuts in superhero comics history. His plan — break open Arkham Asylum and let its population exhaust Batman, then confront the weakened hero alone — reflects an understanding of Batman's psychology that none of his previous adversaries demonstrated. The back-breaking sequence at Wayne Manor was designed to be definitive, and it reads that way.",
+          "arcs": [
+            {
+              "slug": "bane-vengeance-introduction",
+              "title": "Vengeance of Bane and Knightfall",
+              "logline": "A tactician born in prison studies the world's greatest detective and designs a campaign to destroy him that begins not with combat but with logistics.",
+              "summary": "Chuck Dixon and Graham Nolan's Vengeance of Bane #1 is a remarkable piece of villain construction — a single issue that builds Bane's entire backstory, his physical and intellectual development, and his fixation on Batman as the ultimate test case, before he has appeared in the ongoing series at all. It functions as both an origin story and a threat assessment. The subsequent Knightfall arc delivers on every promise the one-shot makes.",
+              "spoiler": "Bane breaks Bruce Wayne's back at the conclusion of his Knightfall campaign.",
+              "arc_type": "origin",
+              "start_year": 1993,
+              "end_year": 1993,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Batman: Vengeance of Bane #1",
+                  "format": "single_issues",
+                  "issue_range": "#1",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": "Read this before starting the Knightfall trade collections.",
+                  "isbn": null,
+                  "purchase_url": null
+                },
+                {
+                  "title": "Batman: Knightfall Vol. 1 — Broken Bat",
+                  "format": "trade",
+                  "issue_range": "Batman #491–500, Detective Comics #659–666",
+                  "reading_order": 2,
+                  "publication_order": 2,
+                  "reading_order_note": null,
+                  "isbn": "978-1401235345",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Best Introduction",
+          "reason": "Batman: Vengeance of Bane #1 followed immediately by Knightfall Vol. 1 is the complete Bane introduction — the one-shot establishes the character, the event delivers his plan.",
+          "arc_slug": "bane-vengeance-introduction"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "batman",
+          "relationship": "enemy",
+          "summary": "Bane chose Batman as his primary target not from grudge or accident but from calculation — Batman represented the highest available proof of his own superiority.",
+          "notes": "Tom King's 'I Am Bane' arc is the best post-Knightfall Bane story, reestablishing him as a credible threat after years of diminishing returns."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "film",
+          "title": "The Dark Knight Rises",
+          "release_year": 2012,
+          "watch_order": null,
+          "platform": "Max",
+          "notes": "Tom Hardy's Bane is physically imposing and rhetorically precise — Nolan's version leans into the character's ability to dismantle institutions rather than just people.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "Batman: The Animated Series",
+          "release_year": 1992,
+          "watch_order": 1,
+          "platform": "Max",
+          "notes": "Bane appears in the animated series in a Knightfall-adjacent episode, voiced by Henry Silva.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "video_game",
+          "title": "Batman: Arkham Asylum",
+          "release_year": 2009,
+          "watch_order": null,
+          "platform": "PlayStation, Xbox, PC",
+          "notes": "Bane is a major antagonist in Arkham Asylum, with a Venom-fueled design that references both his comics and film appearances.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "penguin",
+      "name": "The Penguin",
+      "entity_type": "character",
+      "role": "villain",
+      "publisher_slug": "dc",
+      "real_name": "Oswald Chesterfield Cobblepot",
+      "first_appearance": "Detective Comics #58 (1941)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Oswald Cobblepot built an empire from Gotham's criminal underworld while maintaining the surface appearance of a legitimate nightclub owner. The Penguin is less an action villain than an information broker and black-market facilitator — someone who derives power from knowing who needs what and making sure it costs them. He is shorter, physically unimposing, and often underestimated, which suits him perfectly. His Iceberg Lounge is simultaneously a genuine Gotham social institution and the clearinghouse for everything illegal in the city.",
+      "eras": [
+        {
+          "slug": "penguin-modern-operator",
+          "title": "The Iceberg Lounge Years",
+          "start_year": 1992,
+          "end_year": 2024,
+          "order_index": 1,
+          "summary": "The Penguin's repositioning as a semi-legitimate criminal businessman — the Iceberg Lounge persona that emerged in the early 1990s — gave the character a specific niche in Gotham's ecology that made him useful across decades of stories. Rather than a direct physical threat to Batman, Penguin as information merchant and mob facilitator is a resource, an obstacle, and an occasional reluctant asset depending on which way his interests point.",
+          "arcs": [
+            {
+              "slug": "penguin-no-mans-land-role",
+              "title": "Penguin's Gotham: No Man's Land",
+              "logline": "When Gotham is abandoned to its villains, the Penguin becomes its most essential black-market supply chain — and the most dangerous man in the city.",
+              "summary": "No Man's Land gave Penguin his finest hour: in a Gotham without infrastructure, government, or supply lines, Oswald Cobblepot's ability to source and move goods made him more powerful than anyone with a gang and a territory. His neutral-merchant approach — serving whoever needed supplies regardless of faction — was simultaneously practical, self-serving, and genuinely functional in a way that heroic solutions weren't. It is the clearest expression of his specific kind of intelligence.",
+              "spoiler": null,
+              "arc_type": "tie-in",
+              "start_year": 1999,
+              "end_year": 1999,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Batman: No Man's Land Vol. 1",
+                  "format": "omnibus",
+                  "issue_range": "Batman #560–574, Detective Comics #727–741",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": "978-1401271305",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "batman",
+          "relationship": "enemy",
+          "summary": "Penguin and Batman operate in a sustained adversarial détente — Penguin knows Batman will not kill him, and Batman knows that Penguin occasionally provides information that serves his purposes.",
+          "notes": "Their relationship has leaned into informant territory in several post-2000 runs."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "film",
+          "title": "Batman Returns",
+          "release_year": 1992,
+          "watch_order": null,
+          "platform": "Max",
+          "notes": "Danny DeVito's Penguin is Tim Burton's most grotesque creation — a figure of genuine pathos and horror whose ambitions toward Gotham's power structures read as monstrous self-parody.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "Batman: The Animated Series",
+          "release_year": 1992,
+          "watch_order": 1,
+          "platform": "Max",
+          "notes": "David Ogden Stiers voiced a sophisticated, conniving Penguin who embodied the upper-crust criminal businessman persona the comics developed in parallel.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "live_action",
+          "title": "The Penguin (HBO Series)",
+          "release_year": 2024,
+          "watch_order": null,
+          "platform": "Max",
+          "notes": "Colin Farrell reprises his role from The Batman in a limited series charting Oz Cobblepot's rise through Gotham's criminal hierarchy following the events of the film.",
+          "where_to_watch": "Max"
+        }
+      ]
+    },
+    {
+      "slug": "riddler",
+      "name": "The Riddler",
+      "entity_type": "character",
+      "role": "villain",
+      "publisher_slug": "dc",
+      "real_name": "Edward Nigma",
+      "first_appearance": "Detective Comics #140 (1948)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Edward Nigma is a criminal whose compulsive need to prove his intellect superior to Batman's is both his defining characteristic and his reliable weakness — he cannot commit a crime without leaving a clue, because the whole point is to be caught and acknowledged. His obsession is not power or money but recognition from the only person he considers a peer. His brief turn as a legitimate private detective during Paul Dini's run demonstrated that his skills are genuinely extraordinary when not sabotaged by his own ego.",
+      "eras": [
+        {
+          "slug": "riddler-modern-era",
+          "title": "The Riddler in the Modern Era",
+          "start_year": 1995,
+          "end_year": 2024,
+          "order_index": 1,
+          "summary": "The Riddler's modern treatment has oscillated between his classic puzzle-obsessed persona and more ambitious interpretations that treat his intelligence as a genuine threat rather than a convenient plot device. Matt Reeves' film version was a significant departure — closer to a methodical serial killer than a flamboyant showman — while Paul Dini's comics run gave the character his most psychologically coherent period by making him temporarily heroic.",
+          "arcs": [
+            {
+              "slug": "riddler-private-detective",
+              "title": "The Riddler: Private Detective",
+              "logline": "Edward Nigma discovers that his puzzle-solving compulsion is actually a marketable skill — if he switches sides.",
+              "summary": "Paul Dini's handling of the Riddler during his Detective Comics run (2007–2009) is a genuinely clever piece of character rehabilitation: after a Lazarus Pit experience clarifies his mind and removes the compulsion to leave clues, Edward Nigma becomes a private detective. The stories are fun precisely because they put his intellect in service of solving crimes rather than committing them, while making clear that his ego has not diminished — he simply finds legitimate work more satisfying than prison.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 2007,
+              "end_year": 2009,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Batman: Detective",
+                  "format": "trade",
+                  "issue_range": "Detective Comics #821–826, #828–834",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": "978-1401213435",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Best Introduction",
+          "reason": "Paul Dini's Detective Comics run — including the Riddler's private detective period — is the best single entry point for readers who want to understand what makes the character interesting beyond puzzle gimmicks.",
+          "arc_slug": "riddler-private-detective"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "batman",
+          "relationship": "enemy",
+          "summary": "The Riddler's entire criminal career is structured around demanding Batman's attention and acknowledgment — every scheme is a performance staged for an audience of one.",
+          "notes": "His turn as a private detective gave Batman an uneasy semi-ally who brought his own complicated motivations to every case."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "film",
+          "title": "The Batman",
+          "release_year": 2022,
+          "watch_order": null,
+          "platform": "Max",
+          "notes": "Paul Dano's Riddler is the most radical film reimagining of any major Batman villain — a methodical, ideologically driven serial killer whose riddles are YouTube manifestos rather than wordplay.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "Batman: The Animated Series",
+          "release_year": 1992,
+          "watch_order": 1,
+          "platform": "Max",
+          "notes": "John Glover voiced the Riddler in the animated series' two Riddler episodes, which are among the show's tightest mystery constructions.",
+          "where_to_watch": "Max"
+        },
+        {
+          "media_type": "film",
+          "title": "Batman Forever",
+          "release_year": 1995,
+          "watch_order": null,
+          "platform": "Max",
+          "notes": "Jim Carrey's Riddler leans entirely into the character's theatrical mania and status obsession, at the cost of any puzzle-solving credibility.",
+          "where_to_watch": "Max"
+        }
+      ]
+    }
+  ]
+}

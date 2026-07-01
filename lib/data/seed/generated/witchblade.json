@@ -1,0 +1,865 @@
+{
+  "primary": {
+    "slug": "witchblade",
+    "name": "Witchblade",
+    "entity_type": "character",
+    "role": "hero",
+    "publisher_slug": "image",
+    "real_name": "Sara Pezzini",
+    "first_appearance": "Witchblade #1 (1995)",
+    "logo_url": null,
+    "cover_image_url": null,
+    "short_bio": "Sara Pezzini is a New York City homicide detective who becomes the latest bearer of the Witchblade, an ancient sentient gauntlet that bonds with chosen women across the ages. Torn between her duty as a cop and the supernatural war the artifact drags her into, Sara learns to wield its power without losing herself to it.",
+    "eras": [
+      {
+        "slug": "top-cow-classic",
+        "title": "The Classic Top Cow Era",
+        "start_year": 1995,
+        "end_year": 2007,
+        "order_index": 1,
+        "summary": "Detective Sara Pezzini inherits the Witchblade and is pulled into a hidden world of immortal manipulators, balancing her badge against the artifact's bloody legacy. The era establishes her rivalry with industrialist Kenneth Irons and his enforcer Ian Nottingham.",
+        "arcs": [
+          {
+            "slug": "witchblade-origin",
+            "title": "Inheritance",
+            "logline": "A homicide detective survives a warehouse shootout when an ancient weapon chooses her as its newest bearer.",
+            "summary": "Sara Pezzini is a sharp, stubborn NYPD homicide detective working a string of brutal killings that lead her into the orbit of the wealthy and secretive Kenneth Irons. During a violent confrontation, a dormant artifact in Irons' collection responds to her, unfurling across her arm as living metal and saving her life.\n\nThe Witchblade is no mere weapon. It is a sentient relic that has bonded with warrior women throughout history, and Sara is only its latest host. As she struggles to understand the thing fused to her body, she begins to see how deeply Irons has manipulated events to place the gauntlet in the hands of someone he intends to control.\n\nCaught between her oath as a police officer and the supernatural demands of the blade, Sara refuses to become anyone's pawn. The arc lays the foundation for her defining conflict: power that protects her at the cost of pulling her away from the ordinary life she fights to keep.",
+            "spoiler": null,
+            "arc_type": "origin",
+            "start_year": 1995,
+            "end_year": 1996,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "Witchblade: Origins, Volume 1",
+                "format": "trade",
+                "issue_range": "#1-8",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "irons-war",
+            "title": "The Architect's Game",
+            "logline": "Sara uncovers the centuries-long scheme of the immortal who placed the Witchblade within her reach.",
+            "summary": "As Sara grows more capable with the Witchblade, she learns that Kenneth Irons is far older and more dangerous than any ordinary tycoon. His obsession with the artifact spans lifetimes, and his loyal enforcer Ian Nottingham serves as both her shadow and a tragic figure drawn to her against his orders.\n\nThe conflict escalates from corporate intrigue into open supernatural warfare. Sara must navigate Irons' traps while protecting the people in her life from the collateral damage of his ambitions, all while questioning whether the blade's instincts can be trusted.\n\nThis arc cements the triangular tension between Sara, Irons, and Nottingham that defines the classic run, and pushes Sara toward mastery of a weapon that was never meant to be tamed.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 1996,
+            "end_year": 1999,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "Witchblade: Origins, Volume 2",
+                "format": "trade",
+                "issue_range": "#9-19",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "modern-bearers",
+        "title": "The Modern Era",
+        "start_year": 2008,
+        "end_year": 2015,
+        "order_index": 2,
+        "summary": "The Witchblade legacy expands as the artifact's balance with its dark counterpart the Darkness is explored, and the mantle eventually passes to new bearers. Sara's story matures into one of legacy, sacrifice, and the cost of carrying power for too long.",
+        "arcs": [
+          {
+            "slug": "war-of-witchblades",
+            "title": "Split Allegiances",
+            "logline": "The Witchblade's power threatens to fracture as competing forces vie to claim its dual nature.",
+            "summary": "Years into bearing the Witchblade, Sara faces a crisis that strikes at the heart of the artifact itself. The blade's balance between light and dark forces is destabilized, and rival claimants emerge to seize control of its halves.\n\nThe stakes are no longer just Sara's life but the cosmic equilibrium the Witchblade was forged to maintain. Allies and enemies alike are forced to choose sides as the gauntlet's loyalties are tested.\n\nThis arc reframes Sara from a lone detective into the linchpin of a larger mythology, deepening the lore around the artifact and setting up the eventual transition of its legacy.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 2008,
+            "end_year": 2009,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "War of the Witchblades",
+                "format": "trade",
+                "issue_range": "#125-130",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "new-bearer-redemption",
+            "title": "Passing the Mantle",
+            "logline": "A new generation confronts the Witchblade's burden as Sara reckons with everything the artifact has cost her.",
+            "summary": "As Sara's tenure as bearer reaches its later chapters, the narrative turns toward legacy. The weight of years spent fighting supernatural threats forces her to consider whether the Witchblade should remain bound to her at all.\n\nNew characters are drawn into the artifact's orbit, and Sara becomes a mentor and a cautionary figure in equal measure. The arc balances action with reflection on what a lifetime of bearing the blade has taken from her.\n\nThis closing movement of the modern era honors Sara's journey while opening the door for the Witchblade's continuing story beyond her, emphasizing the cyclical nature of the artifact's chosen.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 2010,
+            "end_year": 2015,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "Witchblade: Redemption, Volume 1",
+                "format": "trade",
+                "issue_range": "#131-137",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "start_here": [
+      {
+        "order_index": 1,
+        "label": "Absolute Beginner",
+        "reason": "Start at the beginning to meet Sara Pezzini and watch the Witchblade choose her; this origin needs no prior knowledge.",
+        "arc_slug": "witchblade-origin"
+      },
+      {
+        "order_index": 2,
+        "label": "Classic Fan",
+        "reason": "The defining clash with Kenneth Irons and Ian Nottingham is the heart of the classic Top Cow run.",
+        "arc_slug": "irons-war"
+      },
+      {
+        "order_index": 3,
+        "label": "Modern Era",
+        "reason": "War of the Witchblades reframes the mythology and is the best entry point into the artifact's later cosmic stakes.",
+        "arc_slug": "war-of-witchblades"
+      }
+    ],
+    "relationships": [
+      {
+        "related_slug": "jake-mccarthy",
+        "relationship": "ally",
+        "summary": "Sara's loyal NYPD partner who backs her up even when her cases turn supernatural.",
+        "notes": "Jake repeatedly puts himself in danger alongside Sara, becoming one of the few people she trusts with the truth about the Witchblade."
+      },
+      {
+        "related_slug": "danny-estacado",
+        "relationship": "ally",
+        "summary": "Sara's murdered partner whose spirit continues to guide and advise her from beyond.",
+        "notes": "Danny's death early in Sara's career haunts her, and his lingering presence serves as a moral compass throughout the classic era."
+      },
+      {
+        "related_slug": "gleason",
+        "relationship": "ally",
+        "summary": "A medical examiner and forensic ally who helps Sara make sense of the impossible evidence the Witchblade leaves behind.",
+        "notes": "Gleason provides the grounded police-procedural support that anchors Sara's supernatural investigations in real detective work."
+      },
+      {
+        "related_slug": "captain-dante",
+        "relationship": "ally",
+        "summary": "Sara's commanding officer who shields her from departmental scrutiny while she chases unexplainable cases.",
+        "notes": "Dante balances bureaucratic pressure with genuine loyalty, often covering for Sara when her methods defy explanation."
+      },
+      {
+        "related_slug": "kenneth-irons",
+        "relationship": "enemy",
+        "summary": "The immortal industrialist who orchestrated Sara's bonding with the Witchblade to control it through her.",
+        "notes": "Irons is Sara's primary antagonist across the classic run, manipulating events for centuries to claim the artifact's power."
+      },
+      {
+        "related_slug": "ian-nottingham",
+        "relationship": "enemy",
+        "summary": "Irons' deadly enforcer who is obsessively drawn to Sara even as he is ordered to hunt her.",
+        "notes": "Nottingham's divided loyalty between his master and his fascination with Sara makes him a tragic and unpredictable threat."
+      },
+      {
+        "related_slug": "jackie-estacado",
+        "relationship": "enemy",
+        "summary": "The bearer of the Darkness, the Witchblade's cosmic counterpart, whose path repeatedly crosses and clashes with Sara's.",
+        "notes": "As wielders of opposing primal forces, Sara and Jackie are bound in a relationship that swings between conflict and uneasy alliance."
+      },
+      {
+        "related_slug": "the-curator",
+        "relationship": "enemy",
+        "summary": "A keeper of forbidden artifacts who covets the Witchblade and schemes to wrest it from Sara.",
+        "notes": "The Curator represents the long line of collectors and cultists who view Sara as merely an obstacle to possessing the blade."
+      }
+    ],
+    "media": [
+      {
+        "media_type": "live_action",
+        "title": "Witchblade",
+        "release_year": 2001,
+        "watch_order": 1,
+        "platform": "TNT",
+        "notes": "Live-action television series starring Yancy Butler as Sara Pezzini, running two seasons.",
+        "where_to_watch": null
+      },
+      {
+        "media_type": "animated_series",
+        "title": "Witchblade (anime)",
+        "release_year": 2006,
+        "watch_order": 2,
+        "platform": "GONZO / TV Tokyo",
+        "notes": "Japanese anime adaptation that reimagines the Witchblade mythology with an original protagonist.",
+        "where_to_watch": null
+      },
+      {
+        "media_type": "video_game",
+        "title": "Witchblade",
+        "release_year": 2004,
+        "watch_order": 3,
+        "platform": "PlayStation 2",
+        "notes": "Action video game based on the comic series.",
+        "where_to_watch": null
+      }
+    ]
+  },
+  "supporting": [
+    {
+      "slug": "jake-mccarthy",
+      "name": "Jake McCarthy",
+      "entity_type": "character",
+      "role": "hero",
+      "publisher_slug": "image",
+      "real_name": "Jake McCarthy",
+      "first_appearance": "Witchblade #1 (1995)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Jake McCarthy is an NYPD detective and Sara Pezzini's partner, a steady and earnest cop who finds himself drawn into cases far stranger than ordinary police work. His loyalty to Sara endures even as the supernatural reshapes his understanding of the job.",
+      "eras": [
+        {
+          "slug": "jake-partner-era",
+          "title": "On the Force",
+          "start_year": 1995,
+          "end_year": 2007,
+          "order_index": 1,
+          "summary": "Jake serves as Sara's partner through her earliest and most dangerous cases, growing from a by-the-book detective into a believer in the impossible.",
+          "arcs": [
+            {
+              "slug": "jake-trial-by-fire",
+              "title": "Trial by Fire",
+              "logline": "A new detective learns that partnering with Sara Pezzini means confronting the inexplicable.",
+              "summary": "Jake McCarthy is assigned to work alongside Sara just as the Witchblade begins reshaping her life. Initially skeptical of the bizarre circumstances surrounding her cases, he proves his mettle by standing his ground when ordinary police tactics fail.\n\nOver time Jake becomes one of the few allies who accepts the supernatural reality Sara lives in, offering loyalty and grounded support. His arc is one of quiet courage and the slow erosion of his disbelief.",
+              "spoiler": null,
+              "arc_type": "origin",
+              "start_year": 1995,
+              "end_year": 1998,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Witchblade: Origins, Volume 1",
+                  "format": "trade",
+                  "issue_range": "#1-8",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Absolute Beginner",
+          "reason": "Jake's introduction coincides with the start of Sara's journey, making it the natural place to meet him.",
+          "arc_slug": "jake-trial-by-fire"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "witchblade",
+          "relationship": "ally",
+          "summary": "Jake is Sara's trusted NYPD partner who backs her through her most dangerous cases.",
+          "notes": "He stands by Sara even as her work pulls them both into supernatural conflict."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "live_action",
+          "title": "Witchblade",
+          "release_year": 2001,
+          "watch_order": 1,
+          "platform": "TNT",
+          "notes": "Jake McCarthy appears as a supporting character in the TNT series.",
+          "where_to_watch": null
+        },
+        {
+          "media_type": "video_game",
+          "title": "Witchblade",
+          "release_year": 2004,
+          "watch_order": 2,
+          "platform": "PlayStation 2",
+          "notes": "Featured within the supporting cast of the video game adaptation.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "danny-estacado",
+      "name": "Danny Estacado",
+      "entity_type": "character",
+      "role": "hero",
+      "publisher_slug": "image",
+      "real_name": "Daniel Estacado",
+      "first_appearance": "Witchblade #1 (1995)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Danny Estacado is Sara Pezzini's NYPD partner whose murder early in the series profoundly shapes her path. Even in death, his spirit lingers as a guiding presence, offering Sara counsel and conscience as she navigates the Witchblade's demands.",
+      "eras": [
+        {
+          "slug": "danny-guardian-era",
+          "title": "The Lingering Partner",
+          "start_year": 1995,
+          "end_year": 2003,
+          "order_index": 1,
+          "summary": "Danny's loss defines Sara's earliest motivations, and his enduring spectral presence becomes a moral anchor throughout the classic run.",
+          "arcs": [
+            {
+              "slug": "danny-the-fallen-partner",
+              "title": "The Fallen Partner",
+              "logline": "A detective's death becomes the wound that drives his partner toward the Witchblade's destiny.",
+              "summary": "Danny Estacado works alongside Sara before a violent case takes his life, an event that crystallizes Sara's resolve and grief. His murder is among the formative tragedies that push her toward the path of the Witchblade.\n\nRather than vanishing from the story, Danny returns as a guiding spirit, appearing to Sara in moments of doubt. His arc transforms a fallen partner into a lasting conscience and companion.",
+              "spoiler": "Danny is killed early in the series and returns as a spirit.",
+              "arc_type": "origin",
+              "start_year": 1995,
+              "end_year": 1997,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Witchblade: Origins, Volume 1",
+                  "format": "trade",
+                  "issue_range": "#1-8",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "witchblade",
+          "relationship": "ally",
+          "summary": "Danny is Sara's late partner whose spirit continues to guide her.",
+          "notes": "His death and lingering presence serve as a moral compass for Sara across the classic era."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "live_action",
+          "title": "Witchblade",
+          "release_year": 2001,
+          "watch_order": 1,
+          "platform": "TNT",
+          "notes": "Danny Woo, an analogue of Danny Estacado, appears in the TNT series.",
+          "where_to_watch": null
+        },
+        {
+          "media_type": "animated_series",
+          "title": "Witchblade (anime)",
+          "release_year": 2006,
+          "watch_order": 2,
+          "platform": "GONZO / TV Tokyo",
+          "notes": "The anime draws on the broader Witchblade supporting mythology.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "gleason",
+      "name": "Gleason",
+      "entity_type": "character",
+      "role": "hero",
+      "publisher_slug": "image",
+      "real_name": null,
+      "first_appearance": "Witchblade #2 (1996)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Gleason is a forensic specialist and medical examiner who supports Sara Pezzini's investigations with sharp scientific insight. He provides the grounded procedural backbone that keeps Sara's supernatural cases tethered to real detective work.",
+      "eras": [
+        {
+          "slug": "gleason-lab-era",
+          "title": "The Examiner's Bench",
+          "start_year": 1996,
+          "end_year": 2005,
+          "order_index": 1,
+          "summary": "Gleason works behind the scenes analyzing evidence that defies explanation, becoming an indispensable resource for Sara's most baffling cases.",
+          "arcs": [
+            {
+              "slug": "gleason-cold-evidence",
+              "title": "Cold Evidence",
+              "logline": "A forensic examiner confronts physical proof that the impossible is real.",
+              "summary": "Gleason is called upon to make sense of evidence that no ordinary crime scene could produce. His methodical, science-driven approach repeatedly collides with the supernatural forces surrounding the Witchblade.\n\nThough skeptical by training, Gleason becomes a steadfast ally, lending Sara credibility and analytical support. His arc grounds the series' fantastical elements in the rigor of real investigation.",
+              "spoiler": null,
+              "arc_type": "miniseries",
+              "start_year": 1996,
+              "end_year": 1999,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Witchblade: Origins, Volume 2",
+                  "format": "trade",
+                  "issue_range": "#9-19",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "witchblade",
+          "relationship": "ally",
+          "summary": "Gleason helps Sara interpret the impossible evidence her cases generate.",
+          "notes": "His forensic support anchors Sara's supernatural investigations in real police science."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "live_action",
+          "title": "Witchblade",
+          "release_year": 2001,
+          "watch_order": 1,
+          "platform": "TNT",
+          "notes": "Forensic and procedural supporting roles feature in the TNT adaptation.",
+          "where_to_watch": null
+        },
+        {
+          "media_type": "video_game",
+          "title": "Witchblade",
+          "release_year": 2004,
+          "watch_order": 2,
+          "platform": "PlayStation 2",
+          "notes": "Supporting cast appears in the game adaptation.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "captain-dante",
+      "name": "Captain Dante",
+      "entity_type": "character",
+      "role": "hero",
+      "publisher_slug": "image",
+      "real_name": "Joe Dante",
+      "first_appearance": "Witchblade #1 (1995)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Captain Joe Dante is Sara Pezzini's commanding officer at the NYPD, a gruff but fair leader who shields her from departmental scrutiny. He balances bureaucratic pressure with genuine loyalty, often covering for Sara when her cases defy explanation.",
+      "eras": [
+        {
+          "slug": "dante-command-era",
+          "title": "The Captain's Watch",
+          "start_year": 1995,
+          "end_year": 2006,
+          "order_index": 1,
+          "summary": "Dante oversees Sara's precinct work and quietly protects her career as her cases grow increasingly strange.",
+          "arcs": [
+            {
+              "slug": "dante-chain-of-command",
+              "title": "Chain of Command",
+              "logline": "A precinct captain must decide how far to bend the rules for his most unpredictable detective.",
+              "summary": "Captain Dante runs Sara's homicide squad and faces mounting pressure from above as her cases produce results no one can rationally explain. Caught between protocol and loyalty, he repeatedly chooses to give Sara room to work.\n\nDante's steady leadership provides Sara institutional cover and a measure of stability amid chaos. His arc explores the cost of trust when the truth cannot be put in a report.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 1995,
+              "end_year": 2000,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Witchblade: Origins, Volume 1",
+                  "format": "trade",
+                  "issue_range": "#1-8",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "witchblade",
+          "relationship": "ally",
+          "summary": "Dante shields Sara from departmental scrutiny while she chases unexplainable cases.",
+          "notes": "He balances bureaucratic pressure with genuine loyalty toward Sara."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "live_action",
+          "title": "Witchblade",
+          "release_year": 2001,
+          "watch_order": 1,
+          "platform": "TNT",
+          "notes": "A precinct captain figure appears in the TNT series.",
+          "where_to_watch": null
+        },
+        {
+          "media_type": "video_game",
+          "title": "Witchblade",
+          "release_year": 2004,
+          "watch_order": 2,
+          "platform": "PlayStation 2",
+          "notes": "Supporting NYPD cast appears in the game.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "kenneth-irons",
+      "name": "Kenneth Irons",
+      "entity_type": "character",
+      "role": "villain",
+      "publisher_slug": "image",
+      "real_name": "Kenneth Irons",
+      "first_appearance": "Witchblade #1 (1995)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Kenneth Irons is an immortal industrialist whose obsession with the Witchblade spans centuries. Wealthy, patient, and ruthless, he orchestrates events to control the artifact through whoever bears it, making him Sara Pezzini's principal nemesis.",
+      "eras": [
+        {
+          "slug": "irons-empire-era",
+          "title": "The Immortal Magnate",
+          "start_year": 1995,
+          "end_year": 2005,
+          "order_index": 1,
+          "summary": "Irons leverages his vast resources and unnatural lifespan to manipulate the Witchblade's bearers, treating Sara as the latest piece in a centuries-long game.",
+          "arcs": [
+            {
+              "slug": "irons-the-long-game",
+              "title": "The Long Game",
+              "logline": "An ageless tycoon maneuvers a new bearer into his web to finally master the artifact he covets.",
+              "summary": "Kenneth Irons has spent lifetimes chasing the Witchblade, and in Sara Pezzini he sees both a tool and a threat. He deploys his wealth, his enforcer Ian Nottingham, and his hidden knowledge of the artifact to bend events toward his control.\n\nIrons' patience is matched only by his cruelty, and his schemes drive much of the classic-era conflict. His arc reveals the depth of his obsession and the lengths he will go to possess what was never meant to be owned.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 1995,
+              "end_year": 2000,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Witchblade: Origins, Volume 1",
+                  "format": "trade",
+                  "issue_range": "#1-8",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Classic Fan",
+          "reason": "Irons' machinations define the classic run, and this arc captures his obsession at full force.",
+          "arc_slug": "irons-the-long-game"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "witchblade",
+          "relationship": "enemy",
+          "summary": "Irons orchestrated Sara's bonding with the Witchblade to control it through her.",
+          "notes": "He is Sara's primary antagonist across the classic run, manipulating events for centuries."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "live_action",
+          "title": "Witchblade",
+          "release_year": 2001,
+          "watch_order": 1,
+          "platform": "TNT",
+          "notes": "Kenneth Irons is a central antagonist in the TNT series.",
+          "where_to_watch": null
+        },
+        {
+          "media_type": "video_game",
+          "title": "Witchblade",
+          "release_year": 2004,
+          "watch_order": 2,
+          "platform": "PlayStation 2",
+          "notes": "Appears as an antagonist in the game adaptation.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "ian-nottingham",
+      "name": "Ian Nottingham",
+      "entity_type": "character",
+      "role": "antihero",
+      "publisher_slug": "image",
+      "real_name": "Ian Nottingham",
+      "first_appearance": "Witchblade #2 (1996)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Ian Nottingham is the deadly, enigmatic bodyguard and enforcer of Kenneth Irons, trained as a peerless warrior. Though ordered to hunt Sara Pezzini, he is drawn to her by a fascination that constantly tests his loyalty, making him as much a tragic figure as a threat.",
+      "eras": [
+        {
+          "slug": "nottingham-enforcer-era",
+          "title": "The Conflicted Blade",
+          "start_year": 1996,
+          "end_year": 2005,
+          "order_index": 1,
+          "summary": "Nottingham serves Irons with lethal precision while his obsession with Sara pulls him toward defiance, leaving his allegiance perpetually uncertain.",
+          "arcs": [
+            {
+              "slug": "nottingham-divided-loyalty",
+              "title": "Divided Loyalty",
+              "logline": "A master's perfect weapon begins to question the hand that wields him.",
+              "summary": "Ian Nottingham is Kenneth Irons' ultimate enforcer, a warrior shaped to serve without hesitation. Yet from his first encounters with Sara Pezzini, a deeper fascination takes root that his master cannot fully command.\n\nTorn between obedience and his own conscience, Nottingham becomes one of the most unpredictable figures in Sara's world. His arc traces the slow fracture of his loyalty and the emergence of his own will.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 1996,
+              "end_year": 2001,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Witchblade: Origins, Volume 2",
+                  "format": "trade",
+                  "issue_range": "#9-19",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Classic Fan",
+          "reason": "Nottingham's conflicted bond with Sara is one of the most compelling threads of the classic run.",
+          "arc_slug": "nottingham-divided-loyalty"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "witchblade",
+          "relationship": "enemy",
+          "summary": "Nottingham is Irons' enforcer ordered to hunt Sara, yet obsessively drawn to her.",
+          "notes": "His divided loyalty makes him a tragic and unpredictable threat to Sara."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "live_action",
+          "title": "Witchblade",
+          "release_year": 2001,
+          "watch_order": 1,
+          "platform": "TNT",
+          "notes": "Ian Nottingham is a prominent character in the TNT series.",
+          "where_to_watch": null
+        },
+        {
+          "media_type": "video_game",
+          "title": "Witchblade",
+          "release_year": 2004,
+          "watch_order": 2,
+          "platform": "PlayStation 2",
+          "notes": "Appears in the game adaptation.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "jackie-estacado",
+      "name": "Jackie Estacado",
+      "entity_type": "character",
+      "role": "antihero",
+      "publisher_slug": "image",
+      "real_name": "Jackie Estacado",
+      "first_appearance": "Witchblade #10 (1996)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Jackie Estacado is a mafia hitman who becomes the bearer of the Darkness, the primal force that is the Witchblade's cosmic counterpart. Charismatic and dangerous, his path repeatedly crosses Sara Pezzini's in a relationship that swings between conflict and uneasy alliance.",
+      "eras": [
+        {
+          "slug": "jackie-darkness-era",
+          "title": "Bearer of the Darkness",
+          "start_year": 1996,
+          "end_year": 2010,
+          "order_index": 1,
+          "summary": "Jackie wields the Darkness through a life of crime and supernatural war, bound to the Witchblade's mythology as its shadowed mirror.",
+          "arcs": [
+            {
+              "slug": "jackie-the-darkness-rises",
+              "title": "The Darkness Rises",
+              "logline": "A mob enforcer inherits an ancient power that is the equal and opposite of the Witchblade.",
+              "summary": "Jackie Estacado lives as a lethal hitman until the Darkness awakens within him, granting terrifying power tied to the same cosmic balance the Witchblade serves. His emergence introduces the artifact's primal counterpart into Sara's world.\n\nAs wielders of opposing forces, Jackie and Sara are drawn into repeated clashes and reluctant alliances. His arc establishes the light-and-dark dynamic that underpins much of the broader Top Cow mythology.",
+              "spoiler": null,
+              "arc_type": "crossover",
+              "start_year": 1996,
+              "end_year": 2002,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Witchblade / The Darkness Collected Edition",
+                  "format": "trade",
+                  "issue_range": "#10-19",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Classic Fan",
+          "reason": "Jackie's debut introduces the Darkness and the dual-force mythology central to Sara's wider story.",
+          "arc_slug": "jackie-the-darkness-rises"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "witchblade",
+          "relationship": "enemy",
+          "summary": "As bearer of the Darkness, Jackie is the cosmic counterpart whose path repeatedly clashes with Sara's.",
+          "notes": "Their bond as wielders of opposing primal forces swings between conflict and uneasy alliance."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "video_game",
+          "title": "The Darkness",
+          "release_year": 2007,
+          "watch_order": 1,
+          "platform": "Xbox 360 / PlayStation 3",
+          "notes": "Jackie Estacado is the playable protagonist of The Darkness video game.",
+          "where_to_watch": null
+        },
+        {
+          "media_type": "video_game",
+          "title": "The Darkness II",
+          "release_year": 2012,
+          "watch_order": 2,
+          "platform": "Xbox 360 / PlayStation 3 / PC",
+          "notes": "Sequel continuing Jackie's story as the bearer of the Darkness.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "the-curator",
+      "name": "The Curator",
+      "entity_type": "character",
+      "role": "villain",
+      "publisher_slug": "image",
+      "real_name": null,
+      "first_appearance": "Witchblade #25 (1998)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "The Curator is a shadowy keeper of forbidden relics who covets the Witchblade for his collection. Patient and manipulative, he schemes to wrest the artifact from Sara Pezzini, viewing her as merely an obstacle to possession.",
+      "eras": [
+        {
+          "slug": "curator-collection-era",
+          "title": "Keeper of Relics",
+          "start_year": 1998,
+          "end_year": 2006,
+          "order_index": 1,
+          "summary": "The Curator pursues the Witchblade through stealth and schemes, representing the long line of collectors and cultists obsessed with the artifact.",
+          "arcs": [
+            {
+              "slug": "curator-the-collection",
+              "title": "The Collection",
+              "logline": "A hoarder of cursed artifacts sets his sights on the one relic that has always eluded him.",
+              "summary": "The Curator has assembled a hidden trove of dangerous relics, but the Witchblade remains beyond his grasp. When Sara becomes its bearer, he turns his considerable cunning toward separating her from the artifact.\n\nUnlike brute-force foes, the Curator works through obsession, patience, and manipulation. His arc embodies the endless procession of those who would treat the Witchblade as a prize rather than a responsibility.",
+              "spoiler": null,
+              "arc_type": "miniseries",
+              "start_year": 1998,
+              "end_year": 2002,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Witchblade: Origins, Volume 3",
+                  "format": "trade",
+                  "issue_range": "#20-30",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "witchblade",
+          "relationship": "enemy",
+          "summary": "The Curator covets the Witchblade and schemes to take it from Sara.",
+          "notes": "He represents the collectors and cultists who view Sara as merely an obstacle to possessing the blade."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "live_action",
+          "title": "Witchblade",
+          "release_year": 2001,
+          "watch_order": 1,
+          "platform": "TNT",
+          "notes": "Antagonist collector figures appear within the TNT series.",
+          "where_to_watch": null
+        },
+        {
+          "media_type": "video_game",
+          "title": "Witchblade",
+          "release_year": 2004,
+          "watch_order": 2,
+          "platform": "PlayStation 2",
+          "notes": "Antagonist roles feature in the game adaptation.",
+          "where_to_watch": null
+        }
+      ]
+    }
+  ]
+}

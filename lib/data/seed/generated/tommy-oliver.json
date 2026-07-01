@@ -1,0 +1,789 @@
+{
+  "primary": {
+    "slug": "tommy-oliver",
+    "name": "Tommy Oliver (Green Ranger)",
+    "entity_type": "character",
+    "role": "hero",
+    "publisher_slug": "boom",
+    "real_name": "Tommy Oliver",
+    "first_appearance": "Mighty Morphin Power Rangers #1 (BOOM! Studios, 2016)",
+    "logo_url": null,
+    "cover_image_url": null,
+    "short_bio": "Tommy Oliver is the conflicted Green Ranger whose introduction to the team began under an enemy's control. Wracked by guilt over actions he could not stop, he fights to earn the trust of the Rangers and to master a power that is slowly fading. His journey from outsider to indispensable teammate defines BOOM! Studios' reimagining of the franchise.",
+    "eras": [
+      {
+        "slug": "green-ranger-era",
+        "title": "The Green Ranger",
+        "start_year": 2016,
+        "end_year": 2017,
+        "order_index": 1,
+        "summary": "Tommy struggles with the aftermath of being manipulated into fighting his future teammates and races to control a destabilizing Green Ranger power. This era reframes his classic origin with new psychological weight and continuity-spanning stakes.",
+        "arcs": [
+          {
+            "slug": "green-with-evil",
+            "title": "Green With Evil",
+            "logline": "A new Ranger arrives carrying the guilt of crimes he committed while not himself.",
+            "summary": "BOOM! Studios opens its run by picking up immediately after Tommy's liberation from villainous control, choosing to dwell on consequences the original television story rushed past. Tommy is now a member of the team in name, but the trust between him and the others has been fractured by everything he did while corrupted.\n\nThe arc follows Tommy as he tries to integrate with a unit that has every reason to fear him. Zordon and Alpha 5 monitor the stability of his powers, while the Rangers question whether a former enemy can ever be truly relied upon in the field.\n\nWriter Kyle Higgins uses this period to build an interior life for a character previously defined mostly by spectacle. The result is a hero who is competent in battle yet deeply uncertain of his place, setting up the emotional throughline for the entire series.",
+            "spoiler": null,
+            "arc_type": "origin",
+            "start_year": 2016,
+            "end_year": 2016,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "Mighty Morphin Power Rangers Vol. 1",
+                "format": "trade",
+                "issue_range": "#1-4",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "fading-power",
+            "title": "The Fading Power",
+            "logline": "The Green Ranger's strength wanes as an old enemy plots to drain it entirely.",
+            "summary": "As Tommy settles into the team, a new threat emerges that targets the very source of his abilities. The Green Ranger power is revealed to be unstable, and each transformation costs him more than the last.\n\nThe Rangers must protect Tommy even as he insists on carrying the fight himself, unwilling to let anyone else suffer for a power he never asked for. The tension between his self-reliance and the team's insistence on shared burden becomes the heart of the conflict.\n\nThis arc deepens the stakes of Tommy's tenure and tests whether the bonds formed in the previous arc can survive a crisis that threatens to take him out of the fight for good.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 2016,
+            "end_year": 2017,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "Mighty Morphin Power Rangers Vol. 2",
+                "format": "trade",
+                "issue_range": "#5-8",
+                "reading_order": 2,
+                "publication_order": 2,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "shattered-grid-era",
+        "title": "Shattered Grid",
+        "start_year": 2018,
+        "end_year": 2019,
+        "order_index": 2,
+        "summary": "Tommy is confronted by a dark version of himself from another timeline whose conquest threatens every Ranger across the multiverse. The era elevates the franchise into a sprawling crossover event and cements Tommy as both hero and cautionary mirror.",
+        "arcs": [
+          {
+            "slug": "shattered-grid",
+            "title": "Shattered Grid",
+            "logline": "A tyrant wearing a familiar face wages war across every Ranger reality.",
+            "summary": "Shattered Grid is the centerpiece event of BOOM! Studios' Power Rangers line, drawing in teams from across the franchise's history. At its center is a villainous alternate Tommy who never relinquished the Green Ranger mantle and instead used it to conquer.\n\nFor the prime Tommy, the conflict is intensely personal. He must face a version of himself shaped by the worst possible choices, a living argument for the path he refused to take. The event forces him to confront what he might have become.\n\nThe story spans multiple titles and brings together heroes from disparate eras, but its emotional engine remains the contrast between two Tommys. It is the moment the comic line stepped fully out of the television show's shadow.",
+            "spoiler": null,
+            "arc_type": "crossover",
+            "start_year": 2018,
+            "end_year": 2018,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "Mighty Morphin Power Rangers: Shattered Grid",
+                "format": "trade",
+                "issue_range": "#25-30",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": "Collects the core crossover issues.",
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "beyond-the-grid",
+            "title": "Beyond the Grid",
+            "logline": "Stranded survivors of a multiversal war fight to find their way home.",
+            "summary": "In the aftermath of the great crossover, a group of Rangers finds themselves cut off from the Morphing Grid entirely, marooned in an unfamiliar reality. Tommy's legacy looms over the survivors even when he is not present.\n\nThe arc shifts tone toward survival and mystery, exploring what Rangers are without the connective power that defines them. It also lays groundwork for new threats that will shape the franchise going forward.\n\nBy stepping away from familiar settings, the story interrogates the themes Tommy embodies most: identity, sacrifice, and the cost of carrying power that was never meant for you.",
+            "spoiler": null,
+            "arc_type": "tie-in",
+            "start_year": 2018,
+            "end_year": 2019,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "Mighty Morphin Power Rangers: Beyond the Grid",
+                "format": "trade",
+                "issue_range": "#31-37",
+                "reading_order": 2,
+                "publication_order": 2,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "start_here": [
+      {
+        "order_index": 1,
+        "label": "Absolute Beginner",
+        "reason": "Start with Tommy's reimagined origin to understand his guilt, his fading power, and why the team is wary of him.",
+        "arc_slug": "green-with-evil"
+      },
+      {
+        "order_index": 2,
+        "label": "Classic Fan",
+        "reason": "If you know the TV show, jump to the arc where Tommy must protect a power that is slowly killing him.",
+        "arc_slug": "fading-power"
+      },
+      {
+        "order_index": 3,
+        "label": "Modern Era",
+        "reason": "The definitive modern Power Rangers event, pitting Tommy against the darkest possible version of himself.",
+        "arc_slug": "shattered-grid"
+      }
+    ],
+    "relationships": [
+      {
+        "related_slug": "jason-lee-scott",
+        "relationship": "ally",
+        "summary": "The original Red Ranger and team leader who must learn to trust the former enemy now fighting beside him.",
+        "notes": "Their evolving partnership, from suspicion to mutual respect, anchors the early BOOM! Studios run."
+      },
+      {
+        "related_slug": "kimberly-hart",
+        "relationship": "ally",
+        "summary": "The Pink Ranger whose belief in Tommy's redemption helps him find a place on the team.",
+        "notes": "Kimberly is among the first to extend genuine trust to Tommy after his liberation from control."
+      },
+      {
+        "related_slug": "billy-cranston",
+        "relationship": "ally",
+        "summary": "The Blue Ranger and team technologist who studies the instability of Tommy's Green Ranger power.",
+        "notes": "Billy's analytical support proves vital as Tommy's abilities begin to fade."
+      },
+      {
+        "related_slug": "power-rangers",
+        "relationship": "ally",
+        "summary": "The team Tommy joins after breaking free of enemy control, fighting alongside them across timelines.",
+        "notes": "Tommy's membership is hard-won, defined by the team's gradual acceptance of a former adversary."
+      },
+      {
+        "related_slug": "rita-repulsa",
+        "relationship": "enemy",
+        "summary": "The space witch who originally corrupted Tommy and turned him against the Rangers.",
+        "notes": "Rita's manipulation is the source of Tommy's lasting guilt and the team's initial distrust."
+      },
+      {
+        "related_slug": "lord-zedd",
+        "relationship": "enemy",
+        "summary": "The Emperor of Evil whose schemes escalate the threats Tommy and the team must face.",
+        "notes": "Zedd represents a darker, more calculating menace than Rita in the BOOM! continuity."
+      },
+      {
+        "related_slug": "goldar",
+        "relationship": "enemy",
+        "summary": "The brutal warrior enforcer who repeatedly clashes with Tommy on the battlefield.",
+        "notes": "Goldar serves as a recurring physical antagonist throughout Tommy's tenure."
+      },
+      {
+        "related_slug": "lord-drakkon",
+        "relationship": "enemy",
+        "summary": "A tyrannical alternate-timeline Tommy who never abandoned the Green Ranger mantle and instead conquered.",
+        "notes": "Drakkon is Tommy's dark mirror and the central villain of the Shattered Grid event."
+      }
+    ],
+    "media": [
+      {
+        "media_type": "live_action",
+        "title": "Mighty Morphin Power Rangers",
+        "release_year": 1993,
+        "watch_order": 1,
+        "platform": "Fox Kids",
+        "notes": "The television series that introduced Tommy Oliver as the Green Ranger.",
+        "where_to_watch": "Netflix"
+      },
+      {
+        "media_type": "film",
+        "title": "Mighty Morphin Power Rangers: The Movie",
+        "release_year": 1995,
+        "watch_order": 2,
+        "platform": "Theatrical",
+        "notes": "Theatrical feature continuing the classic team's adventures.",
+        "where_to_watch": null
+      },
+      {
+        "media_type": "video_game",
+        "title": "Power Rangers: Battle for the Grid",
+        "release_year": 2019,
+        "watch_order": 3,
+        "platform": "Multi-platform",
+        "notes": "Fighting game featuring both Tommy and Lord Drakkon drawn from the comics.",
+        "where_to_watch": null
+      }
+    ]
+  },
+  "supporting": [
+    {
+      "slug": "jason-lee-scott",
+      "name": "Jason Lee Scott (Red Ranger)",
+      "entity_type": "character",
+      "role": "hero",
+      "publisher_slug": "boom",
+      "real_name": "Jason Lee Scott",
+      "first_appearance": "Mighty Morphin Power Rangers #1 (BOOM! Studios, 2016)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Jason Lee Scott is the original Red Ranger and field leader of the team. Disciplined and principled, he carries the weight of every decision the Rangers make. His arc in the comics centers on learning to trust a former enemy.",
+      "eras": [
+        {
+          "slug": "red-ranger-era",
+          "title": "Leader of the Team",
+          "start_year": 2016,
+          "end_year": 2018,
+          "order_index": 1,
+          "summary": "Jason leads the Rangers through their earliest battles while navigating the difficult choice of accepting Tommy into the fold.",
+          "arcs": [
+            {
+              "slug": "burden-of-command",
+              "title": "Burden of Command",
+              "logline": "A young leader weighs loyalty to his team against the risk of trusting an outsider.",
+              "summary": "Jason's leadership is tested when a former enemy joins the Rangers. Every order he gives now carries the question of whether the team can rely on its newest member.\n\nThe arc explores the loneliness of command and the quiet strength it takes to extend trust. Jason ultimately decides that leadership means giving people the chance to prove who they really are.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 2016,
+              "end_year": 2017,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Mighty Morphin Power Rangers Vol. 1",
+                  "format": "trade",
+                  "issue_range": "#1-4",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Absolute Beginner",
+          "reason": "Meet the Red Ranger and the leadership challenges that open the series.",
+          "arc_slug": "burden-of-command"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "tommy-oliver",
+          "relationship": "ally",
+          "summary": "The Green Ranger Jason learns to trust and lead alongside.",
+          "notes": "Their bond grows from wary suspicion to genuine partnership."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "live_action",
+          "title": "Mighty Morphin Power Rangers",
+          "release_year": 1993,
+          "watch_order": 1,
+          "platform": "Fox Kids",
+          "notes": "Introduced Jason as the original Red Ranger.",
+          "where_to_watch": "Netflix"
+        },
+        {
+          "media_type": "video_game",
+          "title": "Power Rangers: Battle for the Grid",
+          "release_year": 2019,
+          "watch_order": 2,
+          "platform": "Multi-platform",
+          "notes": "Playable Red Ranger drawn from the franchise roster.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "kimberly-hart",
+      "name": "Kimberly Hart (Pink Ranger)",
+      "entity_type": "character",
+      "role": "hero",
+      "publisher_slug": "boom",
+      "real_name": "Kimberly Hart",
+      "first_appearance": "Mighty Morphin Power Rangers #1 (BOOM! Studios, 2016)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Kimberly Hart is the compassionate Pink Ranger whose empathy holds the team together. She is often the first to see the good in others, including the team's most uncertain member. Her warmth balances the team's harder edges.",
+      "eras": [
+        {
+          "slug": "pink-ranger-era",
+          "title": "Heart of the Team",
+          "start_year": 2016,
+          "end_year": 2018,
+          "order_index": 1,
+          "summary": "Kimberly serves as the emotional center of the Rangers, championing trust and redemption as the team grows.",
+          "arcs": [
+            {
+              "slug": "extending-trust",
+              "title": "Extending Trust",
+              "logline": "The Pink Ranger chooses faith in a teammate when no one else will.",
+              "summary": "Kimberly is among the first to believe that a former enemy deserves a second chance. Her willingness to extend trust helps a fractured team begin to heal.\n\nThe arc highlights how empathy can be its own form of courage, and how the smallest gestures of belief can change the course of someone's life.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 2016,
+              "end_year": 2017,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Mighty Morphin Power Rangers Vol. 1",
+                  "format": "trade",
+                  "issue_range": "#1-4",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Absolute Beginner",
+          "reason": "See the Pink Ranger's empathy shape the team from the very first arc.",
+          "arc_slug": "extending-trust"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "tommy-oliver",
+          "relationship": "ally",
+          "summary": "The Green Ranger whose redemption Kimberly believes in early.",
+          "notes": "Her trust is pivotal to Tommy's acceptance on the team."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "live_action",
+          "title": "Mighty Morphin Power Rangers",
+          "release_year": 1993,
+          "watch_order": 1,
+          "platform": "Fox Kids",
+          "notes": "Introduced Kimberly as the original Pink Ranger.",
+          "where_to_watch": "Netflix"
+        },
+        {
+          "media_type": "video_game",
+          "title": "Power Rangers: Battle for the Grid",
+          "release_year": 2019,
+          "watch_order": 2,
+          "platform": "Multi-platform",
+          "notes": "Playable Pink Ranger in the fighting game roster.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "billy-cranston",
+      "name": "Billy Cranston (Blue Ranger)",
+      "entity_type": "character",
+      "role": "hero",
+      "publisher_slug": "boom",
+      "real_name": "Billy Cranston",
+      "first_appearance": "Mighty Morphin Power Rangers #1 (BOOM! Studios, 2016)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Billy Cranston is the Blue Ranger and the team's brilliant technologist. His scientific mind solves problems the team cannot punch their way through. He plays a key role in understanding the instability of the Green Ranger power.",
+      "eras": [
+        {
+          "slug": "blue-ranger-era",
+          "title": "Mind of the Team",
+          "start_year": 2016,
+          "end_year": 2018,
+          "order_index": 1,
+          "summary": "Billy applies his intellect to the team's greatest mysteries, including the science behind their powers and threats.",
+          "arcs": [
+            {
+              "slug": "decoding-the-grid",
+              "title": "Decoding the Grid",
+              "logline": "The team's genius races to understand a power that is breaking down.",
+              "summary": "Billy turns his analytical gifts toward the unstable nature of a teammate's failing power. His research becomes the team's best hope of preventing disaster.\n\nThe arc showcases how brains and heart together make the Rangers more than the sum of their colors, with Billy quietly indispensable to every victory.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 2016,
+              "end_year": 2017,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Mighty Morphin Power Rangers Vol. 2",
+                  "format": "trade",
+                  "issue_range": "#5-8",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Absolute Beginner",
+          "reason": "Watch the Blue Ranger's science drive the team's understanding of their own powers.",
+          "arc_slug": "decoding-the-grid"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "tommy-oliver",
+          "relationship": "ally",
+          "summary": "The Green Ranger whose fading power Billy studies to save.",
+          "notes": "Billy's research is central to keeping Tommy in the fight."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "live_action",
+          "title": "Mighty Morphin Power Rangers",
+          "release_year": 1993,
+          "watch_order": 1,
+          "platform": "Fox Kids",
+          "notes": "Introduced Billy as the original Blue Ranger.",
+          "where_to_watch": "Netflix"
+        },
+        {
+          "media_type": "film",
+          "title": "Mighty Morphin Power Rangers: The Movie",
+          "release_year": 1995,
+          "watch_order": 2,
+          "platform": "Theatrical",
+          "notes": "Featured the classic team including the Blue Ranger.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "rita-repulsa",
+      "name": "Rita Repulsa",
+      "entity_type": "character",
+      "role": "villain",
+      "publisher_slug": "boom",
+      "real_name": "Rita Repulsa",
+      "first_appearance": "Mighty Morphin Power Rangers #1 (BOOM! Studios, 2016)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Rita Repulsa is the malevolent space witch determined to conquer Earth. Her dark magic first corrupted Tommy and turned him against the Rangers. She remains one of the team's most enduring and cunning adversaries.",
+      "eras": [
+        {
+          "slug": "witchs-war-era",
+          "title": "The Witch's War",
+          "start_year": 2016,
+          "end_year": 2018,
+          "order_index": 1,
+          "summary": "Rita wages a relentless campaign against the Rangers, deploying monsters and manipulation in equal measure.",
+          "arcs": [
+            {
+              "slug": "the-green-candle",
+              "title": "The Green Candle",
+              "logline": "A sorceress schemes to reclaim the power she once bestowed.",
+              "summary": "Rita sets her sights on the Green Ranger power she originally weaponized, plotting to drain it from its new bearer. Her cunning forces the Rangers onto the defensive.\n\nThe arc establishes Rita as a thinking villain whose schemes target the team's emotional and magical vulnerabilities alike.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 2016,
+              "end_year": 2017,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Mighty Morphin Power Rangers Vol. 2",
+                  "format": "trade",
+                  "issue_range": "#5-8",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "tommy-oliver",
+          "relationship": "enemy",
+          "summary": "The hero Rita first corrupted and now seeks to destroy.",
+          "notes": "Rita's manipulation is the origin of Tommy's lasting guilt."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "live_action",
+          "title": "Mighty Morphin Power Rangers",
+          "release_year": 1993,
+          "watch_order": 1,
+          "platform": "Fox Kids",
+          "notes": "The original incarnation of Rita Repulsa.",
+          "where_to_watch": "Netflix"
+        },
+        {
+          "media_type": "film",
+          "title": "Power Rangers",
+          "release_year": 2017,
+          "watch_order": 2,
+          "platform": "Theatrical",
+          "notes": "The 2017 reboot film featured a reimagined Rita Repulsa.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "lord-zedd",
+      "name": "Lord Zedd",
+      "entity_type": "character",
+      "role": "villain",
+      "publisher_slug": "boom",
+      "real_name": null,
+      "first_appearance": "Mighty Morphin Power Rangers #9 (BOOM! Studios, 2016)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Lord Zedd is the self-proclaimed Emperor of Evil, a more calculating and ruthless menace than Rita. His ambition reaches across galaxies and timelines. In the comics he poses some of the gravest threats the Rangers ever confront.",
+      "eras": [
+        {
+          "slug": "emperor-of-evil-era",
+          "title": "Emperor of Evil",
+          "start_year": 2016,
+          "end_year": 2018,
+          "order_index": 1,
+          "summary": "Zedd escalates the war against the Rangers with cold strategy and overwhelming force.",
+          "arcs": [
+            {
+              "slug": "the-emperors-gambit",
+              "title": "The Emperor's Gambit",
+              "logline": "A cold-blooded conqueror raises the stakes of the Rangers' war.",
+              "summary": "Lord Zedd arrives with a strategic mind that dwarfs the threats before him, treating conquest as inevitability rather than ambition. The Rangers find themselves outmatched in planning as much as power.\n\nThe arc positions Zedd as a long-term menace whose patience and intellect make him uniquely dangerous.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 2016,
+              "end_year": 2017,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Mighty Morphin Power Rangers Vol. 3",
+                  "format": "trade",
+                  "issue_range": "#9-12",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "tommy-oliver",
+          "relationship": "enemy",
+          "summary": "The Green Ranger who stands against Zedd's campaign of conquest.",
+          "notes": "Zedd represents a colder, more strategic threat than Rita."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "live_action",
+          "title": "Mighty Morphin Power Rangers (Season 2)",
+          "release_year": 1994,
+          "watch_order": 1,
+          "platform": "Fox Kids",
+          "notes": "Introduced Lord Zedd as a new escalated threat.",
+          "where_to_watch": "Netflix"
+        },
+        {
+          "media_type": "video_game",
+          "title": "Power Rangers: Battle for the Grid",
+          "release_year": 2019,
+          "watch_order": 2,
+          "platform": "Multi-platform",
+          "notes": "Lord Zedd appears as a playable villain.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "goldar",
+      "name": "Goldar",
+      "entity_type": "character",
+      "role": "villain",
+      "publisher_slug": "boom",
+      "real_name": null,
+      "first_appearance": "Mighty Morphin Power Rangers #1 (BOOM! Studios, 2016)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Goldar is a winged, golden-armored warrior and loyal enforcer to the Rangers' greatest foes. Brutal and relentless, he is a constant physical threat on the battlefield. His rivalry with the Rangers is among the franchise's most enduring.",
+      "eras": [
+        {
+          "slug": "enforcer-era",
+          "title": "The Enforcer",
+          "start_year": 2016,
+          "end_year": 2018,
+          "order_index": 1,
+          "summary": "Goldar serves as the muscle behind his masters' schemes, clashing with the Rangers again and again.",
+          "arcs": [
+            {
+              "slug": "warriors-fury",
+              "title": "Warrior's Fury",
+              "logline": "A relentless enforcer hunts the Rangers wherever they stand.",
+              "summary": "Goldar throws himself into battle against the Rangers with overwhelming ferocity, serving as the sword arm of greater villains. His persistence makes him a recurring physical menace.\n\nThe arc emphasizes Goldar's role as the loyal, dangerous enforcer who keeps the heroes on the back foot.",
+              "spoiler": null,
+              "arc_type": "tie-in",
+              "start_year": 2016,
+              "end_year": 2017,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Mighty Morphin Power Rangers Vol. 1",
+                  "format": "trade",
+                  "issue_range": "#1-4",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "tommy-oliver",
+          "relationship": "enemy",
+          "summary": "The Green Ranger Goldar repeatedly battles in the field.",
+          "notes": "Goldar is a recurring physical antagonist throughout Tommy's tenure."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "live_action",
+          "title": "Mighty Morphin Power Rangers",
+          "release_year": 1993,
+          "watch_order": 1,
+          "platform": "Fox Kids",
+          "notes": "Introduced Goldar as a primary enforcer villain.",
+          "where_to_watch": "Netflix"
+        },
+        {
+          "media_type": "video_game",
+          "title": "Power Rangers: Battle for the Grid",
+          "release_year": 2019,
+          "watch_order": 2,
+          "platform": "Multi-platform",
+          "notes": "Goldar appears among the game's villains.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "lord-drakkon",
+      "name": "Lord Drakkon",
+      "entity_type": "character",
+      "role": "villain",
+      "publisher_slug": "boom",
+      "real_name": "Tommy Oliver (alternate timeline)",
+      "first_appearance": "Mighty Morphin Power Rangers #9 (BOOM! Studios, 2016)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Lord Drakkon is a tyrannical alternate-timeline version of Tommy Oliver who never abandoned the Green Ranger mantle. Instead of redemption, he chose conquest, fusing Green and White Ranger powers into a brutal empire. He is the central villain of the Shattered Grid event and Tommy's dark mirror.",
+      "eras": [
+        {
+          "slug": "drakkon-rising-era",
+          "title": "Drakkon Rising",
+          "start_year": 2016,
+          "end_year": 2019,
+          "order_index": 1,
+          "summary": "Drakkon emerges from a conquered timeline to wage war across the multiverse, threatening every Ranger reality.",
+          "arcs": [
+            {
+              "slug": "the-dark-mirror",
+              "title": "The Dark Mirror",
+              "logline": "A conqueror wearing a hero's face seeks to rule every reality.",
+              "summary": "Lord Drakkon represents the path Tommy refused to take, a ruler who embraced power without conscience. His campaign across timelines forces the Rangers to confront a foe who knows their every move.\n\nThe arc builds Drakkon into one of the franchise's most compelling antagonists, a villain born from the hero's own potential for darkness.",
+              "spoiler": null,
+              "arc_type": "crossover",
+              "start_year": 2016,
+              "end_year": 2018,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Mighty Morphin Power Rangers: Shattered Grid",
+                  "format": "trade",
+                  "issue_range": "#25-30",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Modern Era",
+          "reason": "Meet Tommy's dark counterpart, the breakout villain of the modern comic line.",
+          "arc_slug": "the-dark-mirror"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "tommy-oliver",
+          "relationship": "enemy",
+          "summary": "The prime Tommy whom Drakkon represents as a dark, conquering alternate self.",
+          "notes": "Drakkon is the central villain of Shattered Grid and Tommy's literal dark mirror."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "video_game",
+          "title": "Power Rangers: Battle for the Grid",
+          "release_year": 2019,
+          "watch_order": 1,
+          "platform": "Multi-platform",
+          "notes": "Lord Drakkon debuted as a playable character drawn directly from the comics.",
+          "where_to_watch": null
+        },
+        {
+          "media_type": "video_game",
+          "title": "Power Rangers: Legacy Wars",
+          "release_year": 2017,
+          "watch_order": 2,
+          "platform": "Mobile",
+          "notes": "Lord Drakkon featured as a major antagonist in the mobile fighting game.",
+          "where_to_watch": null
+        }
+      ]
+    }
+  ]
+}

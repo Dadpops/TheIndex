@@ -1,0 +1,776 @@
+{
+  "primary": {
+    "slug": "superman",
+    "name": "Superman",
+    "entity_type": "character",
+    "publisher_slug": "dc",
+    "real_name": "Clark Kent / Kal-El",
+    "first_appearance": "Action Comics #1 (1938)",
+    "logo_url": null,
+    "cover_image_url": null,
+    "short_bio": "Rocketed to Earth as an infant from the dying planet Krypton, Kal-El was raised in rural Kansas as Clark Kent and grew into the world's first and greatest super-hero. Empowered by the light of Earth's yellow sun, he wields incredible strength, flight, and invulnerability in the service of truth and justice. Behind the cape he is a mild-mannered Metropolis reporter whose deepest power is an unshakable belief in the good of others.",
+    "eras": [
+      {
+        "slug": "golden-age",
+        "title": "Golden Age (1938-1955)",
+        "start_year": 1938,
+        "end_year": 1955,
+        "order_index": 1,
+        "summary": "The original crusading Superman of the Depression era, a champion of the oppressed who battled crooked landlords and war profiteers as much as costumed villains. These early stories defined the template for every super-hero that followed.",
+        "arcs": [
+          {
+            "slug": "the-coming-of-superman",
+            "title": "The Coming of Superman",
+            "logline": "A strange visitor from another planet becomes Earth's first super-hero in the very first comic-book adventures of Superman.",
+            "summary": "Jerry Siegel and Joe Shuster's debut tales introduce the Man of Steel as a two-fisted reformer who can leap eighth-of-a-mile, hurdle skyscrapers, and outrun a locomotive. In his first outings he saves an innocent woman from the electric chair, terrorizes a wife-beater, and exposes a corrupt senator, establishing a Superman driven by social conscience rather than spectacle.\n\nThese formative stories also build the supporting cast and dual identity that would endure for nearly a century. Clark Kent takes a job at the Daily Star (later the Daily Planet), competes with the fearless reporter Lois Lane, and conceals his strength behind a timid newsroom persona.\n\nThe scope of his abilities grows quickly across the early issues, from prodigious leaps to true flight, but the core ethic remains constant: Superman uses his gifts to protect ordinary people from those who would prey on them.",
+            "spoiler": null,
+            "arc_type": "origin",
+            "start_year": 1938,
+            "end_year": 1939,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "The Superman Chronicles, Vol. 1",
+                "format": "trade",
+                "issue_range": "Action Comics #1-13, Superman #1",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9781401211820",
+                "purchase_url": null
+              },
+              {
+                "title": "Superman: The Golden Age Omnibus, Vol. 1",
+                "format": "omnibus",
+                "issue_range": "Action Comics #1-31, Superman #1-3",
+                "reading_order": 2,
+                "publication_order": 2,
+                "reading_order_note": null,
+                "isbn": "9781401237691",
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "the-mysterious-mr-mxyzptlk",
+            "title": "Enter the Imp and the Mad Scientist",
+            "logline": "Superman faces his earliest recurring foes, from a brilliant criminal scientist to a reality-warping prankster from the Fifth Dimension.",
+            "summary": "As the feature matured, Siegel and Shuster gave Superman his first true rogues. A red-headed criminal genius (soon reimagined as the bald Lex Luthor) emerges as the Man of Steel's intellectual opposite, scheming for power from the shadows.\n\nThe era also introduces Mr. Mxyzptlk, a mischievous imp from the Fifth Dimension whose magical pranks can only be undone by tricking him into saying his own name backward. These tales push Superman beyond crime-busting into fantastical, imaginative territory.\n\nTogether these stories expand the Superman mythos from grounded social drama toward the larger-than-life adventure that would dominate the decades to come.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 1940,
+            "end_year": 1944,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "Superman: The Golden Age Omnibus, Vol. 2",
+                "format": "omnibus",
+                "issue_range": "Action Comics #32-52, Superman #4-9",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9781401258269",
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "silver-bronze-age",
+        "title": "Silver & Bronze Age (1956-1985)",
+        "start_year": 1956,
+        "end_year": 1985,
+        "order_index": 2,
+        "summary": "An age of cosmic wonder that built out the full Superman mythology: Krypton, the bottle city of Kandor, the Phantom Zone, and a sprawling Superman Family. Writers piled on imaginative concepts before the era closed with a loving send-off to the classic continuity.",
+        "arcs": [
+          {
+            "slug": "the-bottle-city-of-kandor",
+            "title": "The Bottle City of Kandor & the Last Days of Krypton",
+            "logline": "Superman discovers a shrunken Kryptonian city stolen by Brainiac, and with it a living link to the homeworld he never knew.",
+            "summary": "Otto Binder, Curt Swan, and their collaborators deepened Superman's connection to his lost heritage. The android villain Brainiac is revealed to have miniaturized and bottled the Kryptonian capital of Kandor before the planet's destruction, leaving Superman to safeguard the last surviving city of his people in his Fortress of Solitude.\n\nThe period fleshes out Krypton itself, from the doomed scientist Jor-El to the crystalline science of a vanished civilization. Superman's vow to one day restore Kandor to full size becomes a recurring emotional throughline.\n\nThese stories transform Superman from a costumed strongman into the heir of an entire alien culture, grounding his power in tragedy and responsibility.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 1958,
+            "end_year": 1963,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "Superman: The Silver Age Omnibus, Vol. 1",
+                "format": "omnibus",
+                "issue_range": "Action Comics #241-275, Superman #122-141",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9781401290016",
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "kryptonite-nevermore",
+            "title": "Kryptonite Nevermore",
+            "logline": "When all the kryptonite on Earth is rendered inert, a strange sand-doppelganger threatens to drain Superman's very existence.",
+            "summary": "Denny O'Neil and Curt Swan opened the Bronze Age with a bold attempt to modernize Superman by removing his over-reliance on kryptonite as a plot crutch. A laboratory accident transmutes all kryptonite into ordinary iron, but the same event spawns a sand creature that mirrors Superman and slowly siphons away his power.\n\nThe story experiments with a more grounded, vulnerable Man of Steel and even sees Clark Kent shift careers from print journalism to television news at WGBS. It reflects an industry-wide push to make its icons feel relevant to a changing readership.\n\nThough later writers reintroduced kryptonite, this arc remains a landmark example of creators wrestling with how to keep a near-omnipotent hero dramatically compelling.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 1971,
+            "end_year": 1971,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "Superman: Kryptonite Nevermore",
+                "format": "trade",
+                "issue_range": "Superman #233-238, #240-242",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9781401277468",
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "whatever-happened-to-the-man-of-tomorrow",
+            "title": "Whatever Happened to the Man of Tomorrow?",
+            "logline": "Alan Moore writes the final, definitive farewell to the Silver Age Superman as his greatest enemies make one last devastating push.",
+            "summary": "As DC prepared to reboot its universe, Alan Moore and Curt Swan crafted an imaginary 'last' Superman story framed as a tale told years after the hero's disappearance. The Man of Steel's rogues' gallery, manipulated by a mind behind the scenes, launches a final all-out assault on everyone he loves, forcing him to retreat to the Fortress of Solitude.\n\nMoore treats the classic continuity with deep affection, weaving together Krypto, the bottle city, Mr. Mxyzptlk, and the entire Superman Family into a poignant, bittersweet climax. It is widely regarded as one of the finest Superman stories ever written.\n\nThe arc closes the door on three decades of imaginative Silver and Bronze Age lore, clearing the stage for John Byrne's modern reinvention.",
+            "spoiler": "The story is framed as Superman's final adventure, culminating in his apparent retirement from the Superman identity.",
+            "arc_type": "flagship",
+            "start_year": 1986,
+            "end_year": 1986,
+            "order_index": 3,
+            "reading_entries": [
+              {
+                "title": "Superman: Whatever Happened to the Man of Tomorrow?",
+                "format": "trade",
+                "issue_range": "Superman #423, Action Comics #583",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9781401223656",
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "modern-age",
+        "title": "Modern Age (1986-2010)",
+        "start_year": 1986,
+        "end_year": 2010,
+        "order_index": 3,
+        "summary": "John Byrne's post-Crisis reboot streamlined Superman into a more human, contemporary figure, setting the stage for the era's defining epics. The period delivered the most famous Superman stories of the modern age, from his death to his marriage.",
+        "arcs": [
+          {
+            "slug": "the-man-of-steel",
+            "title": "The Man of Steel",
+            "logline": "John Byrne rebuilds Superman from the ground up for a new generation, retelling his origin and reintroducing his world.",
+            "summary": "Following Crisis on Infinite Earths, John Byrne was given the keys to streamline and modernize Superman in a six-issue miniseries. He restores Krypton as a cold, sterile civilization, emphasizes the Kents' lifelong influence on Clark, and reframes Superman as a self-made hero who discovered his powers gradually rather than as a super-baby.\n\nThe series also reinvents Lex Luthor as a corrupt corporate billionaire rather than a mad scientist, and recasts Lois Lane as a fierce investigative rival. It strips away decades of accumulated continuity to present a leaner, more relatable Man of Steel.\n\nThis reboot governed Superman's characterization for two decades and remains the foundation of most modern interpretations.",
+            "spoiler": null,
+            "arc_type": "origin",
+            "start_year": 1986,
+            "end_year": 1986,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "Superman: The Man of Steel, Vol. 1",
+                "format": "trade",
+                "issue_range": "The Man of Steel #1-6",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9781401295943",
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "the-death-of-superman",
+            "title": "The Death of Superman",
+            "logline": "An unstoppable engine of destruction called Doomsday cuts a path of carnage toward Metropolis, and only Superman stands in its way.",
+            "summary": "In the era's defining blockbuster, a monstrous creature claws its way out of an underground prison and rampages across America with mindless, escalating fury. The Justice League is brushed aside, and Superman alone is left to halt the beast before it reaches Metropolis.\n\nThe ensuing brawl is a brutal, city-leveling slugfest that pushes both combatants past their limits. The story became a global media phenomenon and one of the best-selling comics of all time.\n\nIts aftermath fractured Superman's world and set up the sprawling 'World Without a Superman' and 'Reign of the Supermen' sagas that followed.",
+            "spoiler": "Superman and Doomsday strike simultaneous killing blows; Superman dies in Lois Lane's arms before later returning.",
+            "arc_type": "crossover",
+            "start_year": 1992,
+            "end_year": 1993,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "The Death of Superman",
+                "format": "trade",
+                "issue_range": "Superman #73-75, Justice League America #69, and tie-ins",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9781401266653",
+                "purchase_url": null
+              },
+              {
+                "title": "Superman: The Death and Return of Superman Omnibus",
+                "format": "omnibus",
+                "issue_range": "The full Death, World Without a Superman, and Reign of the Supermen saga",
+                "reading_order": 2,
+                "publication_order": 2,
+                "reading_order_note": null,
+                "isbn": "9781401295851",
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "all-star-superman",
+            "title": "All-Star Superman",
+            "logline": "Dying from solar radiation poisoning, Superman sets out to complete twelve final labors and leave the world ready to live without him.",
+            "summary": "Grant Morrison and Frank Quitely's twelve-issue masterpiece distills the entire Superman mythos into a single luminous story. After Lex Luthor's scheme overloads Superman's cells with sunlight, the hero learns his powers are increasing even as his body burns out, granting him a finite window to set his affairs in order.\n\nFreed from continuity, Morrison celebrates every facet of the legend: Lois Lane, Jimmy Olsen, Krypto, the Bizarro world, the bottle city, and a final reckoning with Luthor. Each chapter is a self-contained myth that reaffirms Superman's boundless kindness.\n\nWidely hailed as one of the greatest Superman stories ever told, it presents the character as humanity's gentle, hopeful ideal made flesh.",
+            "spoiler": null,
+            "arc_type": "miniseries",
+            "start_year": 2005,
+            "end_year": 2008,
+            "order_index": 3,
+            "reading_entries": [
+              {
+                "title": "All-Star Superman",
+                "format": "trade",
+                "issue_range": "All-Star Superman #1-12",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9781401232054",
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "rebirth-era",
+        "title": "Rebirth & Beyond (2011-Present)",
+        "start_year": 2011,
+        "end_year": null,
+        "order_index": 4,
+        "summary": "After the New 52 reboot and the Rebirth initiative, Superman was restored as a married father, redefining the icon through family and legacy. Modern runs explore what it means for the Man of Tomorrow to raise the next generation.",
+        "arcs": [
+          {
+            "slug": "superman-rebirth-son-of-superman",
+            "title": "Son of Superman",
+            "logline": "The classic married Superman returns to a world that has lost its own, raising his young son Jonathan while shouldering the cape once more.",
+            "summary": "Peter J. Tomasi and Patrick Gleason relaunched the title with the pre-Flashpoint Superman, now a husband to Lois and father to a powered young son, Jonathan Kent. Settling on a farm and re-entering a world without its native Superman, Clark must balance heroism with the very human work of fatherhood.\n\nThe run leans into warmth and family adventure as Jon's emerging abilities draw the attention of cosmic threats. It reframes Superman's heroism as something he passes on rather than performs alone.\n\nThis era reestablished the married Superman fans had missed and launched Jonathan Kent as the next Superboy.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 2016,
+            "end_year": 2018,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "Superman, Vol. 1: Son of Superman (Rebirth)",
+                "format": "trade",
+                "issue_range": "Superman #1-6 (2016)",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9781401267780",
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "up-in-the-sky",
+            "title": "Superman: Up in the Sky",
+            "logline": "Superman crosses the galaxy on a desperate, soul-testing quest to rescue a single abducted child.",
+            "summary": "Tom King and Andy Kubert deliver an introspective road-trip epic in which Superman is asked whether he would travel to the far end of the universe to save one lost girl, even if it means abandoning Earth for an uncertain time. He says yes without hesitation, and the journey becomes a meditation on what makes him a hero.\n\nEach chapter is a parable testing Superman's compassion, judgment, and limits against impossible odds. The story argues that his greatness lies not in his power but in his refusal to ever stop caring about the individual.\n\nOriginally serialized in the oversized Superman: Up in the Sky, it stands as a modern showcase for the character's moral core.",
+            "spoiler": null,
+            "arc_type": "miniseries",
+            "start_year": 2019,
+            "end_year": 2020,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "Superman: Up in the Sky",
+                "format": "hardcover",
+                "issue_range": "Superman: Up in the Sky #1-6",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": "9781779503923",
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "start_here": [
+      {
+        "order_index": 1,
+        "label": "Absolute Beginner",
+        "reason": "John Byrne's six-issue reboot is the cleanest modern jumping-on point, retelling Superman's origin and introducing his entire world from scratch with no prior reading required.",
+        "arc_slug": "the-man-of-steel"
+      },
+      {
+        "order_index": 2,
+        "label": "Classic Fan",
+        "reason": "The Death of Superman is the most famous Superman story ever published and captures the high-stakes, blockbuster spirit of his classic adventures against an unstoppable foe.",
+        "arc_slug": "the-death-of-superman"
+      },
+      {
+        "order_index": 3,
+        "label": "Modern Era",
+        "reason": "All-Star Superman is a self-contained, continuity-free masterpiece that distills everything great about the character into twelve perfect issues, ideal for any modern reader.",
+        "arc_slug": "all-star-superman"
+      }
+    ],
+    "relationships": [
+      {
+        "related_slug": "batman",
+        "relationship": "ally",
+        "summary": "Superman's closest and most complementary friend, the World's Finest pairing of brightest hope and darkest vigilance.",
+        "notes": "Their dynamic anchors stories like The World's Finest and Jeph Loeb's Superman/Batman run; Batman famously keeps a kryptonite contingency should Superman ever fall."
+      },
+      {
+        "related_slug": "wonder-woman",
+        "relationship": "ally",
+        "summary": "A fellow founding pillar of the heroic community whom Superman regards as a peer in both power and principle.",
+        "notes": "The two have stood together since the Justice League's founding and were briefly romantically paired during the New 52 era's Superman/Wonder Woman series."
+      },
+      {
+        "related_slug": "the-flash",
+        "relationship": "ally",
+        "summary": "A trusted Justice League teammate whose friendly speed rivalry with Superman is a long-running fan favorite.",
+        "notes": "Their good-natured charity races, dating back to the Silver Age, are a recurring tradition across comics and animation."
+      },
+      {
+        "related_slug": "green-lantern",
+        "relationship": "ally",
+        "summary": "A dependable Justice League ally who guards Earth's sector of the cosmos alongside Superman.",
+        "notes": "Hal Jordan and Superman have fought side by side since the League's earliest cases, balancing willpower-forged constructs against raw Kryptonian might."
+      },
+      {
+        "related_slug": "justice-league",
+        "relationship": "ally",
+        "summary": "The world's premier super-team, of which Superman is a founding member and moral cornerstone.",
+        "notes": "From the Justice League of America through the JLA and Rebirth eras, Superman is consistently portrayed as the team's heart and most trusted leader."
+      },
+      {
+        "related_slug": "lex-luthor",
+        "relationship": "enemy",
+        "summary": "Superman's greatest nemesis, a brilliant Metropolis billionaire who hates him out of wounded pride and jealous ambition.",
+        "notes": "Reinvented by John Byrne in The Man of Steel as a corrupt corporate magnate, Luthor's obsession drives stories from All-Star Superman to countless schemes against the Man of Steel."
+      },
+      {
+        "related_slug": "brainiac",
+        "relationship": "enemy",
+        "summary": "A coldly logical alien intelligence who collects and bottles entire cities, including the last surviving Kryptonian capital.",
+        "notes": "Brainiac's theft of Kandor before Krypton's destruction makes him a living link to Superman's lost heritage, central to Geoff Johns's modern Brainiac arc."
+      },
+      {
+        "related_slug": "general-zod",
+        "relationship": "enemy",
+        "summary": "A ruthless Kryptonian military commander who shares Superman's powers but none of his compassion.",
+        "notes": "Banished to the Phantom Zone before Krypton's fall, Zod escapes to challenge Superman as his equal in strength, a conflict explored in stories like New Krypton."
+      },
+      {
+        "related_slug": "doomsday",
+        "relationship": "enemy",
+        "summary": "A mindless engineered killing machine that evolves to overcome any threat, and the only foe ever to slay Superman in single combat.",
+        "notes": "Doomsday's debut rampage in The Death of Superman ended with both combatants striking simultaneous killing blows."
+      }
+    ],
+    "media": [
+      {
+        "media_type": "animated_series",
+        "title": "Superman: The Animated Series",
+        "release_year": 1996,
+        "watch_order": 1,
+        "platform": "Max",
+        "notes": "Bruce Timm and Paul Dini's acclaimed series that became a cornerstone of the DC Animated Universe.",
+        "where_to_watch": "Streaming on Max"
+      },
+      {
+        "media_type": "live_action",
+        "title": "Smallville",
+        "release_year": 2001,
+        "watch_order": 2,
+        "platform": "Hulu",
+        "notes": "A ten-season series chronicling Clark Kent's coming-of-age in Kansas before he became Superman.",
+        "where_to_watch": "Streaming on Hulu"
+      },
+      {
+        "media_type": "film",
+        "title": "Superman: The Movie",
+        "release_year": 1978,
+        "watch_order": null,
+        "platform": "Max",
+        "notes": "Richard Donner's landmark film starring Christopher Reeve that proved a comic-book hero could carry a blockbuster.",
+        "where_to_watch": "Streaming on Max"
+      },
+      {
+        "media_type": "video_game",
+        "title": "Injustice 2",
+        "release_year": 2017,
+        "watch_order": null,
+        "platform": "PlayStation, Xbox, PC",
+        "notes": "A fighting game where Superman is a central figure in a story about heroes divided over how far to go to protect the world.",
+        "where_to_watch": null
+      }
+    ]
+  },
+  "supporting": [
+    {
+      "slug": "lex-luthor",
+      "name": "Lex Luthor",
+      "entity_type": "character",
+      "publisher_slug": "dc",
+      "real_name": "Alexander Joseph Luthor",
+      "first_appearance": "Action Comics #23 (1940)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Lex Luthor is the smartest man in the world and Superman's eternal nemesis, a self-made Metropolis billionaire whose genius is matched only by his ego. Convinced that an all-powerful alien robs humanity of its destiny, he wages a relentless campaign to destroy the Man of Steel. He is equal parts mad scientist, ruthless CEO, and would-be savior of mankind.",
+      "eras": [
+        {
+          "slug": "modern-luthor",
+          "title": "The Corporate Mastermind",
+          "start_year": 1986,
+          "end_year": null,
+          "order_index": 1,
+          "summary": "John Byrne's reinvention recast Luthor as a corrupt corporate titan, the public face of Metropolis who hides his villainy behind philanthropy and power.",
+          "arcs": [
+            {
+              "slug": "luthor-the-unauthorized-biography",
+              "title": "The Unauthorized Biography",
+              "logline": "An investigative reporter uncovers the ruthless truth behind Metropolis's most powerful and beloved businessman.",
+              "summary": "This landmark issue lays bare the modern Luthor: a man who built an empire through intimidation, fraud, and murder while cultivating a saintly public image. When a journalist assembles the evidence, the story reveals just how dangerous a villain without superpowers can be.\n\nIt cements Luthor's post-Crisis identity as a corporate predator rather than a costumed scientist, making him a chillingly grounded threat. The tale frames his hatred of Superman as the resentment of a man who cannot abide anyone above his control.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 1987,
+              "end_year": 1987,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Superman: The Man of Steel, Vol. 2",
+                  "format": "trade",
+                  "issue_range": "Superman #9 and related issues",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Defining Story",
+          "reason": "This issue establishes the definitive modern Luthor as a corporate monster and is the clearest window into what makes him Superman's perfect opposite.",
+          "arc_slug": "luthor-the-unauthorized-biography"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "superman",
+          "relationship": "enemy",
+          "summary": "Luthor's defining obsession is the destruction of Superman, whom he views as an alien obstacle to humanity's potential.",
+          "notes": "Their rivalry spans from Action Comics #23 through modern epics like All-Star Superman, framed as intellect against ideal."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "live_action",
+          "title": "Smallville",
+          "release_year": 2001,
+          "watch_order": null,
+          "platform": "Hulu",
+          "notes": "Michael Rosenbaum's young Lex Luthor traces a tragic arc from Clark Kent's friend to his greatest enemy.",
+          "where_to_watch": "Streaming on Hulu"
+        },
+        {
+          "media_type": "film",
+          "title": "Superman: The Movie",
+          "release_year": 1978,
+          "watch_order": null,
+          "platform": "Max",
+          "notes": "Gene Hackman's charismatic Luthor schemes to sink California's coastline for real estate profit.",
+          "where_to_watch": "Streaming on Max"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "Superman: The Animated Series",
+          "release_year": 1996,
+          "watch_order": null,
+          "platform": "Max",
+          "notes": "Clancy Brown voices a calculating, corporate Luthor across the DC Animated Universe.",
+          "where_to_watch": "Streaming on Max"
+        }
+      ]
+    },
+    {
+      "slug": "brainiac",
+      "name": "Brainiac",
+      "entity_type": "character",
+      "publisher_slug": "dc",
+      "real_name": "Vril Dox",
+      "first_appearance": "Action Comics #242 (1958)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Brainiac is a superintelligent android from the planet Colu, obsessed with accumulating all the knowledge in the universe. He shrinks and bottles entire cities so he alone may possess their cultures, then destroys the worlds left behind. His theft of the Kryptonian city of Kandor makes him a haunting living relic of Superman's lost homeworld.",
+      "eras": [
+        {
+          "slug": "brainiac-classic",
+          "title": "The Collector of Worlds",
+          "start_year": 1958,
+          "end_year": null,
+          "order_index": 1,
+          "summary": "From his Silver Age debut to Geoff Johns's modern redefinition, Brainiac evolved from a green-skinned alien into a cosmic horror that strips planets of their cities and knowledge.",
+          "arcs": [
+            {
+              "slug": "brainiac-geoff-johns",
+              "title": "Brainiac",
+              "logline": "Superman confronts the real Brainiac for the first time and learns the terrible truth about the bottle city of Kandor.",
+              "summary": "Geoff Johns and Gary Frank reintroduce Brainiac as a genuinely terrifying force, revealing that every prior 'Brainiac' was merely a probe. The true Collector arrives in a colossal skull-ship to add Metropolis to his collection of stolen cities.\n\nThe story ties Brainiac directly to Krypton's fate and sets up the restoration of Kandor, giving Superman a personal stake in stopping him. It also carries lasting consequences for the Kent family that ripple through subsequent storylines.",
+              "spoiler": "The arc ends with a death in the Kent family that drives Superman into the New Krypton saga.",
+              "arc_type": "flagship",
+              "start_year": 2008,
+              "end_year": 2008,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Superman: Brainiac",
+                  "format": "trade",
+                  "issue_range": "Action Comics #866-870",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": "9781401222864",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Defining Story",
+          "reason": "Geoff Johns's Brainiac is the definitive modern take, reframing the villain as a planet-killing collector and tying him to the heart of Superman's Kryptonian heritage.",
+          "arc_slug": "brainiac-geoff-johns"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "superman",
+          "relationship": "enemy",
+          "summary": "Brainiac is the cosmic collector who bottled Kandor before Krypton died, making him a perpetual threat tied to Superman's origins.",
+          "notes": "Their conflict stretches from Action Comics #242 to Geoff Johns's Brainiac, where the villain finally comes for Metropolis itself."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "animated_series",
+          "title": "Superman: The Animated Series",
+          "release_year": 1996,
+          "watch_order": null,
+          "platform": "Max",
+          "notes": "Reimagined as a Kryptonian supercomputer complicit in the planet's destruction, voiced by Corey Burton.",
+          "where_to_watch": "Streaming on Max"
+        },
+        {
+          "media_type": "video_game",
+          "title": "Injustice 2",
+          "release_year": 2017,
+          "watch_order": null,
+          "platform": "PlayStation, Xbox, PC",
+          "notes": "Brainiac serves as the main antagonist, threatening to collect Earth in his quest for knowledge.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "general-zod",
+      "name": "General Zod",
+      "entity_type": "character",
+      "publisher_slug": "dc",
+      "real_name": "Dru-Zod",
+      "first_appearance": "Adventure Comics #283 (1961)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "General Dru-Zod was Krypton's supreme military commander, condemned to the Phantom Zone for attempting to seize control of the planet. A Kryptonian who gains Superman's full power under a yellow sun, he is the Man of Steel's physical equal and ideological opposite. Where Superman protects, Zod conquers, demanding that all kneel before him.",
+      "eras": [
+        {
+          "slug": "zod-modern",
+          "title": "The Last Kryptonian Tyrant",
+          "start_year": 1961,
+          "end_year": null,
+          "order_index": 1,
+          "summary": "Zod endured from a Silver Age Phantom Zone villain into a central modern antagonist, embodying the militaristic survivor of a dead world who believes Superman betrayed their people.",
+          "arcs": [
+            {
+              "slug": "new-krypton",
+              "title": "New Krypton",
+              "logline": "When 100,000 Kryptonians are freed from the bottle city of Kandor, General Zod rises to lead them, and Superman must choose between two worlds.",
+              "summary": "The restoration of Kandor unleashes a vast Kryptonian population onto Earth, who build a new homeworld and place the militant Zod in command of their military. Superman is torn between his adopted planet and the surviving culture of his birth.\n\nThe sprawling saga pits Zod's vision of Kryptonian supremacy against Superman's hard-won humanity, escalating toward open war. It is the defining modern showcase for Zod as a leader rather than a mere brute.",
+              "spoiler": null,
+              "arc_type": "crossover",
+              "start_year": 2008,
+              "end_year": 2010,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "Superman: New Krypton, Vol. 1",
+                  "format": "trade",
+                  "issue_range": "Superman: New Krypton Special #1, Action Comics #871-873, and tie-ins",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": "9781401221683",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Defining Story",
+          "reason": "New Krypton elevates Zod from a Phantom Zone escapee into the commanding leader of a Kryptonian nation, the fullest modern expression of his threat to Superman.",
+          "arc_slug": "new-krypton"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "superman",
+          "relationship": "enemy",
+          "summary": "Zod is Superman's Kryptonian equal in power, a militaristic tyrant who believes he, not Kal-El, should command their people's destiny.",
+          "notes": "From Phantom Zone schemes to the New Krypton war, Zod forces Superman to fight a foe who matches him blow for blow."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "film",
+          "title": "Superman II",
+          "release_year": 1980,
+          "watch_order": null,
+          "platform": "Max",
+          "notes": "Terence Stamp's Zod and his Phantom Zone criminals demand that Superman, and the world, kneel before them.",
+          "where_to_watch": "Streaming on Max"
+        },
+        {
+          "media_type": "film",
+          "title": "Man of Steel",
+          "release_year": 2013,
+          "watch_order": null,
+          "platform": "Max",
+          "notes": "Michael Shannon plays Zod as a soldier bred to preserve Krypton at any cost, the central antagonist of Superman's origin film.",
+          "where_to_watch": "Streaming on Max"
+        },
+        {
+          "media_type": "animated_series",
+          "title": "Superman: The Animated Series",
+          "release_year": 1998,
+          "watch_order": null,
+          "platform": "Max",
+          "notes": "Zod appears as a Phantom Zone exile bent on conquest in the DC Animated Universe.",
+          "where_to_watch": "Streaming on Max"
+        }
+      ]
+    },
+    {
+      "slug": "doomsday",
+      "name": "Doomsday",
+      "entity_type": "character",
+      "publisher_slug": "dc",
+      "real_name": null,
+      "first_appearance": "Superman: The Man of Steel #17 (1992)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Doomsday is a savage, near-mindless engine of destruction created through brutal evolutionary experiments on ancient Krypton. Each time it is killed it returns to life immune to whatever destroyed it, making it impossible to defeat the same way twice. It earned eternal infamy as the monster that beat Superman to death.",
+      "eras": [
+        {
+          "slug": "doomsday-origins",
+          "title": "The Ultimate Killing Machine",
+          "start_year": 1992,
+          "end_year": null,
+          "order_index": 1,
+          "summary": "Introduced as an unstoppable force for The Death of Superman, Doomsday later received a brutal origin explaining the engineered horror behind its endless rage.",
+          "arcs": [
+            {
+              "slug": "the-death-of-superman-doomsday",
+              "title": "Doomsday's Rampage",
+              "logline": "An unknown creature breaks free and carves a trail of devastation across America on a collision course with Superman.",
+              "summary": "Doomsday debuts with no dialogue and no motive beyond destruction, smashing through everything in its path. The Justice League cannot slow it, leaving Superman as the world's last line of defense in a brutal, escalating brawl.\n\nThe confrontation builds to a catastrophic finish in the heart of Metropolis, where monster and hero finally meet head-on. The story made Doomsday an instant legend as the foe that did the impossible.",
+              "spoiler": "Doomsday and Superman kill each other simultaneously in their climactic battle.",
+              "arc_type": "crossover",
+              "start_year": 1992,
+              "end_year": 1993,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "The Death of Superman",
+                  "format": "trade",
+                  "issue_range": "Superman: The Man of Steel #17-19, Superman #73-75",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": "9781401266653",
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Defining Story",
+          "reason": "The Death of Superman is the only story you need to understand Doomsday: the unstoppable monster's sole purpose is to be the threat Superman cannot survive.",
+          "arc_slug": "the-death-of-superman-doomsday"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "superman",
+          "relationship": "enemy",
+          "summary": "Doomsday is the unstoppable creature that fought Superman to a mutual death, the only foe ever to kill him in single combat.",
+          "notes": "Their cataclysmic battle in The Death of Superman defines both characters and remains one of comics' most famous duels."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "film",
+          "title": "Batman v Superman: Dawn of Justice",
+          "release_year": 2016,
+          "watch_order": null,
+          "platform": "Max",
+          "notes": "Doomsday is engineered by Lex Luthor as the film's monstrous final threat.",
+          "where_to_watch": "Streaming on Max"
+        },
+        {
+          "media_type": "film",
+          "title": "The Death of Superman",
+          "release_year": 2018,
+          "watch_order": null,
+          "platform": "Max",
+          "notes": "An animated adaptation faithfully recreating Doomsday's rampage and fatal duel with Superman.",
+          "where_to_watch": "Streaming on Max"
+        },
+        {
+          "media_type": "video_game",
+          "title": "Injustice: Gods Among Us",
+          "release_year": 2013,
+          "watch_order": null,
+          "platform": "PlayStation, Xbox, PC",
+          "notes": "Doomsday appears as a playable powerhouse brawler in the fighting game.",
+          "where_to_watch": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,655 @@
+{
+  "primary": {
+    "slug": "haus-of-slaughter",
+    "name": "House of Slaughter",
+    "entity_type": "team",
+    "role": "neutral",
+    "publisher_slug": "boom",
+    "real_name": null,
+    "first_appearance": "House of Slaughter #1 (BOOM! Studios, 2021)",
+    "logo_url": null,
+    "cover_image_url": null,
+    "short_bio": "The House of Slaughter is a clandestine, centuries-old order of monster hunters operating in the shadows of the world depicted in 'Something is Killing the Children.' Divided into masks and houses, its members are trained from childhood to track and destroy creatures most people cannot even see. Its rigid traditions and buried secrets are as dangerous as any monster.",
+    "eras": [
+      {
+        "slug": "founding-traditions",
+        "title": "The Old Ways",
+        "start_year": 2021,
+        "end_year": 2022,
+        "order_index": 1,
+        "summary": "The first chronicles of the House peel back its hierarchy of masks and the brutal childhood training that forges its hunters. These stories establish the institution behind Erica Slaughter and the cost of belonging to it.",
+        "arcs": [
+          {
+            "slug": "the-butchers-mark",
+            "title": "The Butcher's Mark",
+            "logline": "A young Aaron Slaughter and Erica come of age inside the House's merciless training program.",
+            "summary": "The opening arc of House of Slaughter divides its attention between past and present, following Aaron Slaughter as both a manipulative present-day operative and a vulnerable child being shaped by the order. Through flashbacks the reader learns how the House recruits, brands, and bonds its hunters to the white mask.\n\nThe story foregrounds the relationship between Aaron and Erica, two children raised under the same brutal roof who take very different paths. Loyalty, jealousy, and the desire for belonging drive their choices long before either becomes a fully fledged hunter.\n\nThe arc grounds the institution introduced in 'Something is Killing the Children,' showing that the monsters outside are matched by the politics within. It establishes the masks as a system of control as much as protection.",
+            "spoiler": null,
+            "arc_type": "origin",
+            "start_year": 2021,
+            "end_year": 2022,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "House of Slaughter Vol. 1: The Butcher's Mark",
+                "format": "trade",
+                "issue_range": "#1-5",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "the-veil-of-masks",
+            "title": "The Veil of Masks",
+            "logline": "The meaning of the colored masks and the chain of command that binds every hunter is laid bare.",
+            "summary": "This arc deepens the mythology of the order by examining the system of masks, white, red, and beyond, that defines a hunter's role and rank. Each color carries duties, privileges, and dangers, and the politics of advancement prove ruthless.\n\nThe narrative explores how loyalty to the House is tested and enforced, and how those who question the old ways are quietly disciplined. The institution's appetite for secrecy becomes a theme in its own right.\n\nBy widening the lens beyond a single hunter, the arc transforms the House from a backdrop into a living antagonist-and-protector, capable of nurturing and devouring its own.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 2021,
+            "end_year": 2022,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "House of Slaughter #1-6 (single issues)",
+                "format": "single_issues",
+                "issue_range": "#1-6",
+                "reading_order": 2,
+                "publication_order": 2,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "fractures-within",
+        "title": "Fractures Within",
+        "start_year": 2022,
+        "end_year": 2024,
+        "order_index": 2,
+        "summary": "As old loyalties strain, the House's internal conflicts spill into open struggle. These stories follow hunters caught between obedience to the order and their own consciences.",
+        "arcs": [
+          {
+            "slug": "the-boucher-line",
+            "title": "The Boucher Line",
+            "logline": "A devoted hunter is forced to choose between the House's commands and the people he is sworn to protect.",
+            "summary": "This arc shifts focus to the wider roster of the House, dramatizing how a single order from above can shatter a hunter's certainty. The protagonist's faith in the institution is tested by a mission whose true purpose is hidden from him.\n\nThe story examines duty as both a virtue and a trap, asking whether a hunter who obeys without question is truly protecting anyone. Personal bonds collide with institutional demands.\n\nIn doing so the arc sets up the broader cracks that run through the House, foreshadowing a reckoning between those who serve the masks and those who would reform or destroy them.",
+            "spoiler": null,
+            "arc_type": "flagship",
+            "start_year": 2022,
+            "end_year": 2023,
+            "order_index": 1,
+            "reading_entries": [
+              {
+                "title": "House of Slaughter Vol. 2",
+                "format": "trade",
+                "issue_range": "#6-10",
+                "reading_order": 1,
+                "publication_order": 1,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          },
+          {
+            "slug": "blood-and-tradition",
+            "title": "Blood and Tradition",
+            "logline": "Buried secrets of the founding families surface and threaten to unmake the order from within.",
+            "summary": "The later chapters of the House saga turn to the founding bloodlines and the compromises on which the order was built. As long-hidden truths emerge, hunters must decide whether tradition deserves their loyalty.\n\nThe narrative weaves together several members of the roster, contrasting those who cling to the old ways with those willing to break them. The House's monsters of the past prove harder to bury than any creature in the field.\n\nThe arc functions as a turning point, escalating the simmering tensions into direct conflict and reframing the House not as a monolith but as a fractured family at war with itself.",
+            "spoiler": null,
+            "arc_type": "miniseries",
+            "start_year": 2023,
+            "end_year": 2024,
+            "order_index": 2,
+            "reading_entries": [
+              {
+                "title": "House of Slaughter Vol. 3",
+                "format": "trade",
+                "issue_range": "#11-15",
+                "reading_order": 2,
+                "publication_order": 2,
+                "reading_order_note": null,
+                "isbn": null,
+                "purchase_url": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "start_here": [
+      {
+        "order_index": 1,
+        "label": "Absolute Beginner",
+        "reason": "The origin arc introduces the House, its masks, and the bond between Aaron and Erica with no prior reading required.",
+        "arc_slug": "the-butchers-mark"
+      },
+      {
+        "order_index": 2,
+        "label": "Classic Fan",
+        "reason": "Readers who know the order's surface should dig into how the mask hierarchy actually governs every hunter.",
+        "arc_slug": "the-veil-of-masks"
+      },
+      {
+        "order_index": 3,
+        "label": "Modern Era",
+        "reason": "The most recent saga exposes the founding bloodlines' secrets and the war brewing inside the House.",
+        "arc_slug": "blood-and-tradition"
+      }
+    ],
+    "relationships": [
+      {
+        "related_slug": "erica-slaughter",
+        "relationship": "ally",
+        "summary": "Erica is the House's most formidable hunter and its central figure.",
+        "notes": "Raised within the order, she remains bound to it even as her conscience pulls her away from its rules."
+      },
+      {
+        "related_slug": "aaron-slaughter",
+        "relationship": "ally",
+        "summary": "Aaron is a high-ranking operative whose loyalty to the House is complicated by ambition.",
+        "notes": "He grew up alongside Erica and rose through the masks, becoming a power broker within the order."
+      },
+      {
+        "related_slug": "jace-boucher",
+        "relationship": "ally",
+        "summary": "Jace is a devoted hunter who serves the House's missions in the field.",
+        "notes": "His faith in the order is tested when an assignment's true purpose is hidden from him."
+      },
+      {
+        "related_slug": "bautista-slaughter",
+        "relationship": "ally",
+        "summary": "Bautista is a seasoned member of the Slaughter line who upholds the order's traditions.",
+        "notes": "He represents the steadier, old-guard hunters who keep the House's machinery running."
+      },
+      {
+        "related_slug": "the-order-of-st-george",
+        "relationship": "enemy",
+        "summary": "A rival monster-hunting authority whose methods and aims clash with the House.",
+        "notes": "The two organizations vie over jurisdiction and philosophy in the hidden war against monsters."
+      },
+      {
+        "related_slug": "the-white-mask",
+        "relationship": "enemy",
+        "summary": "A corrupted faction wielding the order's highest authority against its own.",
+        "notes": "Those who hold ultimate rank can turn the House's power inward, threatening dissenting hunters."
+      },
+      {
+        "related_slug": "cutter",
+        "relationship": "enemy",
+        "summary": "A dangerous adversary who stalks the House's hunters in the field.",
+        "notes": "Cutter embodies the lethal threats that even trained members of the order struggle to survive."
+      },
+      {
+        "related_slug": "the-monster",
+        "relationship": "enemy",
+        "summary": "The unseen creatures the House was founded to destroy.",
+        "notes": "Invisible to most people, these monsters are the eternal reason the order exists."
+      }
+    ],
+    "media": [
+      {
+        "media_type": "live_action",
+        "title": "Something is Killing the Children (in development)",
+        "release_year": null,
+        "watch_order": null,
+        "platform": "Netflix",
+        "notes": "A live-action adaptation of the parent franchise has been reported in development.",
+        "where_to_watch": null
+      },
+      {
+        "media_type": "podcast",
+        "title": "BOOM! Studios Official Podcast",
+        "release_year": 2021,
+        "watch_order": null,
+        "platform": "Various",
+        "notes": "Creator interviews and coverage discussing the House of Slaughter series.",
+        "where_to_watch": null
+      },
+      {
+        "media_type": "audio_drama",
+        "title": "Something is Killing the Children (audio edition)",
+        "release_year": 2022,
+        "watch_order": null,
+        "platform": "Audio",
+        "notes": "Audio adaptations expanding the franchise's reach beyond the page.",
+        "where_to_watch": null
+      }
+    ],
+    "team_members": [
+      {
+        "character_slug": "erica-slaughter",
+        "era_slug": "founding-traditions",
+        "role": "leader",
+        "notes": "The order's premier hunter, branded young and bound to the white mask."
+      },
+      {
+        "character_slug": "aaron-slaughter",
+        "era_slug": "founding-traditions",
+        "role": "member",
+        "notes": "An ambitious operative who climbed the mask hierarchy alongside Erica."
+      },
+      {
+        "character_slug": "jace-boucher",
+        "era_slug": "fractures-within",
+        "role": "member",
+        "notes": "A field hunter whose loyalty is strained by a mission's hidden purpose."
+      },
+      {
+        "character_slug": "bautista-slaughter",
+        "era_slug": "founding-traditions",
+        "role": "member",
+        "notes": "A veteran of the Slaughter line and keeper of the old ways."
+      },
+      {
+        "character_slug": "edwin-slaughter",
+        "era_slug": "fractures-within",
+        "role": "member",
+        "notes": "A morally compromised member entangled in the founding families' secrets."
+      }
+    ]
+  },
+  "supporting": [
+    {
+      "slug": "aaron-slaughter",
+      "name": "Aaron Slaughter",
+      "entity_type": "character",
+      "role": "antihero",
+      "publisher_slug": "boom",
+      "real_name": "Aaron Slaughter",
+      "first_appearance": "House of Slaughter #1 (BOOM! Studios, 2021)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Aaron Slaughter is a high-ranking operative of the House who was raised within its training program alongside Erica. Ambitious and guarded, he wields his rank with calculated self-interest, making him as much a manipulator as a protector. His tangled history with Erica defines much of the order's drama.",
+      "eras": [
+        {
+          "slug": "aaron-rise",
+          "title": "Rise Through the Masks",
+          "start_year": 2021,
+          "end_year": 2024,
+          "order_index": 1,
+          "summary": "Aaron's path from a hungry, uncertain recruit to a powerful figure within the House, told across past and present.",
+          "arcs": [
+            {
+              "slug": "aaron-the-climb",
+              "title": "The Climb",
+              "logline": "A childhood of training hardens Aaron into a ruthless operator within the order.",
+              "summary": "Aaron's flashbacks reveal how the House's brutal upbringing shaped his ambition. His present-day scenes show a man willing to bend loyalty to advance his own position.\n\nThe arc contrasts the boy who craved belonging with the operative who learned to weaponize it, framing Aaron as the moral counterweight to Erica.",
+              "spoiler": null,
+              "arc_type": "origin",
+              "start_year": 2021,
+              "end_year": 2024,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "House of Slaughter Vol. 1: The Butcher's Mark",
+                  "format": "trade",
+                  "issue_range": "#1-5",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Absolute Beginner",
+          "reason": "Aaron's origin lays out his bond and rivalry with Erica from the start.",
+          "arc_slug": "aaron-the-climb"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "haus-of-slaughter",
+          "relationship": "ally",
+          "summary": "Aaron is a ranking member of the House of Slaughter.",
+          "notes": "He rose through the order's mask hierarchy to a position of influence."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "podcast",
+          "title": "BOOM! Studios Official Podcast",
+          "release_year": 2021,
+          "watch_order": null,
+          "platform": "Various",
+          "notes": "Character discussion in franchise coverage.",
+          "where_to_watch": null
+        },
+        {
+          "media_type": "audio_drama",
+          "title": "Something is Killing the Children (audio edition)",
+          "release_year": 2022,
+          "watch_order": null,
+          "platform": "Audio",
+          "notes": "Franchise audio adaptation.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "jace-boucher",
+      "name": "Jace Boucher",
+      "entity_type": "character",
+      "role": "hero",
+      "publisher_slug": "boom",
+      "real_name": "Jace Boucher",
+      "first_appearance": "House of Slaughter #1 (BOOM! Studios, 2021)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Jace Boucher is a dedicated hunter of the House whose sense of duty runs deep. Loyal and disciplined, he carries out the order's missions in the field even as their hidden purposes test his conscience. His struggle embodies the cost of unquestioning service.",
+      "eras": [
+        {
+          "slug": "jace-service",
+          "title": "Service and Doubt",
+          "start_year": 2022,
+          "end_year": 2024,
+          "order_index": 1,
+          "summary": "Jace's career as a field hunter and the mission that forces him to question the House.",
+          "arcs": [
+            {
+              "slug": "jace-the-assignment",
+              "title": "The Assignment",
+              "logline": "A loyal hunter discovers the true cost of obeying the House without question.",
+              "summary": "Jace is dispatched on a mission whose real purpose is concealed from him. As the truth surfaces, his faith in the order begins to fracture.\n\nThe arc dramatizes the tension between duty and conscience, positioning Jace as a sympathetic figure caught in the House's machinery.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 2022,
+              "end_year": 2024,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "House of Slaughter Vol. 2",
+                  "format": "trade",
+                  "issue_range": "#6-10",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "order_index": 1,
+          "label": "Absolute Beginner",
+          "reason": "Jace's central arc shows the human cost of the House's secrecy.",
+          "arc_slug": "jace-the-assignment"
+        }
+      ],
+      "relationships": [
+        {
+          "related_slug": "haus-of-slaughter",
+          "relationship": "ally",
+          "summary": "Jace is a field hunter serving the House of Slaughter.",
+          "notes": "He carries out the order's missions even as their motives trouble him."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "podcast",
+          "title": "BOOM! Studios Official Podcast",
+          "release_year": 2022,
+          "watch_order": null,
+          "platform": "Various",
+          "notes": "Franchise coverage.",
+          "where_to_watch": null
+        },
+        {
+          "media_type": "audio_drama",
+          "title": "Something is Killing the Children (audio edition)",
+          "release_year": 2022,
+          "watch_order": null,
+          "platform": "Audio",
+          "notes": "Franchise audio adaptation.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "bautista-slaughter",
+      "name": "Bautista Slaughter",
+      "entity_type": "character",
+      "role": "hero",
+      "publisher_slug": "boom",
+      "real_name": "Bautista Slaughter",
+      "first_appearance": "House of Slaughter #1 (BOOM! Studios, 2021)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Bautista Slaughter is a seasoned member of the Slaughter line and a steadying presence within the order. A veteran hunter, he upholds the House's traditions and mentors those who come after him. His steadfastness anchors the chaos that surrounds the masks.",
+      "eras": [
+        {
+          "slug": "bautista-veteran",
+          "title": "The Veteran",
+          "start_year": 2021,
+          "end_year": 2024,
+          "order_index": 1,
+          "summary": "Bautista's role as an old-guard hunter and keeper of the House's customs.",
+          "arcs": [
+            {
+              "slug": "bautista-the-keeper",
+              "title": "The Keeper",
+              "logline": "A veteran hunter guards the order's traditions as younger members begin to question them.",
+              "summary": "Bautista represents the House's institutional memory, embodying the discipline and traditions that define a hunter. His scenes ground the order's culture and its expectations.\n\nThe arc shows how the old guard responds when the younger generation starts to challenge the way things have always been done.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 2021,
+              "end_year": 2024,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "House of Slaughter Vol. 1: The Butcher's Mark",
+                  "format": "trade",
+                  "issue_range": "#1-5",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "haus-of-slaughter",
+          "relationship": "ally",
+          "summary": "Bautista is a veteran member of the House of Slaughter.",
+          "notes": "He upholds the order's traditions and mentors newer hunters."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "podcast",
+          "title": "BOOM! Studios Official Podcast",
+          "release_year": 2021,
+          "watch_order": null,
+          "platform": "Various",
+          "notes": "Franchise coverage.",
+          "where_to_watch": null
+        },
+        {
+          "media_type": "audio_drama",
+          "title": "Something is Killing the Children (audio edition)",
+          "release_year": 2022,
+          "watch_order": null,
+          "platform": "Audio",
+          "notes": "Franchise audio adaptation.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "edwin-slaughter",
+      "name": "Edwin Slaughter",
+      "entity_type": "character",
+      "role": "antihero",
+      "publisher_slug": "boom",
+      "real_name": "Edwin Slaughter",
+      "first_appearance": "House of Slaughter #1 (BOOM! Studios, 2021)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "Edwin Slaughter is a morally compromised member of the founding line, entangled in the House's deepest secrets. He moves between loyalty and self-preservation, his choices shaped by the buried history of the order. His ambiguity makes him a wild card within the masks.",
+      "eras": [
+        {
+          "slug": "edwin-secrets",
+          "title": "Buried Secrets",
+          "start_year": 2022,
+          "end_year": 2024,
+          "order_index": 1,
+          "summary": "Edwin's involvement in the founding families' hidden compromises and the reckoning they bring.",
+          "arcs": [
+            {
+              "slug": "edwin-the-inheritance",
+              "title": "The Inheritance",
+              "logline": "A member of the founding line confronts the secrets his family built the House upon.",
+              "summary": "Edwin's arc explores the compromises hidden in the order's origins and his own complicity in keeping them. His loyalty is constantly weighed against his instinct for survival.\n\nAs old truths surface, Edwin must decide whether to protect the House's lies or let them collapse, making him a pivotal and unpredictable figure.",
+              "spoiler": null,
+              "arc_type": "miniseries",
+              "start_year": 2022,
+              "end_year": 2024,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "House of Slaughter Vol. 3",
+                  "format": "trade",
+                  "issue_range": "#11-15",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "haus-of-slaughter",
+          "relationship": "ally",
+          "summary": "Edwin is a member of the House's founding Slaughter line.",
+          "notes": "He is bound to the order through blood and its buried secrets."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "podcast",
+          "title": "BOOM! Studios Official Podcast",
+          "release_year": 2022,
+          "watch_order": null,
+          "platform": "Various",
+          "notes": "Franchise coverage.",
+          "where_to_watch": null
+        },
+        {
+          "media_type": "audio_drama",
+          "title": "Something is Killing the Children (audio edition)",
+          "release_year": 2022,
+          "watch_order": null,
+          "platform": "Audio",
+          "notes": "Franchise audio adaptation.",
+          "where_to_watch": null
+        }
+      ]
+    },
+    {
+      "slug": "the-white-mask",
+      "name": "The White Mask",
+      "entity_type": "character",
+      "role": "villain",
+      "publisher_slug": "boom",
+      "real_name": null,
+      "first_appearance": "House of Slaughter #1 (BOOM! Studios, 2021)",
+      "logo_url": null,
+      "cover_image_url": null,
+      "short_bio": "The White Mask represents the highest tier of authority within the House, and the corruption that can fester at its summit. Those who wield this rank can turn the order's power against its own hunters. It is a symbol of both ultimate command and the danger of unchecked control.",
+      "eras": [
+        {
+          "slug": "white-mask-authority",
+          "title": "The Seat of Authority",
+          "start_year": 2021,
+          "end_year": 2024,
+          "order_index": 1,
+          "summary": "The role of the white mask atop the House's hierarchy and the abuses it enables.",
+          "arcs": [
+            {
+              "slug": "white-mask-the-command",
+              "title": "The Command",
+              "logline": "The order's highest authority turns its power inward against dissenting hunters.",
+              "summary": "The white mask sits at the apex of the House's chain of command, and this arc reveals how that power can be weaponized. Hunters who question the order find the institution itself arrayed against them.\n\nThe story frames the white mask as an antagonist born of the House's own design, showing that the deadliest threats may wear the order's highest rank.",
+              "spoiler": null,
+              "arc_type": "flagship",
+              "start_year": 2021,
+              "end_year": 2024,
+              "order_index": 1,
+              "reading_entries": [
+                {
+                  "title": "House of Slaughter Vol. 1: The Butcher's Mark",
+                  "format": "trade",
+                  "issue_range": "#1-5",
+                  "reading_order": 1,
+                  "publication_order": 1,
+                  "reading_order_note": null,
+                  "isbn": null,
+                  "purchase_url": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "start_here": [],
+      "relationships": [
+        {
+          "related_slug": "haus-of-slaughter",
+          "relationship": "enemy",
+          "summary": "The corrupted white mask wields the House's authority against its own.",
+          "notes": "It embodies the danger of unchecked power at the top of the order."
+        }
+      ],
+      "media": [
+        {
+          "media_type": "podcast",
+          "title": "BOOM! Studios Official Podcast",
+          "release_year": 2021,
+          "watch_order": null,
+          "platform": "Various",
+          "notes": "Franchise coverage.",
+          "where_to_watch": null
+        },
+        {
+          "media_type": "audio_drama",
+          "title": "Something is Killing the Children (audio edition)",
+          "release_year": 2022,
+          "watch_order": null,
+          "platform": "Audio",
+          "notes": "Franchise audio adaptation.",
+          "where_to_watch": null
+        }
+      ]
+    }
+  ]
+}
