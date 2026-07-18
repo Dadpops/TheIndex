@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "the-index-dev",
+      "runtimeExecutable": "C:\\Users\\chris\\AppData\\Local\\nvm\\v20.20.2\\npm.cmd",
+      "runtimeArgs": ["run", "dev"],
+      "port": 3000
+    }
+  ]
+}

@@ -37,8 +37,30 @@ The map. Phased checklists, updated from each session's commits at wrap-up. This
 - [ ] Add `seed:push` to push `seed.sql` straight to Supabase
 - [ ] Create the admin user; verify the write-enabled admin
 
+---
+
+## The completion plan (decided 2026-07-18)
+
+**End goal:** personal reference tool covering every *recurring* character (>6 issue appearances) at DC, Marvel, Image, BOOM! — est. 2,000–5,000 entities. **Per-character definition of done:** 2–4 flagged "start here" arcs + full arc history grouped by era (arc-level, not issue-level — issue ranges nest under arcs).
+
+### Phase A — Density proof (schema/UI mostly exist already) ✅
+- [x] Verify schema gaps for the arc timeline — none needed; eras→arcs→reading entries + start_here already in `schema.ts` (start_here caps at 3 entries by design)
+- [x] Deepen Batman to full arc history — 8 eras, 87 arcs, agent-authored, ISBNs null unless verified
+- [x] Verify `TimelineTab` + `EraAccordion` UI at that density — holds up; collapsible eras stay navigable, no tuning needed
+- [x] Villain-org classification decided: **keep as teams** — empty rosters (Lizard League, The Disciples) are data gaps to fill via ingest, not type errors
+
+### Phase B — Comic Vine bulk pipeline 🔜
+- [ ] Register Comic Vine API key (user)
+- [ ] `seed:comicvine` scripts: characters filtered by `count_of_issue_appearances > 6` + publisher; story arcs with issue ranges
+- [ ] Map API results into the existing generated-JSON format (keep `seed:assemble` as source of truth)
+- [ ] Rate-limit-aware resumable batch sync (~200 req/hr)
+- [ ] Measure `content.json` size at scale; trigger Phase 4 (Supabase) if it strains
+
+### Phase C — Curation layer 🔜
+- [ ] Agent workflows: character summaries + entry-point picks/justifications for the long tail
+- [ ] Spot-check workflow for curated output
+
 ## Backlog / out of scope (for now)
-- [ ] Decide: reclassify villain orgs (cults/orders/leagues) from `team` → character
 - [ ] Manga support
 - [ ] User accounts / reading progress
 - [ ] Character comparison
